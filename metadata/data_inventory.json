@@ -1,0 +1,43 @@
+{
+  "sns_data": {
+    "description": "SNS Transparencia data",
+    "files": 10,
+    "size_mb": 2.29,
+    "extensions": {
+      ".json": 5,
+      ".html": 1,
+      ".csv": 4
+    }
+  },
+  "ine_data": {
+    "description": "INE Statistics data",
+    "files": 22,
+    "size_mb": 1.12,
+    "extensions": {
+      ".csv": 11,
+      ".json": 11
+    }
+  },
+  "eurostat_macro_data": {
+    "description": "Eurostat Macroeconomic data",
+    "files": 36,
+    "size_mb": 120.74,
+    "extensions": {
+      ".json": 15,
+      ".csv": 7,
+      ".parquet": 7,
+      ".xlsx": 7
+    }
+  },
+  "macro_indicators_consolidated": {
+    "description": "Consolidated macro indicators",
+    "files": 5,
+    "size_mb": 0.04,
+    "extensions": {
+      ".csv": 1,
+      ".json": 2,
+      ".parquet": 1,
+      ".xlsx": 1
+    }
+  }
+}
