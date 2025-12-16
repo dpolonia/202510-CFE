@@ -1,0 +1,33 @@
+{
+  "indicator_code": "0008259",
+  "indicator_name": "elderly_dependency_index",
+  "description": "Elderly dependency index",
+  "category": "Demographics",
+  "extraction_date": "2025-10-26T10:23:56.457754",
+  "total_records": 4472,
+  "periods": [
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "columns": [
+    "geocod",
+    "geodsg",
+    "valor",
+    "periodo",
+    "indicador_cod",
+    "indicador_dsg"
+  ],
+  "source": "INE API (op=1 - historical)",
+  "api_url": "https://www.ine.pt/ine/json_indicador/pindica.jsp?op=1&varcd=0008259&lang=PT"
+}

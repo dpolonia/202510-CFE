@@ -1,0 +1,271 @@
+{
+  "IndicadorCod": "0008275",
+  "IndicadorDsg": "Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos",
+  "MetaInfUrl": "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0008275&lingua=PT",
+  "DataExtracao": "2025-10-26T04:13:46.079Z",
+  "DataUltimoAtualizacao": "2024-06-18",
+  "UltimoPref": "2023",
+  "Dados": {
+    "2023": [
+      {
+        "geocod": "11B",
+        "geodsg": "Alto Tâmega",
+        "ind_string": "3,0",
+        "valor": "3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11C",
+        "geodsg": "Tâmega e Sousa",
+        "ind_string": "3,1",
+        "valor": "3.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E",
+        "geodsg": "Região de Coimbra",
+        "ind_string": "3,1",
+        "valor": "3.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "119",
+        "geodsg": "Ave",
+        "ind_string": "3,3",
+        "valor": "3.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16G",
+        "geodsg": "Viseu Dão Lafões",
+        "ind_string": "3,5",
+        "valor": "3.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "112",
+        "geodsg": "Cávado",
+        "ind_string": "3,9",
+        "valor": "3.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16I",
+        "geodsg": "Médio Tejo",
+        "ind_string": "4,1",
+        "valor": "4.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "3",
+        "geodsg": "Região Autónoma da Madeira",
+        "ind_string": "4,2",
+        "valor": "4.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "30",
+        "geodsg": "Região Autónoma da Madeira",
+        "ind_string": "4,2",
+        "valor": "4.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "300",
+        "geodsg": "Região Autónoma da Madeira",
+        "ind_string": "4,2",
+        "valor": "4.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11",
+        "geodsg": "Norte",
+        "ind_string": "4,5",
+        "valor": "4.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11A",
+        "geodsg": "Área Metropolitana do Porto",
+        "ind_string": "4,5",
+        "valor": "4.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16F",
+        "geodsg": "Região de Leiria",
+        "ind_string": "4,5",
+        "valor": "4.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16",
+        "geodsg": "Centro",
+        "ind_string": "4,9",
+        "valor": "4.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16B",
+        "geodsg": "Oeste",
+        "ind_string": "5,3",
+        "valor": "5.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "185",
+        "geodsg": "Lezíria do Tejo",
+        "ind_string": "5,3",
+        "valor": "5.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D",
+        "geodsg": "Douro",
+        "ind_string": "5,8",
+        "valor": "5.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "111",
+        "geodsg": "Alto Minho",
+        "ind_string": "5,9",
+        "valor": "5.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1",
+        "geodsg": "Continente",
+        "ind_string": "6,3",
+        "valor": "6.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "PT",
+        "geodsg": "Portugal",
+        "ind_string": "6,4",
+        "valor": "6.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16D",
+        "geodsg": "Região de Aveiro",
+        "ind_string": "6,6",
+        "valor": "6.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16J",
+        "geodsg": "Beiras e Serra da Estrela",
+        "ind_string": "7,0",
+        "valor": "7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16H",
+        "geodsg": "Beira Baixa",
+        "ind_string": "7,4",
+        "valor": "7.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "17",
+        "geodsg": "Área Metropolitana de Lisboa",
+        "ind_string": "7,9",
+        "valor": "7.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "170",
+        "geodsg": "Área Metropolitana de Lisboa",
+        "ind_string": "7,9",
+        "valor": "7.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "15",
+        "geodsg": "Algarve",
+        "ind_string": "8,8",
+        "valor": "8.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "150",
+        "geodsg": "Algarve",
+        "ind_string": "8,8",
+        "valor": "8.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "181",
+        "geodsg": "Alentejo Litoral",
+        "ind_string": "9,9",
+        "valor": "9.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "186",
+        "geodsg": "Alto Alentejo",
+        "ind_string": "10,6",
+        "valor": "10.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "2",
+        "geodsg": "Região Autónoma dos Açores",
+        "ind_string": "10,9",
+        "valor": "10.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "20",
+        "geodsg": "Região Autónoma dos Açores",
+        "ind_string": "10,9",
+        "valor": "10.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "200",
+        "geodsg": "Região Autónoma dos Açores",
+        "ind_string": "10,9",
+        "valor": "10.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "18",
+        "geodsg": "Alentejo",
+        "ind_string": "11,3",
+        "valor": "11.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "187",
+        "geodsg": "Alentejo Central",
+        "ind_string": "13,7",
+        "valor": "13.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11E",
+        "geodsg": "Terras de Trás-os-Montes",
+        "ind_string": "15,1",
+        "valor": "15.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "184",
+        "geodsg": "Baixo Alentejo",
+        "ind_string": "23,3",
+        "valor": "23.3",
+        "periodo": "2023"
+      }
+    ]
+  },
+  "Sucesso": {
+    "Verdadeiro": [
+      {
+        "Msg": "OK"
+      }
+    ]
+  }
+}

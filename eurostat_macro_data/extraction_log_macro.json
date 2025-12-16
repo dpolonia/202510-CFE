@@ -1,0 +1,19 @@
+{
+  "extraction_date": "2025-10-26T15:14:04.631340",
+  "total_datasets": 4,
+  "successful": 4,
+  "failed": 0,
+  "results": {
+    "success": [
+      "nama_10_gdp",
+      "nama_10_pc",
+      "earn_nt_net",
+      "gov_10a_main"
+    ],
+    "failed": []
+  },
+  "priorities_filter": [
+    2,
+    3
+  ]
+}

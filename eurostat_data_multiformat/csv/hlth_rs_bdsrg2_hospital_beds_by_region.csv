@@ -1,0 +1,801 @@
+﻿freq;freq_label;unit;unit_label;geo;geo_label;time;time_label;value
+A;Annual;NR;Number;PT;Portugal;1993;1993;7002.0
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;1993;1993;7094.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;1993;1993;7534.0
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;1993;1993;22287.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;1993;1993;21701.0
+A;Annual;NR;Number;PT15;Algarve;1993;1993;22207.0
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;1993;1993;21990.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;1993;1993;21667.0
+A;Annual;NR;Number;PT19;Centro (PT);1993;1993;19081.0
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);1993;1993;16541.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);1993;1993;17425.0
+A;Annual;NR;Number;PT1A;Grande Lisboa;1993;1993;16372.0
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;1993;1993;14729.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;1993;1993;14391.0
+A;Annual;NR;Number;PT1B;Península de Setúbal;1993;1993;14096.0
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;1993;1993;14057.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;1993;1993;13640.0
+A;Annual;NR;Number;PT1C;Alentejo;1993;1993;14002.0
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;1993;1993;14548.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;1993;1993;14630.0
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;1993;1993;14107.0
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;1993;1993;13537.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;1993;1993;13789.0
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;1993;1993;13928.0
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;1993;1993;14626.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;1993;1993;14781.0
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;1993;1993;14634.0
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;1993;1993;14805.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;1993;1993;15036.0
+A;Annual;NR;Number;PT;Portugal;1994;1994;1382.0
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;1994;1994;1396.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;1994;1994;1400.0
+A;Annual;NR;Number;PT11;Norte;1994;1994;1306.0
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;1994;1994;1198.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;1994;1994;1095.0
+A;Annual;NR;Number;PT15;Algarve;1994;1994;1317.0
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;1994;1994;1458.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;1994;1994;1428.0
+A;Annual;NR;Number;PT19;Centro (PT);1994;1994;1258.0
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);1994;1994;1493.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);1994;1994;1484.0
+A;Annual;NR;Number;PT1A;Grande Lisboa;1994;1994;1043.0
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;1994;1994;1008.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;1994;1994;1007.0
+A;Annual;NR;Number;PT1B;Península de Setúbal;1994;1994;1075.0
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;1994;1994;1018.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;1994;1994;1015.0
+A;Annual;NR;Number;PT1C;Alentejo;1994;1994;1057.0
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;1994;1994;1106.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;1994;1994;791.0
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;1994;1994;831.0
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;1994;1994;886.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;1994;1994;890.0
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;1994;1994;881.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;1994;1994;2700.0
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;1994;1994;2800.0
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;1994;1994;2950.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;1994;1994;2947.0
+A;Annual;NR;Number;PT;Portugal;1995;1995;3342.0
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;1995;1995;3356.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;1995;1995;3289.0
+A;Annual;NR;Number;PT11;Norte;1995;1995;3286.0
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;1995;1995;3289.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;1995;1995;3352.0
+A;Annual;NR;Number;PT15;Algarve;1995;1995;3506.0
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;1995;1995;3531.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;1995;1995;3472.0
+A;Annual;NR;Number;PT19;Centro (PT);1995;1995;3530.0
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);1995;1995;3448.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);1995;1995;3418.0
+A;Annual;NR;Number;PT1A;Grande Lisboa;1995;1995;3287.0
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;1995;1995;3362.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;1995;1995;3301.0
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;1995;1995;21599.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;1995;1995;22265.0
+A;Annual;NR;Number;PT1C;Alentejo;1995;1995;21872.0
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;1995;1995;21786.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;1995;1995;21607.0
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;1995;1995;21618.0
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;1995;1995;21498.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;1995;1995;21492.0
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;1995;1995;21164.0
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;1995;1995;20752.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;1995;1995;20380.0
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;1995;1995;20310.0
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;1995;1995;19999.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;1995;1995;19953.0
+A;Annual;NR;Number;PT;Portugal;1996;1996;18782.0
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;1996;1996;18663.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;1996;1996;18406.0
+A;Annual;NR;Number;PT11;Norte;1996;1996;18181.0
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;1996;1996;18114.0
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);1996;1996;13367.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);1996;1996;13033.0
+A;Annual;NR;Number;PT1A;Grande Lisboa;1996;1996;12952.0
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;1996;1996;12919.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;1996;1996;12555.0
+A;Annual;NR;Number;PT1B;Península de Setúbal;1996;1996;12536.0
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;1996;1996;12513.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;1996;1996;12082.0
+A;Annual;NR;Number;PT1C;Alentejo;1996;1996;12056.0
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;1996;1996;12003.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;1996;1996;11856.0
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;1996;1996;11789.0
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;1996;1996;11701.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;1996;1996;10399.0
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;1996;1996;10220.0
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;1996;1996;10047.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;1996;1996;10124.0
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;1996;1996;10073.0
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;1996;1996;10064.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;1996;1996;10059.0
+A;Annual;NR;Number;PT;Portugal;1997;1997;24730.0
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;1997;1997;23192.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;1997;1997;20025.0
+A;Annual;NR;Number;PT11;Norte;1997;1997;19153.0
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;1997;1997;19072.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;1997;1997;19488.0
+A;Annual;NR;Number;PT15;Algarve;1997;1997;18686.0
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;1997;1997;17518.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;1997;1997;17174.0
+A;Annual;NR;Number;PT19;Centro (PT);1997;1997;16525.0
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);1997;1997;16310.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);1997;1997;15602.0
+A;Annual;NR;Number;PT1A;Grande Lisboa;1997;1997;14740.0
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;1997;1997;15135.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;1997;1997;14623.0
+A;Annual;NR;Number;PT1B;Península de Setúbal;1997;1997;14356.0
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;1997;1997;14216.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;1997;1997;13951.0
+A;Annual;NR;Number;PT1C;Alentejo;1997;1997;13820.0
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;1997;1997;13623.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;1997;1997;13712.0
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;1997;1997;13758.0
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;1997;1997;13793.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;1997;1997;14002.0
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;1997;1997;14090.0
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;1997;1997;13465.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;1997;1997;13509.0
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;1997;1997;10129.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;1997;1997;10060.0
+A;Annual;NR;Number;PT1C;Alentejo;1998;1998;3037.0
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;1998;1998;3003.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;1998;1998;3010.0
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;1998;1998;3036.0
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;1998;1998;2999.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;1998;1998;3424.0
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;1998;1998;3281.0
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;1998;1998;3060.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;1998;1998;3090.0
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;1998;1998;3030.0
+A;Annual;NR;Number;PT;Portugal;1999;1999;22252.0
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;1999;1999;22199.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;1999;1999;21034.0
+A;Annual;NR;Number;PT11;Norte;1999;1999;21088.0
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;1999;1999;21250.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;1999;1999;20955.0
+A;Annual;NR;Number;PT15;Algarve;1999;1999;20761.0
+A;Annual;NR;Number;PT1C;Alentejo;1999;1999;5789.0
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;1999;1999;5498.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;1999;1999;5342.0
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;1999;1999;5365.0
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;1999;1999;5413.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;1999;1999;5671.0
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;1999;1999;5716.0
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;1999;1999;5679.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;1999;1999;5631.0
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;1999;1999;5805.0
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;1999;1999;5729.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;1999;1999;5656.0
+A;Annual;NR;Number;PT;Portugal;2000;2000;18662.0
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;2000;2000;18399.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;2000;2000;17801.0
+A;Annual;NR;Number;PT11;Norte;2000;2000;17678.0
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2000;2000;18147.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;2000;2000;18825.0
+A;Annual;NR;Number;PT15;Algarve;2000;2000;18781.0
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;2000;2000;18368.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2000;2000;16544.0
+A;Annual;NR;Number;PT19;Centro (PT);2000;2000;16501.0
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2000;2000;16486.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2000;2000;16369.0
+A;Annual;NR;Number;PT1A;Grande Lisboa;2000;2000;15905.0
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2000;2000;15861.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2000;2000;15816.0
+A;Annual;NR;Number;PT1B;Península de Setúbal;2000;2000;14655.0
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2000;2000;14317.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2000;2000;14408.0
+A;Annual;NR;Number;PT1C;Alentejo;2000;2000;14487.0
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2000;2000;14603.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2000;2000;14622.0
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;2000;2000;14642.0
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2000;2000;14653.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;2000;2000;14865.0
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2000;2000;14864.0
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2000;2000;14934.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2000;2000;14962.0
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2000;2000;14888.0
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2000;2000;14899.0
+A;Annual;NR;Number;PT;Portugal;2001;2001;2179.0
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;2001;2001;2146.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;2001;2001;2180.0
+A;Annual;NR;Number;PT11;Norte;2001;2001;2177.0
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2001;2001;2127.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;2001;2001;2129.0
+A;Annual;NR;Number;PT15;Algarve;2001;2001;2099.0
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;2001;2001;2145.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2001;2001;2098.0
+A;Annual;NR;Number;PT19;Centro (PT);2001;2001;2038.0
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2001;2001;1987.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2001;2001;1918.0
+A;Annual;NR;Number;PT1A;Grande Lisboa;2001;2001;1878.0
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2001;2001;1769.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2001;2001;1749.0
+A;Annual;NR;Number;PT1B;Península de Setúbal;2001;2001;1739.0
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2001;2001;1658.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2001;2001;1573.0
+A;Annual;NR;Number;PT1C;Alentejo;2001;2001;1565.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2001;2001;2821.0
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2001;2001;1517.0
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2001;2001;1294.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2001;2001;1270.0
+A;Annual;NR;Number;PT;Portugal;2002;2002;34089.0
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;2002;2002;36124.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;2002;2002;37954.0
+A;Annual;NR;Number;PT11;Norte;2002;2002;39328.0
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2002;2002;40697.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;2002;2002;46382.0
+A;Annual;NR;Number;PT15;Algarve;2002;2002;46960.0
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;2002;2002;47968.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2002;2002;46872.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2002;2002;2103.0
+A;Annual;NR;Number;PT1A;Grande Lisboa;2002;2002;2103.0
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2002;2002;2164.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2002;2002;2209.0
+A;Annual;NR;Number;PT1B;Península de Setúbal;2002;2002;2484.0
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2002;2002;2519.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2002;2002;2872.0
+A;Annual;NR;Number;PT1C;Alentejo;2002;2002;3111.0
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2002;2002;3938.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2002;2002;3733.0
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;2002;2002;3737.0
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2002;2002;4265.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;2002;2002;4177.0
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2002;2002;4094.0
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2002;2002;4322.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2002;2002;4350.0
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2002;2002;4476.0
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2002;2002;4407.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2002;2002;4522.0
+A;Annual;NR;Number;PT;Portugal;2003;2003;154.3
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;2003;2003;158.76
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;2003;2003;160.2
+A;Annual;NR;Number;PT11;Norte;2003;2003;161.77
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2003;2003;162.68
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;2003;2003;164.22
+A;Annual;NR;Number;PT15;Algarve;2003;2003;164.9
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;2003;2003;166.26
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2003;2003;168.21
+A;Annual;NR;Number;PT19;Centro (PT);2003;2003;169.54
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2003;2003;169.11
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2003;2003;169.55
+A;Annual;NR;Number;PT1A;Grande Lisboa;2003;2003;169.89
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2003;2003;170.95
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2003;2003;172.04
+A;Annual;NR;Number;PT1B;Península de Setúbal;2003;2003;171.17
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2003;2003;172.47
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2003;2003;171.89
+A;Annual;NR;Number;PT1C;Alentejo;2003;2003;171.53
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2003;2003;172.32
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2003;2003;173.18
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;2003;2003;174.65
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2003;2003;174.22
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;2003;2003;175.39
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2003;2003;177.82
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2003;2003;178.3
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2003;2003;179.62
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2003;2003;180.72
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2003;2003;182.08
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2003;2003;183.73
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2004;2004;129.8
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;2004;2004;130.56
+A;Annual;NR;Number;PT15;Algarve;2004;2004;131.8
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;2004;2004;128.75
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2004;2004;133.99
+A;Annual;NR;Number;PT19;Centro (PT);2004;2004;135.91
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2004;2004;141.48
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2004;2004;142.27
+A;Annual;NR;Number;PT1A;Grande Lisboa;2004;2004;142.49
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2004;2004;141.4
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2004;2004;140.73
+A;Annual;NR;Number;PT1B;Península de Setúbal;2004;2004;139.42
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2004;2004;140.92
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2004;2004;140.86
+A;Annual;NR;Number;PT1C;Alentejo;2004;2004;140.09
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2004;2004;141.54
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2004;2004;144.49
+A;Annual;NR;Number;PT;Portugal;2005;2005;299.72
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;2005;2005;325.64
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;2005;2005;313.94
+A;Annual;NR;Number;PT11;Norte;2005;2005;319.45
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2005;2005;327.92
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;2005;2005;335.99
+A;Annual;NR;Number;PT15;Algarve;2005;2005;335.11
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;2005;2005;328.04
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2005;2005;316.36
+A;Annual;NR;Number;PT19;Centro (PT);2005;2005;320.41
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2005;2005;323.65
+A;Annual;NR;Number;PT1A;Grande Lisboa;2005;2005;505.42
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2005;2005;555.96
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2005;2005;509.12
+A;Annual;NR;Number;PT1B;Península de Setúbal;2005;2005;515.25
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2005;2005;536.12
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2005;2005;524.99
+A;Annual;NR;Number;PT1C;Alentejo;2005;2005;558.19
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2005;2005;542.93
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2005;2005;544.52
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;2005;2005;565.57
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2005;2005;560.44
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;2005;2005;539.77
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2005;2005;557.63
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2005;2005;523.5
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2005;2005;528.98
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2005;2005;532.53
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2005;2005;529.49
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2005;2005;569.63
+A;Annual;NR;Number;PT;Portugal;2006;2006;207.09
+A;Annual;NR;Number;PT15;Algarve;2006;2006;128.5
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;2006;2006;128.74
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2006;2006;129.36
+A;Annual;NR;Number;PT19;Centro (PT);2006;2006;131.29
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2006;2006;131.88
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2006;2006;135.22
+A;Annual;NR;Number;PT1A;Grande Lisboa;2006;2006;137.07
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2006;2006;136.75
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2006;2006;139.65
+A;Annual;NR;Number;PT1B;Península de Setúbal;2006;2006;141.48
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2006;2006;140.83
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2006;2006;148.28
+A;Annual;NR;Number;PT1C;Alentejo;2006;2006;151.69
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2006;2006;158.41
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2006;2006;160.52
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;2006;2006;160.02
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2006;2006;160.3
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;2006;2006;159.99
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2006;2006;159.1
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2006;2006;159.4
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2006;2006;162.58
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2006;2006;165.01
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2006;2006;167.82
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2006;2006;168.43
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2007;2007;920.06
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2007;2007;850.41
+A;Annual;NR;Number;PT1A;Grande Lisboa;2007;2007;834.61
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2007;2007;834.61
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2007;2007;744.69
+A;Annual;NR;Number;PT1B;Península de Setúbal;2007;2007;744.69
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2007;2007;744.69
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2007;2007;744.69
+A;Annual;NR;Number;PT1C;Alentejo;2007;2007;734.32
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2007;2007;760.34
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2007;2007;787.0
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;2007;2007;646.01
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2007;2007;679.4
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2007;2007;136.79
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2007;2007;140.58
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2007;2007;144.51
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2007;2007;142.79
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2007;2007;144.46
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2007;2007;145.44
+A;Annual;NR;Number;PT;Portugal;2008;2008;325.9
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;2008;2008;325.42
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;2008;2008;312.72
+A;Annual;NR;Number;PT11;Norte;2008;2008;318.19
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2008;2008;321.47
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;2008;2008;322.65
+A;Annual;NR;Number;PT15;Algarve;2008;2008;328.97
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;2008;2008;324.81
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2008;2008;330.16
+A;Annual;NR;Number;PT19;Centro (PT);2008;2008;340.99
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2008;2008;342.25
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2008;2008;332.66
+A;Annual;NR;Number;PT1A;Grande Lisboa;2008;2008;329.51
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2008;2008;150.45
+A;Annual;NR;Number;PT1B;Península de Setúbal;2008;2008;154.95
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2008;2008;164.31
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2008;2008;146.89
+A;Annual;NR;Number;PT1C;Alentejo;2008;2008;161.6
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2008;2008;181.6
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2008;2008;209.21
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;2008;2008;213.44
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2008;2008;220.43
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;2008;2008;225.23
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2008;2008;270.42
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2008;2008;249.52
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2008;2008;250.14
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2008;2008;266.35
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2008;2008;266.82
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2008;2008;263.85
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2009;2009;128.89
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;2009;2009;129.86
+A;Annual;NR;Number;PT15;Algarve;2009;2009;130.56
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;2009;2009;131.88
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2009;2009;133.25
+A;Annual;NR;Number;PT19;Centro (PT);2009;2009;135.51
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2009;2009;137.15
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2009;2009;139.13
+A;Annual;NR;Number;PT1A;Grande Lisboa;2009;2009;140.36
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2009;2009;140.41
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2009;2009;141.05
+A;Annual;NR;Number;PT1B;Península de Setúbal;2009;2009;140.16
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2009;2009;140.06
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2009;2009;139.83
+A;Annual;NR;Number;PT1C;Alentejo;2009;2009;137.76
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2009;2009;138.38
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2009;2009;138.27
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;2009;2009;138.4
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2009;2009;137.52
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;2009;2009;136.94
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2009;2009;136.66
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2009;2009;136.68
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2009;2009;136.0
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2009;2009;136.63
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2009;2009;136.7
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2009;2009;137.8
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2010;2010;150.68
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;2010;2010;152.47
+A;Annual;NR;Number;PT15;Algarve;2010;2010;154.1
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;2010;2010;157.17
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2010;2010;157.58
+A;Annual;NR;Number;PT19;Centro (PT);2010;2010;154.16
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2010;2010;152.59
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2010;2010;158.25
+A;Annual;NR;Number;PT1A;Grande Lisboa;2010;2010;162.49
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2010;2010;163.04
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2010;2010;160.52
+A;Annual;NR;Number;PT1B;Península de Setúbal;2010;2010;159.41
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2010;2010;158.49
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2010;2010;160.66
+A;Annual;NR;Number;PT1C;Alentejo;2010;2010;157.95
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2010;2010;158.84
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2010;2010;178.91
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;2010;2010;167.11
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2010;2010;155.98
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;2010;2010;161.17
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2010;2010;159.45
+A;Annual;NR;Number;PT;Portugal;2011;2011;154.63
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;2011;2011;156.4
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;2011;2011;166.87
+A;Annual;NR;Number;PT11;Norte;2011;2011;170.52
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2011;2011;173.49
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;2011;2011;173.87
+A;Annual;NR;Number;PT15;Algarve;2011;2011;174.85
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;2011;2011;173.51
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2011;2011;172.16
+A;Annual;NR;Number;PT19;Centro (PT);2011;2011;175.67
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2011;2011;173.58
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2011;2011;176.0
+A;Annual;NR;Number;PT1A;Grande Lisboa;2011;2011;176.22
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2011;2011;175.71
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2011;2011;176.66
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2011;2011;98.45
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2011;2011;92.21
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;2011;2011;92.85
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2011;2011;94.92
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;2011;2011;92.1
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2011;2011;96.63
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2011;2011;97.33
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2011;2011;110.73
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2011;2011;115.07
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2011;2011;118.38
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2011;2011;119.84
+A;Annual;NR;Number;PT;Portugal;2012;2012;360.59
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;2012;2012;365.43
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;2012;2012;369.63
+A;Annual;NR;Number;PT11;Norte;2012;2012;372.7
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2012;2012;379.18
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2012;2012;275.13
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;2012;2012;282.55
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2012;2012;278.71
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2012;2012;288.18
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2012;2012;289.88
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2012;2012;285.48
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2012;2012;296.19
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2012;2012;299.16
+A;Annual;NR;Number;PT;Portugal;2013;2013;804.16
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;2013;2013;777.45
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;2013;2013;753.61
+A;Annual;NR;Number;PT11;Norte;2013;2013;672.0
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2013;2013;625.96
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;2013;2013;535.06
+A;Annual;NR;Number;PT15;Algarve;2013;2013;532.28
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;2013;2013;547.33
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2013;2013;483.29
+A;Annual;NR;Number;PT19;Centro (PT);2013;2013;494.87
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2013;2013;476.82
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2013;2013;482.06
+A;Annual;NR;Number;PT1A;Grande Lisboa;2013;2013;454.76
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2013;2013;345.25
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2013;2013;337.66
+A;Annual;NR;Number;PT1B;Península de Setúbal;2013;2013;332.68
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2013;2013;336.97
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2013;2013;336.74
+A;Annual;NR;Number;PT1C;Alentejo;2013;2013;353.75
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2013;2013;321.88
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2013;2013;322.72
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;2013;2013;302.46
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2013;2013;301.6
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;2013;2013;271.76
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2013;2013;269.39
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2013;2013;272.04
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2013;2013;272.29
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2013;2013;624.54
+A;Annual;NR;Number;PT;Portugal;2014;2014;640.82
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;2014;2014;642.83
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;2014;2014;643.79
+A;Annual;NR;Number;PT11;Norte;2014;2014;627.3
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2014;2014;640.6
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;2014;2014;640.08
+A;Annual;NR;Number;PT15;Algarve;2014;2014;637.93
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;2014;2014;636.81
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2014;2014;635.85
+A;Annual;NR;Number;PT19;Centro (PT);2014;2014;624.18
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2014;2014;606.35
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2014;2014;606.35
+A;Annual;NR;Number;PT1A;Grande Lisboa;2014;2014;610.59
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2014;2014;609.0
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2014;2014;606.02
+A;Annual;NR;Number;PT1B;Península de Setúbal;2014;2014;602.72
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2014;2014;601.63
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2014;2014;598.81
+A;Annual;NR;Number;PT1C;Alentejo;2014;2014;620.05
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2014;2014;611.49
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2014;2014;610.41
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;2014;2014;609.78
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2014;2014;612.03
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;2014;2014;608.16
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2014;2014;606.72
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2014;2014;608.97
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2014;2014;603.48
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2014;2014;589.15
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2014;2014;599.15
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2014;2014;600.5
+A;Annual;NR;Number;PT;Portugal;2015;2015;226.2
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;2015;2015;228.57
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;2015;2015;225.31
+A;Annual;NR;Number;PT11;Norte;2015;2015;220.44
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2015;2015;206.4
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;2015;2015;218.85
+A;Annual;NR;Number;PT15;Algarve;2015;2015;213.34
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2015;2015;944.71
+A;Annual;NR;Number;PT19;Centro (PT);2015;2015;952.61
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2015;2015;952.5
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2015;2015;943.92
+A;Annual;NR;Number;PT1A;Grande Lisboa;2015;2015;926.65
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2015;2015;918.58
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2015;2015;909.27
+A;Annual;NR;Number;PT1B;Península de Setúbal;2015;2015;902.77
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2015;2015;893.69
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2015;2015;881.63
+A;Annual;NR;Number;PT1C;Alentejo;2015;2015;869.3
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2015;2015;852.58
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2015;2015;841.13
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;2015;2015;823.28
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2015;2015;816.44
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;2015;2015;812.37
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2015;2015;812.86
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2015;2015;812.43
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2015;2015;810.14
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2015;2015;807.58
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2015;2015;804.1
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2015;2015;802.63
+A;Annual;NR;Number;PT;Portugal;2016;2016;300.03
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;2016;2016;302.56
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;2016;2016;314.91
+A;Annual;NR;Number;PT11;Norte;2016;2016;313.01
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2016;2016;279.78
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;2016;2016;271.23
+A;Annual;NR;Number;PT15;Algarve;2016;2016;279.46
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;2016;2016;281.04
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2016;2016;283.26
+A;Annual;NR;Number;PT19;Centro (PT);2016;2016;310.16
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2016;2016;296.55
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2016;2016;300.66
+A;Annual;NR;Number;PT1A;Grande Lisboa;2016;2016;300.03
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2016;2016;297.5
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2016;2016;281.36
+A;Annual;NR;Number;PT1B;Península de Setúbal;2016;2016;295.6
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2016;2016;294.65
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2016;2016;290.85
+A;Annual;NR;Number;PT1C;Alentejo;2016;2016;313.32
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2016;2016;317.75
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2016;2016;317.12
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;2016;2016;320.29
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2016;2016;321.24
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;2016;2016;315.86
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2016;2016;320.8
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2016;2016;327.51
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2016;2016;320.78
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2016;2016;319.36
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2016;2016;319.89
+A;Annual;NR;Number;PT;Portugal;2017;2017;742.54
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;2017;2017;737.24
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;2017;2017;738.91
+A;Annual;NR;Number;PT11;Norte;2017;2017;728.3
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2017;2017;647.25
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;2017;2017;633.09
+A;Annual;NR;Number;PT15;Algarve;2017;2017;623.55
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;2017;2017;621.96
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2017;2017;603.4
+A;Annual;NR;Number;PT19;Centro (PT);2017;2017;624.23
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2017;2017;614.38
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2017;2017;603.25
+A;Annual;NR;Number;PT1A;Grande Lisboa;2017;2017;587.19
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2017;2017;576.89
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2017;2017;563.83
+A;Annual;NR;Number;PT1B;Península de Setúbal;2017;2017;559.84
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2017;2017;562.92
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2017;2017;563.17
+A;Annual;NR;Number;PT1C;Alentejo;2017;2017;553.4
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2017;2017;904.3
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2017;2017;892.01
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2017;2017;878.36
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2017;2017;848.47
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2017;2017;838.94
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2017;2017;836.88
+A;Annual;NR;Number;PT;Portugal;2018;2018;367.68
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;2018;2018;363.7
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;2018;2018;362.9
+A;Annual;NR;Number;PT11;Norte;2018;2018;354.15
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2018;2018;359.01
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;2018;2018;418.27
+A;Annual;NR;Number;PT15;Algarve;2018;2018;375.84
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;2018;2018;317.25
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2018;2018;334.95
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2018;2018;832.63
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2018;2018;832.76
+A;Annual;NR;Number;PT1A;Grande Lisboa;2018;2018;803.66
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2018;2018;763.87
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2018;2018;660.02
+A;Annual;NR;Number;PT1B;Península de Setúbal;2018;2018;613.64
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2018;2018;555.32
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2018;2018;549.19
+A;Annual;NR;Number;PT1C;Alentejo;2018;2018;528.77
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2018;2018;517.29
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2018;2018;373.98
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;2018;2018;376.85
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2018;2018;465.76
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;2018;2018;425.58
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2018;2018;419.18
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2018;2018;391.26
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2018;2018;396.61
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2018;2018;390.29
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2018;2018;345.28
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2018;2018;373.33
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;2019;2019;759.31
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2019;2019;729.98
+A;Annual;NR;Number;PT19;Centro (PT);2019;2019;724.51
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2019;2019;717.62
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2019;2019;733.56
+A;Annual;NR;Number;PT1A;Grande Lisboa;2019;2019;742.8
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2019;2019;756.39
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2019;2019;710.74
+A;Annual;NR;Number;PT1B;Península de Setúbal;2019;2019;706.49
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2019;2019;706.21
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2019;2019;711.3
+A;Annual;NR;Number;PT1C;Alentejo;2019;2019;704.8
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2019;2019;668.2
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2019;2019;682.73
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;2019;2019;665.09
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2019;2019;668.67
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;2019;2019;674.52
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2019;2019;682.26
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2019;2019;680.94
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2019;2019;677.25
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2019;2019;633.24
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2019;2019;643.98
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2019;2019;628.33
+A;Annual;NR;Number;PT;Portugal;2020;2020;622.76
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;2020;2020;638.4
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;2020;2020;635.08
+A;Annual;NR;Number;PT11;Norte;2020;2020;638.0
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2020;2020;633.63
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;2020;2020;628.46
+A;Annual;NR;Number;PT15;Algarve;2020;2020;633.63
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;2020;2020;615.21
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2020;2020;649.79
+A;Annual;NR;Number;PT19;Centro (PT);2020;2020;661.58
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2020;2020;669.93
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2020;2020;670.59
+A;Annual;NR;Number;PT1A;Grande Lisboa;2020;2020;663.04
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2020;2020;664.37
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2020;2020;669.27
+A;Annual;NR;Number;PT1B;Península de Setúbal;2020;2020;668.08
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2020;2020;665.33
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2020;2020;660.46
+A;Annual;NR;Number;PT1C;Alentejo;2020;2020;655.29
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2020;2020;617.69
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2020;2020;611.53
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2020;2020;627.19
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;2020;2020;624.91
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2020;2020;613.5
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2020;2020;599.8
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2020;2020;604.87
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2020;2020;593.71
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2020;2020;571.9
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2020;2020;568.86
+A;Annual;NR;Number;PT;Portugal;2021;2021;189.0
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;2021;2021;166.18
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;2021;2021;204.29
+A;Annual;NR;Number;PT11;Norte;2021;2021;174.67
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2021;2021;178.07
+A;Annual;NR;Number;PT19;Centro (PT);2021;2021;176.86
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2021;2021;178.24
+A;Annual;NR;Number;PT1C;Alentejo;2021;2021;282.61
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2021;2021;285.15
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2021;2021;288.53
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;2021;2021;296.57
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2021;2021;271.19
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;2021;2021;283.67
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2021;2021;290.44
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2021;2021;281.98
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2021;2021;276.69
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2021;2021;266.96
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2021;2021;251.73
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2021;2021;257.65
+A;Annual;NR;Number;PT;Portugal;2022;2022;254.5
+A;Annual;NR;Number;PT19;Centro (PT);2022;2022;860.4
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2022;2022;855.31
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2022;2022;855.36
+A;Annual;NR;Number;PT1A;Grande Lisboa;2022;2022;851.56
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2022;2022;832.51
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2022;2022;829.33
+A;Annual;NR;Number;PT1B;Península de Setúbal;2022;2022;821.09
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2022;2022;796.4
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2022;2022;775.27
+A;Annual;NR;Number;PT1C;Alentejo;2022;2022;734.52
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2022;2022;679.72
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2022;2022;657.15
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;2022;2022;641.19
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2022;2022;598.15
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;2022;2022;569.34
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2022;2022;519.91
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2022;2022;490.25
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2022;2022;450.63
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2022;2022;451.96
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2022;2022;424.99
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2022;2022;376.12
+A;Annual;NR;Number;PT;Portugal;2023;2023;326.05
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;2023;2023;322.36
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;2023;2023;319.54
+A;Annual;NR;Number;PT11;Norte;2023;2023;323.1
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2023;2023;321.38
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;2023;2023;319.78
+A;Annual;NR;Number;PT15;Algarve;2023;2023;318.67
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;2023;2023;315.48
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2023;2023;315.11
+A;Annual;NR;Number;PT19;Centro (PT);2023;2023;324.21
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2023;2023;321.38
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2023;2023;313.14
+A;Annual;NR;Number;PT1A;Grande Lisboa;2023;2023;317.32
+A;Annual;HAB_P;Inhabitants per ...;PT1A;Grande Lisboa;2023;2023;311.29
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1A;Grande Lisboa;2023;2023;316.83
+A;Annual;NR;Number;PT1B;Península de Setúbal;2023;2023;324.33
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2023;2023;328.76
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2023;2023;332.33
+A;Annual;NR;Number;PT1C;Alentejo;2023;2023;330.39
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2023;2023;331.73
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2023;2023;335.88
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;2023;2023;328.21
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2023;2023;318.69
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2023;2023;709.23
+A;Annual;NR;Number;PT;Portugal;2024;2024;288.2
+A;Annual;HAB_P;Inhabitants per ...;PT;Portugal;2024;2024;291.78
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT;Portugal;2024;2024;290.71
+A;Annual;NR;Number;PT11;Norte;2024;2024;303.08
+A;Annual;HAB_P;Inhabitants per ...;PT11;Norte;2024;2024;300.78
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT11;Norte;2024;2024;301.63
+A;Annual;NR;Number;PT15;Algarve;2024;2024;320.16
+A;Annual;HAB_P;Inhabitants per ...;PT15;Algarve;2024;2024;330.22
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT15;Algarve;2024;2024;342.41
+A;Annual;NR;Number;PT19;Centro (PT);2024;2024;356.6
+A;Annual;HAB_P;Inhabitants per ...;PT19;Centro (PT);2024;2024;359.5
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT19;Centro (PT);2024;2024;358.41
+A;Annual;NR;Number;PT1A;Grande Lisboa;2024;2024;356.15
+A;Annual;NR;Number;PT1B;Península de Setúbal;2024;2024;233.97
+A;Annual;HAB_P;Inhabitants per ...;PT1B;Península de Setúbal;2024;2024;233.05
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1B;Península de Setúbal;2024;2024;237.65
+A;Annual;NR;Number;PT1C;Alentejo;2024;2024;242.62
+A;Annual;HAB_P;Inhabitants per ...;PT1C;Alentejo;2024;2024;248.32
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1C;Alentejo;2024;2024;250.71
+A;Annual;NR;Number;PT1D;Oeste e Vale do Tejo;2024;2024;226.69
+A;Annual;HAB_P;Inhabitants per ...;PT1D;Oeste e Vale do Tejo;2024;2024;241.4
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT1D;Oeste e Vale do Tejo;2024;2024;256.59
+A;Annual;NR;Number;PT20;Região Autónoma dos Açores;2024;2024;264.76
+A;Annual;HAB_P;Inhabitants per ...;PT20;Região Autónoma dos Açores;2024;2024;263.87
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT20;Região Autónoma dos Açores;2024;2024;274.35
+A;Annual;NR;Number;PT30;Região Autónoma da Madeira;2024;2024;270.9
+A;Annual;HAB_P;Inhabitants per ...;PT30;Região Autónoma da Madeira;2024;2024;278.11
+A;Annual;P_HTHAB;Per hundred thousand inhabitants;PT30;Região Autónoma da Madeira;2024;2024;273.95

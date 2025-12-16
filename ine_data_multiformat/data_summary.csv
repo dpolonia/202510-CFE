@@ -1,0 +1,11 @@
+﻿code,name,category,use_case,records,formats
+0008273,"Population by region, sex and age group",Demographics,"Case-mix adjustment, demand forecasting",19608,"JSON, CSV, XLSX, Parquet"
+0008274,Fertility index,Demographics,Birth rate trends,36,"JSON, CSV, XLSX, Parquet"
+0008275,Adolescent fertility rate,Demographics,Maternal health services demand,36,"JSON, CSV, XLSX, Parquet"
+0008258,Aging index by region (Indice de envelhecimento),Demographics,Elderly population trends,344,"JSON, CSV, XLSX, Parquet"
+0008259,Elderly dependency index,Demographics,Healthcare demand from aging population,344,"JSON, CSV, XLSX, Parquet"
+0008261,Total dependency ratio,Demographics,Healthcare demand pressure,344,"JSON, CSV, XLSX, Parquet"
+0012136,Unemployment rate by region,Economics,Economic distress indicator,39,"JSON, CSV, XLSX, Parquet"
+0010683,Employment statistics,Economics,Regional employment context,231,"JSON, CSV, XLSX, Parquet"
+0008277,Nurses per 1000 inhabitants,Healthcare,Healthcare workforce availability,344,"JSON, CSV, XLSX, Parquet"
+0001228,Life expectancy at 65 years,Demographics,Population health outcomes,3,"JSON, CSV, XLSX, Parquet"

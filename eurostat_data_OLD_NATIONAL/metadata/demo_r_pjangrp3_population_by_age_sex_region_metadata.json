@@ -1,0 +1,11 @@
+{
+  "dataset_code": "demo_r_pjangrp3",
+  "dataset_name": "population_by_age_sex_region",
+  "description": "Population on 1 January by age group, sex and NUTS 3 region",
+  "label": "Population on 1 January by age group, sex and NUTS 3 region",
+  "source": "ESTAT",
+  "updated": "2025-10-14T23:00:00+0200",
+  "extraction_date": "2025-10-26T09:47:40.649427",
+  "category": "Demographics",
+  "use_case": "Case-mix adjustment and demand forecasting"
+}

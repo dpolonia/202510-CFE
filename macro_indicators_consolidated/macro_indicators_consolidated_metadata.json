@@ -1,0 +1,68 @@
+{
+  "creation_date": "2025-10-26T19:10:17.216030",
+  "description": "Consolidated macroeconomic indicators for Portugal",
+  "source": "Eurostat (via eurostat_macro_extractor.py)",
+  "total_records": 50,
+  "year_range": {
+    "min": 1975,
+    "max": 2024
+  },
+  "indicators": {
+    "deficit_surplus_pct_gdp": "Government deficit (-) or surplus (+) as % of GDP",
+    "government_debt_pct_gdp": "Government consolidated gross debt as % of GDP",
+    "public_health_exp_pct_gdp": "Public health expenditure as % of GDP",
+    "total_health_exp_pct_gdp": "Total health expenditure as % of GDP",
+    "private_health_exp_pct_gdp": "Private health expenditure as % of GDP (calculated)",
+    "hospital_care_exp_pct_gdp": "Hospital care expenditure as % of GDP",
+    "gdp_million_eur": "GDP in million EUR (current prices)",
+    "gdp_per_capita_eur": "GDP per capita in EUR (current prices)",
+    "gdp_growth_rate_pct": "GDP year-on-year growth rate % (calculated)"
+  },
+  "completeness": {
+    "deficit_surplus_pct_gdp": {
+      "non_null": 6,
+      "total": 50,
+      "percentage": 12.0
+    },
+    "government_debt_pct_gdp": {
+      "non_null": 9,
+      "total": 50,
+      "percentage": 18.0
+    },
+    "public_health_exp_pct_gdp": {
+      "non_null": 13,
+      "total": 50,
+      "percentage": 26.0
+    },
+    "total_health_exp_pct_gdp": {
+      "non_null": 8,
+      "total": 50,
+      "percentage": 16.0
+    },
+    "hospital_care_exp_pct_gdp": {
+      "non_null": 12,
+      "total": 50,
+      "percentage": 24.0
+    },
+    "gdp_million_eur": {
+      "non_null": 18,
+      "total": 50,
+      "percentage": 36.0
+    },
+    "gdp_per_capita_eur": {
+      "non_null": 26,
+      "total": 50,
+      "percentage": 52.0
+    },
+    "private_health_exp_pct_gdp": {
+      "non_null": 8,
+      "total": 50,
+      "percentage": 16.0
+    },
+    "gdp_growth_rate_pct": {
+      "non_null": 46,
+      "total": 50,
+      "percentage": 92.0
+    }
+  }
+}

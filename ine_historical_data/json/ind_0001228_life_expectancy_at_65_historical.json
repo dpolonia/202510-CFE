@@ -1,0 +1,1052 @@
+[
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1984",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1984",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1984",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1985",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1985",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1985",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1983",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1983",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1983",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1981",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1981",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1981",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1982",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1982",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1982",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1970",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1970",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1970",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1971",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1971",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1971",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1972",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1972",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1972",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1973",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1973",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1973",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1974",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1974",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1974",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1975",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1975",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1975",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1976",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1976",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1976",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1977",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1977",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1977",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1978",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1978",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1978",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1979",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1979",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1979",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1980",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1980",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1980",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1987",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1987",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1987",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1988",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1988",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1988",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1989",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1989",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1989",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1986",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1986",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1986",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1990",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1990",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1990",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1991",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1991",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1991",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1992",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1992",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1992",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1993",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1993",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1993",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1994",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1994",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1994",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1995",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1995",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1995",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1996",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1996",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1996",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1997",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1997",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1997",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1998",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1998",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1998",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"1999",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"1999",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"1999",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"2000",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"2000",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"2000",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"2001",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"2001",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"2001",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"2002",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"2002",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"2002",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"2003",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"2003",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"2003",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"1",
+    "dim_3_t":"H",
+    "valor":"15.95",
+    "periodo":"2004",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"2",
+    "dim_3_t":"M",
+    "valor":"19.3",
+    "periodo":"2004",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "dim_3":"T",
+    "dim_3_t":"HM",
+    "valor":"17.76",
+    "periodo":"2004",
+    "indicador_cod":"0001228",
+    "indicador_dsg":"Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos"
+  }
+]

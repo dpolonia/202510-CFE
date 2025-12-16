@@ -1,0 +1,957 @@
+﻿freq;freq_label;unit;unit_label;geo;geo_label;time;time_label;value
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2000;2000;1846.49
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2000;2000;1917.43
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2000;2000;1927.41
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2000;2000;1986.51
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2000;2000;2069.27
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2000;2000;2184.53
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2000;2000;2256.52
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2000;2000;2275.3
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2000;2000;2330.75
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2000;2000;2410.62
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2000;2000;2391.29
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2000;2000;2475.54
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2000;2000;2552.18
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2000;2000;2393.78
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2000;2000;2701.47
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2000;2000;3022.98
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2000;2000;3267.27
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2000;2000;6093.01
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2000;2000;6427.38
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2000;2000;6731.53
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2000;2000;7076.65
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2000;2000;7347.73
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2000;2000;7723.06
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2000;2000;7634.09
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2000;2000;8122.39
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2000;2000;8337.38
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2000;2000;8414.59
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2000;2000;8462.68
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2000;2000;8704.0
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2000;2000;8836.31
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2000;2000;9135.17
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2000;2000;9484.47
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2000;2000;9786.89
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2000;2000;9970.8
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2000;2000;9799.02
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2000;2000;10634.61
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2000;2000;11741.38
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2000;2000;12699.05
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2001;2001;10261.26
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2001;2001;10505.88
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2001;2001;10904.75
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2001;2001;13447.35
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2001;2001;14149.24
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2001;2001;14726.87
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2001;2001;14995.31
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2001;2001;15487.67
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2001;2001;15871.62
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2001;2001;16956.71
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2001;2001;17331.19
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2001;2001;17651.42
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2001;2001;16568.31
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2001;2001;17312.9
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2001;2001;17325.42
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2001;2001;17653.88
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2001;2001;18159.05
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2001;2001;18402.3
+A;Annual;MIO_EUR;Million euro;PT195;Beira Baixa;2001;2001;19720.91
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2001;2001;19556.52
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2001;2001;20713.14
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2001;2001;20966.62
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2001;2001;21871.94
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2001;2001;21995.23
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2001;2001;23306.79
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2001;2001;25000.15
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2001;2001;26746.23
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2001;2001;35124.42
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2001;2001;36255.4
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2001;2001;37702.52
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2001;2001;38402.17
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2001;2001;39686.88
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2001;2001;40273.58
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2001;2001;43580.75
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2001;2001;45815.69
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2001;2001;47366.92
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2001;2001;45265.3
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2001;2001;47164.9
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2001;2001;48321.56
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2001;2001;49074.31
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2001;2001;50215.87
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2001;2001;51116.79
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2002;2002;4414.52
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2002;2002;4528.48
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2002;2002;4663.16
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2002;2002;5080.4
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2002;2002;5225.57
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2002;2002;5424.43
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2002;2002;5667.26
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2002;2002;5922.84
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2002;2002;6198.82
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2002;2002;6260.17
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2002;2002;6602.85
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2002;2002;7083.56
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2002;2002;1903.17
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2002;2002;1868.82
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2002;2002;1840.8
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2002;2002;1839.61
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2002;2002;1865.28
+A;Annual;MIO_EUR;Million euro;PT195;Beira Baixa;2002;2002;1855.36
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2002;2002;1891.68
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2002;2002;1958.01
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2002;2002;1961.23
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2002;2002;1953.59
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2002;2002;2116.87
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2002;2002;2056.99
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2002;2002;2150.97
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2002;2002;2203.11
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2002;2002;2293.98
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2002;2002;2449.03
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2002;2002;2487.13
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2002;2002;2591.17
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2002;2002;2680.16
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2002;2002;2896.87
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2002;2002;2785.63
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2002;2002;2860.83
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2002;2002;3204.27
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2002;2002;2238.42
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2002;2002;2318.39
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2002;2002;2316.72
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2002;2002;2357.58
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2002;2002;2431.75
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2003;2003;45377.98
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2003;2003;47033.18
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2003;2003;46558.27
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2003;2003;47623.15
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2003;2003;48659.39
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2003;2003;51145.68
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2003;2003;52542.09
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2003;2003;53970.85
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2003;2003;52354.07
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2003;2003;55243.0
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2003;2003;58841.17
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2003;2003;60853.37
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2003;2003;62294.17
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2003;2003;65057.58
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2003;2003;67430.32
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2003;2003;70218.51
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2003;2003;72794.68
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2003;2003;75332.55
+A;Annual;MIO_EUR;Million euro;PT195;Beira Baixa;2003;2003;79056.32
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2003;2003;77445.51
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2003;2003;80326.94
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2003;2003;85666.35
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2003;2003;91539.65
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2003;2003;9519.12
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2003;2003;10062.7
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2003;2003;10208.04
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2003;2003;10008.77
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2003;2003;10366.55
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2003;2003;10395.99
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2003;2003;10849.51
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2003;2003;11233.89
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2003;2003;11315.9
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2003;2003;10719.86
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2003;2003;11093.46
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2003;2003;11669.28
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2003;2003;12168.26
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2003;2003;12114.28
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2003;2003;12547.38
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2003;2003;13574.19
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2003;2003;13685.36
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2003;2003;13957.34
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2003;2003;14499.59
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2004;2004;40070.43
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2004;2004;41088.88
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2004;2004;44182.99
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2004;2004;44332.47
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2004;2004;48170.47
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2004;2004;47126.17
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2004;2004;49970.41
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2004;2004;56014.71
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2004;2004;60480.83
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2004;2004;29253.35
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2004;2004;29686.05
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2004;2004;29881.58
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2004;2004;30069.59
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2004;2004;30438.38
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2004;2004;30457.09
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2004;2004;31447.84
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2004;2004;33054.94
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2004;2004;33876.54
+A;Annual;MIO_EUR;Million euro;PT195;Beira Baixa;2004;2004;33582.88
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2004;2004;34651.38
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2004;2004;36159.9
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2004;2004;36420.65
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2004;2004;37627.02
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2004;2004;39406.52
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2004;2004;40070.43
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2004;2004;41088.88
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2004;2004;44182.99
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2004;2004;44332.47
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2004;2004;48170.47
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2004;2004;47126.17
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2004;2004;49970.41
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2004;2004;56014.71
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2004;2004;60480.83
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2004;2004;4766.96
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2004;2004;4550.32
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2004;2004;4633.88
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2004;2004;4552.33
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2004;2004;4669.15
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2004;2004;4688.76
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2004;2004;4776.64
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2004;2004;5075.31
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2004;2004;5333.48
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2005;2005;9336.3
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2005;2005;9525.64
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2005;2005;9698.17
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2005;2005;10685.12
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2005;2005;10351.6
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2005;2005;10577.01
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2005;2005;11017.72
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2005;2005;11263.79
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2005;2005;11546.41
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2005;2005;12006.55
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2005;2005;12144.16
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2005;2005;12502.62
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2005;2005;12904.5
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2005;2005;13245.9
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2005;2005;14110.61
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2005;2005;13979.99
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2005;2005;14753.59
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2005;2005;15716.35
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2005;2005;124729.89
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2005;2005;127177.31
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2005;2005;132363.33
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2005;2005;129666.55
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2005;2005;132726.48
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2005;2005;132486.67
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2005;2005;138612.09
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2005;2005;145939.66
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2005;2005;145929.15
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2005;2005;143401.51
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2005;2005;146643.46
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2005;2005;151827.32
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2005;2005;154238.55
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2005;2005;159228.19
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2005;2005;165778.28
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2005;2005;174214.81
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2005;2005;178093.87
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2005;2005;185499.06
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2005;2005;192806.17
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2005;2005;198444.41
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2005;2005;192881.5
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2005;2005;204723.25
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2005;2005;219529.12
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2006;2006;2218.56
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2006;2006;1972.15
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2006;2006;2112.45
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2006;2006;2209.74
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2006;2006;2363.75
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2006;2006;2568.89
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2006;2006;2671.76
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2006;2006;2849.68
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2006;2006;2920.77
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2006;2006;2852.68
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2006;2006;3280.53
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2006;2006;3513.14
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2006;2006;3433.87
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2006;2006;2788.52
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2006;2006;3658.96
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2006;2006;3999.09
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2006;2006;3956.02
+A;Annual;MIO_EUR;Million euro;PT195;Beira Baixa;2006;2006;3927.52
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2006;2006;4137.77
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2006;2006;4713.82
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2006;2006;4709.0
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2006;2006;4878.07
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2006;2006;4805.75
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2006;2006;4572.83
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2006;2006;4321.2
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2006;2006;4920.31
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2006;2006;6032.46
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2006;2006;1403.77
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2006;2006;1437.64
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2006;2006;1467.9
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2006;2006;1464.64
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2006;2006;1513.8
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2006;2006;1504.98
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2006;2006;1544.63
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2006;2006;1588.51
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2006;2006;1721.22
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2006;2006;1596.6
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2006;2006;1703.83
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2006;2006;1783.27
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2006;2006;1809.05
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2007;2007;2790.42
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2007;2007;2861.58
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2007;2007;3112.06
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2007;2007;3155.66
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2007;2007;3239.09
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2007;2007;3417.04
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2007;2007;3495.55
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2007;2007;3601.94
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2007;2007;3744.41
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2007;2007;3830.99
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2007;2007;4016.6
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2007;2007;3967.86
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2007;2007;4127.24
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2007;2007;4434.86
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2007;2007;1097.32
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2007;2007;1180.56
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2007;2007;1251.53
+A;Annual;MIO_EUR;Million euro;PT195;Beira Baixa;2007;2007;1277.49
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2007;2007;1387.94
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2007;2007;1397.64
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2007;2007;1292.18
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2007;2007;1306.67
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2007;2007;1211.19
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2007;2007;1172.57
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2007;2007;1234.61
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2007;2007;1282.95
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2007;2007;1404.11
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2007;2007;1494.34
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2007;2007;1493.8
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2007;2007;1596.68
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2007;2007;1648.84
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2007;2007;1729.17
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2007;2007;1765.97
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2007;2007;1865.26
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2007;2007;1795.73
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2007;2007;1888.12
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2007;2007;2055.93
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2007;2007;932.79
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2007;2007;976.05
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2007;2007;995.5
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2008;2008;683.83
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2008;2008;712.33
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2008;2008;706.02
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2008;2008;809.79
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2008;2008;903.3
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2008;2008;942.12
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2008;2008;1008.81
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2008;2008;995.68
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2008;2008;957.58
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2008;2008;1008.56
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2008;2008;993.83
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2008;2008;1007.13
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2008;2008;1059.33
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2008;2008;992.45
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2008;2008;1078.38
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2008;2008;973.48
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2008;2008;899.82
+A;Annual;MIO_EUR;Million euro;PT195;Beira Baixa;2008;2008;937.09
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2008;2008;865.04
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2008;2008;837.43
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2008;2008;751.52
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2008;2008;808.67
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2008;2008;931.73
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2008;2008;3287.69
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2008;2008;3527.94
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2008;2008;3767.2
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2008;2008;4049.18
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2008;2008;4196.38
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2008;2008;4279.65
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2008;2008;4615.5
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2008;2008;4853.16
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2008;2008;4944.29
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2008;2008;4844.8
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2008;2008;4768.72
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2008;2008;4398.66
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2008;2008;3906.12
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2008;2008;3808.88
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2008;2008;3750.37
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2008;2008;3700.89
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2008;2008;3704.21
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2009;2009;6752.7
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2009;2009;6766.0
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2009;2009;7050.0
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2009;2009;7293.0
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2009;2009;7749.7
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2009;2009;8103.6
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2009;2009;8327.2
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2009;2009;7518.1
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2009;2009;8822.1
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2009;2009;9597.1
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2009;2009;201843.2
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2009;2009;219257.3
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2009;2009;233964.4
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2009;2009;249743.4
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2009;2009;267540.9
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2009;2009;287871.7
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2009;2009;312279.3
+A;Annual;MIO_EUR;Million euro;PT195;Beira Baixa;2009;2009;334328.3
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2009;2009;344004.8
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2009;2009;329505.7
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2009;2009;331269.2
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2009;2009;326973.0
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2009;2009;316573.0
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2009;2009;314667.0
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2009;2009;321364.2
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2009;2009;336302.2
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2009;2009;348941.2
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2009;2009;363552.8
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2009;2009;377036.9
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2009;2009;391104.9
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2009;2009;347593.7
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2009;2009;381719.3
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2009;2009;423440.9
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2009;2009;463348.9
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2009;2009;122568.8
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2009;2009;132816.3
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2009;2009;141683.1
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2009;2009;151640.4
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2009;2009;162519.7
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2009;2009;174583.9
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2009;2009;189253.2
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2010;2010;9885.6
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2010;2010;10482.6
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2010;2010;10698.7
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2010;2010;11155.4
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2010;2010;11562.4
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2010;2010;11562.4
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2010;2010;11063.3
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2010;2010;10767.2
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2010;2010;11197.0
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2010;2010;11537.4
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2010;2010;11933.1
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2010;2010;11763.8
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2010;2010;12015.2
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2010;2010;12018.3
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2010;2010;12278.4
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2010;2010;12718.7
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2010;2010;13187.3
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2010;2010;12733.8
+A;Annual;MIO_EUR;Million euro;PT195;Beira Baixa;2010;2010;14880.4
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2010;2010;14940.9
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2010;2010;17359.7
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2010;2010;5529.4
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2010;2010;5623.4
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2010;2010;5681.6
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2010;2010;5801.9
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2010;2010;6087.4
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2010;2010;6202.0
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2010;2010;6377.7
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2010;2010;6612.3
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2010;2010;6759.3
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2010;2010;6560.0
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2010;2010;6240.4
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2010;2010;6503.6
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2010;2010;6509.2
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2010;2010;6564.3
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2010;2010;6600.9
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2010;2010;6665.1
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2010;2010;6627.3
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2010;2010;6827.3
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2010;2010;6759.5
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2010;2010;6895.9
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2010;2010;6761.4
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2011;2011;3462.5
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2011;2011;3481.9
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2011;2011;3536.2
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2011;2011;3504.7
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2011;2011;3793.8
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2011;2011;3910.1
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2011;2011;4148.0
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2011;2011;3563.3
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2011;2011;3657.0
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2011;2011;3767.0
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2011;2011;3894.7
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2011;2011;4109.1
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2011;2011;4272.0
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2011;2011;4473.2
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2011;2011;4701.1
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2011;2011;4775.3
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2011;2011;4610.2
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2011;2011;4514.4
+A;Annual;MIO_EUR;Million euro;PT195;Beira Baixa;2011;2011;4644.9
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2011;2011;4633.0
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2011;2011;4721.2
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2011;2011;4848.8
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2011;2011;4888.3
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2011;2011;4979.5
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2011;2011;5155.2
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2011;2011;5195.9
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2011;2011;5344.6
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2011;2011;5313.2
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2011;2011;5749.2
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2011;2011;5989.9
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2011;2011;6295.0
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2011;2011;13389.9
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2011;2011;13631.9
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2011;2011;14043.3
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2011;2011;14507.0
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2011;2011;15141.2
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2011;2011;15727.5
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2011;2011;16309.8
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2011;2011;17085.7
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2011;2011;16832.2
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2011;2011;16575.7
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2011;2011;16808.3
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2012;2012;4578.35
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2012;2012;4730.28
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2012;2012;4528.49
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2012;2012;4737.8
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2012;2012;4838.8
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2012;2012;4879.29
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2012;2012;4680.43
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2012;2012;4643.64
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2012;2012;4653.42
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2012;2012;4610.66
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2012;2012;4776.15
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2012;2012;4823.93
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2012;2012;4860.99
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2012;2012;4458.79
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2012;2012;4788.34
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2012;2012;5416.03
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2012;2012;5697.75
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2012;2012;3441.0
+A;Annual;MIO_EUR;Million euro;PT195;Beira Baixa;2012;2012;3625.8
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2012;2012;3757.05
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2012;2012;4040.76
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2012;2012;4158.25
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2012;2012;4295.92
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2012;2012;4454.09
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2012;2012;4578.35
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2012;2012;4730.28
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2012;2012;4528.49
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2012;2012;4737.8
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2012;2012;4838.8
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2012;2012;4879.29
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2012;2012;4680.43
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2012;2012;4643.64
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2012;2012;4653.42
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2012;2012;4610.66
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2012;2012;4776.15
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2012;2012;4823.93
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2012;2012;4860.99
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2012;2012;4458.79
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2012;2012;4787.78
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2012;2012;5416.58
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2012;2012;36569.67
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2013;2013;31758.28
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2013;2013;34136.06
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2013;2013;4970.27
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2013;2013;5050.23
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2013;2013;5167.43
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2013;2013;5390.47
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2013;2013;5564.13
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2013;2013;5378.0
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2013;2013;5512.59
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2013;2013;5781.03
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2013;2013;6031.89
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2013;2013;5469.76
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2013;2013;5668.93
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2013;2013;6069.74
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2013;2013;5982.02
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2013;2013;6044.06
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2013;2013;6240.63
+A;Annual;MIO_EUR;Million euro;PT195;Beira Baixa;2013;2013;6285.58
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2013;2013;6526.55
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2013;2013;6632.25
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2013;2013;6738.32
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2013;2013;7148.71
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2013;2013;5992.07
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2013;2013;6741.22
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2013;2013;7417.44
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2013;2013;20142.55
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2013;2013;21320.03
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2013;2013;21959.98
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2013;2013;22854.79
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2013;2013;23898.94
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2013;2013;25615.06
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2013;2013;26356.88
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2013;2013;27725.53
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2013;2013;28528.46
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2013;2013;25803.5
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2013;2013;25878.31
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2013;2013;26585.07
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2013;2013;25709.87
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2013;2013;25551.33
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2013;2013;26356.11
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2014;2014;2324.69
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2014;2014;2493.67
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2014;2014;2544.94
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2014;2014;2610.56
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2014;2014;2682.22
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2014;2014;2792.97
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2014;2014;3107.46
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2014;2014;3289.49
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2014;2014;3417.4
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2014;2014;3564.99
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2014;2014;3917.97
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2014;2014;4609.27
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2014;2014;4772.22
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2014;2014;273.95
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2014;2014;302.99
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2014;2014;321.32
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2014;2014;335.67
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2014;2014;356.16
+A;Annual;MIO_EUR;Million euro;PT195;Beira Baixa;2014;2014;381.06
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2014;2014;419.47
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2014;2014;493.25
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2014;2014;610.05
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2014;2014;519.01
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2014;2014;555.74
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2014;2014;653.62
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2014;2014;681.16
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2014;2014;698.29
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2014;2014;726.07
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2014;2014;736.16
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2014;2014;745.66
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2014;2014;819.12
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2014;2014;893.93
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2014;2014;907.56
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2014;2014;905.88
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2014;2014;1019.64
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2014;2014;1201.62
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2014;2014;1337.05
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2014;2014;560.8
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2014;2014;603.08
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2014;2014;647.41
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2014;2014;720.06
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2014;2014;833.71
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2015;2015;7637.85
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2015;2015;8052.5
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2015;2015;8663.57
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2015;2015;9075.34
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2015;2015;9526.78
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2015;2015;10530.2
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2015;2015;11363.49
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2015;2015;11519.8
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2015;2015;10974.0
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2015;2015;11406.09
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2015;2015;11883.9
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2015;2015;11531.81
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2015;2015;11699.04
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2015;2015;12011.95
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2015;2015;12286.3
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2015;2015;12747.85
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2015;2015;13198.35
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2015;2015;14019.82
+A;Annual;MIO_EUR;Million euro;PT195;Beira Baixa;2015;2015;15121.91
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2015;2015;15113.83
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2015;2015;16311.24
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2015;2015;18711.04
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2015;2015;20993.91
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2015;2015;240615.16
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2015;2015;255574.68
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2015;2015;268201.29
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2015;2015;273838.37
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2015;2015;282911.27
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2015;2015;294372.87
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2015;2015;310183.76
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2015;2015;329702.52
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2015;2015;342611.99
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2015;2015;332878.66
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2015;2015;335015.24
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2015;2015;339583.65
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2015;2015;341023.47
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2015;2015;346186.72
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2015;2015;357833.74
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2015;2015;373091.77
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2015;2015;385294.83
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2015;2015;401357.86
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2015;2015;421223.51
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2016;2016;1418.57
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2016;2016;1410.62
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2016;2016;1436.0
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2016;2016;1516.77
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2016;2016;1569.4
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2016;2016;1448.54
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2016;2016;1434.27
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2016;2016;1784.79
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2016;2016;8045.75
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2016;2016;8349.48
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2016;2016;8603.91
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2016;2016;8852.61
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2016;2016;9080.44
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2016;2016;9650.93
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2016;2016;10100.89
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2016;2016;10577.33
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2016;2016;10822.44
+A;Annual;MIO_EUR;Million euro;PT195;Beira Baixa;2016;2016;10691.96
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2016;2016;10916.12
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2016;2016;11327.39
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2016;2016;11800.87
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2016;2016;12226.19
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2016;2016;12376.44
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2016;2016;12976.53
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2016;2016;13378.95
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2016;2016;13736.52
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2016;2016;14362.68
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2016;2016;14927.82
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2016;2016;14178.3
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2016;2016;14954.54
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2016;2016;16435.9
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2016;2016;910.54
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2016;2016;962.67
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2016;2016;1002.59
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2016;2016;1011.25
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2016;2016;1035.13
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2016;2016;1141.36
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2016;2016;1210.04
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2016;2016;1209.16
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2016;2016;1241.72
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2017;2017;3572.81
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2017;2017;3882.8
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2017;2017;4324.21
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2017;2017;5108.27
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2017;2017;4596.24
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2017;2017;5371.51
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2017;2017;5712.94
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2017;2017;5941.62
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2017;2017;5853.95
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2017;2017;6078.65
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2017;2017;6409.81
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2017;2017;6351.08
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2017;2017;6793.98
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2017;2017;7188.15
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2017;2017;7638.59
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2017;2017;7930.36
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2017;2017;8272.89
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2017;2017;9463.85
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2017;2017;1658.47
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2017;2017;1879.97
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2017;2017;1901.84
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2017;2017;1718.37
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2017;2017;1838.27
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2017;2017;2198.54
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2017;2017;2475.95
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2017;2017;2813.15
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2017;2017;3213.43
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2017;2017;2496.36
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2017;2017;2827.47
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2017;2017;3026.51
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2017;2017;3123.08
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2017;2017;3126.77
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2017;2017;3330.43
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2017;2017;3469.89
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2017;2017;3490.01
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2017;2017;3859.06
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2017;2017;3924.33
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2017;2017;4291.64
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2017;2017;4445.78
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2017;2017;4738.81
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2017;2017;5470.0
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2018;2018;224767.37
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2018;2018;221075.46
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2018;2018;242260.45
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2018;2018;281761.4
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2018;2018;324368.57
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2018;2018;9508.19
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2018;2018;10671.66
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2018;2018;11764.3
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2018;2018;12238.4
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2018;2018;14203.27
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2018;2018;18149.01
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2018;2018;22619.35
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2018;2018;30468.06
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2018;2018;32997.9
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2018;2018;28543.65
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2018;2018;29367.79
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2018;2018;30474.71
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2018;2018;31509.58
+A;Annual;MIO_EUR;Million euro;PT195;Beira Baixa;2018;2018;31814.56
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2018;2018;33870.46
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2018;2018;36116.0
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2018;2018;38576.47
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2018;2018;43814.49
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2018;2018;48405.25
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2018;2018;52706.48
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2018;2018;52485.86
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2018;2018;56990.86
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2018;2018;64570.19
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2018;2018;74013.59
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2018;2018;4592.47
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2018;2018;5239.14
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2018;2018;5797.92
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2018;2018;6070.59
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2018;2018;7172.71
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2018;2018;9242.56
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2018;2018;11470.57
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2018;2018;15357.72
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2018;2018;16700.41
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2018;2018;14467.61
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2018;2018;14687.61
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2018;2018;15032.18
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2018;2018;15664.91
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2019;2019;18537.34
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2019;2019;19800.59
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2019;2019;20457.94
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2019;2019;20679.93
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2019;2019;21613.58
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2019;2019;21784.7
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2019;2019;23181.02
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2019;2019;23838.59
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2019;2019;24671.25
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2019;2019;26068.86
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2019;2019;26785.17
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2019;2019;26665.05
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2019;2019;28874.38
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2019;2019;31208.17
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2019;2019;33491.67
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2019;2019;5790.74
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2019;2019;6073.7
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2019;2019;6894.72
+A;Annual;MIO_EUR;Million euro;PT195;Beira Baixa;2019;2019;7727.32
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2019;2019;8927.83
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2019;2019;10830.38
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2019;2019;12186.92
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2019;2019;15437.49
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2019;2019;17858.83
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2019;2019;18537.34
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2019;2019;19800.59
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2019;2019;20457.94
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2019;2019;20679.93
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2019;2019;21613.58
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2019;2019;21784.7
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2019;2019;23181.02
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2019;2019;23838.59
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2019;2019;24671.25
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2019;2019;26068.86
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2019;2019;26785.17
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2019;2019;26665.05
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2019;2019;28874.38
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2019;2019;31208.17
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2019;2019;33491.67
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2019;2019;7207.92
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2019;2019;7610.88
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2019;2019;8257.5
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2020;2020;103.63
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2020;2020;78.59
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2020;2020;72.48
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2020;2020;72.35
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2020;2020;86.86
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2020;2020;86.59
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2020;2020;88.85
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2020;2020;90.43
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2020;2020;91.69
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2020;2020;89.21
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2020;2020;92.82
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2020;2020;111.67
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2020;2020;124.32
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2020;2020;108.46
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2020;2020;112.54
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2020;2020;106.35
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2020;2020;102.36
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2020;2020;100.74
+A;Annual;MIO_EUR;Million euro;PT195;Beira Baixa;2020;2020;102.06
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2020;2020;96.54
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2020;2020;98.91
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2020;2020;94.75
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2020;2020;96.85
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2020;2020;108.51
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2020;2020;103.63
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2020;2020;78.59
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2020;2020;72.48
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2020;2020;72.35
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2020;2020;86.86
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2020;2020;86.59
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2020;2020;88.85
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2020;2020;90.43
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2020;2020;91.69
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2020;2020;89.21
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2020;2020;92.82
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2020;2020;111.67
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2020;2020;124.32
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2020;2020;108.46
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2020;2020;112.54
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2020;2020;106.35
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2020;2020;102.36
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2020;2020;100.74
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2021;2021;2276.67
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2021;2021;2290.45
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2021;2021;2418.75
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2021;2021;2549.18
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2021;2021;2707.01
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2021;2021;2954.85
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2021;2021;3165.02
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2021;2021;2996.28
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2021;2021;3390.4
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2021;2021;257.76
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2021;2021;258.88
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2021;2021;281.47
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2021;2021;264.75
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2021;2021;305.15
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2021;2021;303.72
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2021;2021;314.57
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2021;2021;335.27
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2021;2021;356.29
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2021;2021;367.2
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2021;2021;408.38
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2021;2021;415.51
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2021;2021;388.13
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2021;2021;436.91
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2022;2022;13508.26
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2022;2022;16933.43
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2022;2022;18582.27
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2022;2022;20983.61
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2022;2022;22049.44
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2022;2022;18832.88
+A;Annual;MIO_EUR;Million euro;PT11B;Alto Tâmega e Barroso;2022;2022;23493.18
+A;Annual;MIO_EUR;Million euro;PT11C;Tâmega e Sousa;2022;2022;24875.26
+A;Annual;MIO_EUR;Million euro;PT11D;Douro;2022;2022;27727.1
+A;Annual;MIO_EUR;Million euro;PT11E;Terras de Trás-os-Montes;2022;2022;29122.31
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2022;2022;28754.04
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2022;2022;31628.54
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2022;2022;31850.13
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2022;2022;31351.59
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2022;2022;28038.11
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2022;2022;28001.36
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2022;2022;25198.23
+A;Annual;MIO_EUR;Million euro;PT195;Beira Baixa;2022;2022;28755.47
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2022;2022;34993.56
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2022;2022;40672.54
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2022;2022;3658.52
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2022;2022;4690.26
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2022;2022;5147.28
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2022;2022;5838.28
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2022;2022;6162.32
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2022;2022;5501.35
+A;Annual;MIO_EUR;Million euro;PT1D2;Médio Tejo;2022;2022;6873.81
+A;Annual;MIO_EUR;Million euro;PT1D3;Lezíria do Tejo;2022;2022;6921.83
+A;Annual;MIO_EUR;Million euro;PT2;Região Autónoma dos Açores;2022;2022;7876.71
+A;Annual;MIO_EUR;Million euro;PT20;Região Autónoma dos Açores;2022;2022;8623.64
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2022;2022;8085.86
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2022;2022;8777.55
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2022;2022;8821.94
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2022;2022;8651.38
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2022;2022;7537.99
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2022;2022;7740.78
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2022;2022;7212.45
+A;Annual;MIO_EUR;Million euro;PT;Portugal;2023;2023;674.78
+A;Annual;MIO_EUR;Million euro;PT1;Continente;2023;2023;575.17
+A;Annual;MIO_EUR;Million euro;PT11;Norte;2023;2023;644.98
+A;Annual;MIO_EUR;Million euro;PT111;Alto Minho;2023;2023;618.42
+A;Annual;MIO_EUR;Million euro;PT112;Cávado;2023;2023;569.88
+A;Annual;MIO_EUR;Million euro;PT119;Ave;2023;2023;648.39
+A;Annual;MIO_EUR;Million euro;PT11A;Área Metropolitana do Porto;2023;2023;854.54
+A;Annual;MIO_EUR;Million euro;PT15;Algarve;2023;2023;3272.34
+A;Annual;MIO_EUR;Million euro;PT150;Algarve;2023;2023;4031.35
+A;Annual;MIO_EUR;Million euro;PT19;Centro (PT);2023;2023;4357.73
+A;Annual;MIO_EUR;Million euro;PT191;Região de Aveiro;2023;2023;4931.5
+A;Annual;MIO_EUR;Million euro;PT192;Região de Coimbra;2023;2023;5220.82
+A;Annual;MIO_EUR;Million euro;PT193;Região de Leiria;2023;2023;4823.87
+A;Annual;MIO_EUR;Million euro;PT194;Viseu Dão Lafões;2023;2023;6370.9
+A;Annual;MIO_EUR;Million euro;PT195;Beira Baixa;2023;2023;6449.98
+A;Annual;MIO_EUR;Million euro;PT196;Beiras e Serra da Estrela;2023;2023;8200.98
+A;Annual;MIO_EUR;Million euro;PT1A;Grande Lisboa;2023;2023;7759.79
+A;Annual;MIO_EUR;Million euro;PT1A0;Grande Lisboa;2023;2023;7509.0
+A;Annual;MIO_EUR;Million euro;PT1B;Península de Setúbal;2023;2023;8003.34
+A;Annual;MIO_EUR;Million euro;PT1B0;Península de Setúbal;2023;2023;8309.77
+A;Annual;MIO_EUR;Million euro;PT1C;Alentejo;2023;2023;7986.81
+A;Annual;MIO_EUR;Million euro;PT1C1;Alentejo Litoral;2023;2023;6880.89
+A;Annual;MIO_EUR;Million euro;PT1C2;Baixo Alentejo;2023;2023;7291.75
+A;Annual;MIO_EUR;Million euro;PT1C3;Alto Alentejo;2023;2023;6919.75
+A;Annual;MIO_EUR;Million euro;PT1C4;Alentejo Central;2023;2023;6611.7
+A;Annual;MIO_EUR;Million euro;PT1D;Oeste e Vale do Tejo;2023;2023;7929.98
+A;Annual;MIO_EUR;Million euro;PT1D1;Oeste;2023;2023;10351.02
+A;Annual;MIO_EUR;Million euro;PT200;Região Autónoma dos Açores;2023;2023;1471.79
+A;Annual;MIO_EUR;Million euro;PT3;Região Autónoma da Madeira;2023;2023;1846.55
+A;Annual;MIO_EUR;Million euro;PT30;Região Autónoma da Madeira;2023;2023;2002.43
+A;Annual;MIO_EUR;Million euro;PT300;Região Autónoma da Madeira;2023;2023;2255.06
+A;Annual;MIO_EUR;Million euro;PTZ;Extra-Regio NUTS 1;2023;2023;2419.04
+A;Annual;MIO_EUR;Million euro;PTZZ;Extra-Regio NUTS 2;2023;2023;2256.13
+A;Annual;MIO_EUR;Million euro;PTZZZ;Extra-Regio NUTS 3;2023;2023;2939.77

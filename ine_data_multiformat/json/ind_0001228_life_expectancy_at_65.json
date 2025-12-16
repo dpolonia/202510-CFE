@@ -1,0 +1,46 @@
+{
+  "IndicadorCod": "0001228",
+  "IndicadorDsg": "Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos",
+  "MetaInfUrl": "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0001228&lingua=PT",
+  "DataExtracao": "2025-10-26T04:13:55.740Z",
+  "DataUltimoAtualizacao": "2008-02-25",
+  "UltimoPref": "2004",
+  "Dados": {
+    "2004": [
+      {
+        "geocod": "PT",
+        "geodsg": "Portugal",
+        "dim_3": "1",
+        "dim_3_t": "H",
+        "ind_string": "15,95",
+        "valor": "15.95",
+        "periodo": "2004"
+      },
+      {
+        "geocod": "PT",
+        "geodsg": "Portugal",
+        "dim_3": "2",
+        "dim_3_t": "M",
+        "ind_string": "19,30",
+        "valor": "19.3",
+        "periodo": "2004"
+      },
+      {
+        "geocod": "PT",
+        "geodsg": "Portugal",
+        "dim_3": "T",
+        "dim_3_t": "HM",
+        "ind_string": "17,76",
+        "valor": "17.76",
+        "periodo": "2004"
+      }
+    ]
+  },
+  "Sucesso": {
+    "Verdadeiro": [
+      {
+        "Msg": "OK"
+      }
+    ]
+  }
+}

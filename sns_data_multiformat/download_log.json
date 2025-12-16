@@ -1,0 +1,366 @@
+{
+  "divida-total-vencida-e-pagamentos_csv": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:24:46.778775",
+    "record_count": 7462,
+    "file_size_bytes": 1036067,
+    "file": "sns_data_multiformat\\csv\\priority_1\\divida-total-vencida-e-pagamentos.csv"
+  },
+  "divida-total-vencida-e-pagamentos_xlsx": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:24:49.724072",
+    "record_count": 7462,
+    "file_size_bytes": 233687,
+    "file": "sns_data_multiformat\\xlsx\\priority_1\\divida-total-vencida-e-pagamentos.xlsx"
+  },
+  "divida-total-vencida-e-pagamentos_json": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:24:53.948561",
+    "record_count": 7462,
+    "file_size_bytes": 2544696,
+    "file": "sns_data_multiformat\\json\\priority_1\\divida-total-vencida-e-pagamentos.json"
+  },
+  "agregados-economico-financeiros_csv": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:26:17.092191",
+    "record_count": 6268,
+    "file_size_bytes": 1026192,
+    "file": "sns_data_multiformat\\csv\\priority_1\\agregados-economico-financeiros.csv"
+  },
+  "agregados-economico-financeiros_xlsx": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:26:26.913989",
+    "record_count": 6268,
+    "file_size_bytes": 294328,
+    "file": "sns_data_multiformat\\xlsx\\priority_1\\agregados-economico-financeiros.xlsx"
+  },
+  "tempo-medio-de-pagamento-das-instituicoes-do-sns-a-fornecedores_csv": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:26:35.809729",
+    "record_count": 2423,
+    "file_size_bytes": 253956,
+    "file": "sns_data_multiformat\\csv\\priority_1\\tempo-medio-de-pagamento-das-instituicoes-do-sns-a-fornecedores.csv"
+  },
+  "tempo-medio-de-pagamento-das-instituicoes-do-sns-a-fornecedores_xlsx": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:26:43.612598",
+    "record_count": 2423,
+    "file_size_bytes": 33875,
+    "file": "sns_data_multiformat\\xlsx\\priority_1\\tempo-medio-de-pagamento-das-instituicoes-do-sns-a-fornecedores.xlsx"
+  },
+  "tempo-medio-de-pagamento-das-instituicoes-do-sns-a-fornecedores_json": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:26:48.124820",
+    "record_count": 2423,
+    "file_size_bytes": 561865,
+    "file": "sns_data_multiformat\\json\\priority_1\\tempo-medio-de-pagamento-das-instituicoes-do-sns-a-fornecedores.json"
+  },
+  "conta-do-servico-nacional-de-saude_csv": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:26:50.062102",
+    "record_count": 140,
+    "file_size_bytes": 76752,
+    "file": "sns_data_multiformat\\csv\\priority_1\\conta-do-servico-nacional-de-saude.csv"
+  },
+  "conta-do-servico-nacional-de-saude_xlsx": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:26:53.168240",
+    "record_count": 140,
+    "file_size_bytes": 25061,
+    "file": "sns_data_multiformat\\xlsx\\priority_1\\conta-do-servico-nacional-de-saude.xlsx"
+  },
+  "conta-do-servico-nacional-de-saude_json": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:26:56.844869",
+    "record_count": 140,
+    "file_size_bytes": 537094,
+    "file": "sns_data_multiformat\\json\\priority_1\\conta-do-servico-nacional-de-saude.json"
+  },
+  "trabalhadores-por-grupo-profissional_csv": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:27:00.214771",
+    "record_count": 7856,
+    "file_size_bytes": 1130308,
+    "file": "sns_data_multiformat\\csv\\priority_2\\trabalhadores-por-grupo-profissional.csv"
+  },
+  "trabalhadores-por-grupo-profissional_json": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:27:13.880450",
+    "record_count": 7856,
+    "file_size_bytes": 3658135,
+    "file": "sns_data_multiformat\\json\\priority_2\\trabalhadores-por-grupo-profissional.json"
+  },
+  "trabalhadores-por-modalidade-de-vinculacao_csv": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:27:33.070998",
+    "record_count": 111613,
+    "file_size_bytes": 16416750,
+    "file": "sns_data_multiformat\\csv\\priority_2\\trabalhadores-por-modalidade-de-vinculacao.csv"
+  },
+  "trabalhadores-por-modalidade-de-vinculacao_xlsx": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:28:11.771571",
+    "record_count": 111613,
+    "file_size_bytes": 1823133,
+    "file": "sns_data_multiformat\\xlsx\\priority_2\\trabalhadores-por-modalidade-de-vinculacao.xlsx"
+  },
+  "trabalhadores-por-modalidade-de-vinculacao_json": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:29:08.144608",
+    "record_count": 111613,
+    "file_size_bytes": 34052535,
+    "file": "sns_data_multiformat\\json\\priority_2\\trabalhadores-por-modalidade-de-vinculacao.json"
+  },
+  "contagem-dos-dias-de-ausencia-ao-trabalho-segundo-o-motivo-de-ausencia_csv": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:29:35.169286",
+    "record_count": 111369,
+    "file_size_bytes": 14236343,
+    "file": "sns_data_multiformat\\csv\\priority_2\\contagem-dos-dias-de-ausencia-ao-trabalho-segundo-o-motivo-de-ausencia.csv"
+  },
+  "contagem-dos-dias-de-ausencia-ao-trabalho-segundo-o-motivo-de-ausencia_xlsx": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:30:09.153037",
+    "record_count": 111369,
+    "file_size_bytes": 1937317,
+    "file": "sns_data_multiformat\\xlsx\\priority_2\\contagem-dos-dias-de-ausencia-ao-trabalho-segundo-o-motivo-de-ausencia.xlsx"
+  },
+  "percentagem-de-gastos-com-te-e-suplementos-no-total-gastos-com-pessoal_xlsx": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:30:28.214826",
+    "record_count": 4119,
+    "file_size_bytes": 81665,
+    "file": "sns_data_multiformat\\xlsx\\priority_2\\percentagem-de-gastos-com-te-e-suplementos-no-total-gastos-com-pessoal.xlsx"
+  },
+  "percentagem-de-gastos-com-te-e-suplementos-no-total-gastos-com-pessoal_json": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:30:33.126216",
+    "record_count": 4119,
+    "file_size_bytes": 1343839,
+    "file": "sns_data_multiformat\\json\\priority_2\\percentagem-de-gastos-com-te-e-suplementos-no-total-gastos-com-pessoal.json"
+  },
+  "morbilidade-e-mortalidade-hospitalar_csv": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:30:41.548664",
+    "record_count": 23303,
+    "file_size_bytes": 3639907,
+    "file": "sns_data_multiformat\\csv\\priority_3\\morbilidade-e-mortalidade-hospitalar.csv"
+  },
+  "morbilidade-e-mortalidade-hospitalar_json": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:31:08.109687",
+    "record_count": 23303,
+    "file_size_bytes": 7857364,
+    "file": "sns_data_multiformat\\json\\priority_3\\morbilidade-e-mortalidade-hospitalar.json"
+  },
+  "morbilidade-e-mortalidade-hospitalar-por-faixa-etaria_csv": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:31:13.695056",
+    "record_count": 17381,
+    "file_size_bytes": 1925989,
+    "file": "sns_data_multiformat\\csv\\priority_3\\morbilidade-e-mortalidade-hospitalar-por-faixa-etaria.csv"
+  },
+  "morbilidade-e-mortalidade-hospitalar-por-faixa-etaria_xlsx": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:31:20.065670",
+    "record_count": 17381,
+    "file_size_bytes": 190622,
+    "file": "sns_data_multiformat\\xlsx\\priority_3\\morbilidade-e-mortalidade-hospitalar-por-faixa-etaria.xlsx"
+  },
+  "morbilidade-e-mortalidade-hospitalar-por-faixa-etaria_json": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:31:24.018677",
+    "record_count": 17381,
+    "file_size_bytes": 4610756,
+    "file": "sns_data_multiformat\\json\\priority_3\\morbilidade-e-mortalidade-hospitalar-por-faixa-etaria.json"
+  },
+  "taxa-de-mortalidade-por-avc-isquemico-e-hemorragico_csv": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:31:26.914468",
+    "record_count": 6484,
+    "file_size_bytes": 709855,
+    "file": "sns_data_multiformat\\csv\\priority_3\\taxa-de-mortalidade-por-avc-isquemico-e-hemorragico.csv"
+  },
+  "taxa-de-mortalidade-por-avc-isquemico-e-hemorragico_xlsx": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:31:30.389993",
+    "record_count": 6484,
+    "file_size_bytes": 93975,
+    "file": "sns_data_multiformat\\xlsx\\priority_3\\taxa-de-mortalidade-por-avc-isquemico-e-hemorragico.xlsx"
+  },
+  "taxa-de-mortalidade-por-avc-isquemico-e-hemorragico_json": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:31:34.324837",
+    "record_count": 6484,
+    "file_size_bytes": 1846230,
+    "file": "sns_data_multiformat\\json\\priority_3\\taxa-de-mortalidade-por-avc-isquemico-e-hemorragico.json"
+  },
+  "fraturas-da-anca-cirurgias-nas-primeiras-48h_csv": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:31:37.431333",
+    "record_count": 7298,
+    "file_size_bytes": 801387,
+    "file": "sns_data_multiformat\\csv\\priority_3\\fraturas-da-anca-cirurgias-nas-primeiras-48h.csv"
+  },
+  "fraturas-da-anca-cirurgias-nas-primeiras-48h_xlsx": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:31:42.550084",
+    "record_count": 7298,
+    "file_size_bytes": 118532,
+    "file": "sns_data_multiformat\\xlsx\\priority_3\\fraturas-da-anca-cirurgias-nas-primeiras-48h.xlsx"
+  },
+  "notificacao-de-incidentes-de-seguranca-em-unidades-prestadoras-de-cuidados-de-sa_csv": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:31:51.443352",
+    "record_count": 28,
+    "file_size_bytes": 506,
+    "file": "sns_data_multiformat\\csv\\priority_3\\notificacao-de-incidentes-de-seguranca-em-unidades-prestadoras-de-cuidados-de-sa.csv"
+  },
+  "notificacao-de-incidentes-de-seguranca-em-unidades-prestadoras-de-cuidados-de-sa_xlsx": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:31:52.260166",
+    "record_count": 28,
+    "file_size_bytes": 1975,
+    "file": "sns_data_multiformat\\xlsx\\priority_3\\notificacao-de-incidentes-de-seguranca-em-unidades-prestadoras-de-cuidados-de-sa.xlsx"
+  },
+  "notificacao-de-incidentes-de-seguranca-em-unidades-prestadoras-de-cuidados-de-sa_json": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:31:53.115596",
+    "record_count": 28,
+    "file_size_bytes": 2936,
+    "file": "sns_data_multiformat\\json\\priority_3\\notificacao-de-incidentes-de-seguranca-em-unidades-prestadoras-de-cuidados-de-sa.json"
+  },
+  "agregados-economico-financeiros_json": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:37:56.784815",
+    "record_count": 6268,
+    "file_size_bytes": 2331646,
+    "file": "sns_data_multiformat\\json\\priority_1\\agregados-economico-financeiros.json"
+  },
+  "agregados-economico-financeiros_parquet": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:37:58.977759",
+    "record_count": 0,
+    "file_size_bytes": 292216,
+    "file": "sns_data_multiformat\\parquet\\priority_1\\agregados-economico-financeiros.parquet"
+  },
+  "trabalhadores-por-grupo-profissional_xlsx": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:38:08.448865",
+    "record_count": 7856,
+    "file_size_bytes": 304272,
+    "file": "sns_data_multiformat\\xlsx\\priority_2\\trabalhadores-por-grupo-profissional.xlsx"
+  },
+  "trabalhadores-por-grupo-profissional_parquet": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:38:11.675173",
+    "record_count": 0,
+    "file_size_bytes": 183077,
+    "file": "sns_data_multiformat\\parquet\\priority_2\\trabalhadores-por-grupo-profissional.parquet"
+  },
+  "contagem-dos-dias-de-ausencia-ao-trabalho-segundo-o-motivo-de-ausencia_json": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:41:28.416374",
+    "record_count": 111369,
+    "file_size_bytes": 29419524,
+    "file": "sns_data_multiformat\\json\\priority_2\\contagem-dos-dias-de-ausencia-ao-trabalho-segundo-o-motivo-de-ausencia.json"
+  },
+  "contagem-dos-dias-de-ausencia-ao-trabalho-segundo-o-motivo-de-ausencia_parquet": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:38:41.065056",
+    "record_count": 0,
+    "file_size_bytes": 574513,
+    "file": "sns_data_multiformat\\parquet\\priority_2\\contagem-dos-dias-de-ausencia-ao-trabalho-segundo-o-motivo-de-ausencia.parquet"
+  },
+  "percentagem-de-gastos-com-te-e-suplementos-no-total-gastos-com-pessoal_csv": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:38:44.610512",
+    "record_count": 4119,
+    "file_size_bytes": 469222,
+    "file": "sns_data_multiformat\\csv\\priority_2\\percentagem-de-gastos-com-te-e-suplementos-no-total-gastos-com-pessoal.csv"
+  },
+  "percentagem-de-gastos-com-te-e-suplementos-no-total-gastos-com-pessoal_parquet": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:38:49.911889",
+    "record_count": 0,
+    "file_size_bytes": 68016,
+    "file": "sns_data_multiformat\\parquet\\priority_2\\percentagem-de-gastos-com-te-e-suplementos-no-total-gastos-com-pessoal.parquet"
+  },
+  "morbilidade-e-mortalidade-hospitalar_xlsx": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:39:13.227314",
+    "record_count": 23303,
+    "file_size_bytes": 419410,
+    "file": "sns_data_multiformat\\xlsx\\priority_3\\morbilidade-e-mortalidade-hospitalar.xlsx"
+  },
+  "morbilidade-e-mortalidade-hospitalar_parquet": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:39:25.637261",
+    "record_count": 0,
+    "file_size_bytes": 229385,
+    "file": "sns_data_multiformat\\parquet\\priority_3\\morbilidade-e-mortalidade-hospitalar.parquet"
+  },
+  "fraturas-da-anca-cirurgias-nas-primeiras-48h_json": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:41:36.383659",
+    "record_count": 7298,
+    "file_size_bytes": 3348039,
+    "file": "sns_data_multiformat\\json\\priority_3\\fraturas-da-anca-cirurgias-nas-primeiras-48h.json"
+  },
+  "fraturas-da-anca-cirurgias-nas-primeiras-48h_parquet": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:39:38.391343",
+    "record_count": 0,
+    "file_size_bytes": 72392,
+    "file": "sns_data_multiformat\\parquet\\priority_3\\fraturas-da-anca-cirurgias-nas-primeiras-48h.parquet"
+  },
+  "divida-total-vencida-e-pagamentos_parquet": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:42:18.031676",
+    "record_count": 0,
+    "file_size_bytes": 205459,
+    "file": "sns_data_multiformat\\parquet\\priority_1\\divida-total-vencida-e-pagamentos.parquet"
+  },
+  "tempo-medio-de-pagamento-das-instituicoes-do-sns-a-fornecedores_parquet": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:42:19.809592",
+    "record_count": 0,
+    "file_size_bytes": 17203,
+    "file": "sns_data_multiformat\\parquet\\priority_1\\tempo-medio-de-pagamento-das-instituicoes-do-sns-a-fornecedores.parquet"
+  },
+  "conta-do-servico-nacional-de-saude_parquet": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:42:21.135233",
+    "record_count": 0,
+    "file_size_bytes": 56901,
+    "file": "sns_data_multiformat\\parquet\\priority_1\\conta-do-servico-nacional-de-saude.parquet"
+  },
+  "trabalhadores-por-modalidade-de-vinculacao_parquet": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:42:42.484549",
+    "record_count": 0,
+    "file_size_bytes": 455884,
+    "file": "sns_data_multiformat\\parquet\\priority_2\\trabalhadores-por-modalidade-de-vinculacao.parquet"
+  },
+  "morbilidade-e-mortalidade-hospitalar-por-faixa-etaria_parquet": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:42:48.383649",
+    "record_count": 0,
+    "file_size_bytes": 100273,
+    "file": "sns_data_multiformat\\parquet\\priority_3\\morbilidade-e-mortalidade-hospitalar-por-faixa-etaria.parquet"
+  },
+  "taxa-de-mortalidade-por-avc-isquemico-e-hemorragico_parquet": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:42:50.027068",
+    "record_count": 0,
+    "file_size_bytes": 53728,
+    "file": "sns_data_multiformat\\parquet\\priority_3\\taxa-de-mortalidade-por-avc-isquemico-e-hemorragico.parquet"
+  },
+  "notificacao-de-incidentes-de-seguranca-em-unidades-prestadoras-de-cuidados-de-sa_parquet": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:42:51.276809",
+    "record_count": 0,
+    "file_size_bytes": 1648,
+    "file": "sns_data_multiformat\\parquet\\priority_3\\notificacao-de-incidentes-de-seguranca-em-unidades-prestadoras-de-cuidados-de-sa.parquet"
+  }
+}

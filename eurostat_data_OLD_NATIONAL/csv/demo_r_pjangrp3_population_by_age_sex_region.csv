@@ -1,0 +1,727 @@
+﻿freq;freq_label;sex;sex_label;unit;unit_label;age;age_label;geo;geo_label;time;time_label;value
+A;Annual;T;Total;NR;Number;TOTAL;Total;PT;Portugal;2014;2014;10444092
+A;Annual;M;Males;NR;Number;TOTAL;Total;PT;Portugal;2014;2014;10395121
+A;Annual;F;Females;NR;Number;TOTAL;Total;PT;Portugal;2014;2014;10368554
+A;Annual;T;Total;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2014;2014;10344478
+A;Annual;M;Males;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2014;2014;10335770
+A;Annual;F;Females;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2014;2014;10333496
+A;Annual;T;Total;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2014;2014;10375395
+A;Annual;M;Males;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2014;2014;10394297
+A;Annual;F;Females;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2014;2014;10421117
+A;Annual;T;Total;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2014;2014;10516621
+A;Annual;M;Males;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2014;2014;10639726
+A;Annual;F;Females;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2014;2014;466541
+A;Annual;T;Total;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2014;2014;451569
+A;Annual;M;Males;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2014;2014;436661
+A;Annual;F;Females;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2014;2014;427131
+A;Annual;T;Total;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2014;2014;423917
+A;Annual;M;Males;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2014;2014;428513
+A;Annual;F;Females;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2014;2014;433867
+A;Annual;T;Total;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2014;2014;433732
+A;Annual;M;Males;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2014;2014;426992
+A;Annual;F;Females;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2014;2014;428501
+A;Annual;T;Total;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2014;2014;429772
+A;Annual;M;Males;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2014;2014;511837
+A;Annual;F;Females;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2014;2014;504363
+A;Annual;T;Total;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2014;2014;499029
+A;Annual;M;Males;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2014;2014;493797
+A;Annual;F;Females;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2014;2014;484843
+A;Annual;T;Total;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2014;2014;467187
+A;Annual;M;Males;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2014;2014;453849
+A;Annual;F;Females;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2014;2014;440164
+A;Annual;T;Total;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2014;2014;433175
+A;Annual;M;Males;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2014;2014;437231
+A;Annual;F;Females;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2014;2014;448180
+A;Annual;T;Total;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2014;2014;552624
+A;Annual;M;Males;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2014;2014;542413
+A;Annual;F;Females;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2014;2014;531573
+A;Annual;T;Total;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2014;2014;525896
+A;Annual;M;Males;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2014;2014;517060
+A;Annual;F;Females;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2014;2014;511239
+A;Annual;T;Total;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2014;2014;504600
+A;Annual;M;Males;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2014;2014;500161
+A;Annual;F;Females;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2014;2014;497656
+A;Annual;T;Total;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2014;2014;495740
+A;Annual;M;Males;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2014;2014;485816
+A;Annual;F;Females;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2014;2014;547284
+A;Annual;T;Total;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2014;2014;551643
+A;Annual;M;Males;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2014;2014;560042
+A;Annual;F;Females;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2014;2014;558156
+A;Annual;T;Total;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2014;2014;556157
+A;Annual;M;Males;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2014;2014;552415
+A;Annual;F;Females;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2014;2014;543199
+A;Annual;T;Total;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2014;2014;532451
+A;Annual;M;Males;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2014;2014;528895
+A;Annual;F;Females;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2014;2014;525574
+A;Annual;T;Total;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2014;2014;528106
+A;Annual;M;Males;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2014;2014;562395
+A;Annual;F;Females;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2014;2014;553280
+A;Annual;T;Total;NR;Number;Y_GE85;85 years or over;PT;Portugal;2014;2014;546040
+A;Annual;M;Males;NR;Number;Y_GE85;85 years or over;PT;Portugal;2014;2014;539439
+A;Annual;F;Females;NR;Number;Y_GE85;85 years or over;PT;Portugal;2014;2014;537458
+A;Annual;T;Total;NR;Number;Y_GE90;90 years or over;PT;Portugal;2014;2014;537661
+A;Annual;M;Males;NR;Number;Y_GE90;90 years or over;PT;Portugal;2014;2014;547860
+A;Annual;F;Females;NR;Number;Y_GE90;90 years or over;PT;Portugal;2014;2014;558899
+A;Annual;T;Total;NR;Number;UNK;Unknown;PT;Portugal;2014;2014;560746
+A;Annual;M;Males;NR;Number;UNK;Unknown;PT;Portugal;2014;2014;565378
+A;Annual;F;Females;NR;Number;UNK;Unknown;PT;Portugal;2014;2014;570651
+A;Annual;T;Total;NR;Number;TOTAL;Total;PT;Portugal;2015;2015;581043
+A;Annual;M;Males;NR;Number;TOTAL;Total;PT;Portugal;2015;2015;559416
+A;Annual;F;Females;NR;Number;TOTAL;Total;PT;Portugal;2015;2015;551466
+A;Annual;T;Total;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2015;2015;547476
+A;Annual;M;Males;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2015;2015;546782
+A;Annual;F;Females;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2015;2015;545895
+A;Annual;T;Total;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2015;2015;545779
+A;Annual;M;Males;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2015;2015;543237
+A;Annual;F;Females;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2015;2015;544830
+A;Annual;T;Total;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2015;2015;555084
+A;Annual;M;Males;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2015;2015;570426
+A;Annual;F;Females;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2015;2015;688140
+A;Annual;T;Total;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2015;2015;665173
+A;Annual;M;Males;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2015;2015;637280
+A;Annual;F;Females;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2015;2015;612647
+A;Annual;T;Total;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2015;2015;589542
+A;Annual;M;Males;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2015;2015;573673
+A;Annual;F;Females;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2015;2015;563303
+A;Annual;T;Total;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2015;2015;560694
+A;Annual;M;Males;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2015;2015;564506
+A;Annual;F;Females;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2015;2015;578434
+A;Annual;T;Total;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2015;2015;595831
+A;Annual;M;Males;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2015;2015;809698
+A;Annual;F;Females;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2015;2015;785116
+A;Annual;T;Total;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2015;2015;760185
+A;Annual;M;Males;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2015;2015;729937
+A;Annual;F;Females;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2015;2015;703974
+A;Annual;T;Total;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2015;2015;685449
+A;Annual;M;Males;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2015;2015;673005
+A;Annual;F;Females;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2015;2015;651589
+A;Annual;T;Total;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2015;2015;634615
+A;Annual;M;Males;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2015;2015;625604
+A;Annual;F;Females;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2015;2015;625728
+A;Annual;T;Total;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2015;2015;789321
+A;Annual;M;Males;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2015;2015;797884
+A;Annual;F;Females;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2015;2015;806604
+A;Annual;T;Total;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2015;2015;810450
+A;Annual;M;Males;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2015;2015;810179
+A;Annual;F;Females;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2015;2015;799141
+A;Annual;T;Total;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2015;2015;783098
+A;Annual;M;Males;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2015;2015;766131
+A;Annual;F;Females;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2015;2015;743569
+A;Annual;T;Total;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2015;2015;729857
+A;Annual;M;Males;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2015;2015;725913
+A;Annual;F;Females;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2015;2015;767351
+A;Annual;T;Total;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2015;2015;758958
+A;Annual;M;Males;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2015;2015;756632
+A;Annual;F;Females;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2015;2015;760556
+A;Annual;T;Total;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2015;2015;767809
+A;Annual;M;Males;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2015;2015;774371
+A;Annual;F;Females;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2015;2015;786195
+A;Annual;T;Total;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2015;2015;797726
+A;Annual;M;Males;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2015;2015;807123
+A;Annual;F;Females;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2015;2015;818452
+A;Annual;T;Total;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2015;2015;820461
+A;Annual;M;Males;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2015;2015;747484
+A;Annual;F;Females;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2015;2015;756461
+A;Annual;T;Total;NR;Number;Y_GE85;85 years or over;PT;Portugal;2015;2015;758266
+A;Annual;M;Males;NR;Number;Y_GE85;85 years or over;PT;Portugal;2015;2015;758019
+A;Annual;F;Females;NR;Number;Y_GE85;85 years or over;PT;Portugal;2015;2015;755458
+A;Annual;T;Total;NR;Number;Y_GE90;90 years or over;PT;Portugal;2015;2015;752612
+A;Annual;M;Males;NR;Number;Y_GE90;90 years or over;PT;Portugal;2015;2015;748505
+A;Annual;F;Females;NR;Number;Y_GE90;90 years or over;PT;Portugal;2015;2015;748365
+A;Annual;T;Total;NR;Number;UNK;Unknown;PT;Portugal;2015;2015;753851
+A;Annual;M;Males;NR;Number;UNK;Unknown;PT;Portugal;2015;2015;767932
+A;Annual;F;Females;NR;Number;UNK;Unknown;PT;Portugal;2015;2015;782582
+A;Annual;T;Total;NR;Number;TOTAL;Total;PT;Portugal;2016;2016;688338
+A;Annual;M;Males;NR;Number;TOTAL;Total;PT;Portugal;2016;2016;694810
+A;Annual;F;Females;NR;Number;TOTAL;Total;PT;Portugal;2016;2016;705053
+A;Annual;T;Total;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2016;2016;717074
+A;Annual;M;Males;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2016;2016;725210
+A;Annual;F;Females;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2016;2016;731504
+A;Annual;T;Total;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2016;2016;742769
+A;Annual;M;Males;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2016;2016;745067
+A;Annual;F;Females;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2016;2016;746862
+A;Annual;T;Total;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2016;2016;750521
+A;Annual;M;Males;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2016;2016;754885
+A;Annual;F;Females;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2016;2016;644335
+A;Annual;T;Total;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2016;2016;648575
+A;Annual;M;Males;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2016;2016;654712
+A;Annual;F;Females;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2016;2016;657448
+A;Annual;T;Total;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2016;2016;665319
+A;Annual;M;Males;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2016;2016;678018
+A;Annual;F;Females;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2016;2016;690884
+A;Annual;T;Total;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2016;2016;703828
+A;Annual;M;Males;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2016;2016;716653
+A;Annual;F;Females;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2016;2016;727409
+A;Annual;T;Total;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2016;2016;736800
+A;Annual;M;Males;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2016;2016;576221
+A;Annual;F;Females;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2016;2016;587504
+A;Annual;T;Total;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2016;2016;596549
+A;Annual;M;Males;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2016;2016;611614
+A;Annual;F;Females;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2016;2016;627359
+A;Annual;T;Total;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2016;2016;629274
+A;Annual;M;Males;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2016;2016;640844
+A;Annual;F;Females;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2016;2016;651769
+A;Annual;T;Total;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2016;2016;658158
+A;Annual;M;Males;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2016;2016;669746
+A;Annual;F;Females;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2016;2016;685297
+A;Annual;T;Total;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2016;2016;477976
+A;Annual;M;Males;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2016;2016;483847
+A;Annual;F;Females;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2016;2016;499643
+A;Annual;T;Total;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2016;2016;514075
+A;Annual;M;Males;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2016;2016;528508
+A;Annual;F;Females;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2016;2016;550437
+A;Annual;T;Total;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2016;2016;570484
+A;Annual;M;Males;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2016;2016;585038
+A;Annual;F;Females;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2016;2016;603512
+A;Annual;T;Total;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2016;2016;618759
+A;Annual;M;Males;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2016;2016;619143
+A;Annual;F;Females;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2016;2016;432940
+A;Annual;T;Total;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2016;2016;436031
+A;Annual;M;Males;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2016;2016;432734
+A;Annual;F;Females;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2016;2016;426619
+A;Annual;T;Total;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2016;2016;426552
+A;Annual;M;Males;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2016;2016;430858
+A;Annual;F;Females;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2016;2016;442781
+A;Annual;T;Total;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2016;2016;461865
+A;Annual;M;Males;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2016;2016;478962
+A;Annual;F;Females;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2016;2016;494631
+A;Annual;T;Total;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2016;2016;516919
+A;Annual;M;Males;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2016;2016;325736
+A;Annual;F;Females;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2016;2016;330528
+A;Annual;T;Total;NR;Number;Y_GE85;85 years or over;PT;Portugal;2016;2016;337463
+A;Annual;M;Males;NR;Number;Y_GE85;85 years or over;PT;Portugal;2016;2016;344067
+A;Annual;F;Females;NR;Number;Y_GE85;85 years or over;PT;Portugal;2016;2016;347314
+A;Annual;T;Total;NR;Number;Y_GE90;90 years or over;PT;Portugal;2016;2016;352972
+A;Annual;M;Males;NR;Number;Y_GE90;90 years or over;PT;Portugal;2016;2016;360861
+A;Annual;F;Females;NR;Number;Y_GE90;90 years or over;PT;Portugal;2016;2016;360855
+A;Annual;T;Total;NR;Number;UNK;Unknown;PT;Portugal;2016;2016;358685
+A;Annual;M;Males;NR;Number;UNK;Unknown;PT;Portugal;2016;2016;359261
+A;Annual;F;Females;NR;Number;UNK;Unknown;PT;Portugal;2016;2016;363850
+A;Annual;T;Total;NR;Number;TOTAL;Total;PT;Portugal;2017;2017;188562
+A;Annual;M;Males;NR;Number;TOTAL;Total;PT;Portugal;2017;2017;194533
+A;Annual;F;Females;NR;Number;TOTAL;Total;PT;Portugal;2017;2017;200136
+A;Annual;T;Total;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2017;2017;205652
+A;Annual;M;Males;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2017;2017;213070
+A;Annual;F;Females;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2017;2017;217833
+A;Annual;T;Total;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2017;2017;223752
+A;Annual;M;Males;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2017;2017;229494
+A;Annual;F;Females;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2017;2017;235532
+A;Annual;T;Total;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2017;2017;239000
+A;Annual;M;Males;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2017;2017;245247
+A;Annual;F;Females;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2017;2017;274828
+A;Annual;T;Total;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2017;2017;287550
+A;Annual;M;Males;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2017;2017;298622
+A;Annual;F;Females;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2017;2017;310077
+A;Annual;T;Total;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2017;2017;322329
+A;Annual;M;Males;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2017;2017;332277
+A;Annual;F;Females;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2017;2017;343512
+A;Annual;T;Total;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2017;2017;352726
+A;Annual;M;Males;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2017;2017;362327
+A;Annual;F;Females;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2017;2017;368507
+A;Annual;T;Total;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2017;2017;379366
+A;Annual;M;Males;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2017;2017;86266
+A;Annual;F;Females;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2017;2017;93017
+A;Annual;T;Total;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2017;2017;98486
+A;Annual;M;Males;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2017;2017;104425
+A;Annual;F;Females;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2017;2017;109259
+A;Annual;T;Total;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2017;2017;114444
+A;Annual;M;Males;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2017;2017;119760
+A;Annual;F;Females;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2017;2017;123232
+A;Annual;T;Total;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2017;2017;126795
+A;Annual;M;Males;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2017;2017;129507
+A;Annual;F;Females;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2017;2017;134119
+A;Annual;T;Total;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2017;2017;0
+A;Annual;M;Males;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2017;2017;0
+A;Annual;F;Females;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2017;2017;0
+A;Annual;T;Total;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2017;2017;0
+A;Annual;M;Males;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2017;2017;0
+A;Annual;F;Females;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2017;2017;0
+A;Annual;T;Total;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2017;2017;0
+A;Annual;M;Males;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2017;2017;0
+A;Annual;F;Females;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2017;2017;0
+A;Annual;T;Total;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2017;2017;0
+A;Annual;M;Males;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2017;2017;0
+A;Annual;F;Females;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2017;2017;4965345
+A;Annual;T;Total;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2017;2017;4934668
+A;Annual;M;Males;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2017;2017;4919465
+A;Annual;F;Females;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2017;2017;4907936
+A;Annual;T;Total;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2017;2017;4902631
+A;Annual;M;Males;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2017;2017;4898614
+A;Annual;F;Females;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2017;2017;4926990
+A;Annual;T;Total;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2017;2017;4942871
+A;Annual;M;Males;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2017;2017;4967262
+A;Annual;F;Females;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2017;2017;5020648
+A;Annual;T;Total;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2017;2017;5083568
+A;Annual;M;Males;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2017;2017;238563
+A;Annual;F;Females;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2017;2017;231268
+A;Annual;T;Total;NR;Number;Y_GE85;85 years or over;PT;Portugal;2017;2017;224047
+A;Annual;M;Males;NR;Number;Y_GE85;85 years or over;PT;Portugal;2017;2017;219197
+A;Annual;F;Females;NR;Number;Y_GE85;85 years or over;PT;Portugal;2017;2017;217161
+A;Annual;T;Total;NR;Number;Y_GE90;90 years or over;PT;Portugal;2017;2017;219201
+A;Annual;M;Males;NR;Number;Y_GE90;90 years or over;PT;Portugal;2017;2017;221764
+A;Annual;F;Females;NR;Number;Y_GE90;90 years or over;PT;Portugal;2017;2017;221865
+A;Annual;T;Total;NR;Number;UNK;Unknown;PT;Portugal;2017;2017;218686
+A;Annual;M;Males;NR;Number;UNK;Unknown;PT;Portugal;2017;2017;219895
+A;Annual;F;Females;NR;Number;UNK;Unknown;PT;Portugal;2017;2017;221121
+A;Annual;T;Total;NR;Number;TOTAL;Total;PT;Portugal;2018;2018;262647
+A;Annual;M;Males;NR;Number;TOTAL;Total;PT;Portugal;2018;2018;258595
+A;Annual;F;Females;NR;Number;TOTAL;Total;PT;Portugal;2018;2018;254887
+A;Annual;T;Total;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2018;2018;252496
+A;Annual;M;Males;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2018;2018;248083
+A;Annual;F;Females;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2018;2018;238601
+A;Annual;T;Total;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2018;2018;232075
+A;Annual;M;Males;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2018;2018;225547
+A;Annual;F;Females;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2018;2018;222328
+A;Annual;T;Total;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2018;2018;224265
+A;Annual;M;Males;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2018;2018;229621
+A;Annual;F;Females;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2018;2018;283442
+A;Annual;T;Total;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2018;2018;278458
+A;Annual;M;Males;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2018;2018;273104
+A;Annual;F;Females;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2018;2018;269681
+A;Annual;T;Total;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2018;2018;264746
+A;Annual;M;Males;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2018;2018;261570
+A;Annual;F;Females;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2018;2018;257509
+A;Annual;T;Total;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2018;2018;254046
+A;Annual;M;Males;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2018;2018;253406
+A;Annual;F;Females;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2018;2018;253076
+A;Annual;T;Total;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2018;2018;247542
+A;Annual;M;Males;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2018;2018;279884
+A;Annual;F;Females;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2018;2018;281799
+A;Annual;T;Total;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2018;2018;286145
+A;Annual;M;Males;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2018;2018;285434
+A;Annual;F;Females;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2018;2018;284926
+A;Annual;T;Total;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2018;2018;282820
+A;Annual;M;Males;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2018;2018;278369
+A;Annual;F;Females;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2018;2018;272956
+A;Annual;T;Total;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2018;2018;270561
+A;Annual;M;Males;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2018;2018;268327
+A;Annual;F;Females;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2018;2018;269206
+A;Annual;T;Total;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2018;2018;283583
+A;Annual;M;Males;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2018;2018;279488
+A;Annual;F;Females;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2018;2018;276357
+A;Annual;T;Total;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2018;2018;273987
+A;Annual;M;Males;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2018;2018;273194
+A;Annual;F;Females;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2018;2018;273251
+A;Annual;T;Total;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2018;2018;278887
+A;Annual;M;Males;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2018;2018;284907
+A;Annual;F;Females;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2018;2018;286456
+A;Annual;T;Total;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2018;2018;289136
+A;Annual;M;Males;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2018;2018;290561
+A;Annual;F;Females;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2018;2018;289195
+A;Annual;T;Total;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2018;2018;278801
+A;Annual;M;Males;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2018;2018;275334
+A;Annual;F;Females;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2018;2018;274446
+A;Annual;T;Total;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2018;2018;274082
+A;Annual;M;Males;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2018;2018;273146
+A;Annual;F;Females;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2018;2018;274075
+A;Annual;T;Total;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2018;2018;273955
+A;Annual;M;Males;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2018;2018;276848
+A;Annual;F;Females;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2018;2018;283434
+A;Annual;T;Total;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2018;2018;291928
+A;Annual;M;Males;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2018;2018;333994
+A;Annual;F;Females;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2018;2018;322820
+A;Annual;T;Total;NR;Number;Y_GE85;85 years or over;PT;Portugal;2018;2018;310183
+A;Annual;M;Males;NR;Number;Y_GE85;85 years or over;PT;Portugal;2018;2018;299356
+A;Annual;F;Females;NR;Number;Y_GE85;85 years or over;PT;Portugal;2018;2018;289062
+A;Annual;T;Total;NR;Number;Y_GE90;90 years or over;PT;Portugal;2018;2018;281728
+A;Annual;M;Males;NR;Number;Y_GE90;90 years or over;PT;Portugal;2018;2018;277652
+A;Annual;F;Females;NR;Number;Y_GE90;90 years or over;PT;Portugal;2018;2018;277876
+A;Annual;T;Total;NR;Number;UNK;Unknown;PT;Portugal;2018;2018;281937
+A;Annual;M;Males;NR;Number;UNK;Unknown;PT;Portugal;2018;2018;290068
+A;Annual;F;Females;NR;Number;UNK;Unknown;PT;Portugal;2018;2018;300061
+A;Annual;T;Total;NR;Number;TOTAL;Total;PT;Portugal;2019;2019;391082
+A;Annual;M;Males;NR;Number;TOTAL;Total;PT;Portugal;2019;2019;378118
+A;Annual;F;Females;NR;Number;TOTAL;Total;PT;Portugal;2019;2019;364918
+A;Annual;T;Total;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2019;2019;350165
+A;Annual;M;Males;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2019;2019;337437
+A;Annual;F;Females;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2019;2019;329243
+A;Annual;T;Total;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2019;2019;324911
+A;Annual;M;Males;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2019;2019;316284
+A;Annual;F;Females;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2019;2019;310258
+A;Annual;T;Total;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2019;2019;307340
+A;Annual;M;Males;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2019;2019;308975
+A;Annual;F;Females;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2019;2019;381878
+A;Annual;T;Total;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2019;2019;384355
+A;Annual;M;Males;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2019;2019;388003
+A;Annual;F;Females;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2019;2019;389295
+A;Annual;T;Total;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2019;2019;389139
+A;Annual;M;Males;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2019;2019;383303
+A;Annual;F;Females;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2019;2019;376779
+A;Annual;T;Total;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2019;2019;368507
+A;Annual;M;Males;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2019;2019;358468
+A;Annual;F;Females;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2019;2019;352494
+A;Annual;T;Total;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2019;2019;352038
+A;Annual;M;Males;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2019;2019;369114
+A;Annual;F;Females;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2019;2019;364646
+A;Annual;T;Total;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2019;2019;363276
+A;Annual;M;Males;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2019;2019;364956
+A;Annual;F;Females;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2019;2019;368332
+A;Annual;T;Total;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2019;2019;370735
+A;Annual;M;Males;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2019;2019;376331
+A;Annual;F;Females;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2019;2019;382134
+A;Annual;T;Total;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2019;2019;387023
+A;Annual;M;Males;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2019;2019;393300
+A;Annual;F;Females;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2019;2019;394465
+A;Annual;T;Total;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2019;2019;357533
+A;Annual;M;Males;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2019;2019;360686
+A;Annual;F;Females;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2019;2019;360597
+A;Annual;T;Total;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2019;2019;360071
+A;Annual;M;Males;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2019;2019;358388
+A;Annual;F;Females;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2019;2019;357108
+A;Annual;T;Total;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2019;2019;355853
+A;Annual;M;Males;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2019;2019;356087
+A;Annual;F;Females;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2019;2019;359343
+A;Annual;T;Total;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2019;2019;366542
+A;Annual;M;Males;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2019;2019;373346
+A;Annual;F;Females;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2019;2019;325863
+A;Annual;T;Total;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2019;2019;328311
+A;Annual;M;Males;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2019;2019;333624
+A;Annual;F;Females;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2019;2019;338799
+A;Annual;T;Total;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2019;2019;341957
+A;Annual;M;Males;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2019;2019;344264
+A;Annual;F;Females;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2019;2019;349298
+A;Annual;T;Total;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2019;2019;349716
+A;Annual;M;Males;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2019;2019;350495
+A;Annual;F;Females;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2019;2019;351904
+A;Annual;T;Total;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2019;2019;354591
+A;Annual;M;Males;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2019;2019;302475
+A;Annual;F;Females;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2019;2019;303613
+A;Annual;T;Total;NR;Number;Y_GE85;85 years or over;PT;Portugal;2019;2019;305631
+A;Annual;M;Males;NR;Number;Y_GE85;85 years or over;PT;Portugal;2019;2019;306260
+A;Annual;F;Females;NR;Number;Y_GE85;85 years or over;PT;Portugal;2019;2019;310380
+A;Annual;T;Total;NR;Number;Y_GE90;90 years or over;PT;Portugal;2019;2019;316047
+A;Annual;M;Males;NR;Number;Y_GE90;90 years or over;PT;Portugal;2019;2019;321863
+A;Annual;F;Females;NR;Number;Y_GE90;90 years or over;PT;Portugal;2019;2019;328700
+A;Annual;T;Total;NR;Number;UNK;Unknown;PT;Portugal;2019;2019;334647
+A;Annual;M;Males;NR;Number;UNK;Unknown;PT;Portugal;2019;2019;339566
+A;Annual;F;Females;NR;Number;UNK;Unknown;PT;Portugal;2019;2019;344026
+A;Annual;T;Total;NR;Number;TOTAL;Total;PT;Portugal;2020;2020;260751
+A;Annual;M;Males;NR;Number;TOTAL;Total;PT;Portugal;2020;2020;267723
+A;Annual;F;Females;NR;Number;TOTAL;Total;PT;Portugal;2020;2020;273846
+A;Annual;T;Total;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2020;2020;282257
+A;Annual;M;Males;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2020;2020;289716
+A;Annual;F;Females;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2020;2020;290896
+A;Annual;T;Total;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2020;2020;296428
+A;Annual;M;Males;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2020;2020;301143
+A;Annual;F;Females;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2020;2020;303957
+A;Annual;T;Total;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2020;2020;309736
+A;Annual;M;Males;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2020;2020;316994
+A;Annual;F;Females;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2020;2020;210847
+A;Annual;T;Total;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2020;2020;213484
+A;Annual;M;Males;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2020;2020;219830
+A;Annual;F;Females;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2020;2020;226137
+A;Annual;T;Total;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2020;2020;233581
+A;Annual;M;Males;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2020;2020;244421
+A;Annual;F;Females;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2020;2020;256360
+A;Annual;T;Total;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2020;2020;265464
+A;Annual;M;Males;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2020;2020;275742
+A;Annual;F;Females;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2020;2020;282322
+A;Annual;T;Total;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2020;2020;282121
+A;Annual;M;Males;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2020;2020;181460
+A;Annual;F;Females;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2020;2020;182718
+A;Annual;T;Total;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2020;2020;182202
+A;Annual;M;Males;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2020;2020;180103
+A;Annual;F;Females;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2020;2020;181068
+A;Annual;T;Total;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2020;2020;183775
+A;Annual;M;Males;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2020;2020;190849
+A;Annual;F;Females;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2020;2020;199544
+A;Annual;T;Total;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2020;2020;207562
+A;Annual;M;Males;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2020;2020;215355
+A;Annual;F;Females;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2020;2020;225565
+A;Annual;T;Total;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2020;2020;125848
+A;Annual;M;Males;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2020;2020;128152
+A;Annual;F;Females;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2020;2020;131481
+A;Annual;T;Total;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2020;2020;134784
+A;Annual;M;Males;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2020;2020;136533
+A;Annual;F;Females;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2020;2020;139774
+A;Annual;T;Total;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2020;2020;144287
+A;Annual;M;Males;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2020;2020;146106
+A;Annual;F;Females;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2020;2020;146785
+A;Annual;T;Total;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2020;2020;148063
+A;Annual;M;Males;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2020;2020;150497
+A;Annual;F;Females;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2020;2020;63552
+A;Annual;T;Total;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2020;2020;66043
+A;Annual;M;Males;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2020;2020;68803
+A;Annual;F;Females;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2020;2020;71513
+A;Annual;T;Total;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2020;2020;74462
+A;Annual;M;Males;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2020;2020;76729
+A;Annual;F;Females;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2020;2020;79873
+A;Annual;T;Total;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2020;2020;82673
+A;Annual;M;Males;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2020;2020;85913
+A;Annual;F;Females;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2020;2020;87940
+A;Annual;T;Total;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2020;2020;91225
+A;Annual;M;Males;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2020;2020;87186
+A;Annual;F;Females;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2020;2020;91633
+A;Annual;T;Total;NR;Number;Y_GE85;85 years or over;PT;Portugal;2020;2020;96000
+A;Annual;M;Males;NR;Number;Y_GE85;85 years or over;PT;Portugal;2020;2020;100512
+A;Annual;F;Females;NR;Number;Y_GE85;85 years or over;PT;Portugal;2020;2020;104846
+A;Annual;T;Total;NR;Number;Y_GE90;90 years or over;PT;Portugal;2020;2020;108731
+A;Annual;M;Males;NR;Number;Y_GE90;90 years or over;PT;Portugal;2020;2020;113700
+A;Annual;F;Females;NR;Number;Y_GE90;90 years or over;PT;Portugal;2020;2020;118034
+A;Annual;T;Total;NR;Number;UNK;Unknown;PT;Portugal;2020;2020;122760
+A;Annual;M;Males;NR;Number;UNK;Unknown;PT;Portugal;2020;2020;125825
+A;Annual;F;Females;NR;Number;UNK;Unknown;PT;Portugal;2020;2020;130910
+A;Annual;T;Total;NR;Number;TOTAL;Total;PT;Portugal;2021;2021;23634
+A;Annual;M;Males;NR;Number;TOTAL;Total;PT;Portugal;2021;2021;25590
+A;Annual;F;Females;NR;Number;TOTAL;Total;PT;Portugal;2021;2021;27197
+A;Annual;T;Total;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2021;2021;28999
+A;Annual;M;Males;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2021;2021;30384
+A;Annual;F;Females;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2021;2021;32002
+A;Annual;T;Total;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2021;2021;33827
+A;Annual;M;Males;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2021;2021;35361
+A;Annual;F;Females;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2021;2021;36847
+A;Annual;T;Total;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2021;2021;37885
+A;Annual;M;Males;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2021;2021;39685
+A;Annual;F;Females;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2021;2021;0
+A;Annual;T;Total;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2021;2021;0
+A;Annual;M;Males;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2021;2021;0
+A;Annual;F;Females;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2021;2021;0
+A;Annual;T;Total;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2021;2021;0
+A;Annual;M;Males;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2021;2021;0
+A;Annual;F;Females;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2021;2021;0
+A;Annual;T;Total;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2021;2021;0
+A;Annual;M;Males;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2021;2021;0
+A;Annual;F;Females;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2021;2021;0
+A;Annual;T;Total;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2021;2021;0
+A;Annual;M;Males;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2021;2021;5478747
+A;Annual;F;Females;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2021;2021;5460453
+A;Annual;T;Total;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2021;2021;5449089
+A;Annual;M;Males;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2021;2021;5436542
+A;Annual;F;Females;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2021;2021;5433139
+A;Annual;T;Total;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2021;2021;5434882
+A;Annual;M;Males;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2021;2021;5448405
+A;Annual;F;Females;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2021;2021;5451426
+A;Annual;T;Total;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2021;2021;5453855
+A;Annual;M;Males;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2021;2021;5495973
+A;Annual;F;Females;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2021;2021;5556158
+A;Annual;T;Total;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2021;2021;227978
+A;Annual;M;Males;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2021;2021;220301
+A;Annual;F;Females;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2021;2021;212614
+A;Annual;T;Total;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2021;2021;207934
+A;Annual;M;Males;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2021;2021;206756
+A;Annual;F;Females;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2021;2021;209312
+A;Annual;T;Total;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2021;2021;212103
+A;Annual;M;Males;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2021;2021;211867
+A;Annual;F;Females;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2021;2021;208306
+A;Annual;T;Total;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2021;2021;208606
+A;Annual;M;Males;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2021;2021;208651
+A;Annual;F;Females;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2021;2021;249190
+A;Annual;T;Total;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2021;2021;245768
+A;Annual;M;Males;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2021;2021;244142
+A;Annual;F;Females;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2021;2021;241301
+A;Annual;T;Total;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2021;2021;236760
+A;Annual;M;Males;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2021;2021;228586
+A;Annual;F;Females;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2021;2021;221774
+A;Annual;T;Total;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2021;2021;214617
+A;Annual;M;Males;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2021;2021;210847
+A;Annual;F;Females;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2021;2021;212966
+A;Annual;T;Total;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2021;2021;218559
+A;Annual;M;Males;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2021;2021;269182
+A;Annual;F;Females;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2021;2021;263955
+A;Annual;T;Total;NR;Number;Y_GE85;85 years or over;PT;Portugal;2021;2021;258469
+A;Annual;M;Males;NR;Number;Y_GE85;85 years or over;PT;Portugal;2021;2021;256215
+A;Annual;F;Females;NR;Number;Y_GE85;85 years or over;PT;Portugal;2021;2021;252314
+A;Annual;T;Total;NR;Number;Y_GE90;90 years or over;PT;Portugal;2021;2021;249669
+A;Annual;M;Males;NR;Number;Y_GE90;90 years or over;PT;Portugal;2021;2021;247091
+A;Annual;F;Females;NR;Number;Y_GE90;90 years or over;PT;Portugal;2021;2021;246115
+A;Annual;T;Total;NR;Number;UNK;Unknown;PT;Portugal;2021;2021;244250
+A;Annual;M;Males;NR;Number;UNK;Unknown;PT;Portugal;2021;2021;242664
+A;Annual;F;Females;NR;Number;UNK;Unknown;PT;Portugal;2021;2021;238274
+A;Annual;T;Total;NR;Number;TOTAL;Total;PT;Portugal;2022;2022;267400
+A;Annual;M;Males;NR;Number;TOTAL;Total;PT;Portugal;2022;2022;269844
+A;Annual;F;Females;NR;Number;TOTAL;Total;PT;Portugal;2022;2022;273897
+A;Annual;T;Total;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2022;2022;272722
+A;Annual;M;Males;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2022;2022;271231
+A;Annual;F;Females;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2022;2022;269595
+A;Annual;T;Total;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2022;2022;264830
+A;Annual;M;Males;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2022;2022;259495
+A;Annual;F;Females;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2022;2022;258334
+A;Annual;T;Total;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2022;2022;257247
+A;Annual;M;Males;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2022;2022;258900
+A;Annual;F;Females;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2022;2022;278812
+A;Annual;T;Total;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2022;2022;273792
+A;Annual;M;Males;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2022;2022;269683
+A;Annual;F;Females;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2022;2022;265452
+A;Annual;T;Total;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2022;2022;264264
+A;Annual;M;Males;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2022;2022;264410
+A;Annual;F;Females;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2022;2022;268973
+A;Annual;T;Total;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2022;2022;273992
+A;Annual;M;Males;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2022;2022;274290
+A;Annual;F;Females;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2022;2022;276242
+A;Annual;T;Total;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2022;2022;280090
+A;Annual;M;Males;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2022;2022;291848
+A;Annual;F;Females;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2022;2022;280615
+A;Annual;T;Total;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2022;2022;276132
+A;Annual;M;Males;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2022;2022;273030
+A;Annual;F;Females;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2022;2022;272700
+A;Annual;T;Total;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2022;2022;272749
+A;Annual;M;Males;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2022;2022;271704
+A;Annual;F;Females;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2022;2022;269282
+A;Annual;T;Total;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2022;2022;267982
+A;Annual;M;Males;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2022;2022;271650
+A;Annual;F;Females;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2022;2022;278498
+A;Annual;T;Total;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2022;2022;354146
+A;Annual;M;Males;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2022;2022;342353
+A;Annual;F;Females;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2022;2022;327097
+A;Annual;T;Total;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2022;2022;313291
+A;Annual;M;Males;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2022;2022;300480
+A;Annual;F;Females;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2022;2022;291945
+A;Annual;T;Total;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2022;2022;285651
+A;Annual;M;Males;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2022;2022;282818
+A;Annual;F;Females;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2022;2022;282569
+A;Annual;T;Total;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2022;2022;288366
+A;Annual;M;Males;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2022;2022;295770
+A;Annual;F;Females;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2022;2022;418616
+A;Annual;T;Total;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2022;2022;406998
+A;Annual;M;Males;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2022;2022;395267
+A;Annual;F;Females;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2022;2022;379772
+A;Annual;T;Total;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2022;2022;366537
+A;Annual;M;Males;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2022;2022;356206
+A;Annual;F;Females;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2022;2022;348094
+A;Annual;T;Total;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2022;2022;335305
+A;Annual;M;Males;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2022;2022;324357
+A;Annual;F;Females;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2022;2022;318264
+A;Annual;T;Total;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2022;2022;316753
+A;Annual;M;Males;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2022;2022;407443
+A;Annual;F;Females;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2022;2022;413529
+A;Annual;T;Total;NR;Number;Y_GE85;85 years or over;PT;Portugal;2022;2022;418601
+A;Annual;M;Males;NR;Number;Y_GE85;85 years or over;PT;Portugal;2022;2022;421155
+A;Annual;F;Females;NR;Number;Y_GE85;85 years or over;PT;Portugal;2022;2022;421040
+A;Annual;T;Total;NR;Number;Y_GE90;90 years or over;PT;Portugal;2022;2022;415838
+A;Annual;M;Males;NR;Number;Y_GE90;90 years or over;PT;Portugal;2022;2022;406319
+A;Annual;F;Females;NR;Number;Y_GE90;90 years or over;PT;Portugal;2022;2022;397624
+A;Annual;T;Total;NR;Number;UNK;Unknown;PT;Portugal;2022;2022;385101
+A;Annual;M;Males;NR;Number;UNK;Unknown;PT;Portugal;2022;2022;377363
+A;Annual;F;Females;NR;Number;UNK;Unknown;PT;Portugal;2022;2022;373875
+A;Annual;T;Total;NR;Number;TOTAL;Total;PT;Portugal;2023;2023;398237
+A;Annual;M;Males;NR;Number;TOTAL;Total;PT;Portugal;2023;2023;394312
+A;Annual;F;Females;NR;Number;TOTAL;Total;PT;Portugal;2023;2023;393356
+A;Annual;T;Total;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2023;2023;395600
+A;Annual;M;Males;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2023;2023;399477
+A;Annual;F;Females;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2023;2023;403636
+A;Annual;T;Total;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2023;2023;409864
+A;Annual;M;Males;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2023;2023;415592
+A;Annual;F;Females;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2023;2023;420100
+A;Annual;T;Total;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2023;2023;425152
+A;Annual;M;Males;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2023;2023;425996
+A;Annual;F;Females;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2023;2023;389951
+A;Annual;T;Total;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2023;2023;395775
+A;Annual;M;Males;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2023;2023;397669
+A;Annual;F;Females;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2023;2023;397948
+A;Annual;T;Total;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2023;2023;397070
+A;Annual;M;Males;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2023;2023;395504
+A;Annual;F;Females;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2023;2023;392652
+A;Annual;T;Total;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2023;2023;392278
+A;Annual;M;Males;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2023;2023;394508
+A;Annual;F;Females;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2023;2023;401390
+A;Annual;T;Total;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2023;2023;409236
+A;Annual;M;Males;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2023;2023;362475
+A;Annual;F;Females;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2023;2023;366499
+A;Annual;T;Total;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2023;2023;371429
+A;Annual;M;Males;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2023;2023;378275
+A;Annual;F;Females;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2023;2023;383253
+A;Annual;T;Total;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2023;2023;387240
+A;Annual;M;Males;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2023;2023;393471
+A;Annual;F;Females;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2023;2023;395351
+A;Annual;T;Total;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2023;2023;396367
+A;Annual;M;Males;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2023;2023;398617
+A;Annual;F;Females;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2023;2023;400294
+A;Annual;T;Total;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2023;2023;341860
+A;Annual;M;Males;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2023;2023;344962
+A;Annual;F;Females;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2023;2023;349081
+A;Annual;T;Total;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2023;2023;351188
+A;Annual;M;Males;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2023;2023;354939
+A;Annual;F;Females;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2023;2023;361971
+A;Annual;T;Total;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2023;2023;369021
+A;Annual;M;Males;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2023;2023;375128
+A;Annual;F;Females;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2023;2023;382006
+A;Annual;T;Total;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2023;2023;387843
+A;Annual;M;Males;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2023;2023;392774
+A;Annual;F;Females;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2023;2023;315470
+A;Annual;T;Total;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2023;2023;319781
+A;Annual;M;Males;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2023;2023;322703
+A;Annual;F;Females;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2023;2023;329357
+A;Annual;T;Total;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2023;2023;337643
+A;Annual;M;Males;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2023;2023;338378
+A;Annual;F;Females;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2023;2023;344416
+A;Annual;T;Total;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2023;2023;350626
+A;Annual;M;Males;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2023;2023;354201
+A;Annual;F;Females;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2023;2023;360010
+A;Annual;T;Total;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2023;2023;368303
+A;Annual;M;Males;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2023;2023;267129
+A;Annual;F;Females;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2023;2023;270363
+A;Annual;T;Total;NR;Number;Y_GE85;85 years or over;PT;Portugal;2023;2023;279813
+A;Annual;M;Males;NR;Number;Y_GE85;85 years or over;PT;Portugal;2023;2023;287938
+A;Annual;F;Females;NR;Number;Y_GE85;85 years or over;PT;Portugal;2023;2023;294927
+A;Annual;T;Total;NR;Number;Y_GE90;90 years or over;PT;Portugal;2023;2023;306016
+A;Annual;M;Males;NR;Number;Y_GE90;90 years or over;PT;Portugal;2023;2023;314124
+A;Annual;F;Females;NR;Number;Y_GE90;90 years or over;PT;Portugal;2023;2023;319574
+A;Annual;T;Total;NR;Number;UNK;Unknown;PT;Portugal;2023;2023;327770
+A;Annual;M;Males;NR;Number;UNK;Unknown;PT;Portugal;2023;2023;336437
+A;Annual;F;Females;NR;Number;UNK;Unknown;PT;Portugal;2023;2023;337022
+A;Annual;T;Total;NR;Number;TOTAL;Total;PT;Portugal;2024;2024;251480
+A;Annual;M;Males;NR;Number;TOTAL;Total;PT;Portugal;2024;2024;253313
+A;Annual;F;Females;NR;Number;TOTAL;Total;PT;Portugal;2024;2024;250532
+A;Annual;T;Total;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2024;2024;246516
+A;Annual;M;Males;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2024;2024;245484
+A;Annual;F;Females;NR;Number;Y_LT5;Less than 5 years;PT;Portugal;2024;2024;247083
+A;Annual;T;Total;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2024;2024;251932
+A;Annual;M;Males;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2024;2024;262321
+A;Annual;F;Females;NR;Number;Y5-9;From 5 to 9 years;PT;Portugal;2024;2024;271400
+A;Annual;T;Total;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2024;2024;279276
+A;Annual;M;Males;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2024;2024;291354
+A;Annual;F;Females;NR;Number;Y10-14;From 10 to 14 years;PT;Portugal;2024;2024;199888
+A;Annual;T;Total;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2024;2024;202376
+A;Annual;M;Males;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2024;2024;205982
+A;Annual;F;Females;NR;Number;Y15-19;From 15 to 19 years;PT;Portugal;2024;2024;209283
+A;Annual;T;Total;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2024;2024;210781
+A;Annual;M;Males;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2024;2024;213198
+A;Annual;F;Females;NR;Number;Y20-24;From 20 to 24 years;PT;Portugal;2024;2024;216574
+A;Annual;T;Total;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2024;2024;214749
+A;Annual;M;Males;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2024;2024;211900
+A;Annual;F;Females;NR;Number;Y25-29;From 25 to 29 years;PT;Portugal;2024;2024;211198
+A;Annual;T;Total;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2024;2024;213353
+A;Annual;M;Males;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2024;2024;125010
+A;Annual;F;Females;NR;Number;Y30-34;From 30 to 34 years;PT;Portugal;2024;2024;128490
+A;Annual;T;Total;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2024;2024;131333
+A;Annual;M;Males;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2024;2024;134139
+A;Annual;F;Females;NR;Number;Y35-39;From 35 to 39 years;PT;Portugal;2024;2024;138608
+A;Annual;T;Total;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2024;2024;141104
+A;Annual;M;Males;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2024;2024;143879
+A;Annual;F;Females;NR;Number;Y40-44;From 40 to 44 years;PT;Portugal;2024;2024;146821
+A;Annual;T;Total;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2024;2024;149619
+A;Annual;M;Males;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2024;2024;151060
+A;Annual;F;Females;NR;Number;Y45-49;From 45 to 49 years;PT;Portugal;2024;2024;154022
+A;Annual;T;Total;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2024;2024;187642
+A;Annual;M;Males;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2024;2024;195917
+A;Annual;F;Females;NR;Number;Y50-54;From 50 to 54 years;PT;Portugal;2024;2024;202622
+A;Annual;T;Total;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2024;2024;209565
+A;Annual;M;Males;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2024;2024;217483
+A;Annual;F;Females;NR;Number;Y55-59;From 55 to 59 years;PT;Portugal;2024;2024;223546
+A;Annual;T;Total;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2024;2024;229812
+A;Annual;M;Males;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2024;2024;234692
+A;Annual;F;Females;NR;Number;Y60-64;From 60 to 64 years;PT;Portugal;2024;2024;239567
+A;Annual;T;Total;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2024;2024;242682
+A;Annual;M;Males;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2024;2024;248456
+A;Annual;F;Females;NR;Number;Y65-69;From 65 to 69 years;PT;Portugal;2024;2024;62632
+A;Annual;T;Total;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2024;2024;67427
+A;Annual;M;Males;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2024;2024;71289
+A;Annual;F;Females;NR;Number;Y70-74;From 70 to 74 years;PT;Portugal;2024;2024;75426
+A;Annual;T;Total;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2024;2024;78875
+A;Annual;M;Males;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2024;2024;82442
+A;Annual;F;Females;NR;Number;Y75-79;From 75 to 79 years;PT;Portugal;2024;2024;85933
+A;Annual;T;Total;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2024;2024;87871
+A;Annual;M;Males;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2024;2024;89948
+A;Annual;F;Females;NR;Number;Y80-84;From 80 to 84 years;PT;Portugal;2024;2024;91622
+A;Annual;T;Total;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2024;2024;94434
+A;Annual;M;Males;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2024;2024;0
+A;Annual;F;Females;NR;Number;Y85-89;From 85 to 89 years;PT;Portugal;2024;2024;0
+A;Annual;T;Total;NR;Number;Y_GE85;85 years or over;PT;Portugal;2024;2024;0
+A;Annual;M;Males;NR;Number;Y_GE85;85 years or over;PT;Portugal;2024;2024;0
+A;Annual;F;Females;NR;Number;Y_GE85;85 years or over;PT;Portugal;2024;2024;0
+A;Annual;T;Total;NR;Number;Y_GE90;90 years or over;PT;Portugal;2024;2024;0
+A;Annual;M;Males;NR;Number;Y_GE90;90 years or over;PT;Portugal;2024;2024;0
+A;Annual;F;Females;NR;Number;Y_GE90;90 years or over;PT;Portugal;2024;2024;0
+A;Annual;T;Total;NR;Number;UNK;Unknown;PT;Portugal;2024;2024;0
+A;Annual;M;Males;NR;Number;UNK;Unknown;PT;Portugal;2024;2024;0
+A;Annual;F;Females;NR;Number;UNK;Unknown;PT;Portugal;2024;2024;0

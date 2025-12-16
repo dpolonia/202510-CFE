@@ -1,0 +1,40 @@
+﻿geocod,geodsg,dim_3,dim_3_t,ind_string,valor,periodo,sinal_conv,sinal_conv_desc
+11,Norte,1,H,"5,1",5.1,2.º Trimestre de 2025,,
+15,Algarve,1,H,"4,8 §",4.8,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+19,Centro,1,H,"4,6 §",4.6,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+1A,Grande Lisboa,1,H,"6,6 §",6.6,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+1B,Península de Setúbal,1,H,"7,4 §",7.4,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+1C,Alentejo,1,H,"5,5 §",5.5,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+1D,Oeste e Vale do Tejo,1,H,x,,2.º Trimestre de 2025,x,Dado não disponível
+20,Região Autónoma dos Açores,1,H,"4,0 §",4,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+30,Região Autónoma da Madeira,1,H,"4,3 §",4.3,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+1,Continente,1,H,"5,4",5.4,2.º Trimestre de 2025,,
+2,Região Autónoma dos Açores,1,H,"4,0 §",4,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+PT,Portugal,1,H,"5,3",5.3,2.º Trimestre de 2025,,
+3,Região Autónoma da Madeira,1,H,"4,3 §",4.3,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+11,Norte,2,M,"7,1",7.1,2.º Trimestre de 2025,,
+15,Algarve,2,M,"4,3 §",4.3,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+19,Centro,2,M,"5,6 §",5.6,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+1A,Grande Lisboa,2,M,"6,4 §",6.4,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+1B,Península de Setúbal,2,M,"9,7 §",9.7,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+1C,Alentejo,2,M,x,,2.º Trimestre de 2025,x,Dado não disponível
+1D,Oeste e Vale do Tejo,2,M,"6,3 §",6.3,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+20,Região Autónoma dos Açores,2,M,x,,2.º Trimestre de 2025,x,Dado não disponível
+30,Região Autónoma da Madeira,2,M,"5,3 §",5.3,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+1,Continente,2,M,"6,6",6.6,2.º Trimestre de 2025,,
+2,Região Autónoma dos Açores,2,M,x,,2.º Trimestre de 2025,x,Dado não disponível
+PT,Portugal,2,M,"6,5",6.5,2.º Trimestre de 2025,,
+3,Região Autónoma da Madeira,2,M,"5,3 §",5.3,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+11,Norte,T,HM,"6,1",6.1,2.º Trimestre de 2025,,
+15,Algarve,T,HM,"4,5 §",4.5,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+19,Centro,T,HM,"5,1 §",5.1,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+1A,Grande Lisboa,T,HM,"6,5",6.5,2.º Trimestre de 2025,,
+1B,Península de Setúbal,T,HM,"8,6 §",8.6,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+1C,Alentejo,T,HM,"4,9 §",4.9,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+1D,Oeste e Vale do Tejo,T,HM,"4,8 §",4.8,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+20,Região Autónoma dos Açores,T,HM,"3,9 §",3.9,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+30,Região Autónoma da Madeira,T,HM,"4,8 §",4.8,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+1,Continente,T,HM,"6,0",6,2.º Trimestre de 2025,,
+2,Região Autónoma dos Açores,T,HM,"3,9 §",3.9,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado
+PT,Portugal,T,HM,"5,9",5.9,2.º Trimestre de 2025,,
+3,Região Autónoma da Madeira,T,HM,"4,8 §",4.8,2.º Trimestre de 2025,§,Desvio do padrão de qualidade/Coeficiente de variação elevado

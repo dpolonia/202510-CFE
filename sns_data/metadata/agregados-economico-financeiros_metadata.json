@@ -1,0 +1,9 @@
+{
+  "dataset_id": "agregados-economico-financeiros",
+  "name": "Agregados Econ\u00f3mico Financeiros",
+  "description": "Economic-financial aggregates (revenues, expenses, assets)",
+  "priority": 1,
+  "download_timestamp": "2025-10-26T03:13:50.729993",
+  "record_count": 6268,
+  "file_size_bytes": 1026192
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_code": "hlth_rs_bdsrg2",
+  "dataset_name": "hospital_beds_by_region",
+  "description": "Available beds in hospitals by NUTS 2 regions",
+  "label": "Available beds in hospitals by NUTS 2 region",
+  "source": "ESTAT",
+  "updated": "2025-07-15T11:00:00+0200",
+  "extraction_date": "2025-10-26T09:47:18.784048",
+  "category": "Healthcare",
+  "use_case": "Hospital capacity and infrastructure"
+}

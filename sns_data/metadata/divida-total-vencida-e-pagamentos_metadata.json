@@ -1,0 +1,9 @@
+{
+  "dataset_id": "divida-total-vencida-e-pagamentos",
+  "name": "D\u00edvida Total, Vencida e Pagamentos em Atraso",
+  "description": "Total debt, overdue debt, and late payments",
+  "priority": 1,
+  "download_timestamp": "2025-10-26T03:13:32.812014",
+  "record_count": 7462,
+  "file_size_bytes": 1036067
+}

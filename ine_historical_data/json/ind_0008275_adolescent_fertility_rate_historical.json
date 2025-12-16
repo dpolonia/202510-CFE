@@ -1,0 +1,3746 @@
+[
+  {
+    "geocod":"11E",
+    "geodsg":"Terras de Trás-os-Montes",
+    "valor":"6.3",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16F",
+    "geodsg":"Região de Leiria",
+    "valor":"6.4",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"111",
+    "geodsg":"Alto Minho",
+    "valor":"7",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"112",
+    "geodsg":"Cávado",
+    "valor":"7",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"119",
+    "geodsg":"Ave",
+    "valor":"7.2",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16I",
+    "geodsg":"Médio Tejo",
+    "valor":"7.7",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16E",
+    "geodsg":"Região de Coimbra",
+    "valor":"8",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11D",
+    "geodsg":"Douro",
+    "valor":"9.1",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16",
+    "geodsg":"Centro",
+    "valor":"9.7",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11",
+    "geodsg":"Norte",
+    "valor":"10.3",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11C",
+    "geodsg":"Tâmega e Sousa",
+    "valor":"10.3",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16J",
+    "geodsg":"Beiras e Serra da Estrela",
+    "valor":"10.5",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16G",
+    "geodsg":"Viseu Dão Lafões",
+    "valor":"10.7",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16D",
+    "geodsg":"Região de Aveiro",
+    "valor":"10.8",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16B",
+    "geodsg":"Oeste",
+    "valor":"11.6",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11B",
+    "geodsg":"Alto Tâmega",
+    "valor":"12.3",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11A",
+    "geodsg":"Área Metropolitana do Porto",
+    "valor":"12.7",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"185",
+    "geodsg":"Lezíria do Tejo",
+    "valor":"12.8",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"1",
+    "geodsg":"Continente",
+    "valor":"12.9",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"3",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"30",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"300",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "valor":"13.3",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"186",
+    "geodsg":"Alto Alentejo",
+    "valor":"14.7",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"187",
+    "geodsg":"Alentejo Central",
+    "valor":"15",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16H",
+    "geodsg":"Beira Baixa",
+    "valor":"16.2",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"18",
+    "geodsg":"Alentejo",
+    "valor":"16.8",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"15",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"150",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"181",
+    "geodsg":"Alentejo Litoral",
+    "valor":"17.6",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"17",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"170",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"2",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"20",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"200",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"184",
+    "geodsg":"Baixo Alentejo",
+    "valor":"28.4",
+    "periodo":"2021",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11E",
+    "geodsg":"Terras de Trás-os-Montes",
+    "valor":"6.3",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16F",
+    "geodsg":"Região de Leiria",
+    "valor":"6.4",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"111",
+    "geodsg":"Alto Minho",
+    "valor":"7",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"112",
+    "geodsg":"Cávado",
+    "valor":"7",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"119",
+    "geodsg":"Ave",
+    "valor":"7.2",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16I",
+    "geodsg":"Médio Tejo",
+    "valor":"7.7",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16E",
+    "geodsg":"Região de Coimbra",
+    "valor":"8",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11D",
+    "geodsg":"Douro",
+    "valor":"9.1",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16",
+    "geodsg":"Centro",
+    "valor":"9.7",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11",
+    "geodsg":"Norte",
+    "valor":"10.3",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11C",
+    "geodsg":"Tâmega e Sousa",
+    "valor":"10.3",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16J",
+    "geodsg":"Beiras e Serra da Estrela",
+    "valor":"10.5",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16G",
+    "geodsg":"Viseu Dão Lafões",
+    "valor":"10.7",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16D",
+    "geodsg":"Região de Aveiro",
+    "valor":"10.8",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16B",
+    "geodsg":"Oeste",
+    "valor":"11.6",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11B",
+    "geodsg":"Alto Tâmega",
+    "valor":"12.3",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11A",
+    "geodsg":"Área Metropolitana do Porto",
+    "valor":"12.7",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"185",
+    "geodsg":"Lezíria do Tejo",
+    "valor":"12.8",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"1",
+    "geodsg":"Continente",
+    "valor":"12.9",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"3",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"30",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"300",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "valor":"13.3",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"186",
+    "geodsg":"Alto Alentejo",
+    "valor":"14.7",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"187",
+    "geodsg":"Alentejo Central",
+    "valor":"15",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16H",
+    "geodsg":"Beira Baixa",
+    "valor":"16.2",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"18",
+    "geodsg":"Alentejo",
+    "valor":"16.8",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"15",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"150",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"181",
+    "geodsg":"Alentejo Litoral",
+    "valor":"17.6",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"17",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"170",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"2",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"20",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"200",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"184",
+    "geodsg":"Baixo Alentejo",
+    "valor":"28.4",
+    "periodo":"2022",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11E",
+    "geodsg":"Terras de Trás-os-Montes",
+    "valor":"6.3",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16F",
+    "geodsg":"Região de Leiria",
+    "valor":"6.4",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"111",
+    "geodsg":"Alto Minho",
+    "valor":"7",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"112",
+    "geodsg":"Cávado",
+    "valor":"7",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"119",
+    "geodsg":"Ave",
+    "valor":"7.2",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16I",
+    "geodsg":"Médio Tejo",
+    "valor":"7.7",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16E",
+    "geodsg":"Região de Coimbra",
+    "valor":"8",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11D",
+    "geodsg":"Douro",
+    "valor":"9.1",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16",
+    "geodsg":"Centro",
+    "valor":"9.7",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11",
+    "geodsg":"Norte",
+    "valor":"10.3",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11C",
+    "geodsg":"Tâmega e Sousa",
+    "valor":"10.3",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16J",
+    "geodsg":"Beiras e Serra da Estrela",
+    "valor":"10.5",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16G",
+    "geodsg":"Viseu Dão Lafões",
+    "valor":"10.7",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16D",
+    "geodsg":"Região de Aveiro",
+    "valor":"10.8",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16B",
+    "geodsg":"Oeste",
+    "valor":"11.6",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11B",
+    "geodsg":"Alto Tâmega",
+    "valor":"12.3",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11A",
+    "geodsg":"Área Metropolitana do Porto",
+    "valor":"12.7",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"185",
+    "geodsg":"Lezíria do Tejo",
+    "valor":"12.8",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"1",
+    "geodsg":"Continente",
+    "valor":"12.9",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"3",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"30",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"300",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "valor":"13.3",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"186",
+    "geodsg":"Alto Alentejo",
+    "valor":"14.7",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"187",
+    "geodsg":"Alentejo Central",
+    "valor":"15",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16H",
+    "geodsg":"Beira Baixa",
+    "valor":"16.2",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"18",
+    "geodsg":"Alentejo",
+    "valor":"16.8",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"15",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"150",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"181",
+    "geodsg":"Alentejo Litoral",
+    "valor":"17.6",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"17",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"170",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"2",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"20",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"200",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"184",
+    "geodsg":"Baixo Alentejo",
+    "valor":"28.4",
+    "periodo":"2023",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11E",
+    "geodsg":"Terras de Trás-os-Montes",
+    "valor":"6.3",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16F",
+    "geodsg":"Região de Leiria",
+    "valor":"6.4",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"111",
+    "geodsg":"Alto Minho",
+    "valor":"7",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"112",
+    "geodsg":"Cávado",
+    "valor":"7",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"119",
+    "geodsg":"Ave",
+    "valor":"7.2",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16I",
+    "geodsg":"Médio Tejo",
+    "valor":"7.7",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16E",
+    "geodsg":"Região de Coimbra",
+    "valor":"8",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11D",
+    "geodsg":"Douro",
+    "valor":"9.1",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16",
+    "geodsg":"Centro",
+    "valor":"9.7",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11",
+    "geodsg":"Norte",
+    "valor":"10.3",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11C",
+    "geodsg":"Tâmega e Sousa",
+    "valor":"10.3",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16J",
+    "geodsg":"Beiras e Serra da Estrela",
+    "valor":"10.5",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16G",
+    "geodsg":"Viseu Dão Lafões",
+    "valor":"10.7",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16D",
+    "geodsg":"Região de Aveiro",
+    "valor":"10.8",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16B",
+    "geodsg":"Oeste",
+    "valor":"11.6",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11B",
+    "geodsg":"Alto Tâmega",
+    "valor":"12.3",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11A",
+    "geodsg":"Área Metropolitana do Porto",
+    "valor":"12.7",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"185",
+    "geodsg":"Lezíria do Tejo",
+    "valor":"12.8",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"1",
+    "geodsg":"Continente",
+    "valor":"12.9",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"3",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"30",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"300",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "valor":"13.3",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"186",
+    "geodsg":"Alto Alentejo",
+    "valor":"14.7",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"187",
+    "geodsg":"Alentejo Central",
+    "valor":"15",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16H",
+    "geodsg":"Beira Baixa",
+    "valor":"16.2",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"18",
+    "geodsg":"Alentejo",
+    "valor":"16.8",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"15",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"150",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"181",
+    "geodsg":"Alentejo Litoral",
+    "valor":"17.6",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"17",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"170",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"2",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"20",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"200",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"184",
+    "geodsg":"Baixo Alentejo",
+    "valor":"28.4",
+    "periodo":"2020",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11E",
+    "geodsg":"Terras de Trás-os-Montes",
+    "valor":"6.3",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16F",
+    "geodsg":"Região de Leiria",
+    "valor":"6.4",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"111",
+    "geodsg":"Alto Minho",
+    "valor":"7",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"112",
+    "geodsg":"Cávado",
+    "valor":"7",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"119",
+    "geodsg":"Ave",
+    "valor":"7.2",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16I",
+    "geodsg":"Médio Tejo",
+    "valor":"7.7",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16E",
+    "geodsg":"Região de Coimbra",
+    "valor":"8",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11D",
+    "geodsg":"Douro",
+    "valor":"9.1",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16",
+    "geodsg":"Centro",
+    "valor":"9.7",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11",
+    "geodsg":"Norte",
+    "valor":"10.3",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11C",
+    "geodsg":"Tâmega e Sousa",
+    "valor":"10.3",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16J",
+    "geodsg":"Beiras e Serra da Estrela",
+    "valor":"10.5",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16G",
+    "geodsg":"Viseu Dão Lafões",
+    "valor":"10.7",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16D",
+    "geodsg":"Região de Aveiro",
+    "valor":"10.8",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16B",
+    "geodsg":"Oeste",
+    "valor":"11.6",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11B",
+    "geodsg":"Alto Tâmega",
+    "valor":"12.3",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11A",
+    "geodsg":"Área Metropolitana do Porto",
+    "valor":"12.7",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"185",
+    "geodsg":"Lezíria do Tejo",
+    "valor":"12.8",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"1",
+    "geodsg":"Continente",
+    "valor":"12.9",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"3",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"30",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"300",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "valor":"13.3",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"186",
+    "geodsg":"Alto Alentejo",
+    "valor":"14.7",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"187",
+    "geodsg":"Alentejo Central",
+    "valor":"15",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16H",
+    "geodsg":"Beira Baixa",
+    "valor":"16.2",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"18",
+    "geodsg":"Alentejo",
+    "valor":"16.8",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"15",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"150",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"181",
+    "geodsg":"Alentejo Litoral",
+    "valor":"17.6",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"17",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"170",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"2",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"20",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"200",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"184",
+    "geodsg":"Baixo Alentejo",
+    "valor":"28.4",
+    "periodo":"2018",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11E",
+    "geodsg":"Terras de Trás-os-Montes",
+    "valor":"6.3",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16F",
+    "geodsg":"Região de Leiria",
+    "valor":"6.4",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"111",
+    "geodsg":"Alto Minho",
+    "valor":"7",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"112",
+    "geodsg":"Cávado",
+    "valor":"7",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"119",
+    "geodsg":"Ave",
+    "valor":"7.2",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16I",
+    "geodsg":"Médio Tejo",
+    "valor":"7.7",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16E",
+    "geodsg":"Região de Coimbra",
+    "valor":"8",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11D",
+    "geodsg":"Douro",
+    "valor":"9.1",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16",
+    "geodsg":"Centro",
+    "valor":"9.7",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11",
+    "geodsg":"Norte",
+    "valor":"10.3",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11C",
+    "geodsg":"Tâmega e Sousa",
+    "valor":"10.3",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16J",
+    "geodsg":"Beiras e Serra da Estrela",
+    "valor":"10.5",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16G",
+    "geodsg":"Viseu Dão Lafões",
+    "valor":"10.7",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16D",
+    "geodsg":"Região de Aveiro",
+    "valor":"10.8",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16B",
+    "geodsg":"Oeste",
+    "valor":"11.6",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11B",
+    "geodsg":"Alto Tâmega",
+    "valor":"12.3",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11A",
+    "geodsg":"Área Metropolitana do Porto",
+    "valor":"12.7",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"185",
+    "geodsg":"Lezíria do Tejo",
+    "valor":"12.8",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"1",
+    "geodsg":"Continente",
+    "valor":"12.9",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"3",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"30",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"300",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "valor":"13.3",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"186",
+    "geodsg":"Alto Alentejo",
+    "valor":"14.7",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"187",
+    "geodsg":"Alentejo Central",
+    "valor":"15",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16H",
+    "geodsg":"Beira Baixa",
+    "valor":"16.2",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"18",
+    "geodsg":"Alentejo",
+    "valor":"16.8",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"15",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"150",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"181",
+    "geodsg":"Alentejo Litoral",
+    "valor":"17.6",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"17",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"170",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"2",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"20",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"200",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"184",
+    "geodsg":"Baixo Alentejo",
+    "valor":"28.4",
+    "periodo":"2019",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11E",
+    "geodsg":"Terras de Trás-os-Montes",
+    "valor":"6.3",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16F",
+    "geodsg":"Região de Leiria",
+    "valor":"6.4",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"111",
+    "geodsg":"Alto Minho",
+    "valor":"7",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"112",
+    "geodsg":"Cávado",
+    "valor":"7",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"119",
+    "geodsg":"Ave",
+    "valor":"7.2",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16I",
+    "geodsg":"Médio Tejo",
+    "valor":"7.7",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16E",
+    "geodsg":"Região de Coimbra",
+    "valor":"8",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11D",
+    "geodsg":"Douro",
+    "valor":"9.1",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16",
+    "geodsg":"Centro",
+    "valor":"9.7",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11",
+    "geodsg":"Norte",
+    "valor":"10.3",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11C",
+    "geodsg":"Tâmega e Sousa",
+    "valor":"10.3",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16J",
+    "geodsg":"Beiras e Serra da Estrela",
+    "valor":"10.5",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16G",
+    "geodsg":"Viseu Dão Lafões",
+    "valor":"10.7",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16D",
+    "geodsg":"Região de Aveiro",
+    "valor":"10.8",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16B",
+    "geodsg":"Oeste",
+    "valor":"11.6",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11B",
+    "geodsg":"Alto Tâmega",
+    "valor":"12.3",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11A",
+    "geodsg":"Área Metropolitana do Porto",
+    "valor":"12.7",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"185",
+    "geodsg":"Lezíria do Tejo",
+    "valor":"12.8",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"1",
+    "geodsg":"Continente",
+    "valor":"12.9",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"3",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"30",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"300",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "valor":"13.3",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"186",
+    "geodsg":"Alto Alentejo",
+    "valor":"14.7",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"187",
+    "geodsg":"Alentejo Central",
+    "valor":"15",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16H",
+    "geodsg":"Beira Baixa",
+    "valor":"16.2",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"18",
+    "geodsg":"Alentejo",
+    "valor":"16.8",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"15",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"150",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"181",
+    "geodsg":"Alentejo Litoral",
+    "valor":"17.6",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"17",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"170",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"2",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"20",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"200",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"184",
+    "geodsg":"Baixo Alentejo",
+    "valor":"28.4",
+    "periodo":"2017",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11E",
+    "geodsg":"Terras de Trás-os-Montes",
+    "valor":"6.3",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16F",
+    "geodsg":"Região de Leiria",
+    "valor":"6.4",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"111",
+    "geodsg":"Alto Minho",
+    "valor":"7",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"112",
+    "geodsg":"Cávado",
+    "valor":"7",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"119",
+    "geodsg":"Ave",
+    "valor":"7.2",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16I",
+    "geodsg":"Médio Tejo",
+    "valor":"7.7",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16E",
+    "geodsg":"Região de Coimbra",
+    "valor":"8",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11D",
+    "geodsg":"Douro",
+    "valor":"9.1",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16",
+    "geodsg":"Centro",
+    "valor":"9.7",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11",
+    "geodsg":"Norte",
+    "valor":"10.3",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11C",
+    "geodsg":"Tâmega e Sousa",
+    "valor":"10.3",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16J",
+    "geodsg":"Beiras e Serra da Estrela",
+    "valor":"10.5",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16G",
+    "geodsg":"Viseu Dão Lafões",
+    "valor":"10.7",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16D",
+    "geodsg":"Região de Aveiro",
+    "valor":"10.8",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16B",
+    "geodsg":"Oeste",
+    "valor":"11.6",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11B",
+    "geodsg":"Alto Tâmega",
+    "valor":"12.3",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11A",
+    "geodsg":"Área Metropolitana do Porto",
+    "valor":"12.7",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"185",
+    "geodsg":"Lezíria do Tejo",
+    "valor":"12.8",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"1",
+    "geodsg":"Continente",
+    "valor":"12.9",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"3",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"30",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"300",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "valor":"13.3",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"186",
+    "geodsg":"Alto Alentejo",
+    "valor":"14.7",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"187",
+    "geodsg":"Alentejo Central",
+    "valor":"15",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16H",
+    "geodsg":"Beira Baixa",
+    "valor":"16.2",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"18",
+    "geodsg":"Alentejo",
+    "valor":"16.8",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"15",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"150",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"181",
+    "geodsg":"Alentejo Litoral",
+    "valor":"17.6",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"17",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"170",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"2",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"20",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"200",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"184",
+    "geodsg":"Baixo Alentejo",
+    "valor":"28.4",
+    "periodo":"2016",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11E",
+    "geodsg":"Terras de Trás-os-Montes",
+    "valor":"6.3",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16F",
+    "geodsg":"Região de Leiria",
+    "valor":"6.4",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"111",
+    "geodsg":"Alto Minho",
+    "valor":"7",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"112",
+    "geodsg":"Cávado",
+    "valor":"7",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"119",
+    "geodsg":"Ave",
+    "valor":"7.2",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16I",
+    "geodsg":"Médio Tejo",
+    "valor":"7.7",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16E",
+    "geodsg":"Região de Coimbra",
+    "valor":"8",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11D",
+    "geodsg":"Douro",
+    "valor":"9.1",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16",
+    "geodsg":"Centro",
+    "valor":"9.7",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11",
+    "geodsg":"Norte",
+    "valor":"10.3",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11C",
+    "geodsg":"Tâmega e Sousa",
+    "valor":"10.3",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16J",
+    "geodsg":"Beiras e Serra da Estrela",
+    "valor":"10.5",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16G",
+    "geodsg":"Viseu Dão Lafões",
+    "valor":"10.7",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16D",
+    "geodsg":"Região de Aveiro",
+    "valor":"10.8",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16B",
+    "geodsg":"Oeste",
+    "valor":"11.6",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11B",
+    "geodsg":"Alto Tâmega",
+    "valor":"12.3",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11A",
+    "geodsg":"Área Metropolitana do Porto",
+    "valor":"12.7",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"185",
+    "geodsg":"Lezíria do Tejo",
+    "valor":"12.8",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"1",
+    "geodsg":"Continente",
+    "valor":"12.9",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"3",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"30",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"300",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "valor":"13.3",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"186",
+    "geodsg":"Alto Alentejo",
+    "valor":"14.7",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"187",
+    "geodsg":"Alentejo Central",
+    "valor":"15",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16H",
+    "geodsg":"Beira Baixa",
+    "valor":"16.2",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"18",
+    "geodsg":"Alentejo",
+    "valor":"16.8",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"15",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"150",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"181",
+    "geodsg":"Alentejo Litoral",
+    "valor":"17.6",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"17",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"170",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"2",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"20",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"200",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"184",
+    "geodsg":"Baixo Alentejo",
+    "valor":"28.4",
+    "periodo":"2015",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11E",
+    "geodsg":"Terras de Trás-os-Montes",
+    "valor":"6.3",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16F",
+    "geodsg":"Região de Leiria",
+    "valor":"6.4",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"111",
+    "geodsg":"Alto Minho",
+    "valor":"7",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"112",
+    "geodsg":"Cávado",
+    "valor":"7",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"119",
+    "geodsg":"Ave",
+    "valor":"7.2",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16I",
+    "geodsg":"Médio Tejo",
+    "valor":"7.7",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16E",
+    "geodsg":"Região de Coimbra",
+    "valor":"8",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11D",
+    "geodsg":"Douro",
+    "valor":"9.1",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16",
+    "geodsg":"Centro",
+    "valor":"9.7",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11",
+    "geodsg":"Norte",
+    "valor":"10.3",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11C",
+    "geodsg":"Tâmega e Sousa",
+    "valor":"10.3",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16J",
+    "geodsg":"Beiras e Serra da Estrela",
+    "valor":"10.5",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16G",
+    "geodsg":"Viseu Dão Lafões",
+    "valor":"10.7",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16D",
+    "geodsg":"Região de Aveiro",
+    "valor":"10.8",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16B",
+    "geodsg":"Oeste",
+    "valor":"11.6",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11B",
+    "geodsg":"Alto Tâmega",
+    "valor":"12.3",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11A",
+    "geodsg":"Área Metropolitana do Porto",
+    "valor":"12.7",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"185",
+    "geodsg":"Lezíria do Tejo",
+    "valor":"12.8",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"1",
+    "geodsg":"Continente",
+    "valor":"12.9",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"3",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"30",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"300",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "valor":"13.3",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"186",
+    "geodsg":"Alto Alentejo",
+    "valor":"14.7",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"187",
+    "geodsg":"Alentejo Central",
+    "valor":"15",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16H",
+    "geodsg":"Beira Baixa",
+    "valor":"16.2",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"18",
+    "geodsg":"Alentejo",
+    "valor":"16.8",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"15",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"150",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"181",
+    "geodsg":"Alentejo Litoral",
+    "valor":"17.6",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"17",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"170",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"2",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"20",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"200",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"184",
+    "geodsg":"Baixo Alentejo",
+    "valor":"28.4",
+    "periodo":"2014",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11E",
+    "geodsg":"Terras de Trás-os-Montes",
+    "valor":"6.3",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16F",
+    "geodsg":"Região de Leiria",
+    "valor":"6.4",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"111",
+    "geodsg":"Alto Minho",
+    "valor":"7",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"112",
+    "geodsg":"Cávado",
+    "valor":"7",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"119",
+    "geodsg":"Ave",
+    "valor":"7.2",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16I",
+    "geodsg":"Médio Tejo",
+    "valor":"7.7",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16E",
+    "geodsg":"Região de Coimbra",
+    "valor":"8",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11D",
+    "geodsg":"Douro",
+    "valor":"9.1",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16",
+    "geodsg":"Centro",
+    "valor":"9.7",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11",
+    "geodsg":"Norte",
+    "valor":"10.3",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11C",
+    "geodsg":"Tâmega e Sousa",
+    "valor":"10.3",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16J",
+    "geodsg":"Beiras e Serra da Estrela",
+    "valor":"10.5",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16G",
+    "geodsg":"Viseu Dão Lafões",
+    "valor":"10.7",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16D",
+    "geodsg":"Região de Aveiro",
+    "valor":"10.8",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16B",
+    "geodsg":"Oeste",
+    "valor":"11.6",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11B",
+    "geodsg":"Alto Tâmega",
+    "valor":"12.3",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11A",
+    "geodsg":"Área Metropolitana do Porto",
+    "valor":"12.7",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"185",
+    "geodsg":"Lezíria do Tejo",
+    "valor":"12.8",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"1",
+    "geodsg":"Continente",
+    "valor":"12.9",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"3",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"30",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"300",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "valor":"13.3",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"186",
+    "geodsg":"Alto Alentejo",
+    "valor":"14.7",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"187",
+    "geodsg":"Alentejo Central",
+    "valor":"15",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16H",
+    "geodsg":"Beira Baixa",
+    "valor":"16.2",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"18",
+    "geodsg":"Alentejo",
+    "valor":"16.8",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"15",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"150",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"181",
+    "geodsg":"Alentejo Litoral",
+    "valor":"17.6",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"17",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"170",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"2",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"20",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"200",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"184",
+    "geodsg":"Baixo Alentejo",
+    "valor":"28.4",
+    "periodo":"2013",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11E",
+    "geodsg":"Terras de Trás-os-Montes",
+    "valor":"6.3",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16F",
+    "geodsg":"Região de Leiria",
+    "valor":"6.4",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"111",
+    "geodsg":"Alto Minho",
+    "valor":"7",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"112",
+    "geodsg":"Cávado",
+    "valor":"7",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"119",
+    "geodsg":"Ave",
+    "valor":"7.2",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16I",
+    "geodsg":"Médio Tejo",
+    "valor":"7.7",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16E",
+    "geodsg":"Região de Coimbra",
+    "valor":"8",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11D",
+    "geodsg":"Douro",
+    "valor":"9.1",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16",
+    "geodsg":"Centro",
+    "valor":"9.7",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11",
+    "geodsg":"Norte",
+    "valor":"10.3",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11C",
+    "geodsg":"Tâmega e Sousa",
+    "valor":"10.3",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16J",
+    "geodsg":"Beiras e Serra da Estrela",
+    "valor":"10.5",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16G",
+    "geodsg":"Viseu Dão Lafões",
+    "valor":"10.7",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16D",
+    "geodsg":"Região de Aveiro",
+    "valor":"10.8",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16B",
+    "geodsg":"Oeste",
+    "valor":"11.6",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11B",
+    "geodsg":"Alto Tâmega",
+    "valor":"12.3",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11A",
+    "geodsg":"Área Metropolitana do Porto",
+    "valor":"12.7",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"185",
+    "geodsg":"Lezíria do Tejo",
+    "valor":"12.8",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"1",
+    "geodsg":"Continente",
+    "valor":"12.9",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"3",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"30",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"300",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "valor":"13.3",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"186",
+    "geodsg":"Alto Alentejo",
+    "valor":"14.7",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"187",
+    "geodsg":"Alentejo Central",
+    "valor":"15",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16H",
+    "geodsg":"Beira Baixa",
+    "valor":"16.2",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"18",
+    "geodsg":"Alentejo",
+    "valor":"16.8",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"15",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"150",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"181",
+    "geodsg":"Alentejo Litoral",
+    "valor":"17.6",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"17",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"170",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"2",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"20",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"200",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"184",
+    "geodsg":"Baixo Alentejo",
+    "valor":"28.4",
+    "periodo":"2012",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11E",
+    "geodsg":"Terras de Trás-os-Montes",
+    "valor":"6.3",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16F",
+    "geodsg":"Região de Leiria",
+    "valor":"6.4",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"111",
+    "geodsg":"Alto Minho",
+    "valor":"7",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"112",
+    "geodsg":"Cávado",
+    "valor":"7",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"119",
+    "geodsg":"Ave",
+    "valor":"7.2",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16I",
+    "geodsg":"Médio Tejo",
+    "valor":"7.7",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16E",
+    "geodsg":"Região de Coimbra",
+    "valor":"8",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11D",
+    "geodsg":"Douro",
+    "valor":"9.1",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16",
+    "geodsg":"Centro",
+    "valor":"9.7",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11",
+    "geodsg":"Norte",
+    "valor":"10.3",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11C",
+    "geodsg":"Tâmega e Sousa",
+    "valor":"10.3",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16J",
+    "geodsg":"Beiras e Serra da Estrela",
+    "valor":"10.5",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16G",
+    "geodsg":"Viseu Dão Lafões",
+    "valor":"10.7",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16D",
+    "geodsg":"Região de Aveiro",
+    "valor":"10.8",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16B",
+    "geodsg":"Oeste",
+    "valor":"11.6",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11B",
+    "geodsg":"Alto Tâmega",
+    "valor":"12.3",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"11A",
+    "geodsg":"Área Metropolitana do Porto",
+    "valor":"12.7",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"185",
+    "geodsg":"Lezíria do Tejo",
+    "valor":"12.8",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"1",
+    "geodsg":"Continente",
+    "valor":"12.9",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"3",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"30",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"300",
+    "geodsg":"Região Autónoma da Madeira",
+    "valor":"13.2",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"PT",
+    "geodsg":"Portugal",
+    "valor":"13.3",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"186",
+    "geodsg":"Alto Alentejo",
+    "valor":"14.7",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"187",
+    "geodsg":"Alentejo Central",
+    "valor":"15",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"16H",
+    "geodsg":"Beira Baixa",
+    "valor":"16.2",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"18",
+    "geodsg":"Alentejo",
+    "valor":"16.8",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"15",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"150",
+    "geodsg":"Algarve",
+    "valor":"17",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"181",
+    "geodsg":"Alentejo Litoral",
+    "valor":"17.6",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"17",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"170",
+    "geodsg":"Área Metropolitana de Lisboa",
+    "valor":"17.8",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"2",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"20",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"200",
+    "geodsg":"Região Autónoma dos Açores",
+    "valor":"27.1",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  },
+  {
+    "geocod":"184",
+    "geodsg":"Baixo Alentejo",
+    "valor":"28.4",
+    "periodo":"2011",
+    "indicador_cod":"0008275",
+    "indicador_dsg":"Taxa de fecundidade na adolescência (‰) por Local de residência (NUTS - 2013); Anual - INE, Indicadores demográficos"
+  }
+]

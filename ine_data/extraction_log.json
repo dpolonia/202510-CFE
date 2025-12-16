@@ -1,0 +1,72 @@
+[
+  {
+    "code": "0008273",
+    "status": "success",
+    "records": 19608,
+    "file": "ine_data\\ind_0008273.csv",
+    "timestamp": "2025-10-26T04:09:27.565141"
+  },
+  {
+    "code": "0008274",
+    "status": "success",
+    "records": 36,
+    "file": "ine_data\\ind_0008274.csv",
+    "timestamp": "2025-10-26T04:09:28.831876"
+  },
+  {
+    "code": "0008275",
+    "status": "success",
+    "records": 36,
+    "file": "ine_data\\ind_0008275.csv",
+    "timestamp": "2025-10-26T04:09:30.123069"
+  },
+  {
+    "code": "0008258",
+    "status": "success",
+    "records": 344,
+    "file": "ine_data\\ind_0008258.csv",
+    "timestamp": "2025-10-26T04:09:31.431153"
+  },
+  {
+    "code": "0008259",
+    "status": "success",
+    "records": 344,
+    "file": "ine_data\\ind_0008259.csv",
+    "timestamp": "2025-10-26T04:09:32.724310"
+  },
+  {
+    "code": "0008261",
+    "status": "success",
+    "records": 344,
+    "file": "ine_data\\ind_0008261.csv",
+    "timestamp": "2025-10-26T04:09:34.059279"
+  },
+  {
+    "code": "0012136",
+    "status": "success",
+    "records": 39,
+    "file": "ine_data\\ind_0012136.csv",
+    "timestamp": "2025-10-26T04:09:35.315861"
+  },
+  {
+    "code": "0010683",
+    "status": "success",
+    "records": 231,
+    "file": "ine_data\\ind_0010683.csv",
+    "timestamp": "2025-10-26T04:09:36.744879"
+  },
+  {
+    "code": "0008277",
+    "status": "success",
+    "records": 344,
+    "file": "ine_data\\ind_0008277.csv",
+    "timestamp": "2025-10-26T04:09:38.134082"
+  },
+  {
+    "code": "0001228",
+    "status": "success",
+    "records": 3,
+    "file": "ine_data\\ind_0001228.csv",
+    "timestamp": "2025-10-26T04:09:39.512455"
+  }
+]

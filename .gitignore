@@ -1,66 +1,41 @@
-# Data files (too large for GitHub)
-data/
-*.parquet
-*.csv
-*.xlsx
-*.json
-!data_inventory.json
-!metadata/*.json
-!scripts/*.json
+# --- Security / Secrets (NEVER COMMIT THESE) ---
+.env
+.env.*
+*.pem
+*.key
 
-# Python
+# --- Python ---
 __pycache__/
 *.py[cod]
 *.class
-*.so
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
 
-# Jupyter Notebook
+# --- Jupyter Notebooks ---
 .ipynb_checkpoints
+*/.ipynb_checkpoints/*
 
-# Environment
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# OS
+# --- OS & System Files (Windows/WSL/Mac) ---
 .DS_Store
 Thumbs.db
+Desktop.ini
+# WSL specific artifact seen in your file list
+*:Zone.Identifier
 
-# Logs
-*.log
+# --- Project Specific Ignored Folders ---
+# Assuming '99 old' and '_ul' are local clutter/backups
+99 old/
+_ul
 
-# Temporary files
-tmp/
-temp/
-*.tmp
+# --- Virtual Environments ---
+# (Common names, just in case you create one later)
+venv/
+env/
+.venv/
 
-# Windows reserved names
-nul
-NUL
+# --- Optional: Large Data Files ---
+# GitHub rejects files > 100MB. 
+# Uncomment lines below if you want to stop syncing raw data:
+# *.csv
+# *.xlsx
+# *.zip
+# ine_data_OLD_BACKUP/
+# eurostat_data_OLD_NATIONAL/

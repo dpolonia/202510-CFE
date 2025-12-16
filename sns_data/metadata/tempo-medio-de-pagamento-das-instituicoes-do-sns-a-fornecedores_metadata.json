@@ -1,0 +1,9 @@
+{
+  "dataset_id": "tempo-medio-de-pagamento-das-instituicoes-do-sns-a-fornecedores",
+  "name": "Prazo M\u00e9dio de Pagamento a Fornecedores",
+  "description": "Average payment period to suppliers",
+  "priority": 1,
+  "download_timestamp": "2025-10-26T03:13:52.710376",
+  "record_count": 2423,
+  "file_size_bytes": 253956
+}

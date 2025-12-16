@@ -1,0 +1,122 @@
+[
+  {
+    "code": "0008273",
+    "status": "success",
+    "records": 19608,
+    "formats": [
+      "JSON",
+      "CSV",
+      "XLSX",
+      "Parquet"
+    ],
+    "timestamp": "2025-10-26T04:13:44.204006"
+  },
+  {
+    "code": "0008274",
+    "status": "success",
+    "records": 36,
+    "formats": [
+      "JSON",
+      "CSV",
+      "XLSX",
+      "Parquet"
+    ],
+    "timestamp": "2025-10-26T04:13:45.662347"
+  },
+  {
+    "code": "0008275",
+    "status": "success",
+    "records": 36,
+    "formats": [
+      "JSON",
+      "CSV",
+      "XLSX",
+      "Parquet"
+    ],
+    "timestamp": "2025-10-26T04:13:47.108985"
+  },
+  {
+    "code": "0008258",
+    "status": "success",
+    "records": 344,
+    "formats": [
+      "JSON",
+      "CSV",
+      "XLSX",
+      "Parquet"
+    ],
+    "timestamp": "2025-10-26T04:13:48.442978"
+  },
+  {
+    "code": "0008259",
+    "status": "success",
+    "records": 344,
+    "formats": [
+      "JSON",
+      "CSV",
+      "XLSX",
+      "Parquet"
+    ],
+    "timestamp": "2025-10-26T04:13:49.905840"
+  },
+  {
+    "code": "0008261",
+    "status": "success",
+    "records": 344,
+    "formats": [
+      "JSON",
+      "CSV",
+      "XLSX",
+      "Parquet"
+    ],
+    "timestamp": "2025-10-26T04:13:51.293559"
+  },
+  {
+    "code": "0012136",
+    "status": "success",
+    "records": 39,
+    "formats": [
+      "JSON",
+      "CSV",
+      "XLSX",
+      "Parquet"
+    ],
+    "timestamp": "2025-10-26T04:13:52.628144"
+  },
+  {
+    "code": "0010683",
+    "status": "success",
+    "records": 231,
+    "formats": [
+      "JSON",
+      "CSV",
+      "XLSX",
+      "Parquet"
+    ],
+    "timestamp": "2025-10-26T04:13:53.946548"
+  },
+  {
+    "code": "0008277",
+    "status": "success",
+    "records": 344,
+    "formats": [
+      "JSON",
+      "CSV",
+      "XLSX",
+      "Parquet"
+    ],
+    "timestamp": "2025-10-26T04:13:55.319758"
+  },
+  {
+    "code": "0001228",
+    "status": "success",
+    "records": 3,
+    "formats": [
+      "JSON",
+      "CSV",
+      "XLSX",
+      "Parquet"
+    ],
+    "timestamp": "2025-10-26T04:13:56.839996"
+  }
+]

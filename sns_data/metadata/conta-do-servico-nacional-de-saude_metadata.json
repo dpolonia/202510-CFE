@@ -1,0 +1,9 @@
+{
+  "dataset_id": "conta-do-servico-nacional-de-saude",
+  "name": "Conta do Servi\u00e7o Nacional de Sa\u00fade",
+  "description": "Comprehensive SNS financial accounts",
+  "priority": 1,
+  "download_timestamp": "2025-10-26T03:13:55.001184",
+  "record_count": 140,
+  "file_size_bytes": 76752
+}

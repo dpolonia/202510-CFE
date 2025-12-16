@@ -1,0 +1,119 @@
+[
+  {
+    "code": "nama_10r_3gdp",
+    "name": "regional_gdp_by_nuts",
+    "status": "success",
+    "records": 956,
+    "formats": [
+      "JSON",
+      "CSV",
+      "XLSX",
+      "Parquet"
+    ],
+    "timestamp": "2025-10-26T09:56:45.955249"
+  },
+  {
+    "code": "hlth_rs_bdsrg2",
+    "name": "hospital_beds_by_region",
+    "status": "success",
+    "records": 800,
+    "formats": [
+      "JSON",
+      "CSV",
+      "XLSX",
+      "Parquet"
+    ],
+    "timestamp": "2025-10-26T09:56:48.617784"
+  },
+  {
+    "code": "hlth_rs_physreg",
+    "name": "physicians_by_region",
+    "status": "success",
+    "records": 1029,
+    "formats": [
+      "JSON",
+      "CSV",
+      "XLSX",
+      "Parquet"
+    ],
+    "timestamp": "2025-10-26T09:56:51.459551"
+  },
+  {
+    "code": "hlth_cd_asdr2",
+    "name": "mortality_rate_by_region",
+    "status": "success",
+    "records": 88982,
+    "formats": [
+      "JSON",
+      "CSV",
+      "XLSX",
+      "Parquet"
+    ],
+    "timestamp": "2025-10-26T10:01:26.617568"
+  },
+  {
+    "code": "demo_mlexpec",
+    "name": "life_expectancy",
+    "status": "success",
+    "records": 8897,
+    "formats": [
+      "JSON",
+      "CSV",
+      "XLSX",
+      "Parquet"
+    ],
+    "timestamp": "2025-10-26T10:01:39.977797"
+  },
+  {
+    "code": "demo_r_pjangrp3",
+    "name": "population_by_age_sex_region",
+    "status": "success",
+    "records": 39577,
+    "formats": [
+      "JSON",
+      "CSV",
+      "XLSX",
+      "Parquet"
+    ],
+    "timestamp": "2025-10-26T10:02:22.546378"
+  },
+  {
+    "code": "demo_r_find3",
+    "name": "fertility_indicators_regional",
+    "status": "success",
+    "records": 1578,
+    "formats": [
+      "JSON",
+      "CSV",
+      "XLSX",
+      "Parquet"
+    ],
+    "timestamp": "2025-10-26T10:02:27.416418"
+  },
+  {
+    "code": "nama_10r_3empers",
+    "name": "employment_by_region",
+    "status": "success",
+    "records": 34781,
+    "formats": [
+      "JSON",
+      "CSV",
+      "XLSX",
+      "Parquet"
+    ],
+    "timestamp": "2025-10-26T10:03:14.944064"
+  },
+  {
+    "code": "lfst_r_lfu3rt",
+    "name": "unemployment_rate_regional",
+    "status": "success",
+    "records": 29401,
+    "formats": [
+      "JSON",
+      "CSV",
+      "XLSX",
+      "Parquet"
+    ],
+    "timestamp": "2025-10-26T10:03:57.847447"
+  }
+]

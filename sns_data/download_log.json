@@ -1,0 +1,26 @@
+{
+  "divida-total-vencida-e-pagamentos": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:13:32.812014",
+    "record_count": 7462,
+    "file": "sns_data\\priority_1_essential\\divida-total-vencida-e-pagamentos.csv"
+  },
+  "agregados-economico-financeiros": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:13:50.731998",
+    "record_count": 6268,
+    "file": "sns_data\\priority_1_essential\\agregados-economico-financeiros.csv"
+  },
+  "tempo-medio-de-pagamento-das-instituicoes-do-sns-a-fornecedores": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:13:52.710376",
+    "record_count": 2423,
+    "file": "sns_data\\priority_1_essential\\tempo-medio-de-pagamento-das-instituicoes-do-sns-a-fornecedores.csv"
+  },
+  "conta-do-servico-nacional-de-saude": {
+    "status": "completed",
+    "timestamp": "2025-10-26T03:13:55.001184",
+    "record_count": 140,
+    "file": "sns_data\\priority_1_essential\\conta-do-servico-nacional-de-saude.csv"
+  }
+}

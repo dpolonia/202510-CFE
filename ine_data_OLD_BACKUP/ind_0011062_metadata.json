@@ -1,0 +1,10 @@
+{
+  "indicator_code": "0011062",
+  "indicator_name": "Média de anos de consumo de tabaco da população residente com 15 e mais anos que fumou diariamente (Ano) por Sexo e Grupo etário; Quinquenal - INE, Inquérito nacional de saúde 2019",
+  "last_update": "2021-09-22",
+  "last_period": "2019",
+  "metadata_url": "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0011062&lingua=PT",
+  "extraction_date": "2025-10-26T04:03:59.698587",
+  "category": "Economics",
+  "use_case": "Regional economic context"
+}

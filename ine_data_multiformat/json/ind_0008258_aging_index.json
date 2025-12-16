@@ -1,0 +1,2427 @@
+{
+  "IndicadorCod": "0008258",
+  "IndicadorDsg": "Índice de envelhecimento (N.º) por Local de residência (NUTS - 2013); Anual - INE, Estimativas anuais da população residente",
+  "MetaInfUrl": "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0008258&lingua=PT",
+  "DataExtracao": "2025-10-26T04:13:47.545Z",
+  "DataUltimoAtualizacao": "2024-06-18",
+  "UltimoPref": "2023",
+  "Dados": {
+    "2023": [
+      {
+        "geocod": "2004205",
+        "geodsg": "Ribeira Grande",
+        "ind_string": "65,5",
+        "valor": "65.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "2004201",
+        "geodsg": "Lagoa",
+        "ind_string": "84,1",
+        "valor": "84.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "3003108",
+        "geodsg": "Santa Cruz",
+        "ind_string": "109,1",
+        "valor": "109.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "3003102",
+        "geodsg": "Câmara de Lobos",
+        "ind_string": "113,3",
+        "valor": "113.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "2004203",
+        "geodsg": "Ponta Delgada",
+        "ind_string": "113,9",
+        "valor": "113.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1701507",
+        "geodsg": "Montijo",
+        "ind_string": "115,3",
+        "valor": "115.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "2004206",
+        "geodsg": "Vila Franca do Campo",
+        "ind_string": "115,7",
+        "valor": "115.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1701109",
+        "geodsg": "Mafra",
+        "ind_string": "117,3",
+        "valor": "117.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1701502",
+        "geodsg": "Alcochete",
+        "ind_string": "118,7",
+        "valor": "118.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "2",
+        "geodsg": "Região Autónoma dos Açores",
+        "ind_string": "122,3",
+        "valor": "122.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "20",
+        "geodsg": "Região Autónoma dos Açores",
+        "ind_string": "122,3",
+        "valor": "122.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "200",
+        "geodsg": "Região Autónoma dos Açores",
+        "ind_string": "122,3",
+        "valor": "122.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16B1102",
+        "geodsg": "Arruda dos Vinhos",
+        "ind_string": "123,3",
+        "valor": "123.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11C1305",
+        "geodsg": "Lousada",
+        "ind_string": "125,1",
+        "valor": "125.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1701111",
+        "geodsg": "Sintra",
+        "ind_string": "126,9",
+        "valor": "126.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1500801",
+        "geodsg": "Albufeira",
+        "ind_string": "130,8",
+        "valor": "130.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1701114",
+        "geodsg": "Vila Franca de Xira",
+        "ind_string": "130,9",
+        "valor": "130.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "2004101",
+        "geodsg": "Vila do Porto",
+        "ind_string": "131,6",
+        "valor": "131.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11A1310",
+        "geodsg": "Paredes",
+        "ind_string": "133,2",
+        "valor": "133.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16B1112",
+        "geodsg": "Sobral de Monte Agraço",
+        "ind_string": "134,2",
+        "valor": "134.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1701116",
+        "geodsg": "Odivelas",
+        "ind_string": "136,7",
+        "valor": "136.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1851405",
+        "geodsg": "Benavente",
+        "ind_string": "136,7",
+        "valor": "136.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11C1309",
+        "geodsg": "Paços de Ferreira",
+        "ind_string": "137,2",
+        "valor": "137.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16B1101",
+        "geodsg": "Alenquer",
+        "ind_string": "137,3",
+        "valor": "137.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "2004204",
+        "geodsg": "Povoação",
+        "ind_string": "138,5",
+        "valor": "138.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "2004602",
+        "geodsg": "Madalena",
+        "ind_string": "140,6",
+        "valor": "140.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1701511",
+        "geodsg": "Sesimbra",
+        "ind_string": "140,9",
+        "valor": "140.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "2004901",
+        "geodsg": "Corvo",
+        "ind_string": "144,6",
+        "valor": "144.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1120303",
+        "geodsg": "Braga",
+        "ind_string": "146,0",
+        "valor": "146",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "2004302",
+        "geodsg": "Vila da Praia da Vitória",
+        "ind_string": "147,4",
+        "valor": "147.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "2004401",
+        "geodsg": "Santa Cruz da Graciosa",
+        "ind_string": "147,5",
+        "valor": "147.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16I1410",
+        "geodsg": "Entroncamento",
+        "ind_string": "147,6",
+        "valor": "147.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1190314",
+        "geodsg": "Vizela",
+        "ind_string": "148,1",
+        "valor": "148.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11C1311",
+        "geodsg": "Penafiel",
+        "ind_string": "148,7",
+        "valor": "148.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1701506",
+        "geodsg": "Moita",
+        "ind_string": "149,0",
+        "valor": "149",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1701107",
+        "geodsg": "Loures",
+        "ind_string": "149,1",
+        "valor": "149.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1500811",
+        "geodsg": "Portimão",
+        "ind_string": "150,8",
+        "valor": "150.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1701510",
+        "geodsg": "Seixal",
+        "ind_string": "151,3",
+        "valor": "151.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1701508",
+        "geodsg": "Palmela",
+        "ind_string": "152,0",
+        "valor": "152",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "17",
+        "geodsg": "Área Metropolitana de Lisboa",
+        "ind_string": "152,9",
+        "valor": "152.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "170",
+        "geodsg": "Área Metropolitana de Lisboa",
+        "ind_string": "152,9",
+        "valor": "152.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1701115",
+        "geodsg": "Amadora",
+        "ind_string": "153,3",
+        "valor": "153.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11A1306",
+        "geodsg": "Maia",
+        "ind_string": "153,6",
+        "valor": "153.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "2004802",
+        "geodsg": "Santa Cruz das Flores",
+        "ind_string": "154,5",
+        "valor": "154.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1120306",
+        "geodsg": "Esposende",
+        "ind_string": "155,3",
+        "valor": "155.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "2004301",
+        "geodsg": "Angra do Heroísmo",
+        "ind_string": "155,9",
+        "valor": "155.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11A1315",
+        "geodsg": "Valongo",
+        "ind_string": "156,1",
+        "valor": "156.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11A1316",
+        "geodsg": "Vila do Conde",
+        "ind_string": "159,4",
+        "valor": "159.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "2004701",
+        "geodsg": "Horta",
+        "ind_string": "160,3",
+        "valor": "160.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "112",
+        "geodsg": "Cávado",
+        "ind_string": "161,3",
+        "valor": "161.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1840205",
+        "geodsg": "Beja",
+        "ind_string": "162,2",
+        "valor": "162.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1500805",
+        "geodsg": "Faro",
+        "ind_string": "163,1",
+        "valor": "163.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11C1307",
+        "geodsg": "Marco de Canaveses",
+        "ind_string": "163,4",
+        "valor": "163.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1811513",
+        "geodsg": "Sines",
+        "ind_string": "163,4",
+        "valor": "163.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11C1303",
+        "geodsg": "Felgueiras",
+        "ind_string": "163,5",
+        "valor": "163.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1500810",
+        "geodsg": "Olhão",
+        "ind_string": "163,9",
+        "valor": "163.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "2004202",
+        "geodsg": "Nordeste",
+        "ind_string": "164,6",
+        "valor": "164.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1701105",
+        "geodsg": "Cascais",
+        "ind_string": "166,6",
+        "valor": "166.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16D0110",
+        "geodsg": "Ílhavo",
+        "ind_string": "166,7",
+        "valor": "166.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11A1313",
+        "geodsg": "Póvoa de Varzim",
+        "ind_string": "166,8",
+        "valor": "166.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "3003201",
+        "geodsg": "Porto Santo",
+        "ind_string": "167,6",
+        "valor": "167.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16F1004",
+        "geodsg": "Batalha",
+        "ind_string": "168,0",
+        "valor": "168",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11C",
+        "geodsg": "Tâmega e Sousa",
+        "ind_string": "169,0",
+        "valor": "169",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16D0105",
+        "geodsg": "Aveiro",
+        "ind_string": "169,2",
+        "valor": "169.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1190312",
+        "geodsg": "Vila Nova de Famalicão",
+        "ind_string": "169,5",
+        "valor": "169.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1701106",
+        "geodsg": "Lisboa",
+        "ind_string": "169,5",
+        "valor": "169.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1500808",
+        "geodsg": "Loulé",
+        "ind_string": "170,1",
+        "valor": "170.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16D0114",
+        "geodsg": "Oliveira do Bairro",
+        "ind_string": "170,2",
+        "valor": "170.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11A1318",
+        "geodsg": "Trofa",
+        "ind_string": "170,3",
+        "valor": "170.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16B1113",
+        "geodsg": "Torres Vedras",
+        "ind_string": "170,6",
+        "valor": "170.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1861204",
+        "geodsg": "Campo Maior",
+        "ind_string": "171,2",
+        "valor": "171.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "3",
+        "geodsg": "Região Autónoma da Madeira",
+        "ind_string": "171,5",
+        "valor": "171.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "30",
+        "geodsg": "Região Autónoma da Madeira",
+        "ind_string": "171,5",
+        "valor": "171.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "300",
+        "geodsg": "Região Autónoma da Madeira",
+        "ind_string": "171,5",
+        "valor": "171.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "2004502",
+        "geodsg": "Velas",
+        "ind_string": "171,6",
+        "valor": "171.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "2004603",
+        "geodsg": "São Roque do Pico",
+        "ind_string": "172,5",
+        "valor": "172.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E0604",
+        "geodsg": "Condeixa-a-Nova",
+        "ind_string": "173,8",
+        "valor": "173.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1120313",
+        "geodsg": "Vila Verde",
+        "ind_string": "174,0",
+        "valor": "174",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1701512",
+        "geodsg": "Setúbal",
+        "ind_string": "174,9",
+        "valor": "174.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1500806",
+        "geodsg": "Lagoa",
+        "ind_string": "175,4",
+        "valor": "175.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "15",
+        "geodsg": "Algarve",
+        "ind_string": "175,6",
+        "valor": "175.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "150",
+        "geodsg": "Algarve",
+        "ind_string": "175,6",
+        "valor": "175.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1701503",
+        "geodsg": "Almada",
+        "ind_string": "176,1",
+        "valor": "176.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "3003107",
+        "geodsg": "Ribeira Brava",
+        "ind_string": "176,1",
+        "valor": "176.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16F1009",
+        "geodsg": "Leiria",
+        "ind_string": "176,6",
+        "valor": "176.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1701110",
+        "geodsg": "Oeiras",
+        "ind_string": "176,8",
+        "valor": "176.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1120302",
+        "geodsg": "Barcelos",
+        "ind_string": "176,9",
+        "valor": "176.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1851414",
+        "geodsg": "Rio Maior",
+        "ind_string": "177,2",
+        "valor": "177.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1840210",
+        "geodsg": "Moura",
+        "ind_string": "178,7",
+        "valor": "178.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1190308",
+        "geodsg": "Guimarães",
+        "ind_string": "179,4",
+        "valor": "179.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1851103",
+        "geodsg": "Azambuja",
+        "ind_string": "179,4",
+        "valor": "179.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1500813",
+        "geodsg": "Silves",
+        "ind_string": "179,9",
+        "valor": "179.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11A1317",
+        "geodsg": "Vila Nova de Gaia",
+        "ind_string": "180,5",
+        "valor": "180.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1840204",
+        "geodsg": "Barrancos",
+        "ind_string": "181,2",
+        "valor": "181.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1120301",
+        "geodsg": "Amares",
+        "ind_string": "182,0",
+        "valor": "182",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1861207",
+        "geodsg": "Elvas",
+        "ind_string": "182,4",
+        "valor": "182.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16D0112",
+        "geodsg": "Murtosa",
+        "ind_string": "182,7",
+        "valor": "182.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11A0109",
+        "geodsg": "Santa Maria da Feira",
+        "ind_string": "183,0",
+        "valor": "183",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1870708",
+        "geodsg": "Mourão",
+        "ind_string": "183,1",
+        "valor": "183.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16D0115",
+        "geodsg": "Ovar",
+        "ind_string": "183,8",
+        "valor": "183.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1870705",
+        "geodsg": "Évora",
+        "ind_string": "184,1",
+        "valor": "184.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16D0118",
+        "geodsg": "Vagos",
+        "ind_string": "184,2",
+        "valor": "184.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16F1010",
+        "geodsg": "Marinha Grande",
+        "ind_string": "184,7",
+        "valor": "184.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "119",
+        "geodsg": "Ave",
+        "ind_string": "185,2",
+        "valor": "185.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11A",
+        "geodsg": "Área Metropolitana do Porto",
+        "ind_string": "185,4",
+        "valor": "185.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11A1304",
+        "geodsg": "Gondomar",
+        "ind_string": "185,4",
+        "valor": "185.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16B",
+        "geodsg": "Oeste",
+        "ind_string": "185,4",
+        "valor": "185.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "3003105",
+        "geodsg": "Ponta do Sol",
+        "ind_string": "186,2",
+        "valor": "186.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16B1108",
+        "geodsg": "Lourinhã",
+        "ind_string": "186,5",
+        "valor": "186.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16D0102",
+        "geodsg": "Albergaria-a-Velha",
+        "ind_string": "187,5",
+        "valor": "187.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "PT",
+        "geodsg": "Portugal",
+        "ind_string": "188,1",
+        "valor": "188.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1",
+        "geodsg": "Continente",
+        "ind_string": "190,2",
+        "valor": "190.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E0607",
+        "geodsg": "Lousã",
+        "ind_string": "190,6",
+        "valor": "190.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1701504",
+        "geodsg": "Barreiro",
+        "ind_string": "191,1",
+        "valor": "191.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1500812",
+        "geodsg": "São Brás de Alportel",
+        "ind_string": "191,3",
+        "valor": "191.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16G1823",
+        "geodsg": "Viseu",
+        "ind_string": "191,3",
+        "valor": "191.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1500803",
+        "geodsg": "Aljezur",
+        "ind_string": "191,4",
+        "valor": "191.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16D",
+        "geodsg": "Região de Aveiro",
+        "ind_string": "191,9",
+        "valor": "191.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1840207",
+        "geodsg": "Cuba",
+        "ind_string": "191,9",
+        "valor": "191.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1840214",
+        "geodsg": "Vidigueira",
+        "ind_string": "193,0",
+        "valor": "193",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11A0116",
+        "geodsg": "São João da Madeira",
+        "ind_string": "194,0",
+        "valor": "194",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1870713",
+        "geodsg": "Viana do Alentejo",
+        "ind_string": "194,8",
+        "valor": "194.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11A1308",
+        "geodsg": "Matosinhos",
+        "ind_string": "195,5",
+        "valor": "195.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16B1014",
+        "geodsg": "Peniche",
+        "ind_string": "195,6",
+        "valor": "195.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1851403",
+        "geodsg": "Almeirim",
+        "ind_string": "196,6",
+        "valor": "196.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11",
+        "geodsg": "Norte",
+        "ind_string": "197,4",
+        "valor": "197.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16D0108",
+        "geodsg": "Estarreja",
+        "ind_string": "197,4",
+        "valor": "197.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "3003103",
+        "geodsg": "Funchal",
+        "ind_string": "197,5",
+        "valor": "197.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "185",
+        "geodsg": "Lezíria do Tejo",
+        "ind_string": "199,4",
+        "valor": "199.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1500815",
+        "geodsg": "Vila do Bispo",
+        "ind_string": "199,8",
+        "valor": "199.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1190309",
+        "geodsg": "Póvoa de Lanhoso",
+        "ind_string": "200,0",
+        "valor": "200",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "2004501",
+        "geodsg": "Calheta",
+        "ind_string": "200,2",
+        "valor": "200.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1851406",
+        "geodsg": "Cartaxo",
+        "ind_string": "200,4",
+        "valor": "200.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16I1420",
+        "geodsg": "Vila Nova da Barquinha",
+        "ind_string": "200,9",
+        "valor": "200.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1500816",
+        "geodsg": "Vila Real de Santo António",
+        "ind_string": "203,2",
+        "valor": "203.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "2004601",
+        "geodsg": "Lajes do Pico",
+        "ind_string": "203,4",
+        "valor": "203.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1500807",
+        "geodsg": "Lagos",
+        "ind_string": "204,3",
+        "valor": "204.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11C0106",
+        "geodsg": "Castelo de Paiva",
+        "ind_string": "204,4",
+        "valor": "204.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16I1408",
+        "geodsg": "Constância",
+        "ind_string": "204,8",
+        "valor": "204.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16B1011",
+        "geodsg": "Nazaré",
+        "ind_string": "205,8",
+        "valor": "205.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1851416",
+        "geodsg": "Santarém",
+        "ind_string": "205,9",
+        "valor": "205.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "2004801",
+        "geodsg": "Lajes das Flores",
+        "ind_string": "205,9",
+        "valor": "205.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16F1016",
+        "geodsg": "Porto de Mós",
+        "ind_string": "206,3",
+        "valor": "206.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "3003104",
+        "geodsg": "Machico",
+        "ind_string": "207,7",
+        "valor": "207.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16F",
+        "geodsg": "Região de Leiria",
+        "ind_string": "207,9",
+        "valor": "207.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1870711",
+        "geodsg": "Reguengos de Monsaraz",
+        "ind_string": "208,1",
+        "valor": "208.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16G1810",
+        "geodsg": "Oliveira de Frades",
+        "ind_string": "208,2",
+        "valor": "208.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D1714",
+        "geodsg": "Vila Real",
+        "ind_string": "208,5",
+        "valor": "208.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1810211",
+        "geodsg": "Odemira",
+        "ind_string": "209,2",
+        "valor": "209.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1861211",
+        "geodsg": "Monforte",
+        "ind_string": "209,8",
+        "valor": "209.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "184",
+        "geodsg": "Baixo Alentejo",
+        "ind_string": "210,6",
+        "valor": "210.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1851415",
+        "geodsg": "Salvaterra de Magos",
+        "ind_string": "210,9",
+        "valor": "210.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11C1301",
+        "geodsg": "Amarante",
+        "ind_string": "211,1",
+        "valor": "211.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1190304",
+        "geodsg": "Cabeceiras de Basto",
+        "ind_string": "212,1",
+        "valor": "212.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11A0104",
+        "geodsg": "Arouca",
+        "ind_string": "212,1",
+        "valor": "212.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16B1012",
+        "geodsg": "Óbidos",
+        "ind_string": "213,2",
+        "valor": "213.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E0610",
+        "geodsg": "Montemor-o-Velho",
+        "ind_string": "213,3",
+        "valor": "213.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1190307",
+        "geodsg": "Fafe",
+        "ind_string": "214,0",
+        "valor": "214",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16B1005",
+        "geodsg": "Bombarral",
+        "ind_string": "215,0",
+        "valor": "215",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11A1312",
+        "geodsg": "Porto",
+        "ind_string": "215,2",
+        "valor": "215.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11A0113",
+        "geodsg": "Oliveira de Azeméis",
+        "ind_string": "215,9",
+        "valor": "215.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "18",
+        "geodsg": "Alentejo",
+        "ind_string": "215,9",
+        "valor": "215.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16B1006",
+        "geodsg": "Caldas da Rainha",
+        "ind_string": "216,8",
+        "valor": "216.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D1820",
+        "geodsg": "Tarouca",
+        "ind_string": "217,2",
+        "valor": "217.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1111608",
+        "geodsg": "Valença",
+        "ind_string": "219,0",
+        "valor": "219",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1840203",
+        "geodsg": "Alvito",
+        "ind_string": "219,4",
+        "valor": "219.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1111607",
+        "geodsg": "Ponte de Lima",
+        "ind_string": "219,9",
+        "valor": "219.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E0603",
+        "geodsg": "Coimbra",
+        "ind_string": "220,4",
+        "valor": "220.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1811505",
+        "geodsg": "Grândola",
+        "ind_string": "220,4",
+        "valor": "220.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "181",
+        "geodsg": "Alentejo Litoral",
+        "ind_string": "220,6",
+        "valor": "220.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "187",
+        "geodsg": "Alentejo Central",
+        "ind_string": "220,9",
+        "valor": "220.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1840206",
+        "geodsg": "Castro Verde",
+        "ind_string": "221,2",
+        "valor": "221.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16I1421",
+        "geodsg": "Ourém",
+        "ind_string": "222,3",
+        "valor": "222.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16D0101",
+        "geodsg": "Águeda",
+        "ind_string": "223,1",
+        "valor": "223.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16B1001",
+        "geodsg": "Alcobaça",
+        "ind_string": "224,2",
+        "valor": "224.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1111609",
+        "geodsg": "Viana do Castelo",
+        "ind_string": "224,6",
+        "valor": "224.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1840208",
+        "geodsg": "Ferreira do Alentejo",
+        "ind_string": "225,9",
+        "valor": "225.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11C0305",
+        "geodsg": "Celorico de Basto",
+        "ind_string": "227,6",
+        "valor": "227.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "3003101",
+        "geodsg": "Calheta",
+        "ind_string": "228,8",
+        "valor": "228.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1851404",
+        "geodsg": "Alpiarça",
+        "ind_string": "229,0",
+        "valor": "229",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1870702",
+        "geodsg": "Arraiolos",
+        "ind_string": "232,5",
+        "valor": "232.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16",
+        "geodsg": "Centro",
+        "ind_string": "232,6",
+        "valor": "232.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E0617",
+        "geodsg": "Vila Nova de Poiares",
+        "ind_string": "233,4",
+        "valor": "233.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11C1302",
+        "geodsg": "Baião",
+        "ind_string": "233,8",
+        "valor": "233.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1840201",
+        "geodsg": "Aljustrel",
+        "ind_string": "233,8",
+        "valor": "233.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1861214",
+        "geodsg": "Portalegre",
+        "ind_string": "234,2",
+        "valor": "234.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1870710",
+        "geodsg": "Redondo",
+        "ind_string": "234,2",
+        "valor": "234.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1870712",
+        "geodsg": "Vendas Novas",
+        "ind_string": "238,4",
+        "valor": "238.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1870704",
+        "geodsg": "Estremoz",
+        "ind_string": "239,0",
+        "valor": "239",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1840213",
+        "geodsg": "Serpa",
+        "ind_string": "240,8",
+        "valor": "240.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1870709",
+        "geodsg": "Portel",
+        "ind_string": "241,3",
+        "valor": "241.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16J0907",
+        "geodsg": "Guarda",
+        "ind_string": "241,6",
+        "valor": "241.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1811509",
+        "geodsg": "Santiago do Cacém",
+        "ind_string": "241,7",
+        "valor": "241.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1111610",
+        "geodsg": "Vila Nova de Cerveira",
+        "ind_string": "242,0",
+        "valor": "242",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1870703",
+        "geodsg": "Borba",
+        "ind_string": "242,0",
+        "valor": "242",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16I1419",
+        "geodsg": "Torres Novas",
+        "ind_string": "242,2",
+        "valor": "242.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11A1314",
+        "geodsg": "Santo Tirso",
+        "ind_string": "242,8",
+        "valor": "242.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E0111",
+        "geodsg": "Mealhada",
+        "ind_string": "243,8",
+        "valor": "243.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11C1804",
+        "geodsg": "Cinfães",
+        "ind_string": "246,1",
+        "valor": "246.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1851412",
+        "geodsg": "Golegã",
+        "ind_string": "246,9",
+        "valor": "246.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16I1402",
+        "geodsg": "Alcanena",
+        "ind_string": "249,4",
+        "valor": "249.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E",
+        "geodsg": "Região de Coimbra",
+        "ind_string": "249,6",
+        "valor": "249.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1870714",
+        "geodsg": "Vila Viçosa",
+        "ind_string": "249,6",
+        "valor": "249.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11C1813",
+        "geodsg": "Resende",
+        "ind_string": "249,8",
+        "valor": "249.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16B1104",
+        "geodsg": "Cadaval",
+        "ind_string": "249,9",
+        "valor": "249.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16H0502",
+        "geodsg": "Castelo Branco",
+        "ind_string": "250,6",
+        "valor": "250.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "186",
+        "geodsg": "Alto Alentejo",
+        "ind_string": "252,5",
+        "valor": "252.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1870706",
+        "geodsg": "Montemor-o-Novo",
+        "ind_string": "255,3",
+        "valor": "255.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1861202",
+        "geodsg": "Arronches",
+        "ind_string": "255,6",
+        "valor": "255.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16I",
+        "geodsg": "Médio Tejo",
+        "ind_string": "256,2",
+        "valor": "256.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16G",
+        "geodsg": "Viseu Dão Lafões",
+        "ind_string": "256,9",
+        "valor": "256.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16F1015",
+        "geodsg": "Pombal",
+        "ind_string": "257,4",
+        "valor": "257.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1861213",
+        "geodsg": "Ponte de Sor",
+        "ind_string": "257,9",
+        "valor": "257.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1500814",
+        "geodsg": "Tavira",
+        "ind_string": "259,2",
+        "valor": "259.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E0605",
+        "geodsg": "Figueira da Foz",
+        "ind_string": "259,7",
+        "valor": "259.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11E0402",
+        "geodsg": "Bragança",
+        "ind_string": "261,4",
+        "valor": "261.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "111",
+        "geodsg": "Alto Minho",
+        "ind_string": "263,0",
+        "valor": "263",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E0608",
+        "geodsg": "Mira",
+        "ind_string": "264,6",
+        "valor": "264.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1861201",
+        "geodsg": "Alter do Chão",
+        "ind_string": "266,1",
+        "valor": "266.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D1807",
+        "geodsg": "Moimenta da Beira",
+        "ind_string": "266,2",
+        "valor": "266.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E0611",
+        "geodsg": "Oliveira do Hospital",
+        "ind_string": "266,9",
+        "valor": "266.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E0609",
+        "geodsg": "Miranda do Corvo",
+        "ind_string": "267,8",
+        "valor": "267.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11A0107",
+        "geodsg": "Espinho",
+        "ind_string": "268,1",
+        "valor": "268.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E0616",
+        "geodsg": "Tábua",
+        "ind_string": "268,5",
+        "valor": "268.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E0602",
+        "geodsg": "Cantanhede",
+        "ind_string": "269,7",
+        "valor": "269.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D1708",
+        "geodsg": "Peso da Régua",
+        "ind_string": "271,0",
+        "valor": "271",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16G1806",
+        "geodsg": "Mangualde",
+        "ind_string": "271,0",
+        "valor": "271",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1500804",
+        "geodsg": "Castro Marim",
+        "ind_string": "272,4",
+        "valor": "272.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1861215",
+        "geodsg": "Sousel",
+        "ind_string": "275,5",
+        "valor": "275.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1111602",
+        "geodsg": "Caminha",
+        "ind_string": "276,5",
+        "valor": "276.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "3003110",
+        "geodsg": "São Vicente",
+        "ind_string": "276,5",
+        "valor": "276.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16D0103",
+        "geodsg": "Anadia",
+        "ind_string": "277,9",
+        "valor": "277.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D1805",
+        "geodsg": "Lamego",
+        "ind_string": "280,4",
+        "valor": "280.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11A0119",
+        "geodsg": "Vale de Cambra",
+        "ind_string": "281,3",
+        "valor": "281.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D1815",
+        "geodsg": "São João da Pesqueira",
+        "ind_string": "285,7",
+        "valor": "285.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16G1809",
+        "geodsg": "Nelas",
+        "ind_string": "285,7",
+        "valor": "285.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1861203",
+        "geodsg": "Avis",
+        "ind_string": "290,8",
+        "valor": "290.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E0614",
+        "geodsg": "Penela",
+        "ind_string": "291,2",
+        "valor": "291.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1811501",
+        "geodsg": "Alcácer do Sal",
+        "ind_string": "292,0",
+        "valor": "292",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1111606",
+        "geodsg": "Ponte da Barca",
+        "ind_string": "292,2",
+        "valor": "292.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D",
+        "geodsg": "Douro",
+        "ind_string": "292,2",
+        "valor": "292.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16G1802",
+        "geodsg": "Carregal do Sal",
+        "ind_string": "292,6",
+        "valor": "292.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16I1411",
+        "geodsg": "Ferreira do Zêzere",
+        "ind_string": "293,3",
+        "valor": "293.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1840202",
+        "geodsg": "Almodôvar",
+        "ind_string": "293,3",
+        "valor": "293.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16G1817",
+        "geodsg": "Sátão",
+        "ind_string": "295,8",
+        "valor": "295.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16J0503",
+        "geodsg": "Covilhã",
+        "ind_string": "296,2",
+        "valor": "296.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16I1418",
+        "geodsg": "Tomar",
+        "ind_string": "298,0",
+        "valor": "298",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1851407",
+        "geodsg": "Chamusca",
+        "ind_string": "298,9",
+        "valor": "298.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16D0117",
+        "geodsg": "Sever do Vouga",
+        "ind_string": "299,2",
+        "valor": "299.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1111605",
+        "geodsg": "Paredes de Coura",
+        "ind_string": "300,3",
+        "valor": "300.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "3003109",
+        "geodsg": "Santana",
+        "ind_string": "301,9",
+        "valor": "301.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1851409",
+        "geodsg": "Coruche",
+        "ind_string": "302,4",
+        "valor": "302.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16G1824",
+        "geodsg": "Vouzela",
+        "ind_string": "309,5",
+        "valor": "309.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1840212",
+        "geodsg": "Ourique",
+        "ind_string": "310,1",
+        "valor": "310.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16I0509",
+        "geodsg": "Sertã",
+        "ind_string": "310,3",
+        "valor": "310.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16G1814",
+        "geodsg": "Santa Comba Dão",
+        "ind_string": "310,8",
+        "valor": "310.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1191705",
+        "geodsg": "Mondim de Basto",
+        "ind_string": "311,9",
+        "valor": "311.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E0601",
+        "geodsg": "Arganil",
+        "ind_string": "313,3",
+        "valor": "313.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D1704",
+        "geodsg": "Mesão Frio",
+        "ind_string": "315,7",
+        "valor": "315.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1120310",
+        "geodsg": "Terras de Bouro",
+        "ind_string": "317,1",
+        "valor": "317.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16I1401",
+        "geodsg": "Abrantes",
+        "ind_string": "317,1",
+        "valor": "317.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16J0504",
+        "geodsg": "Fundão",
+        "ind_string": "318,2",
+        "valor": "318.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16J0501",
+        "geodsg": "Belmonte",
+        "ind_string": "318,3",
+        "valor": "318.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1870701",
+        "geodsg": "Alandroal",
+        "ind_string": "318,8",
+        "valor": "318.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16H",
+        "geodsg": "Beira Baixa",
+        "ind_string": "322,4",
+        "valor": "322.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1861208",
+        "geodsg": "Fronteira",
+        "ind_string": "323,5",
+        "valor": "323.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16G1821",
+        "geodsg": "Tondela",
+        "ind_string": "325,7",
+        "valor": "325.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11E0407",
+        "geodsg": "Mirandela",
+        "ind_string": "329,4",
+        "valor": "329.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1190311",
+        "geodsg": "Vieira do Minho",
+        "ind_string": "336,0",
+        "valor": "336",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16F1003",
+        "geodsg": "Ansião",
+        "ind_string": "336,1",
+        "valor": "336.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "3003106",
+        "geodsg": "Porto Moniz",
+        "ind_string": "338,9",
+        "valor": "338.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1500809",
+        "geodsg": "Monchique",
+        "ind_string": "339,2",
+        "valor": "339.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D1801",
+        "geodsg": "Armamar",
+        "ind_string": "340,9",
+        "valor": "340.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16G1816",
+        "geodsg": "São Pedro do Sul",
+        "ind_string": "342,6",
+        "valor": "342.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1861210",
+        "geodsg": "Marvão",
+        "ind_string": "343,6",
+        "valor": "343.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16G1822",
+        "geodsg": "Vila Nova de Paiva",
+        "ind_string": "344,0",
+        "valor": "344",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11B1709",
+        "geodsg": "Ribeira de Pena",
+        "ind_string": "345,0",
+        "valor": "345",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16J",
+        "geodsg": "Beiras e Serra da Estrela",
+        "ind_string": "345,2",
+        "valor": "345.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16I1417",
+        "geodsg": "Sardoal",
+        "ind_string": "345,4",
+        "valor": "345.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11B1703",
+        "geodsg": "Chaves",
+        "ind_string": "347,8",
+        "valor": "347.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E0615",
+        "geodsg": "Soure",
+        "ind_string": "348,3",
+        "valor": "348.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1111604",
+        "geodsg": "Monção",
+        "ind_string": "357,4",
+        "valor": "357.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1861205",
+        "geodsg": "Castelo de Vide",
+        "ind_string": "360,7",
+        "valor": "360.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11E",
+        "geodsg": "Terras de Trás-os-Montes",
+        "ind_string": "363,1",
+        "valor": "363.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16G1803",
+        "geodsg": "Castro Daire",
+        "ind_string": "363,6",
+        "valor": "363.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E0613",
+        "geodsg": "Penacova",
+        "ind_string": "365,3",
+        "valor": "365.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D0404",
+        "geodsg": "Freixo de Espada à Cinta",
+        "ind_string": "367,2",
+        "valor": "367.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E1808",
+        "geodsg": "Mortágua",
+        "ind_string": "369,3",
+        "valor": "369.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D1711",
+        "geodsg": "Santa Marta de Penaguião",
+        "ind_string": "370,9",
+        "valor": "370.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D1818",
+        "geodsg": "Sernancelhe",
+        "ind_string": "371,4",
+        "valor": "371.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16G1811",
+        "geodsg": "Penalva do Castelo",
+        "ind_string": "372,7",
+        "valor": "372.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16I0510",
+        "geodsg": "Vila de Rei",
+        "ind_string": "372,8",
+        "valor": "372.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D1710",
+        "geodsg": "Sabrosa",
+        "ind_string": "374,0",
+        "valor": "374",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16J0912",
+        "geodsg": "Seia",
+        "ind_string": "374,1",
+        "valor": "374.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D1819",
+        "geodsg": "Tabuaço",
+        "ind_string": "374,2",
+        "valor": "374.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D1701",
+        "geodsg": "Alijó",
+        "ind_string": "380,1",
+        "valor": "380.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16J0904",
+        "geodsg": "Figueira de Castelo Rodrigo",
+        "ind_string": "380,3",
+        "valor": "380.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16J0905",
+        "geodsg": "Fornos de Algodres",
+        "ind_string": "386,6",
+        "valor": "386.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16J0903",
+        "geodsg": "Celorico da Beira",
+        "ind_string": "390,5",
+        "valor": "390.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11E0405",
+        "geodsg": "Macedo de Cavaleiros",
+        "ind_string": "395,1",
+        "valor": "395.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11E0410",
+        "geodsg": "Vila Flor",
+        "ind_string": "396,2",
+        "valor": "396.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16F1008",
+        "geodsg": "Figueiró dos Vinhos",
+        "ind_string": "397,0",
+        "valor": "397",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1111601",
+        "geodsg": "Arcos de Valdevez",
+        "ind_string": "397,1",
+        "valor": "397.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1861206",
+        "geodsg": "Crato",
+        "ind_string": "398,3",
+        "valor": "398.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16F1013",
+        "geodsg": "Pedrógão Grande",
+        "ind_string": "404,8",
+        "valor": "404.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11B",
+        "geodsg": "Alto Tâmega",
+        "ind_string": "407,5",
+        "valor": "407.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16F1002",
+        "geodsg": "Alvaiázere",
+        "ind_string": "409,2",
+        "valor": "409.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D0914",
+        "geodsg": "Vila Nova de Foz Côa",
+        "ind_string": "417,6",
+        "valor": "417.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1870707",
+        "geodsg": "Mora",
+        "ind_string": "419,6",
+        "valor": "419.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11B1713",
+        "geodsg": "Vila Pouca de Aguiar",
+        "ind_string": "429,1",
+        "valor": "429.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1840209",
+        "geodsg": "Mértola",
+        "ind_string": "433,5",
+        "valor": "433.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16J0913",
+        "geodsg": "Trancoso",
+        "ind_string": "434,2",
+        "valor": "434.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16J0906",
+        "geodsg": "Gouveia",
+        "ind_string": "435,5",
+        "valor": "435.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16H0505",
+        "geodsg": "Idanha-a-Nova",
+        "ind_string": "439,3",
+        "valor": "439.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D1812",
+        "geodsg": "Penedono",
+        "ind_string": "440,4",
+        "valor": "440.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D1707",
+        "geodsg": "Murça",
+        "ind_string": "440,6",
+        "valor": "440.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D0403",
+        "geodsg": "Carrazeda de Ansiães",
+        "ind_string": "446,0",
+        "valor": "446",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11B1702",
+        "geodsg": "Boticas",
+        "ind_string": "446,6",
+        "valor": "446.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16J0908",
+        "geodsg": "Manteigas",
+        "ind_string": "446,8",
+        "valor": "446.8",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11E0401",
+        "geodsg": "Alfândega da Fé",
+        "ind_string": "447,2",
+        "valor": "447.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16H0511",
+        "geodsg": "Vila Velha de Ródão",
+        "ind_string": "451,2",
+        "valor": "451.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16G0901",
+        "geodsg": "Aguiar da Beira",
+        "ind_string": "456,4",
+        "valor": "456.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16H0508",
+        "geodsg": "Proença-a-Nova",
+        "ind_string": "458,4",
+        "valor": "458.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E0606",
+        "geodsg": "Góis",
+        "ind_string": "477,2",
+        "valor": "477.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11E0408",
+        "geodsg": "Mogadouro",
+        "ind_string": "479,4",
+        "valor": "479.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11E0406",
+        "geodsg": "Miranda do Douro",
+        "ind_string": "483,4",
+        "valor": "483.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1861212",
+        "geodsg": "Nisa",
+        "ind_string": "488,3",
+        "valor": "488.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16J0909",
+        "geodsg": "Mêda",
+        "ind_string": "493,9",
+        "valor": "493.9",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16I1413",
+        "geodsg": "Mação",
+        "ind_string": "496,0",
+        "valor": "496",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16J0910",
+        "geodsg": "Pinhel",
+        "ind_string": "501,5",
+        "valor": "501.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11D0409",
+        "geodsg": "Torre de Moncorvo",
+        "ind_string": "504,5",
+        "valor": "504.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11B1712",
+        "geodsg": "Valpaços",
+        "ind_string": "511,1",
+        "valor": "511.1",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11B1706",
+        "geodsg": "Montalegre",
+        "ind_string": "541,4",
+        "valor": "541.4",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16F1007",
+        "geodsg": "Castanheira de Pêra",
+        "ind_string": "548,6",
+        "valor": "548.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1861209",
+        "geodsg": "Gavião",
+        "ind_string": "559,2",
+        "valor": "559.2",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16J0911",
+        "geodsg": "Sabugal",
+        "ind_string": "565,0",
+        "valor": "565",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11E0411",
+        "geodsg": "Vimioso",
+        "ind_string": "582,6",
+        "valor": "582.6",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1111603",
+        "geodsg": "Melgaço",
+        "ind_string": "582,7",
+        "valor": "582.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16H0507",
+        "geodsg": "Penamacor",
+        "ind_string": "619,3",
+        "valor": "619.3",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16E0612",
+        "geodsg": "Pampilhosa da Serra",
+        "ind_string": "634,5",
+        "valor": "634.5",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16J0902",
+        "geodsg": "Almeida",
+        "ind_string": "713,0",
+        "valor": "713",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "1500802",
+        "geodsg": "Alcoutim",
+        "ind_string": "714,7",
+        "valor": "714.7",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "11E0412",
+        "geodsg": "Vinhais",
+        "ind_string": "716,0",
+        "valor": "716",
+        "periodo": "2023"
+      },
+      {
+        "geocod": "16H0506",
+        "geodsg": "Oleiros",
+        "ind_string": "720,1",
+        "valor": "720.1",
+        "periodo": "2023"
+      }
+    ]
+  },
+  "Sucesso": {
+    "Verdadeiro": [
+      {
+        "Msg": "OK"
+      }
+    ]
+  }
+}

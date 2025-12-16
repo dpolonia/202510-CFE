@@ -1,0 +1,34 @@
+﻿freq;freq_label;indic_de;indic_de_label;unit;unit_label;geo;geo_label;time;time_label;value
+A;Annual;TOTFERRT;Total fertility rate;YR;Year;PT;Portugal;2014;2014;30.4
+A;Annual;AGEMOTH;Mean age of women at childbirth;NR;Number;PT;Portugal;2015;2015;30.7
+A;Annual;MEDAGEMOTH;Median age of women at childbirth;NR;Number;PT;Portugal;2015;2015;30.9
+A;Annual;TOTFERRT;Total fertility rate;NR;Number;PT;Portugal;2015;2015;31.1
+A;Annual;AGEMOTH;Mean age of women at childbirth;YR;Year;PT;Portugal;2015;2015;31.2
+A;Annual;MEDAGEMOTH;Median age of women at childbirth;YR;Year;PT;Portugal;2015;2015;31.4
+A;Annual;TOTFERRT;Total fertility rate;YR;Year;PT;Portugal;2015;2015;31.4
+A;Annual;AGEMOTH;Mean age of women at childbirth;NR;Number;PT;Portugal;2016;2016;31.6
+A;Annual;MEDAGEMOTH;Median age of women at childbirth;NR;Number;PT;Portugal;2016;2016;31.8
+A;Annual;TOTFERRT;Total fertility rate;NR;Number;PT;Portugal;2016;2016;31.7
+A;Annual;AGEMOTH;Mean age of women at childbirth;YR;Year;PT;Portugal;2016;2016;31.6
+A;Annual;AGEMOTH;Mean age of women at childbirth;YR;Year;PT;Portugal;2018;2018;31.6
+A;Annual;MEDAGEMOTH;Median age of women at childbirth;YR;Year;PT;Portugal;2018;2018;31.9
+A;Annual;TOTFERRT;Total fertility rate;YR;Year;PT;Portugal;2018;2018;32.1
+A;Annual;AGEMOTH;Mean age of women at childbirth;NR;Number;PT;Portugal;2019;2019;32.3
+A;Annual;MEDAGEMOTH;Median age of women at childbirth;NR;Number;PT;Portugal;2019;2019;32.3
+A;Annual;TOTFERRT;Total fertility rate;NR;Number;PT;Portugal;2019;2019;32.4
+A;Annual;AGEMOTH;Mean age of women at childbirth;YR;Year;PT;Portugal;2019;2019;32.4
+A;Annual;MEDAGEMOTH;Median age of women at childbirth;YR;Year;PT;Portugal;2019;2019;32.5
+A;Annual;TOTFERRT;Total fertility rate;YR;Year;PT;Portugal;2019;2019;32.6
+A;Annual;AGEMOTH;Mean age of women at childbirth;NR;Number;PT;Portugal;2020;2020;32.5
+A;Annual;MEDAGEMOTH;Median age of women at childbirth;NR;Number;PT;Portugal;2020;2020;32.3
+A;Annual;TOTFERRT;Total fertility rate;NR;Number;PT;Portugal;2020;2020;1.21
+A;Annual;AGEMOTH;Mean age of women at childbirth;YR;Year;PT;Portugal;2020;2020;1.23
+A;Annual;MEDAGEMOTH;Median age of women at childbirth;YR;Year;PT;Portugal;2020;2020;1.31
+A;Annual;TOTFERRT;Total fertility rate;YR;Year;PT;Portugal;2020;2020;1.36
+A;Annual;AGEMOTH;Mean age of women at childbirth;NR;Number;PT;Portugal;2021;2021;1.38
+A;Annual;MEDAGEMOTH;Median age of women at childbirth;NR;Number;PT;Portugal;2021;2021;1.42
+A;Annual;TOTFERRT;Total fertility rate;NR;Number;PT;Portugal;2021;2021;1.43
+A;Annual;AGEMOTH;Mean age of women at childbirth;YR;Year;PT;Portugal;2021;2021;1.41
+A;Annual;MEDAGEMOTH;Median age of women at childbirth;YR;Year;PT;Portugal;2021;2021;1.35
+A;Annual;TOTFERRT;Total fertility rate;YR;Year;PT;Portugal;2021;2021;1.42
+A;Annual;AGEMOTH;Mean age of women at childbirth;NR;Number;PT;Portugal;2022;2022;1.44

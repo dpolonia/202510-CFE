@@ -1,0 +1,10 @@
+{
+  "indicator_code": "0001228",
+  "indicator_name": "Esperança de vida aos 65 anos (Anos) por Sexo; Anual - INE, Indicadores demográficos",
+  "last_update": "2008-02-25",
+  "last_period": "2004",
+  "metadata_url": "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0001228&lingua=PT",
+  "extraction_date": "2025-10-26T04:13:56.809486",
+  "category": "Demographics",
+  "use_case": "Population health outcomes"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_code": "hlth_rs_physreg",
+  "dataset_name": "physicians_by_region",
+  "description": "Practising physicians by NUTS 2 regions",
+  "label": "Physicians by NUTS 2 region",
+  "source": "ESTAT",
+  "updated": "2025-07-15T11:00:00+0200",
+  "extraction_date": "2025-10-26T09:47:21.857130",
+  "category": "Healthcare",
+  "use_case": "Healthcare workforce availability"
+}

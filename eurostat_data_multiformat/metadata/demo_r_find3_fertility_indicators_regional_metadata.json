@@ -1,0 +1,11 @@
+{
+  "dataset_code": "demo_r_find3",
+  "dataset_name": "fertility_indicators_regional",
+  "description": "Fertility indicators by NUTS 3 region",
+  "label": "Fertility indicators by NUTS 3 region",
+  "source": "ESTAT",
+  "updated": "2025-10-01T23:00:00+0200",
+  "extraction_date": "2025-10-26T10:02:25.117502",
+  "category": "Demographics",
+  "use_case": "Birth trends and maternity services demand"
+}

@@ -1,0 +1,22 @@
+﻿geocod,geodsg,dim_3,dim_3_t,dim_4,dim_4_t,ind_string,valor,periodo,sinal_conv,sinal_conv_desc
+PT,Portugal,1,H,4,45 - 54 anos,"17,1",17.1,2019,,
+PT,Portugal,2,M,4,45 - 54 anos,"15,8",15.8,2019,,
+PT,Portugal,T,HM,4,45 - 54 anos,"16,6",16.6,2019,,
+PT,Portugal,1,H,2,25 - 34 anos,x,,2019,x,Dado não disponível
+PT,Portugal,2,M,2,25 - 34 anos,"7,0",7,2019,,
+PT,Portugal,T,HM,2,25 - 34 anos,"7,9",7.9,2019,,
+PT,Portugal,1,H,1,15 - 24 anos,x,,2019,x,Dado não disponível
+PT,Portugal,2,M,1,15 - 24 anos,x,,2019,x,Dado não disponível
+PT,Portugal,T,HM,1,15 - 24 anos,x,,2019,x,Dado não disponível
+PT,Portugal,1,H,T,Total,"20,9",20.9,2019,,
+PT,Portugal,2,M,T,Total,"15,3",15.3,2019,,
+PT,Portugal,T,HM,T,Total,"19,3",19.3,2019,,
+PT,Portugal,1,H,5,55 - 64 anos,"21,6",21.6,2019,,
+PT,Portugal,2,M,5,55 - 64 anos,"19,2",19.2,2019,,
+PT,Portugal,T,HM,5,55 - 64 anos,"21,0",21,2019,,
+PT,Portugal,1,H,3,35 - 44 anos,"12,8",12.8,2019,,
+PT,Portugal,2,M,3,35 - 44 anos,"9,8",9.8,2019,,
+PT,Portugal,T,HM,3,35 - 44 anos,"11,6",11.6,2019,,
+PT,Portugal,1,H,6,65 e mais anos,"26,9",26.9,2019,,
+PT,Portugal,2,M,6,65 e mais anos,"24,3",24.3,2019,,
+PT,Portugal,T,HM,6,65 e mais anos,"26,5",26.5,2019,,

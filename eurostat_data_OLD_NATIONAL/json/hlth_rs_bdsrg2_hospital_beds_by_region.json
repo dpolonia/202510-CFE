@@ -1,0 +1,319 @@
+{
+  "version": "2.0",
+  "class": "dataset",
+  "label": "Available beds in hospitals by NUTS 2 region",
+  "source": "ESTAT",
+  "updated": "2025-07-15T11:00:00+0200",
+  "value": {
+    "32": 262.2,
+    "33": 263.48,
+    "34": 263.01,
+    "35": 257.7,
+    "36": 260.16,
+    "37": 263.74,
+    "38": 270.07,
+    "39": 270.76,
+    "40": 273.31,
+    "41": 278.07,
+    "42": 275.86,
+    "43": 274.62,
+    "44": 276.5,
+    "45": 282.3,
+    "46": 285.3,
+    "47": 288.62,
+    "48": 289.98,
+    "49": 289.89,
+    "50": 290.26,
+    "51": 288.52,
+    "52": 291.26,
+    "53": 299.33,
+    "54": 296.17,
+    "55": 294.93,
+    "56": 295.64,
+    "57": 291.83,
+    "58": 286.89,
+    "59": 288.32,
+    "60": 286.75,
+    "61": 291.42,
+    "62": 295.86,
+    "0": 39410.0,
+    "1": 39219.0,
+    "2": 39290.0,
+    "3": 40099.0,
+    "4": 39720.0,
+    "5": 39180.0,
+    "6": 38262,
+    "7": 38165.0,
+    "8": 37809.0,
+    "9": 37162.0,
+    "10": 37459.0,
+    "11": 37628.0,
+    "12": 37372.0,
+    "13": 36605.0,
+    "14": 36220.0,
+    "15": 35803.0,
+    "16": 35635.0,
+    "17": 35646.0,
+    "18": 35601.0,
+    "19": 35815.0,
+    "20": 35478.0,
+    "21": 34522.0,
+    "22": 34890.0,
+    "23": 35037.0,
+    "24": 34953.0,
+    "25": 35409.0,
+    "26": 36092.0,
+    "27": 36019.0,
+    "28": 36296.0,
+    "29": 35924.0,
+    "30": 35754,
+    "64": 381.38,
+    "65": 379.53,
+    "66": 380.22,
+    "67": 388.05,
+    "68": 384.38,
+    "69": 379.16,
+    "70": 370.27,
+    "71": 369.33,
+    "72": 365.89,
+    "73": 359.63,
+    "74": 362.5,
+    "75": 364.14,
+    "76": 361.66,
+    "77": 354.24,
+    "78": 350.51,
+    "79": 346.48,
+    "80": 344.85,
+    "81": 344.96,
+    "82": 344.52,
+    "83": 346.59,
+    "84": 343.33,
+    "85": 334.08,
+    "86": 337.64,
+    "87": 339.06,
+    "88": 338.25,
+    "89": 342.66,
+    "90": 348.57,
+    "91": 346.84,
+    "92": 348.74,
+    "93": 343.15,
+    "94": 338.0
+  },
+  "status": {
+    "38": "b",
+    "62": "p",
+    "6": "b",
+    "30": "p",
+    "70": "b",
+    "94": "p"
+  },
+  "id": [
+    "freq",
+    "unit",
+    "geo",
+    "time"
+  ],
+  "size": [
+    1,
+    3,
+    1,
+    32
+  ],
+  "dimension": {
+    "freq": {
+      "label": "Time frequency",
+      "category": {
+        "index": {
+          "A": 0
+        },
+        "label": {
+          "A": "Annual"
+        }
+      }
+    },
+    "unit": {
+      "label": "Unit of measure",
+      "category": {
+        "index": {
+          "NR": 0,
+          "HAB_P": 1,
+          "P_HTHAB": 2
+        },
+        "label": {
+          "NR": "Number",
+          "HAB_P": "Inhabitants per ...",
+          "P_HTHAB": "Per hundred thousand inhabitants"
+        }
+      }
+    },
+    "geo": {
+      "label": "Geopolitical entity (reporting)",
+      "category": {
+        "index": {
+          "PT": 0
+        },
+        "label": {
+          "PT": "Portugal"
+        }
+      }
+    },
+    "time": {
+      "label": "Time",
+      "category": {
+        "index": {
+          "1993": 0,
+          "1994": 1,
+          "1995": 2,
+          "1996": 3,
+          "1997": 4,
+          "1998": 5,
+          "1999": 6,
+          "2000": 7,
+          "2001": 8,
+          "2002": 9,
+          "2003": 10,
+          "2004": 11,
+          "2005": 12,
+          "2006": 13,
+          "2007": 14,
+          "2008": 15,
+          "2009": 16,
+          "2010": 17,
+          "2011": 18,
+          "2012": 19,
+          "2013": 20,
+          "2014": 21,
+          "2015": 22,
+          "2016": 23,
+          "2017": 24,
+          "2018": 25,
+          "2019": 26,
+          "2020": 27,
+          "2021": 28,
+          "2022": 29,
+          "2023": 30,
+          "2024": 31
+        },
+        "label": {
+          "1993": "1993",
+          "1994": "1994",
+          "1995": "1995",
+          "1996": "1996",
+          "1997": "1997",
+          "1998": "1998",
+          "1999": "1999",
+          "2000": "2000",
+          "2001": "2001",
+          "2002": "2002",
+          "2003": "2003",
+          "2004": "2004",
+          "2005": "2005",
+          "2006": "2006",
+          "2007": "2007",
+          "2008": "2008",
+          "2009": "2009",
+          "2010": "2010",
+          "2011": "2011",
+          "2012": "2012",
+          "2013": "2013",
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023",
+          "2024": "2024"
+        }
+      }
+    }
+  },
+  "extension": {
+    "lang": "EN",
+    "id": "HLTH_RS_BDSRG2",
+    "agencyId": "ESTAT",
+    "version": "1.0",
+    "datastructure": {
+      "id": "HLTH_RS_BDSRG2",
+      "agencyId": "ESTAT",
+      "version": "8.0"
+    },
+    "annotation": [
+      {
+        "type": "CREATED",
+        "date": "2023-06-14T18:07:25+0200"
+      },
+      {
+        "type": "DISSEMINATION_DOI_XML",
+        "title": "<adms:identifier xmlns:adms=\"http://www.w3.org/ns/adms#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core.html\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"><adms:Identifier rdf:about=\"https://doi.org/10.2908/HLTH_RS_BDSRG2\"><skos:notation rdf:datatype=\"http://purl.org/spar/datacite/doi\">10.2908/HLTH_RS_BDSRG2</skos:notation><dct:creator rdf:resource=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/><dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2023-06-14</dct:issued></adms:Identifier></adms:identifier>"
+      },
+      {
+        "type": "DISSEMINATION_OBJECT_TYPE",
+        "title": "DATASET"
+      },
+      {
+        "type": "DISSEMINATION_TIMESTAMP_DATA",
+        "date": "2025-07-15T11:00:00+0200"
+      },
+      {
+        "type": "DISSEMINATION_TIMESTAMP_GLOBAL",
+        "date": "2025-07-15T11:00:00+0200"
+      },
+      {
+        "type": "DISSEMINATION_TIMESTAMP_PLANNED",
+        "date": "2025-07-15T11:00:00+0200"
+      },
+      {
+        "type": "ESMS_HTML",
+        "title": "Explanatory texts (metadata)",
+        "href": "https://ec.europa.eu/eurostat/cache/metadata/en/hlth_res_esms.htm"
+      },
+      {
+        "type": "ESMS_SDMX",
+        "title": "Explanatory texts (metadata)",
+        "href": "https://ec.europa.eu/eurostat/api/dissemination/files?file=metadata/hlth_res_esms.sdmx.zip"
+      },
+      {
+        "type": "OBS_COUNT",
+        "title": "21168"
+      },
+      {
+        "type": "OBS_PERIOD_OVERALL_LATEST",
+        "title": "2024"
+      },
+      {
+        "type": "OBS_PERIOD_OVERALL_OLDEST",
+        "title": "1993"
+      },
+      {
+        "type": "SOURCE_INSTITUTIONS",
+        "text": "Eurostat"
+      },
+      {
+        "type": "UPDATE_DATA",
+        "date": "2025-07-15T11:00:00+0200"
+      },
+      {
+        "type": "UPDATE_STRUCTURE",
+        "date": "2025-07-15T11:00:00+0200"
+      }
+    ],
+    "status": {
+      "label": {
+        "b": "break in time series",
+        "p": "provisional"
+      }
+    },
+    "positions-with-no-data": {
+      "freq": [],
+      "unit": [],
+      "geo": [],
+      "time": [
+        31
+      ]
+    }
+  }
+}

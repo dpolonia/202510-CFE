@@ -1,0 +1,424 @@
+{
+  "IndicadorCod": "0012136",
+  "IndicadorDsg": "Taxa de desemprego (Série 2021 - %) por Local de residência (NUTS - 2024) e Sexo; Trimestral - INE, Inquérito ao emprego (Séries - 2021)",
+  "MetaInfUrl": "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0012136&lingua=PT",
+  "DataExtracao": "2025-10-26T04:13:51.720Z",
+  "DataUltimoAtualizacao": "2025-08-06",
+  "UltimoPref": "2.º Trimestre de 2025",
+  "Dados": {
+    "2.º Trimestre de 2025": [
+      {
+        "geocod": "11",
+        "geodsg": "Norte",
+        "dim_3": "1",
+        "dim_3_t": "H",
+        "ind_string": "5,1",
+        "valor": "5.1",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "15",
+        "geodsg": "Algarve",
+        "dim_3": "1",
+        "dim_3_t": "H",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "4,8 §",
+        "valor": "4.8",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "19",
+        "geodsg": "Centro",
+        "dim_3": "1",
+        "dim_3_t": "H",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "4,6 §",
+        "valor": "4.6",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "1A",
+        "geodsg": "Grande Lisboa",
+        "dim_3": "1",
+        "dim_3_t": "H",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "6,6 §",
+        "valor": "6.6",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "1B",
+        "geodsg": "Península de Setúbal",
+        "dim_3": "1",
+        "dim_3_t": "H",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "7,4 §",
+        "valor": "7.4",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "1C",
+        "geodsg": "Alentejo",
+        "dim_3": "1",
+        "dim_3_t": "H",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "5,5 §",
+        "valor": "5.5",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "1D",
+        "geodsg": "Oeste e Vale do Tejo",
+        "dim_3": "1",
+        "dim_3_t": "H",
+        "sinal_conv": "x",
+        "sinal_conv_desc": "Dado não disponível",
+        "ind_string": "x",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "20",
+        "geodsg": "Região Autónoma dos Açores",
+        "dim_3": "1",
+        "dim_3_t": "H",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "4,0 §",
+        "valor": "4",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "30",
+        "geodsg": "Região Autónoma da Madeira",
+        "dim_3": "1",
+        "dim_3_t": "H",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "4,3 §",
+        "valor": "4.3",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "1",
+        "geodsg": "Continente",
+        "dim_3": "1",
+        "dim_3_t": "H",
+        "ind_string": "5,4",
+        "valor": "5.4",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "2",
+        "geodsg": "Região Autónoma dos Açores",
+        "dim_3": "1",
+        "dim_3_t": "H",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "4,0 §",
+        "valor": "4",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "PT",
+        "geodsg": "Portugal",
+        "dim_3": "1",
+        "dim_3_t": "H",
+        "ind_string": "5,3",
+        "valor": "5.3",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "3",
+        "geodsg": "Região Autónoma da Madeira",
+        "dim_3": "1",
+        "dim_3_t": "H",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "4,3 §",
+        "valor": "4.3",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "11",
+        "geodsg": "Norte",
+        "dim_3": "2",
+        "dim_3_t": "M",
+        "ind_string": "7,1",
+        "valor": "7.1",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "15",
+        "geodsg": "Algarve",
+        "dim_3": "2",
+        "dim_3_t": "M",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "4,3 §",
+        "valor": "4.3",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "19",
+        "geodsg": "Centro",
+        "dim_3": "2",
+        "dim_3_t": "M",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "5,6 §",
+        "valor": "5.6",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "1A",
+        "geodsg": "Grande Lisboa",
+        "dim_3": "2",
+        "dim_3_t": "M",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "6,4 §",
+        "valor": "6.4",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "1B",
+        "geodsg": "Península de Setúbal",
+        "dim_3": "2",
+        "dim_3_t": "M",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "9,7 §",
+        "valor": "9.7",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "1C",
+        "geodsg": "Alentejo",
+        "dim_3": "2",
+        "dim_3_t": "M",
+        "sinal_conv": "x",
+        "sinal_conv_desc": "Dado não disponível",
+        "ind_string": "x",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "1D",
+        "geodsg": "Oeste e Vale do Tejo",
+        "dim_3": "2",
+        "dim_3_t": "M",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "6,3 §",
+        "valor": "6.3",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "20",
+        "geodsg": "Região Autónoma dos Açores",
+        "dim_3": "2",
+        "dim_3_t": "M",
+        "sinal_conv": "x",
+        "sinal_conv_desc": "Dado não disponível",
+        "ind_string": "x",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "30",
+        "geodsg": "Região Autónoma da Madeira",
+        "dim_3": "2",
+        "dim_3_t": "M",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "5,3 §",
+        "valor": "5.3",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "1",
+        "geodsg": "Continente",
+        "dim_3": "2",
+        "dim_3_t": "M",
+        "ind_string": "6,6",
+        "valor": "6.6",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "2",
+        "geodsg": "Região Autónoma dos Açores",
+        "dim_3": "2",
+        "dim_3_t": "M",
+        "sinal_conv": "x",
+        "sinal_conv_desc": "Dado não disponível",
+        "ind_string": "x",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "PT",
+        "geodsg": "Portugal",
+        "dim_3": "2",
+        "dim_3_t": "M",
+        "ind_string": "6,5",
+        "valor": "6.5",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "3",
+        "geodsg": "Região Autónoma da Madeira",
+        "dim_3": "2",
+        "dim_3_t": "M",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "5,3 §",
+        "valor": "5.3",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "11",
+        "geodsg": "Norte",
+        "dim_3": "T",
+        "dim_3_t": "HM",
+        "ind_string": "6,1",
+        "valor": "6.1",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "15",
+        "geodsg": "Algarve",
+        "dim_3": "T",
+        "dim_3_t": "HM",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "4,5 §",
+        "valor": "4.5",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "19",
+        "geodsg": "Centro",
+        "dim_3": "T",
+        "dim_3_t": "HM",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "5,1 §",
+        "valor": "5.1",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "1A",
+        "geodsg": "Grande Lisboa",
+        "dim_3": "T",
+        "dim_3_t": "HM",
+        "ind_string": "6,5",
+        "valor": "6.5",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "1B",
+        "geodsg": "Península de Setúbal",
+        "dim_3": "T",
+        "dim_3_t": "HM",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "8,6 §",
+        "valor": "8.6",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "1C",
+        "geodsg": "Alentejo",
+        "dim_3": "T",
+        "dim_3_t": "HM",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "4,9 §",
+        "valor": "4.9",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "1D",
+        "geodsg": "Oeste e Vale do Tejo",
+        "dim_3": "T",
+        "dim_3_t": "HM",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "4,8 §",
+        "valor": "4.8",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "20",
+        "geodsg": "Região Autónoma dos Açores",
+        "dim_3": "T",
+        "dim_3_t": "HM",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "3,9 §",
+        "valor": "3.9",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "30",
+        "geodsg": "Região Autónoma da Madeira",
+        "dim_3": "T",
+        "dim_3_t": "HM",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "4,8 §",
+        "valor": "4.8",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "1",
+        "geodsg": "Continente",
+        "dim_3": "T",
+        "dim_3_t": "HM",
+        "ind_string": "6,0",
+        "valor": "6",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "2",
+        "geodsg": "Região Autónoma dos Açores",
+        "dim_3": "T",
+        "dim_3_t": "HM",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "3,9 §",
+        "valor": "3.9",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "PT",
+        "geodsg": "Portugal",
+        "dim_3": "T",
+        "dim_3_t": "HM",
+        "ind_string": "5,9",
+        "valor": "5.9",
+        "periodo": "2.º Trimestre de 2025"
+      },
+      {
+        "geocod": "3",
+        "geodsg": "Região Autónoma da Madeira",
+        "dim_3": "T",
+        "dim_3_t": "HM",
+        "sinal_conv": "§",
+        "sinal_conv_desc": "Desvio do padrão de qualidade/Coeficiente de variação elevado",
+        "ind_string": "4,8 §",
+        "valor": "4.8",
+        "periodo": "2.º Trimestre de 2025"
+      }
+    ]
+  },
+  "Sucesso": {
+    "Verdadeiro": [
+      {
+        "Msg": "OK"
+      }
+    ]
+  }
+}

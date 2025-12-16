@@ -1,0 +1,10 @@
+{
+  "indicator_code": "0010683",
+  "indicator_name": "População empregada por conta de outrem (Série 2021 - N.º) por Local de residência (NUTS - 2013), Sexo e Nível de escolaridade mais elevado completo; Trimestral - INE, Inquérito ao emprego (Séries - 2021)",
+  "last_update": "2025-02-05",
+  "last_period": "4.º Trimestre de 2024",
+  "metadata_url": "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0010683&lingua=PT",
+  "extraction_date": "2025-10-26T04:13:53.881739",
+  "category": "Economics",
+  "use_case": "Regional employment context"
+}

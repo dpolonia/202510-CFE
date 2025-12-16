@@ -1,0 +1,11 @@
+{
+  "dataset_code": "lfst_r_lfu3rt",
+  "dataset_name": "unemployment_rate_regional",
+  "description": "Unemployment rate by NUTS 3 regions",
+  "label": "Unemployment rates by educational attainment level and NUTS 2 region",
+  "source": "ESTAT",
+  "updated": "2025-09-11T23:00:00+0200",
+  "extraction_date": "2025-10-26T10:03:29.060210",
+  "category": "Economics",
+  "use_case": "Economic distress indicator"
+}

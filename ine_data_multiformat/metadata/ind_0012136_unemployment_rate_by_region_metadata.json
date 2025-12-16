@@ -1,0 +1,10 @@
+{
+  "indicator_code": "0012136",
+  "indicator_name": "Taxa de desemprego (Série 2021 - %) por Local de residência (NUTS - 2024) e Sexo; Trimestral - INE, Inquérito ao emprego (Séries - 2021)",
+  "last_update": "2025-08-06",
+  "last_period": "2.º Trimestre de 2025",
+  "metadata_url": "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0012136&lingua=PT",
+  "extraction_date": "2025-10-26T04:13:52.592357",
+  "category": "Economics",
+  "use_case": "Economic distress indicator"
+}
