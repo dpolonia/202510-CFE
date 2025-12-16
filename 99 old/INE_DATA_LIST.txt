@@ -1,0 +1,341 @@
+================================================================================
+INE DATA RETRIEVED FROM www.ine.pt - COMPLETE LIST
+================================================================================
+
+Source: Instituto Nacional de Estatistica (Statistics Portugal)
+Date: October 26, 2025
+Total Indicators: 10
+Total Records: 21,329
+Formats: JSON, CSV, XLSX, Parquet (4 formats per indicator)
+Total Files: 40 data files + 10 metadata files = 50 files
+
+================================================================================
+DEMOGRAPHIC INDICATORS (7 indicators - 20,715 records)
+================================================================================
+
+1. POPULATION BY REGION, SEX AND AGE GROUP
+   Code: 0008273
+   Records: 19,608
+   Coverage: 2023
+   Description: Population breakdown by 308 municipalities, sex, and age groups
+   Official: Populacao residente por Local de residencia (NUTS-2013), Sexo e Grupo etario
+   Use: Case-mix adjustment, demand forecasting
+   Files:
+     - JSON: 5.2 MB
+     - CSV: 1.1 MB
+     - XLSX: 817 KB
+     - Parquet: 178 KB (MOST EFFICIENT)
+
+2. AGING INDEX BY REGION
+   Code: 0008258
+   Records: 344
+   Coverage: 2023
+   Description: Aging index (ratio of elderly to young) for all municipalities
+   Official: Indice de envelhecimento por Local de residencia (NUTS-2013)
+   Use: Elderly population trends, healthcare demand forecasting
+   Example values:
+     - Ribeira Grande: 65.5 (younger)
+     - Ponta Delgada: 113.9
+     - Interior regions: 200+ (very aged)
+   Files:
+     - JSON: 58 KB
+     - CSV: 13 KB
+     - XLSX: 17 KB
+     - Parquet: 13 KB
+
+3. ELDERLY DEPENDENCY INDEX
+   Code: 0008259
+   Records: 344
+   Coverage: 2023
+   Description: Ratio of elderly (65+) to working-age population (15-64)
+   Official: Indice de dependencia de idosos por Local de residencia (NUTS-2013)
+   Use: Healthcare demand from aging population
+   Files:
+     - JSON: 57 KB
+     - CSV: 12 KB
+     - XLSX: 16 KB
+     - Parquet: 12 KB
+
+4. TOTAL DEPENDENCY RATIO
+   Code: 0008261
+   Records: 344
+   Coverage: 2023
+   Description: Ratio of dependents (0-14 + 65+) to working-age population
+   Official: Indice de dependencia total por Local de residencia (NUTS-2013)
+   Use: Overall healthcare demand pressure
+   Files:
+     - JSON: 57 KB
+     - CSV: 13 KB
+     - XLSX: 16 KB
+     - Parquet: 12 KB
+
+5. FERTILITY INDEX
+   Code: 0008274
+   Records: 36
+   Coverage: 2023
+   Description: Synthetic fertility index by region
+   Official: Indice sintetico de fecundidade por Local de residencia (NUTS-2013)
+   Use: Birth rate trends, maternity services planning
+   Files:
+     - JSON: 6.4 KB
+     - CSV: 1.4 KB
+     - XLSX: 6.1 KB
+     - Parquet: 4.3 KB
+
+6. ADOLESCENT FERTILITY RATE
+   Code: 0008275
+   Records: 36
+   Coverage: 2023
+   Description: Adolescent fertility rate by region
+   Official: Taxa de fecundidade na adolescencia por Local de residencia (NUTS-2013)
+   Use: Maternal health services demand for young mothers
+   Files:
+     - JSON: 6.4 KB
+     - CSV: 1.3 KB
+     - XLSX: 6.1 KB
+     - Parquet: 4.3 KB
+
+7. LIFE EXPECTANCY AT 65 YEARS
+   Code: 0001228
+   Records: 3
+   Coverage: 2004 (OUTDATED)
+   Description: Life expectancy at age 65 by sex
+   Official: Esperanca de vida aos 65 anos por Sexo
+   Use: Population health outcomes (limited use - old data)
+   Files:
+     - JSON: 1.1 KB
+     - CSV: 159 B
+     - XLSX: 5.0 KB
+     - Parquet: 4.5 KB
+
+================================================================================
+ECONOMIC INDICATORS (2 indicators - 270 records)
+================================================================================
+
+8. UNEMPLOYMENT RATE BY REGION
+   Code: 0012136
+   Records: 39
+   Coverage: Q2 2025 (VERY RECENT!)
+   Last Update: August 6, 2025
+   Description: Unemployment rate by NUTS-2024 regions and sex
+   Official: Taxa de desemprego (Serie 2021) por Local de residencia (NUTS-2024) e Sexo
+   Use: Economic distress indicator, regional economic context
+   Example rates (Q2 2025):
+     - Portugal: 5.3%
+     - Norte: 5.1%
+     - Peninsula de Setubal: 7.4% (highest)
+     - Algarve: 4.8% (lowest)
+   Files:
+     - JSON: 13 KB
+     - CSV: 4.1 KB
+     - XLSX: 6.8 KB
+     - Parquet: 6.7 KB
+
+9. EMPLOYMENT STATISTICS
+   Code: 0010683
+   Records: 231
+   Coverage: Q4 2024
+   Last Update: February 5, 2025
+   Description: Employed population by region, sex, and education level
+   Official: Populacao empregada por conta de outrem (Serie 2021) por Local de residencia (NUTS-2013), Sexo e Nivel de escolaridade
+   Use: Regional employment context, economic conditions
+   Files:
+     - JSON: 75 KB
+     - CSV: 22 KB
+     - XLSX: 16 KB
+     - Parquet: 9.9 KB
+
+================================================================================
+HEALTHCARE INDICATORS (1 indicator - 344 records)
+================================================================================
+
+10. NURSES PER 1000 INHABITANTS
+    Code: 0008277
+    Records: 344
+    Coverage: 2023
+    Last Update: September 17, 2024
+    Description: Nurses per 1000 inhabitants by municipality
+    Official: Enfermeiras/os por 1000 habitantes por Local de trabalho (NUTS-2013)
+    Use: Healthcare workforce availability, staffing adequacy
+    Files:
+      - JSON: 83 KB
+      - CSV: 19 KB
+      - XLSX: 18 KB
+      - Parquet: 12 KB
+
+================================================================================
+FILE ORGANIZATION
+================================================================================
+
+Location: C:\Users\dpolo\Documents\202510 CFE\ine_data_multiformat\
+
+Directory Structure:
+ine_data_multiformat/
+├── json/          10 files (5.5 MB) - Original API responses
+├── csv/           10 files (1.2 MB) - Semicolon-delimited, UTF-8
+├── xlsx/          10 files (944 KB) - Excel format
+├── parquet/       10 files (280 KB) - Columnar format (MOST EFFICIENT)
+└── metadata/      10 files - Extraction metadata (JSON)
+
+Total: 50 files, 7.9 MB
+
+================================================================================
+FORMAT COMPARISON
+================================================================================
+
+Storage Efficiency (Total across all 10 indicators):
+- JSON: 5.5 MB (70%) - Largest, original API format
+- CSV: 1.2 MB (15%) - Good for universal compatibility
+- XLSX: 944 KB (12%) - Good for Excel users
+- Parquet: 280 KB (3%) - MOST EFFICIENT, 95% smaller than JSON
+
+Parquet is the WINNER for storage efficiency and read performance!
+
+Example: Population data (19,608 records)
+- JSON: 5.2 MB
+- CSV: 1.1 MB (79% smaller than JSON)
+- XLSX: 817 KB (84% smaller than JSON)
+- Parquet: 178 KB (97% smaller than JSON) <- BEST
+
+================================================================================
+SUMMARY STATISTICS
+================================================================================
+
+By Category:
+- Demographics: 7 indicators, 20,715 records (97%)
+- Economics: 2 indicators, 270 records (1.3%)
+- Healthcare: 1 indicator, 344 records (1.6%)
+
+Geographic Coverage:
+- Municipal level: 344 Portuguese municipalities (indicators 2-7, 10)
+- Regional level: NUTS regions (indicators 8-9)
+- National level: Portugal overall (all indicators)
+
+Temporal Coverage:
+- 2004: 1 indicator (outdated)
+- 2023: 6 indicators (current)
+- Q4 2024: 1 indicator (recent)
+- Q2 2025: 1 indicator (very recent!)
+
+Data Freshness:
+- Very Recent (2025): Unemployment rate
+- Recent (2024): Employment, nurses
+- Current (2023): Population, aging, dependency, fertility
+- Outdated (2004): Life expectancy
+
+================================================================================
+RESEARCH VALUE
+================================================================================
+
+Essential for PhD Research:
+1. Case-mix adjustment (population by age/sex)
+2. Regional demographic context (aging, dependency)
+3. Economic distress indicators (unemployment, employment)
+4. Healthcare workforce availability (nurses per capita)
+5. Regional profiling for hospital financial analysis
+
+Use Cases:
+- Control variables for hospital performance analysis
+- Regional demographic adjustments
+- Difference-in-Differences (DiD) studies
+- Healthcare demand forecasting
+- Workforce adequacy analysis
+
+Integration with SNS Hospital Data:
+- 426 SNS healthcare institutions
+- Match hospitals to municipalities/regions
+- Merge demographic and economic context
+- Control for regional differences in analysis
+
+================================================================================
+HOW TO ACCESS THE DATA
+================================================================================
+
+Read CSV (Semicolon-delimited):
+import pandas as pd
+df = pd.read_csv('ine_data_multiformat/csv/ind_0008258.csv', sep=';', encoding='utf-8-sig')
+
+Read XLSX (Excel):
+import pandas as pd
+df = pd.read_excel('ine_data_multiformat/xlsx/ind_0008258.xlsx')
+
+Read Parquet (RECOMMENDED - Fastest and most efficient):
+import pandas as pd
+df = pd.read_parquet('ine_data_multiformat/parquet/ind_0008258.parquet')
+
+Read JSON (Original API response):
+import json
+with open('ine_data_multiformat/json/ind_0008258.json', 'r', encoding='utf-8') as f:
+    data = json.load(f)
+
+================================================================================
+SCRIPTS AVAILABLE
+================================================================================
+
+1. ine_data_extractor.py
+   - Single format extractor (CSV only)
+   - 10 indicators
+
+2. ine_data_extractor_multiformat.py
+   - Multi-format extractor (JSON, CSV, XLSX, Parquet)
+   - 10 indicators
+   - RECOMMENDED for future updates
+
+To re-run:
+cd "/c/Users/dpolo/Documents/202510 CFE"
+python ine_data_extractor_multiformat.py
+
+================================================================================
+DATA QUALITY
+================================================================================
+
+Extraction Status: 100% SUCCESS (10/10 indicators)
+Data Verification: All formats verified for consistency
+Record Counts: Match across all formats
+Portuguese Characters: Preserved in all formats
+Missing Data: Minimal (some regional breakdowns unavailable in unemployment)
+
+Quality Checks Performed:
+- JSON structure validated
+- CSV encoding verified (UTF-8 with BOM)
+- XLSX compatibility confirmed
+- Parquet compression tested
+- Data consistency across formats verified
+
+================================================================================
+NOTES
+================================================================================
+
+1. All indicator codes were manually verified after initial extraction
+   returned wrong data.
+
+2. Original extraction used wrong codes:
+   - 0007789 (business turnover) -> Corrected to 0008258 (aging index)
+   - 0007790 (port cargo) -> Corrected to 0008261 (dependency ratio)
+   - 0008480 (inventory) -> Corrected to 0012136 (unemployment)
+   - 0011062 (tobacco) -> Removed (not relevant)
+
+3. Regional GDP data is NOT available via API:
+   - Must be downloaded manually from INE database portal
+   - Alternative: Use PORDATA (https://www.pordata.pt)
+   - Proxy: Business turnover by region (available if needed)
+
+4. Parquet format provides the best storage efficiency (95% compression)
+   and fastest read performance for analytical workloads.
+
+5. CSV format uses semicolons (;) as delimiter, following Portuguese standard.
+
+6. All data is production-ready for academic research and publication.
+
+================================================================================
+END OF LIST
+================================================================================
+
+Generated: October 26, 2025
+Source: Instituto Nacional de Estatistica (INE) - www.ine.pt
+API: https://www.ine.pt/ine/json_indicador/pindica.jsp
+Total Indicators: 10
+Total Records: 21,329
+Total Files: 50 (40 data + 10 metadata)
+Total Size: 7.9 MB (or 280 KB using Parquet only)
+Success Rate: 100%

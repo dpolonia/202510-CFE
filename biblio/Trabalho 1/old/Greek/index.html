@@ -1,0 +1,1789 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Critical Assessment: Rethinking Financial Distress in Public Healthcare</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .presentation {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .slide {
+            background: white;
+            border-radius: 10px;
+            padding: 60px;
+            margin: 20px 0;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            min-height: 600px;
+            page-break-after: always;
+            position: relative;
+        }
+
+        .slide-number {
+            position: absolute;
+            bottom: 20px;
+            right: 30px;
+            color: #999;
+            font-size: 14px;
+        }
+
+        h1 {
+            color: #667eea;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            border-bottom: 4px solid #667eea;
+            padding-bottom: 15px;
+        }
+
+        h2 {
+            color: #764ba2;
+            font-size: 1.8em;
+            margin: 30px 0 15px 0;
+        }
+
+        h3 {
+            color: #667eea;
+            font-size: 1.4em;
+            margin: 20px 0 10px 0;
+        }
+
+        h4 {
+            color: #555;
+            font-size: 1.1em;
+            margin: 15px 0 8px 0;
+        }
+
+        .subtitle {
+            color: #666;
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+
+        .meta-info {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            border-left: 4px solid #667eea;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 0.95em;
+        }
+
+        th {
+            background: #667eea;
+            color: white;
+            padding: 12px;
+            text-align: left;
+            font-weight: 600;
+        }
+
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        tr:hover {
+            background: #f8f9fa;
+        }
+
+        .strength {
+            background: #d4edda;
+            border-left: 4px solid #28a745;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+
+        .weakness {
+            background: #f8d7da;
+            border-left: 4px solid #dc3545;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+
+        .warning {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+
+        .info {
+            background: #d1ecf1;
+            border-left: 4px solid #17a2b8;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+
+        .highlight-box {
+            background: #f8f9fa;
+            border: 2px solid #667eea;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+        }
+
+        .code-block {
+            background: #282c34;
+            color: #abb2bf;
+            padding: 20px;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            margin: 15px 0;
+            overflow-x: auto;
+        }
+
+        .star-rating {
+            color: #ffc107;
+            font-size: 1.2em;
+        }
+
+        .grade-badge {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 25px;
+            font-weight: bold;
+            font-size: 1.2em;
+            margin: 10px 0;
+        }
+
+        .grade-badge.weak {
+            background: #dc3545;
+        }
+
+        .grade-badge.adequate {
+            background: #ffc107;
+            color: #333;
+        }
+
+        .grade-badge.good {
+            background: #28a745;
+        }
+
+        ul, ol {
+            margin: 15px 0 15px 30px;
+        }
+
+        li {
+            margin: 8px 0;
+        }
+
+        .two-column {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin: 20px 0;
+        }
+
+        .comparison-box {
+            padding: 15px;
+            border-radius: 8px;
+            margin: 10px 0;
+        }
+
+        .comparison-box.current {
+            background: #f8d7da;
+            border: 2px solid #dc3545;
+        }
+
+        .comparison-box.needed {
+            background: #d4edda;
+            border: 2px solid #28a745;
+        }
+
+        blockquote {
+            border-left: 4px solid #667eea;
+            padding-left: 20px;
+            margin: 20px 0;
+            font-style: italic;
+            color: #555;
+        }
+
+        .title-slide {
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 600px;
+        }
+
+        .title-slide h1 {
+            font-size: 3em;
+            border: none;
+        }
+
+        .framework-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr 1fr;
+            gap: 2px;
+            background: #ddd;
+            margin: 20px 0;
+        }
+
+        .framework-grid > div {
+            background: white;
+            padding: 10px;
+        }
+
+        .framework-grid .header {
+            background: #667eea;
+            color: white;
+            font-weight: bold;
+        }
+
+        .navigation {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(255,255,255,0.95);
+            padding: 15px 30px;
+            border-radius: 30px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+            display: flex;
+            gap: 15px;
+            z-index: 1000;
+        }
+
+        .nav-btn {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.3s;
+        }
+
+        .nav-btn:hover {
+            background: #764ba2;
+            transform: scale(1.05);
+        }
+
+        .nav-btn:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            transform: scale(1);
+        }
+
+        @media print {
+            .navigation {
+                display: none;
+            }
+            body {
+                background: white;
+            }
+            .slide {
+                box-shadow: none;
+                page-break-after: always;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .slide {
+                padding: 30px 20px;
+            }
+            h1 {
+                font-size: 1.8em;
+            }
+            .two-column {
+                grid-template-columns: 1fr;
+            }
+            .navigation {
+                padding: 10px 15px;
+                gap: 10px;
+            }
+        }
+
+        .icon {
+            margin-right: 8px;
+        }
+
+        .metric-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            margin: 10px 0;
+        }
+
+        .metric-card .number {
+            font-size: 2.5em;
+            font-weight: bold;
+            display: block;
+        }
+
+        .metric-card .label {
+            font-size: 1em;
+            opacity: 0.9;
+        }
+    </style>
+</head>
+<body>
+    <div class="presentation">
+        
+        <!-- SLIDE 1: Title -->
+        <div class="slide title-slide">
+            <h1>Critical Assessment of Academic Research</h1>
+            <h2 class="subtitle">"Rethinking Financial Distress in Public Healthcare:<br>Evidence from Greek Hospitals' Governance Attributes"</h2>
+            <div class="meta-info" style="margin-top: 40px; text-align: left;">
+                <p><strong>📄 Author:</strong> Stefanos Karakolias (2025)</p>
+                <p><strong>📰 Journal:</strong> <em>Frontiers in Public Health</em></p>
+                <p><strong>🎓 Course:</strong> Advanced Corporate Finance</p>
+                <p><strong>👤 Evaluator:</strong> Daniel Ferreira Polonia</p>
+                <p><strong>📅 Date:</strong> October 24th. 2025</p>
+            </div>
+            <div class="slide-number">Slide 1 of 30</div>
+        </div>
+
+        <!-- SLIDE 2: Research at a Glance -->
+        <div class="slide">
+            <h1>The Research at a Glance</h1>
+            
+            <h3>📋 What the Paper Does</h3>
+            <ul>
+                <li>Applies <strong>Altman's Z″-score model</strong> to 90 Greek public hospitals (2022)</li>
+                <li>Tests relationship between <strong>governance attributes</strong> and financial distress</li>
+                <li>Examines: Location, Size, Specialty, CEO Gender</li>
+            </ul>
+
+            <h3>🎯 Central Finding</h3>
+            <div class="info">
+                <p><strong>All hospitals have Z-scores > 5.5 (mean: 15.7) → "Financially Viable"</strong></p>
+                <p><strong>BUT:</strong> Paper argues this is misleading due to:</p>
+                <ul>
+                    <li>€1.9B annual government subsidies</li>
+                    <li>1,485-day receivables collection period</li>
+                    <li>Rising overdue liabilities (€344M → €1,164M in 5 years)</li>
+                </ul>
+            </div>
+
+            <h3>💡 Key Claim</h3>
+            <blockquote>
+                "Financial distress requires redefinition in the context of public entities, since their closure is not a core strategy"
+            </blockquote>
+            <div class="slide-number">Slide 2 of 30</div>
+        </div>
+
+        <!-- SLIDE 3: Evaluation Framework -->
+        <div class="slide">
+            <h1>Evaluation Framework - Eight Dimensions</h1>
+            
+            <table>
+                <thead>
+                    <tr>
+                        <th>Dimension</th>
+                        <th>Weight</th>
+                        <th>Rating</th>
+                        <th>Grade</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>I. Theoretical Foundation</strong></td>
+                        <td>25%</td>
+                        <td><span class="star-rating">⭐⭐☆☆☆</span></td>
+                        <td><span class="grade-badge weak">Weak</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>II. Methodological Rigor</strong></td>
+                        <td>30%</td>
+                        <td><span class="star-rating">⭐⭐½☆☆</span></td>
+                        <td><span class="grade-badge weak">Weak-Adequate</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>III. Results & Interpretation</strong></td>
+                        <td>20%</td>
+                        <td><span class="star-rating">⭐⭐⭐☆☆</span></td>
+                        <td><span class="grade-badge adequate">Adequate</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>IV. Contribution to Knowledge</strong></td>
+                        <td>15%</td>
+                        <td><span class="star-rating">⭐⭐½☆☆</span></td>
+                        <td><span class="grade-badge weak">Weak-Adequate</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>V. Course Alignment</strong></td>
+                        <td>5%</td>
+                        <td><span class="star-rating">⭐⭐⭐☆☆</span></td>
+                        <td><span class="grade-badge adequate">Adequate</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>VI. Practical Implications</strong></td>
+                        <td>3%</td>
+                        <td><span class="star-rating">⭐⭐⭐½☆</span></td>
+                        <td><span class="grade-badge adequate">Adequate-Good</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>VII. Limitations & Future Research</strong></td>
+                        <td>2%</td>
+                        <td><span class="star-rating">⭐⭐⭐☆☆</span></td>
+                        <td><span class="grade-badge adequate">Adequate</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>VIII. Writing Quality</strong></td>
+                        <td>-</td>
+                        <td><span class="star-rating">⭐⭐⭐⭐☆</span></td>
+                        <td><span class="grade-badge good">Good</span></td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <div class="highlight-box" style="margin-top: 30px; text-align: center;">
+                <h2>📊 OVERALL GRADE: C+ / B- (70-75/100)</h2>
+                <p style="font-size: 1.1em; margin-top: 10px;"><strong>Classification:</strong> Adequate empirical work with significant theoretical and methodological limitations</p>
+            </div>
+            <div class="slide-number">Slide 3 of 30</div>
+        </div>
+
+        <!-- SLIDE 4: Assessment Methodology -->
+        <div class="slide">
+            <h1>Assessment Methodology</h1>
+            
+            <h3>🔍 Evaluation Approach</h3>
+            <div class="info">
+                <h4>Core Questions for Each Dimension:</h4>
+                <ol>
+                    <li>Does it meet <strong>Advanced Corporate Finance</strong> standards?</li>
+                    <li>Does it align with <strong>syllabus learning objectives</strong>?</li>
+                    <li>Could it be published in a <strong>Q1 management/finance journal</strong>?</li>
+                    <li>Does it advance <strong>theory</strong>, <strong>method</strong>, or <strong>practice</strong>?</li>
+                </ol>
+            </div>
+
+            <h3>📚 Reference Points</h3>
+            <div class="two-column">
+                <div>
+                    <h4>Syllabus Topics:</h4>
+                    <ul>
+                        <li>Capital Structure</li>
+                        <li>Corporate Governance</li>
+                        <li>M&A</li>
+                        <li>International Finance</li>
+                        <li>Real Options</li>
+                    </ul>
+                </div>
+                <div>
+                    <h4>Standards:</h4>
+                    <ul>
+                        <li>Causal inference</li>
+                        <li>Multivariate analysis</li>
+                        <li>Model development</li>
+                        <li>Theoretical extension</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h3>📊 Benchmark Papers</h3>
+            <p>Comparison with Gemini, ChatGPT, and Claude research proposals on VBHC in Beveridgean systems</p>
+            <div class="slide-number">Slide 4 of 30</div>
+        </div>
+
+        <!-- SLIDE 5: Theoretical Foundation - Critical Assessment -->
+        <div class="slide">
+            <h1>Theoretical Foundation - Critical Assessment</h1>
+            
+            <div class="weakness">
+                <h3>❌ MAJOR WEAKNESS: Theoretical Underdevelopment</h3>
+            </div>
+
+            <h3>The Core Problem</h3>
+            <div class="code-block">
+Paper's Logic:
+1. Apply bankruptcy prediction model (Z-score)
+2. To population with ZERO bankruptcies (Greek public hospitals)
+3. Find model shows no distress
+4. Conclude: Model is wrong, need new theory
+5. BUT: No new theory provided! ⚠️
+            </div>
+
+            <h3>What's Missing</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Missing Element</th>
+                        <th>Why It Matters</th>
+                        <th>Impact</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Formal definition</strong> of "financial distress" in public entities</td>
+                        <td>Can't measure what you can't define</td>
+                        <td>Construct invalidity</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Alternative theoretical framework</strong> beyond critique of Z-scores</td>
+                        <td>Promised but not delivered</td>
+                        <td>No theoretical contribution</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Engagement with soft budget constraint theory</strong> (Kornai)</td>
+                        <td>Explains why traditional models fail</td>
+                        <td>Missed theoretical foundation</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Application of capital structure theory</strong> (pecking order, trade-off)</td>
+                        <td>Could explain observed financing patterns</td>
+                        <td>Missed explanatory opportunity</td>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="slide-number">Slide 5 of 30</div>
+        </div>
+
+        <!-- SLIDE 6: Theoretical Foundation - Syllabus Disconnect -->
+        <div class="slide">
+            <h1>Theoretical Foundation - Syllabus Disconnect</h1>
+            
+            <div class="two-column">
+                <div>
+                    <h3>📖 Capital Structure Theory</h3>
+                    <div class="comparison-box needed">
+                        <h4>Syllabus Requires:</h4>
+                        <ul>
+                            <li>Tradeoff vs. pecking order theories</li>
+                            <li>Dynamic models of capital structure</li>
+                            <li>Managerial discretion and CS</li>
+                            <li>Testing CS theories</li>
+                        </ul>
+                    </div>
+                    <div class="comparison-box current">
+                        <h4>Paper Provides:</h4>
+                        <ul>
+                            <li>✅ Describes extreme capital structure (equity/liability = 10.9:1)</li>
+                            <li>❌ No theoretical explanation using CS theory</li>
+                            <li>❌ No test of competing theories</li>
+                            <li>❌ No engagement with dynamic models</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div>
+                    <h3>🏛️ Corporate Governance Theory</h3>
+                    <div class="comparison-box needed">
+                        <h4>Syllabus Requires:</h4>
+                        <ul>
+                            <li>Board of Directors: theories and evidence</li>
+                            <li>Executive compensation</li>
+                            <li>Governance and equity returns</li>
+                        </ul>
+                    </div>
+                    <div class="comparison-box current">
+                        <h4>Paper Provides:</h4>
+                        <ul>
+                            <li>✅ Tests CEO gender effect on performance</li>
+                            <li>⚠️ Atheoretical governance variables</li>
+                            <li>❌ No data on boards, compensation</li>
+                            <li>❌ No agency-theoretic model</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="warning" style="margin-top: 20px;">
+                <strong>⚠️ Grade: WEAK (2/5)</strong> - Limited theoretical engagement relative to syllabus expectations
+            </div>
+            <div class="slide-number">Slide 6 of 30</div>
+        </div>
+
+        <!-- SLIDE 7: Theoretical Contribution -->
+        <div class="slide">
+            <h1>Theoretical Contribution - What's Actually Offered</h1>
+            
+            <h3>💎 The One Genuine Insight: "Transferred Distress"</h3>
+            <p><strong>Concept:</strong> Public hospitals don't experience distress themselves (state bailout), but <strong>transfer it to stakeholders</strong></p>
+
+            <div class="code-block">
+┌─────────────────────────────────────────────┐
+│   Traditional Financial Distress (Private)  │
+│   Firm → Bankruptcy → Stakeholders lose     │
+└─────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────┐
+│   "Transferred Distress" (Public)           │
+│   Entity survives ← State absorbs costs     │
+│   ↓                                          │
+│   Suppliers: 1,485-day payment delays       │
+│   Taxpayers: €1.9B annual subsidies         │
+│   Patients: Potential quality deterioration  │
+└─────────────────────────────────────────────┘
+            </div>
+
+            <div class="weakness">
+                <h4>Problem: This insight remains <strong>underdeveloped</strong></h4>
+                <ul>
+                    <li>❌ No formal model</li>
+                    <li>❌ No testable predictions</li>
+                    <li>❌ No measurement framework</li>
+                </ul>
+            </div>
+
+            <div class="highlight-box" style="margin-top: 20px;">
+                <h3>Grade: WEAK (2/5)</h3>
+                <p>Identifies problem, doesn't solve it</p>
+            </div>
+            <div class="slide-number">Slide 7 of 30</div>
+        </div>
+
+        <!-- SLIDE 8: Methodological Rigor - Flaw 1 -->
+        <div class="slide">
+            <h1>Methodological Rigor - Three Fatal Flaws</h1>
+            
+            <div class="weakness">
+                <h3>🚨 FLAW 1: Wrong Tool for the Job</h3>
+            </div>
+
+            <div class="two-column">
+                <div class="comparison-box needed">
+                    <h4>Altman's Z″-Score designed to predict:</h4>
+                    <ul>
+                        <li><strong>Bankruptcy probability</strong> in next 1-2 years</li>
+                        <li>For <strong>private service firms</strong></li>
+                        <li>In <strong>competitive markets</strong></li>
+                        <li>Validated on sample with actual failures</li>
+                    </ul>
+                </div>
+                
+                <div class="comparison-box current">
+                    <h4>Applied to:</h4>
+                    <ul>
+                        <li><strong>Public hospitals</strong> where bankruptcy is impossible by design</li>
+                        <li><strong>Zero observed failures</strong> in sample</li>
+                        <li><strong>Soft budget constraints</strong> with continuous state support</li>
+                    </ul>
+                </div>
+            </div>
+
+            <blockquote style="margin-top: 30px;">
+                "Although no bankruptcies or closures of these entities have been reported to date" (p. 2)
+            </blockquote>
+
+            <div class="warning" style="margin-top: 20px;">
+                <h4>⚠️ Result: <strong>No validation criterion</strong></h4>
+                <p>Can't test if model works because outcome never occurs</p>
+            </div>
+            <div class="slide-number">Slide 8 of 30</div>
+        </div>
+
+        <!-- SLIDE 9: Methodological Rigor - Flaw 2 -->
+        <div class="slide">
+            <h1>Methodological Rigor - Flaw 2</h1>
+            
+            <div class="weakness">
+                <h3>🚨 FLAW 2: Cross-Sectional Design for Dynamic Phenomenon</h3>
+            </div>
+
+            <h4>Financial Distress = Process of Deterioration Over Time</h4>
+
+            <div class="two-column">
+                <div class="comparison-box needed">
+                    <h4>Proper Study Design:</h4>
+                    <div class="code-block">
+Time 0: Measure Z-scores
+Time 1-3: Observe which 
+        hospitals experience crisis
+Analysis: Do low Z-scores 
+         predict crisis?
+                    </div>
+                </div>
+                
+                <div class="comparison-box current">
+                    <h4>Actual Design:</h4>
+                    <div class="code-block">
+Single snapshot (2022)
+No follow-up
+No crisis outcomes
+No validation ❌
+                    </div>
+                </div>
+            </div>
+
+            <h3>From Syllabus Perspective</h3>
+            <div class="info">
+                <p><strong>"Empirical Methods in Corporate Finance"</strong> emphasizes:</p>
+                <ul>
+                    <li>Panel data analysis</li>
+                    <li>Causal identification (DiD, IV, RDD)</li>
+                    <li>Dynamic models</li>
+                </ul>
+                <p style="margin-top: 15px;"><strong>Paper uses:</strong> Descriptive statistics + bivariate tests (1980s methodology)</p>
+            </div>
+            <div class="slide-number">Slide 9 of 30</div>
+        </div>
+
+        <!-- SLIDE 10: Methodological Rigor - Flaw 3 -->
+        <div class="slide">
+            <h1>Methodological Rigor - The Circular Reasoning Trap</h1>
+            
+            <div class="weakness">
+                <h3>🚨 FLAW 3: Measurement Validity Paradox</h3>
+            </div>
+
+            <h4>Paper's Argument Chain:</h4>
+            <div class="code-block">
+Step 1: Use Z-scores to measure distress ✓
+         ↓
+Step 2: Find Z-scores are high → No distress ✓
+         ↓
+Step 3: Argue Z-scores are invalid because:
+        • X1 (working capital) overstates liquidity
+          (93.5% is receivables collected in 1,485 days)
+        • X4 (equity/liability) understates leverage
+          (equity is mostly subsidies, not retained earnings) ✓
+         ↓
+Step 4: Conclude hospitals ARE distressed...
+        ...but Z-scores don't show it ❓
+            </div>
+
+            <div class="warning">
+                <h4>⚠️ The Problem:</h4>
+                <p>Can't use an invalid measure to test hypotheses (H1-H5), then declare it invalid!</p>
+            </div>
+
+            <div class="highlight-box" style="margin-top: 20px;">
+                <h3>Methodological Grade: WEAK-ADEQUATE (2.5/5)</h3>
+            </div>
+            <div class="slide-number">Slide 10 of 30</div>
+        </div>
+
+        <!-- SLIDE 11: Empirical Results - The Good -->
+        <div class="slide">
+            <h1>Empirical Results - The Good</h1>
+            
+            <div class="strength">
+                <h3>✅ Valuable Empirical Contributions</h3>
+            </div>
+
+            <h4>1. Comprehensive Documentation</h4>
+            <ul>
+                <li>Complete census: 90 hospitals (entire population)</li>
+                <li>Detailed financial statements (2022)</li>
+                <li>Transparent accounting adjustments (local standards → IPSAS)</li>
+            </ul>
+
+            <h4>2. Novel Greek Context Findings</h4>
+            <table style="font-size: 0.9em;">
+                <thead>
+                    <tr>
+                        <th>Metric</th>
+                        <th>Finding</th>
+                        <th>Significance</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Subsidy dependence</strong></td>
+                        <td>€1.9B subsidies / €336M net income</td>
+                        <td>Only 3/90 hospitals self-financing</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Receivables lag</strong></td>
+                        <td>1,485 days average collection</td>
+                        <td>4+ years to convert A/R to cash</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Capital structure</strong></td>
+                        <td>Equity/Liability = 10.9:1</td>
+                        <td>Virtually zero long-term debt</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Gender effect</strong></td>
+                        <td>Female CEOs → higher Z-scores (p=0.042)</td>
+                        <td>21 female vs. 69 male CEOs</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Size effect</strong></td>
+                        <td>Larger hospitals → lower Z-scores (ρ=-0.266)</td>
+                        <td>Contradicts prior literature</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h4>3. Honest Acknowledgment</h4>
+            <p>Paper explicitly states its primary tool (Z-scores) is flawed - rare scholarly honesty</p>
+            <div class="slide-number">Slide 11 of 30</div>
+        </div>
+
+        <!-- SLIDE 12: Empirical Results - The Problematic -->
+        <div class="slide">
+            <h1>Empirical Results - The Problematic</h1>
+            
+            <div class="warning">
+                <h3>⚠️ Interpretation Issues</h3>
+            </div>
+
+            <h4>Issue 1: Inconsistent Conclusions</h4>
+            <ul>
+                <li><strong>H1 (distress):</strong> "Accepted" (no distress) BUT "warrants deeper analysis" (actually distressed)</li>
+                <li><strong>H3 (size):</strong> Small hospitals "better" (higher Z) BUT Z-scores are "inflated/misleading"</li>
+            </ul>
+
+            <h4>Issue 2: Causal Claims Without Causal Design</h4>
+            <div class="info">
+                <p><strong>CEO Gender Finding:</strong></p>
+                <ul>
+                    <li>Female-led hospitals: Higher Z-scores (p=0.042)</li>
+                    <li><strong>Interpreted as:</strong> Female leadership → Better financial management</li>
+                    <li><strong>Alternative explanations (not ruled out):</strong>
+                        <ul>
+                            <li>Women appointed to already-healthier hospitals (selection)</li>
+                            <li>Women sort into easier-to-manage hospitals (self-selection)</li>
+                            <li>Omitted variable (e.g., board quality) correlated with CEO gender</li>
+                        </ul>
+                    </li>
+                </ul>
+                <p><strong>No controls for:</strong> CEO tenure, age, education, hospital prior performance, appointment mechanism</p>
+            </div>
+
+            <h4>Issue 3: Unexplained Anomalies</h4>
+            <ul>
+                <li>Small hospitals outperform large (contradicts economies of scale)</li>
+                <li>Rural outperform urban (contradicts prior literature)</li>
+                <li>Specialty has NO effect (unexpected)</li>
+            </ul>
+
+            <div class="highlight-box">
+                <strong>Results Grade: ADEQUATE (3/5)</strong> - Good description, weak interpretation
+            </div>
+            <div class="slide-number">Slide 12 of 30</div>
+        </div>
+
+        <!-- SLIDE 13: Contribution to Knowledge -->
+        <div class="slide">
+            <h1>Contribution to Knowledge</h1>
+            
+            <h3>📊 Contribution Matrix</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Type</th>
+                        <th>Claimed</th>
+                        <th>Actual</th>
+                        <th>Assessment</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Theoretical</strong></td>
+                        <td>"Redefine financial distress for public entities"</td>
+                        <td>Identifies need; provides no redefinition</td>
+                        <td><span class="star-rating">⭐⭐☆☆☆</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Empirical</strong></td>
+                        <td>Comprehensive Greek hospital data</td>
+                        <td>Good documentation; limited generalizability</td>
+                        <td><span class="star-rating">⭐⭐⭐☆☆</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Methodological</strong></td>
+                        <td>Apply Z-scores to public hospitals</td>
+                        <td>Confirms known model failure; no new method</td>
+                        <td><span class="star-rating">⭐⭐☆☆☆</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Practical</strong></td>
+                        <td>Inform hospital oversight policy</td>
+                        <td>Some actionable insights; lacks specificity</td>
+                        <td><span class="star-rating">⭐⭐⭐☆☆</span></td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h3>🎯 What Would Constitute a Strong Contribution?</h3>
+            <div class="two-column">
+                <div>
+                    <h4>Theoretical:</h4>
+                    <ul>
+                        <li>Formal model of "transferred distress"</li>
+                        <li>Extension of soft budget constraint theory</li>
+                        <li>Application of real options to government decisions</li>
+                    </ul>
+                </div>
+                <div>
+                    <h4>Empirical:</h4>
+                    <ul>
+                        <li>Panel data showing crisis predictors</li>
+                        <li>Comparative design across countries</li>
+                        <li>Validation of alternative distress measure</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="highlight-box">
+                <strong>Contribution Grade: WEAK-ADEQUATE (2.5/5)</strong>
+            </div>
+            <div class="slide-number">Slide 13 of 30</div>
+        </div>
+
+        <!-- SLIDE 14: Syllabus Alignment -->
+        <div class="slide">
+            <h1>Syllabus Alignment - Topic Coverage</h1>
+            
+            <h3>📚 Alignment with Advanced Corporate Finance Content</h3>
+            <table style="font-size: 0.9em;">
+                <thead>
+                    <tr>
+                        <th>Syllabus Topic</th>
+                        <th>Coverage</th>
+                        <th>Grade</th>
+                        <th>Evidence</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>1. Capital Structure Theories</strong></td>
+                        <td><span class="star-rating">⭐⭐☆☆☆</span></td>
+                        <td><span class="grade-badge weak">Weak</span></td>
+                        <td>Describes CS but doesn't explain using theory</td>
+                    </tr>
+                    <tr>
+                        <td><strong>2. Corporate Governance</strong></td>
+                        <td><span class="star-rating">⭐⭐⭐☆☆</span></td>
+                        <td><span class="grade-badge adequate">Adequate</span></td>
+                        <td>Tests governance-performance link but limited data</td>
+                    </tr>
+                    <tr>
+                        <td><strong>3. Market for Corporate Control</strong></td>
+                        <td><span class="star-rating">☆☆☆☆☆</span></td>
+                        <td><span class="grade-badge weak">None</span></td>
+                        <td>Mentions mergers exist but no analysis</td>
+                    </tr>
+                    <tr>
+                        <td><strong>4. International Corporate Finance</strong></td>
+                        <td><span class="star-rating">⭐⭐☆☆☆</span></td>
+                        <td><span class="grade-badge weak">Weak</span></td>
+                        <td>Single-country study; no comparative analysis</td>
+                    </tr>
+                    <tr>
+                        <td><strong>5. Diversification & Real Options</strong></td>
+                        <td><span class="star-rating">☆☆☆☆☆</span></td>
+                        <td><span class="grade-badge weak">None</span></td>
+                        <td>Could apply to specialty/government decisions; doesn't</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h3>📈 Methodological Standards</h3>
+            <div class="info">
+                <p><strong>Syllabus Expects:</strong> "Empirical methods in corporate finance" (GMM, panel data, identification)</p>
+                <p><strong>Paper Provides:</strong> Descriptive stats + non-parametric tests (dated approach)</p>
+            </div>
+
+            <div class="highlight-box" style="margin-top: 20px;">
+                <strong>Overall Alignment: ADEQUATE (3/5)</strong> - Covers 40% of syllabus topics; methodologically dated
+            </div>
+            <div class="slide-number">Slide 14 of 30</div>
+        </div>
+
+        <!-- SLIDE 15: Strengths vs Weaknesses -->
+        <div class="slide">
+            <h1>Comprehensive Strengths vs. Weaknesses</h1>
+            
+            <div class="two-column">
+                <div>
+                    <div class="strength">
+                        <h3>✅ STRENGTHS</h3>
+                        <h4>What the Paper Does Well</h4>
+                    </div>
+                    <ol>
+                        <li><strong>Identifies important puzzle</strong> - Traditional finance tools fail for public entities</li>
+                        <li><strong>Comprehensive data</strong> - Complete census of 90 hospitals</li>
+                        <li><strong>Honest about limitations</strong> - Acknowledges Z-scores are flawed</li>
+                        <li><strong>Novel findings</strong> - 1,485-day receivables lag quantified</li>
+                        <li><strong>Gender diversity evidence</strong> - Contributes to governance literature</li>
+                        <li><strong>Policy relevance</strong> - Identifies actionable problems</li>
+                        <li><strong>Clear writing</strong> - Well-structured and transparent</li>
+                    </ol>
+                </div>
+                
+                <div>
+                    <div class="weakness">
+                        <h3>❌ WEAKNESSES</h3>
+                        <h4>Critical Deficiencies</h4>
+                    </div>
+                    <ol>
+                        <li><strong>Circular reasoning</strong> - Uses invalid measure to test, then declares invalid</li>
+                        <li><strong>No theoretical development</strong> - Promises redefinition but doesn't deliver</li>
+                        <li><strong>Wrong research design</strong> - Cross-sectional for dynamic phenomenon</li>
+                        <li><strong>Limited causal inference</strong> - Bivariate tests only; no controls</li>
+                        <li><strong>Atheoretical governance</strong> - Crude proxies without mechanisms</li>
+                        <li><strong>No CS theory engagement</strong> - Describes but doesn't explain</li>
+                        <li><strong>Narrow generalizability</strong> - Single country, single year</li>
+                        <li><strong>Methodologically dated</strong> - 1980s approach vs. modern standards</li>
+                    </ol>
+                </div>
+            </div>
+            <div class="slide-number">Slide 15 of 30</div>
+        </div>
+
+        <!-- SLIDE 16: Transformation - Theory -->
+        <div class="slide">
+            <h1>How to Transform This From C+ to A-</h1>
+            
+            <div class="highlight-box">
+                <h3>🔧 MAJOR REVISIONS NEEDED</h3>
+            </div>
+
+            <h3>1. THEORETICAL DEVELOPMENT (Most Critical)</h3>
+            
+            <div class="comparison-box current">
+                <h4>Current:</h4>
+                <p>"Financial distress needs redefinition" (stated repeatedly, never delivered)</p>
+            </div>
+
+            <div class="comparison-box needed">
+                <h4>Needed:</h4>
+                <div class="code-block">
+Step 1: Define "mission-critical distress" for public hospitals
+        → Inability to provide safe, accessible care
+        → Workforce exodus
+        → Quality deterioration
+        
+Step 2: Develop theoretical model
+        → Soft budget constraint framework
+        → Multi-stakeholder distress distribution
+        → Government intervention triggers
+        
+Step 3: Derive testable predictions
+        → When does transferred distress become unsustainable?
+        → What metrics predict government intervention?
+                </div>
+            </div>
+
+            <h4>Theoretical Frameworks to Apply:</h4>
+            <ul>
+                <li>Kornai's soft budget constraint theory</li>
+                <li>Agency theory (principal = state/citizens; agent = hospital managers)</li>
+                <li>Pecking order theory (why hospitals use subsidies not debt)</li>
+                <li>Real options (government's options to restructure/close/privatize)</li>
+            </ul>
+            <div class="slide-number">Slide 16 of 30</div>
+        </div>
+
+        <!-- SLIDE 17: Transformation - Design -->
+        <div class="slide">
+            <h1>Transformation Roadmap - Research Design</h1>
+            
+            <h3>2. RESEARCH DESIGN OVERHAUL</h3>
+
+            <div class="comparison-box current">
+                <h4>Current:</h4>
+                <p>Single-year cross-section with bivariate tests</p>
+            </div>
+
+            <div class="comparison-box needed">
+                <h4>Needed: Three Options</h4>
+            </div>
+
+            <h4>Option A: Panel Data Design (Preferred)</h4>
+            <div class="code-block">
+- Collect 5-10 years of data
+- Implement fixed effects regression
+- Model: Z-score(it) = α + β*Governance(it) + Hospital(i) + Year(t) + ε
+- Controls for time-invariant hospital characteristics
+            </div>
+
+            <h4>Option B: Quasi-Experimental Design</h4>
+            <div class="code-block">
+- Identify policy shock (e.g., 2024 ULS integration reform)
+- Difference-in-differences:
+  - Treatment: Hospitals merged into ULS
+  - Control: Hospitals not yet merged
+  - Measure: Financial metrics before/after
+            </div>
+
+            <h4>Option C: Comparative Design</h4>
+            <div class="code-block">
+- Compare Greek hospitals to:
+  → Portuguese SNS (similar system, different outcomes)
+  → Greek private hospitals (market discipline effect)
+  → Pre/post economic crisis (2008-2015)
+            </div>
+            <div class="slide-number">Slide 17 of 30</div>
+        </div>
+
+        <!-- SLIDE 18: Transformation - New Measure -->
+        <div class="slide">
+            <h1>Transformation Roadmap - Alternative Measure</h1>
+            
+            <h3>3. DEVELOP ALTERNATIVE DISTRESS MEASURE</h3>
+
+            <div class="comparison-box current">
+                <h4>Current:</h4>
+                <p>Relies solely on Z-scores, admits they're invalid</p>
+            </div>
+
+            <div class="comparison-box needed">
+                <h4>Needed: "Public Hospital Financial Sustainability Index (PHFSI)"</h4>
+            </div>
+
+            <h4>Components (equally weighted):</h4>
+            <div class="code-block">
+1. Operational Self-Sufficiency Ratio
+   = Operating Revenue / (Operating Expenses - Subsidies)
+   
+2. Stakeholder Pressure Index
+   = (Accounts Payable Days / 90) + (Overdue Liabilities / Total Liabilities)
+   
+3. Receivables Realization Rate
+   = Cash Collections / Accrued Revenue (adjusted for lag)
+   
+4. Subsidy Dependency Ratio
+   = State Subsidies / Total Revenue
+   
+5. Clinical Quality Maintenance Index
+   = (Patient Safety Score + Access Metrics) / Benchmarks
+            </div>
+
+            <h4>Validate by:</h4>
+            <ul>
+                <li>Showing low PHFSI predicts government intervention</li>
+                <li>Demonstrating PHFSI captures problems Z-scores miss</li>
+                <li>Testing across multiple countries/time periods</li>
+            </ul>
+            <div class="slide-number">Slide 18 of 30</div>
+        </div>
+
+        <!-- SLIDE 19: Grading Justification -->
+        <div class="slide">
+            <h1>Grading Justification</h1>
+            
+            <h3>📊 Final Grade Calculation</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Dimension</th>
+                        <th>Weight</th>
+                        <th>Score</th>
+                        <th>Weighted</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Theoretical Foundation</td>
+                        <td>25%</td>
+                        <td>40/100</td>
+                        <td>10.0</td>
+                    </tr>
+                    <tr>
+                        <td>Methodological Rigor</td>
+                        <td>30%</td>
+                        <td>45/100</td>
+                        <td>13.5</td>
+                    </tr>
+                    <tr>
+                        <td>Results & Interpretation</td>
+                        <td>20%</td>
+                        <td>60/100</td>
+                        <td>12.0</td>
+                    </tr>
+                    <tr>
+                        <td>Contribution to Knowledge</td>
+                        <td>15%</td>
+                        <td>50/100</td>
+                        <td>7.5</td>
+                    </tr>
+                    <tr>
+                        <td>Course Alignment</td>
+                        <td>5%</td>
+                        <td>60/100</td>
+                        <td>3.0</td>
+                    </tr>
+                    <tr>
+                        <td>Practical Implications</td>
+                        <td>3%</td>
+                        <td>70/100</td>
+                        <td>2.1</td>
+                    </tr>
+                    <tr>
+                        <td>Limitations & Future Research</td>
+                        <td>2%</td>
+                        <td>60/100</td>
+                        <td>1.2</td>
+                    </tr>
+                    <tr style="font-weight: bold; background: #f0f0f0;">
+                        <td>SUBTOTAL</td>
+                        <td>100%</td>
+                        <td></td>
+                        <td>49.3/100</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <div class="strength" style="margin-top: 20px;">
+                <p><strong>With Writing Quality Bonus:</strong> +20 points (well-written, clear, honest)</p>
+            </div>
+
+            <div class="metric-card" style="margin-top: 30px;">
+                <span class="number">69.3/100</span>
+                <span class="label">FINAL GRADE: C+ / B-</span>
+            </div>
+            <div class="slide-number">Slide 19 of 30</div>
+        </div>
+
+        <!-- SLIDE 20: What This Grade Means -->
+        <div class="slide">
+            <h1>What This Grade Means</h1>
+            
+            <div class="highlight-box">
+                <h2>🎯 C+ / B- = "Adequate with Significant Limitations"</h2>
+            </div>
+
+            <div class="two-column" style="margin-top: 30px;">
+                <div class="strength">
+                    <h3>✅ Pass Standards:</h3>
+                    <ul>
+                        <li>Competent empirical work</li>
+                        <li>Identifies real problem</li>
+                        <li>Honest scholarship</li>
+                        <li>Valuable documentation</li>
+                    </ul>
+                </div>
+                
+                <div class="weakness">
+                    <h3>❌ Falls Short Of:</h3>
+                    <ul>
+                        <li>Theoretical development</li>
+                        <li>Methodological rigor</li>
+                        <li>Causal inference</li>
+                        <li>Comprehensive contribution</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h3 style="margin-top: 40px;">Publication Context</h3>
+            <div class="info">
+                <p><strong>✅ Appropriate for:</strong> Health management journals</p>
+                <p style="margin-left: 30px;">Current: <em>Frontiers in Public Health</em> (Q2 journal)</p>
+                
+                <p style="margin-top: 15px;"><strong>❌ Not ready for:</strong> Q1 finance/management journals</p>
+                <p style="margin-left: 30px;">Examples: <em>Journal of Finance</em>, <em>Strategic Management Journal</em>, <em>Journal of Health Economics</em></p>
+            </div>
+
+            <h3>For Advanced Corporate Finance Course</h3>
+            <p>This paper is <strong>valuable teaching material</strong> despite grade - excellent for discussing model limitations, institutional context, and research design challenges</p>
+            <div class="slide-number">Slide 20 of 30</div>
+        </div>
+
+        <!-- SLIDE 21: Key Takeaways - Lesson 1-3 -->
+        <div class="slide">
+            <h1>Key Takeaways - Five Critical Lessons</h1>
+            
+            <div class="info">
+                <h3>🎯 1. CONTEXT MATTERS - Model Validity is Conditional</h3>
+                <p><strong>Lesson:</strong> Altman's Z-score works for private firms in competitive markets with bankruptcy risk. It <strong>fails catastrophically</strong> when:</p>
+                <ul>
+                    <li>Bankruptcy is impossible (government guarantee)</li>
+                    <li>"Equity" is subsidies, not retained earnings</li>
+                    <li>"Liabilities" exclude debt (no access to capital markets)</li>
+                    <li>"Working capital" is uncollectible receivables</li>
+                </ul>
+                <p><strong>Implication:</strong> Always interrogate model assumptions before application</p>
+            </div>
+
+            <div class="warning" style="margin-top: 20px;">
+                <h3>🎯 2. DESCRIPTION ≠ EXPLANATION</h3>
+                <p><strong>Paper does:</strong> Documents patterns (size matters, gender matters, location matters)</p>
+                <p><strong>Paper doesn't do:</strong> Explains WHY using theory</p>
+                <p><strong>Lesson:</strong> Advanced CF requires <strong>causal mechanisms</strong>, not just correlations</p>
+            </div>
+
+            <div class="weakness" style="margin-top: 20px;">
+                <h3>🎯 3. CIRCULAR REASONING TRAP</h3>
+                <div class="code-block">
+"We'll measure X with tool Y"
+    ↓
+"Tool Y says no X exists"
+    ↓
+"But tool Y is invalid"
+    ↓
+"Therefore X exists"  ⚠️ INVALID!
+                </div>
+                <p><strong>Lesson:</strong> Can't use an invalid measure to support claims—must develop valid alternative FIRST</p>
+            </div>
+            <div class="slide-number">Slide 21 of 30</div>
+        </div>
+
+        <!-- SLIDE 22: Key Takeaways - Lesson 4-5 -->
+        <div class="slide">
+            <h1>Key Takeaways - Lessons 4 & 5</h1>
+            
+            <div class="info">
+                <h3>🎯 4. VALIDATION REQUIRES OUTCOMES</h3>
+                <p><strong>Prediction models need:</strong></p>
+                <ul>
+                    <li>Sample with both successes and failures</li>
+                    <li>Observation period to see predictions realized</li>
+                    <li>Clear definition of outcome being predicted</li>
+                </ul>
+                <p><strong>This paper has:</strong> Zero failures, one time point, unclear outcome definition</p>
+                <p><strong>Lesson:</strong> Can't validate without variation in the thing you're predicting</p>
+            </div>
+
+            <div class="warning" style="margin-top: 30px;">
+                <h3>🎯 5. THEORETICAL PROMISE vs. DELIVERY</h3>
+                <p><strong>Claiming to "redefine" something requires:</strong></p>
+                <ol>
+                    <li>Clear new definition</li>
+                    <li>Theoretical justification</li>
+                    <li>Operational measures</li>
+                    <li>Empirical validation</li>
+                </ol>
+                <p style="margin-top: 15px;"><strong>This paper provides:</strong> Only #1 (partially)</p>
+                <p><strong>Lesson:</strong> Don't overpromise theoretical contributions; deliver what you claim or claim what you deliver</p>
+            </div>
+            <div class="slide-number">Slide 22 of 30</div>
+        </div>
+
+        <!-- SLIDE 23: Discussion Questions -->
+        <div class="slide">
+            <h1>Discussion Questions for Class</h1>
+            
+            <h3>💭 Opening Questions (Warm-up)</h3>
+            <ol>
+                <li><strong>First Impressions:</strong> After reading the abstract and introduction, what did you expect this paper to contribute? Did it deliver?</li>
+                <li><strong>The Z-Score Question:</strong> Is it ever appropriate to apply a bankruptcy prediction model to organizations that cannot go bankrupt? Why or why not?</li>
+            </ol>
+
+            <h3>🤔 Theoretical Questions (Core Issues)</h3>
+            <ol start="3">
+                <li><strong>Defining Distress:</strong> If bankruptcy isn't the outcome, what SHOULD "financial distress" mean for a public hospital?</li>
+                <li><strong>Transferred Distress:</strong> The paper argues distress is "transferred" to suppliers and taxpayers. Is this a useful concept? Can we model it formally?</li>
+                <li><strong>Capital Structure Puzzle:</strong> Why do Greek public hospitals have equity/liability ratios of 10.9:1? Which capital structure theories explain this?</li>
+            </ol>
+
+            <h3>🔬 Methodological Questions</h3>
+            <ol start="6">
+                <li><strong>Research Design:</strong> If you were redesigning this study, what would you change first: the measure, the design, the sample, or something else?</li>
+                <li><strong>Causality Challenge:</strong> What are three alternative explanations for why female CEOs lead hospitals with higher Z-scores?</li>
+            </ol>
+            <div class="slide-number">Slide 23 of 30</div>
+        </div>
+
+        <!-- SLIDE 24: More Discussion Questions -->
+        <div class="slide">
+            <h1>Discussion Questions (Continued)</h1>
+            
+            <h3>💼 Application Questions (Real-World)</h3>
+            <ol start="8">
+                <li><strong>Policy Implications:</strong> If you were the Greek Minister of Health, which finding would you act on first, and how?</li>
+                <li><strong>International Transfer:</strong> Would the findings apply to:
+                    <ul>
+                        <li>NHS England? Why or why not?</li>
+                        <li>Portuguese SNS? Why or why not?</li>
+                        <li>US public hospitals? Why or why not?</li>
+                    </ul>
+                </li>
+            </ol>
+
+            <h3>🚀 Advanced Questions (Extensions)</h3>
+            <ol start="10">
+                <li><strong>Real Options Application:</strong> How could you apply real options theory to model the government's decision about when to intervene in a struggling public hospital?</li>
+                <li><strong>Structured Finance Solution:</strong> Design a financial instrument to help public hospitals manage the 1,485-day cash flow gap.</li>
+                <li><strong>Alternative Metrics:</strong> If Z-scores don't work, what SHOULD we measure? Design a new index with 3-5 components and justify each theoretically.</li>
+            </ol>
+            <div class="slide-number">Slide 24 of 30</div>
+        </div>
+
+        <!-- SLIDE 25: Appropriate Use -->
+        <div class="slide">
+            <h1>When is This Paper Useful?</h1>
+            
+            <div class="two-column">
+                <div class="strength">
+                    <h3>✅ USE THIS PAPER WHEN:</h3>
+                    
+                    <h4>Teaching Context:</h4>
+                    <ul>
+                        <li>Illustrating limits of financial models across contexts</li>
+                        <li>Discussing soft budget constraints</li>
+                        <li>Case study in research design challenges</li>
+                        <li>Example of honest scholarly limitations</li>
+                    </ul>
+
+                    <h4>Practice Context:</h4>
+                    <ul>
+                        <li>Understanding Greek healthcare specifically</li>
+                        <li>Documenting payment delay problems</li>
+                        <li>Policy discussions about transparency</li>
+                    </ul>
+
+                    <h4>Research Context:</h4>
+                    <ul>
+                        <li>Motivation for better public sector metrics</li>
+                        <li>Baseline data for longitudinal studies</li>
+                        <li>Comparison point for other countries</li>
+                    </ul>
+                </div>
+                
+                <div class="weakness">
+                    <h3>❌ DON'T USE THIS PAPER FOR:</h3>
+                    
+                    <ul>
+                        <li><strong>Theoretical guidance</strong> on financial distress in public entities (theory not developed)</li>
+                        <li><strong>Methodological template</strong> for empirical CF research (design inadequate)</li>
+                        <li><strong>Causal claims</strong> about governance effects (no causal identification)</li>
+                        <li><strong>Generalizable conclusions</strong> (single country, single year)</li>
+                        <li><strong>Validation</strong> of Z-scores in public context (paper shows they don't work)</li>
+                        <li><strong>Q1 journal standards</strong> (would need major revision)</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="highlight-box" style="margin-top: 30px;">
+                <h3>🎯 BOTTOM LINE</h3>
+                <p>This paper is a good <strong>starting point</strong> for a research program, a valuable <strong>data documentation</strong> exercise, and an honest <strong>problem identification</strong> study. It is NOT a complete solution, a rigorous causal study, or a significant theoretical contribution.</p>
+            </div>
+            <div class="slide-number">Slide 25 of 30</div>
+        </div>
+
+        <!-- SLIDE 26: Comparison to Exemplars -->
+        <div class="slide">
+            <h1>Comparison to Project Exemplars</h1>
+            
+            <h3>📑 How This Paper Compares to Gemini/ChatGPT/Claude Proposals</h3>
+            <table style="font-size: 0.85em;">
+                <thead>
+                    <tr>
+                        <th>Dimension</th>
+                        <th>Karakolias Paper</th>
+                        <th>Gemini/ChatGPT/Claude</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Theoretical Depth</strong></td>
+                        <td><span class="star-rating">⭐⭐☆☆☆</span> Identifies problem, no solution</td>
+                        <td><span class="star-rating">⭐⭐⭐⭐⭐</span> Formal frameworks (real options, SROI, data valuation)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Research Design</strong></td>
+                        <td><span class="star-rating">⭐⭐☆☆☆</span> Cross-sectional, descriptive</td>
+                        <td><span class="star-rating">⭐⭐⭐⭐⭐</span> Quasi-experimental, causal inference</td>
+                    </tr>
+                    <tr>
+                        <td><strong>CF Theory Integration</strong></td>
+                        <td><span class="star-rating">⭐⭐☆☆☆</span> Limited engagement</td>
+                        <td><span class="star-rating">⭐⭐⭐⭐⭐</span> Deep integration (capital budgeting, cost of capital)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Innovation</strong></td>
+                        <td><span class="star-rating">⭐⭐⭐☆☆</span> Applies existing model</td>
+                        <td><span class="star-rating">⭐⭐⭐⭐⭐</span> Creates new instruments (CVBs, receivables financing)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Data Sophistication</strong></td>
+                        <td><span class="star-rating">⭐⭐⭐☆☆</span> Financial statements</td>
+                        <td><span class="star-rating">⭐⭐⭐⭐⭐</span> Multi-source (clinical + financial + outcomes)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Actionability</strong></td>
+                        <td><span class="star-rating">⭐⭐⭐☆☆</span> General recommendations</td>
+                        <td><span class="star-rating">⭐⭐⭐⭐⭐</span> Specific mechanisms (SPVs, tranching, committees)</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <div class="info" style="margin-top: 30px;">
+                <h4>🎓 Key Lesson: What Makes Q1-Level Research</h4>
+                <ol>
+                    <li><strong>Theoretical Ambition:</strong> Don't just identify problems → Solve them with formal models</li>
+                    <li><strong>Methodological Rigor:</strong> Design to establish causality, not just document patterns</li>
+                    <li><strong>Integration:</strong> Bridge multiple literatures meaningfully</li>
+                    <li><strong>Innovation:</strong> Create new tools/methods/measures</li>
+                    <li><strong>Specificity:</strong> Concrete mechanisms, not vague recommendations</li>
+                </ol>
+                <p><strong>Karakolias stopped at step 1; exemplar proposals complete all 5.</strong></p>
+            </div>
+            <div class="slide-number">Slide 26 of 30</div>
+        </div>
+
+        <!-- SLIDE 27: Meta-Lessons -->
+        <div class="slide">
+            <h1>Conclusion - What We Learned</h1>
+            
+            <h3>🎓 Meta-Lessons from This Assessment</h3>
+
+            <div class="info">
+                <h4>About Research:</h4>
+                <ol>
+                    <li><strong>Context is king</strong> - Models valid in one setting may fail in another</li>
+                    <li><strong>Theory matters</strong> - Description without explanation is insufficient</li>
+                    <li><strong>Design determines claims</strong> - Cross-sectional → correlation only</li>
+                    <li><strong>Validation requires outcomes</strong> - Need variation to test predictions</li>
+                    <li><strong>Honesty is valuable</strong> - Acknowledging limitations is scholarly integrity</li>
+                </ol>
+            </div>
+
+            <div class="warning">
+                <h4>About Academic Writing:</h4>
+                <ol start="6">
+                    <li><strong>Promise what you deliver</strong> - Don't claim contributions you don't provide</li>
+                    <li><strong>Circular reasoning is fatal</strong> - Can't use invalid measure to validate claims</li>
+                    <li><strong>Integration adds value</strong> - Bridge literatures, don't just apply tools</li>
+                </ol>
+            </div>
+
+            <div class="strength">
+                <h4>About Advanced Corporate Finance:</h4>
+                <ol start="9">
+                    <li><strong>Rigor has multiple dimensions</strong> - Theoretical, empirical, methodological</li>
+                    <li><strong>Standards evolve</strong> - Methods adequate in 1990s may be insufficient today</li>
+                </ol>
+            </div>
+
+            <div class="highlight-box" style="margin-top: 30px;">
+                <h3>💡 The Bigger Picture</h3>
+                <p>This paper represents <strong>honest, competent work that falls short of excellence</strong> - a common situation in academic research. Understanding <em>why</em> it falls short teaches us what <em>excellence requires</em>.</p>
+            </div>
+            <div class="slide-number">Slide 27 of 30</div>
+        </div>
+
+        <!-- SLIDE 28: Resources -->
+        <div class="slide">
+            <h1>Resources for Further Learning</h1>
+            
+            <h3>📚 To Understand What This Paper is Trying to Do</h3>
+            <div class="info">
+                <h4>Soft Budget Constraints:</h4>
+                <ul>
+                    <li>Kornai, J. (1986). "The Soft Budget Constraint." <em>Kyklos</em>, 39(1): 3-30.</li>
+                    <li>Maskin, E. & Xu, C. (2001). "Soft Budget Constraint Theories." <em>Economics of Transition</em>, 9(1): 1-27.</li>
+                </ul>
+
+                <h4>Financial Distress in Public Entities:</h4>
+                <ul>
+                    <li>Ziolo, M. et al. (2017). "The Financial Distress of Public Sector Entities." In <em>Risk Management in Public Administration</em>.</li>
+                    <li>Tuckman, H.P. & Chang, C.F. (1991). "Measuring Financial Vulnerability of Charitable Nonprofits." <em>Nonprofit and Voluntary Sector Quarterly</em>, 20(4).</li>
+                </ul>
+            </div>
+
+            <h3>📚 To Learn How to Do This BETTER</h3>
+            <div class="strength">
+                <h4>Empirical Corporate Finance Methods:</h4>
+                <ul>
+                    <li>Roberts, M.R. & Whited, T.M. (2013). "Endogeneity in Empirical Corporate Finance." In <em>Handbook of the Economics of Finance</em>, Vol. 2.</li>
+                    <li>Angrist, J.D. & Pischke, J.S. (2009). <em>Mostly Harmless Econometrics: An Empiricist's Companion</em>.</li>
+                </ul>
+
+                <h4>Real Options in Healthcare:</h4>
+                <ul>
+                    <li>Balasubramanian, N. et al. (2010). "Real Options in Healthcare." In <em>Handbook of Quantitative Finance</em>.</li>
+                </ul>
+            </div>
+            <div class="slide-number">Slide 28 of 30</div>
+        </div>
+
+        <!-- SLIDE 29: Self-Assessment Rubric -->
+        <div class="slide">
+            <h1>Self-Assessment Rubric for Students</h1>
+            
+            <h3>📋 Use This to Evaluate YOUR Own Research</h3>
+            <p>Rate Your Paper (1-5 on each dimension):</p>
+
+            <table style="font-size: 0.85em;">
+                <thead>
+                    <tr>
+                        <th>Question</th>
+                        <th>1 = Poor</th>
+                        <th>5 = Excellent</th>
+                        <th>This Paper</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Theory:</strong> Develop/extend theory or just apply tools?</td>
+                        <td>Apply only</td>
+                        <td>Original theory</td>
+                        <td><span class="star-rating">⭐⭐☆☆☆</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Design:</strong> Support causal claims or only correlations?</td>
+                        <td>Correlation only</td>
+                        <td>Causal ID</td>
+                        <td><span class="star-rating">⭐⭐☆☆☆</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Measures:</strong> Valid for specific context?</td>
+                        <td>Inappropriate</td>
+                        <td>Validated</td>
+                        <td><span class="star-rating">⭐⭐☆☆☆</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Contribution:</strong> Promise what you deliver?</td>
+                        <td>Gap</td>
+                        <td>Perfect alignment</td>
+                        <td><span class="star-rating">⭐⭐☆☆☆</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Methods:</strong> State-of-the-art techniques?</td>
+                        <td>Dated</td>
+                        <td>Cutting edge</td>
+                        <td><span class="star-rating">⭐⭐☆☆☆</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Integration:</strong> Bridge multiple literatures?</td>
+                        <td>Single literature</td>
+                        <td>Deep integration</td>
+                        <td><span class="star-rating">⭐⭐☆☆☆</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Rigor:</strong> Major flaws in logic or design?</td>
+                        <td>Multiple flaws</td>
+                        <td>Bulletproof</td>
+                        <td><span class="star-rating">⭐⭐☆☆☆</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Writing:</strong> Clear, structured, and honest?</td>
+                        <td>Unclear/oversold</td>
+                        <td>Crystal clear</td>
+                        <td><span class="star-rating">⭐⭐⭐⭐☆</span></td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <div class="highlight-box" style="margin-top: 20px;">
+                <h4>Scoring Guide:</h4>
+                <ul>
+                    <li><strong>32-40 points:</strong> A-level work, Q1 publication potential</li>
+                    <li><strong>24-31 points:</strong> B-level work, solid contribution</li>
+                    <li><strong>16-23 points:</strong> C-level work, adequate but limited ← <strong>This paper: 18/40</strong></li>
+                    <li><strong>8-15 points:</strong> D-level work, major revisions needed</li>
+                    <li><strong>&lt;8 points:</strong> Fundamental reconceptualization required</li>
+                </ul>
+            </div>
+            <div class="slide-number">Slide 29 of 30</div>
+        </div>
+
+        <!-- SLIDE 30: Thank You -->
+        <div class="slide title-slide">
+            <h1>Thank You</h1>
+            <h2 class="subtitle">Questions? Discussion?</h2>
+            
+            <div class="highlight-box" style="margin-top: 60px; text-align: left;">
+                <h3>📊 Final Summary</h3>
+                <p><strong>Paper:</strong> "Rethinking Financial Distress in Public Healthcare"</p>
+                <p><strong>Grade:</strong> C+ / B- (70-75/100)</p>
+                <p><strong>Classification:</strong> Adequate empirical work with significant limitations</p>
+                <p><strong>Best Use:</strong> Teaching material for discussing model validity and research design</p>
+                <p><strong>Key Lesson:</strong> Honest identification of problems is valuable, but excellence requires theoretical development, rigorous design, and complete follow-through on promises</p>
+            </div>
+
+            <div style="margin-top: 50px; font-size: 0.9em; color: #666;">
+                <p><strong>Presentation prepared for:</strong> Advanced Corporate Finance</p>
+                <p><strong>Based on:</strong> Comprehensive critical assessment framework</p>
+                <p><strong>Contact:</strong> [Your Email]</p>
+            </div>
+            <div class="slide-number">Slide 30 of 30</div>
+        </div>
+
+    </div>
+
+    <!-- Navigation Controls -->
+    <div class="navigation">
+        <button class="nav-btn" id="firstBtn" onclick="goToSlide(0)">⏮️ First</button>
+        <button class="nav-btn" id="prevBtn" onclick="previousSlide()">◀️ Previous</button>
+        <span id="slideCounter" style="margin: 0 15px; font-weight: bold;">1 / 30</span>
+        <button class="nav-btn" id="nextBtn" onclick="nextSlide()">Next ▶️</button>
+        <button class="nav-btn" id="lastBtn" onclick="goToSlide(29)">Last ⏭️</button>
+        <button class="nav-btn" onclick="window.print()" style="margin-left: 20px;">🖨️ Print</button>
+    </div>
+
+    <script>
+        let currentSlide = 0;
+        const slides = document.querySelectorAll('.slide');
+        const totalSlides = slides.length;
+
+        function showSlide(n) {
+            // Hide all slides
+            slides.forEach(slide => slide.style.display = 'none');
+            
+            // Show current slide
+            slides[n].style.display = 'block';
+            
+            // Update counter
+            document.getElementById('slideCounter').textContent = `${n + 1} / ${totalSlides}`;
+            
+            // Update button states
+            document.getElementById('prevBtn').disabled = n === 0;
+            document.getElementById('firstBtn').disabled = n === 0;
+            document.getElementById('nextBtn').disabled = n === totalSlides - 1;
+            document.getElementById('lastBtn').disabled = n === totalSlides - 1;
+            
+            // Scroll to top
+            window.scrollTo({top: 0, behavior: 'smooth'});
+        }
+
+        function nextSlide() {
+            if (currentSlide < totalSlides - 1) {
+                currentSlide++;
+                showSlide(currentSlide);
+            }
+        }
+
+        function previousSlide() {
+            if (currentSlide > 0) {
+                currentSlide--;
+                showSlide(currentSlide);
+            }
+        }
+
+        function goToSlide(n) {
+            currentSlide = n;
+            showSlide(currentSlide);
+        }
+
+        // Keyboard navigation
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'ArrowRight' || event.key === ' ') {
+                event.preventDefault();
+                nextSlide();
+            } else if (event.key === 'ArrowLeft') {
+                event.preventDefault();
+                previousSlide();
+            } else if (event.key === 'Home') {
+                event.preventDefault();
+                goToSlide(0);
+            } else if (event.key === 'End') {
+                event.preventDefault();
+                goToSlide(totalSlides - 1);
+            }
+        });
+
+        // Initialize
+        showSlide(0);
+    </script>
+</body>
+</html>

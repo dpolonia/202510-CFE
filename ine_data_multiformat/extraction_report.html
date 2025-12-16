@@ -1,0 +1,156 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>INE Multi-Format Data Extraction Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h1 { color: #003366; }
+        h2 { color: #0066cc; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #0066cc; color: white; }
+        .success { color: green; }
+        .failed { color: red; }
+        .stat-box {
+            display: inline-block;
+            padding: 15px;
+            margin: 10px;
+            background: #f0f0f0;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>INE Multi-Format Data Extraction Report</h1>
+    <p>Generated: 2025-10-26 04:13:57</p>
+
+    <h2>Summary Statistics</h2>
+    <div class="stat-box">
+        <strong>Total Indicators:</strong> 10
+    </div>
+    <div class="stat-box">
+        <strong>Successfully Extracted:</strong> 10
+    </div>
+    <div class="stat-box">
+        <strong>Total Records:</strong> 21329
+    </div>
+    <div class="stat-box">
+        <strong>Formats:</strong> 4
+    </div>
+
+    <h2>Extraction Details</h2>
+    <table>
+        <tr>
+            <th>Code</th>
+            <th>Indicator Name</th>
+            <th>Category</th>
+            <th>Records</th>
+            <th>Formats</th>
+            <th>Status</th>
+        </tr>
+
+        <tr>
+            <td>0008273</td>
+            <td>Population by region, sex and age group</td>
+            <td>Demographics</td>
+            <td>19,608</td>
+            <td>JSON, CSV, XLSX, Parquet</td>
+            <td class="success">SUCCESS</td>
+        </tr>
+
+        <tr>
+            <td>0008274</td>
+            <td>Fertility index</td>
+            <td>Demographics</td>
+            <td>36</td>
+            <td>JSON, CSV, XLSX, Parquet</td>
+            <td class="success">SUCCESS</td>
+        </tr>
+
+        <tr>
+            <td>0008275</td>
+            <td>Adolescent fertility rate</td>
+            <td>Demographics</td>
+            <td>36</td>
+            <td>JSON, CSV, XLSX, Parquet</td>
+            <td class="success">SUCCESS</td>
+        </tr>
+
+        <tr>
+            <td>0008258</td>
+            <td>Aging index by region (Indice de envelhecimento)</td>
+            <td>Demographics</td>
+            <td>344</td>
+            <td>JSON, CSV, XLSX, Parquet</td>
+            <td class="success">SUCCESS</td>
+        </tr>
+
+        <tr>
+            <td>0008259</td>
+            <td>Elderly dependency index</td>
+            <td>Demographics</td>
+            <td>344</td>
+            <td>JSON, CSV, XLSX, Parquet</td>
+            <td class="success">SUCCESS</td>
+        </tr>
+
+        <tr>
+            <td>0008261</td>
+            <td>Total dependency ratio</td>
+            <td>Demographics</td>
+            <td>344</td>
+            <td>JSON, CSV, XLSX, Parquet</td>
+            <td class="success">SUCCESS</td>
+        </tr>
+
+        <tr>
+            <td>0012136</td>
+            <td>Unemployment rate by region</td>
+            <td>Economics</td>
+            <td>39</td>
+            <td>JSON, CSV, XLSX, Parquet</td>
+            <td class="success">SUCCESS</td>
+        </tr>
+
+        <tr>
+            <td>0010683</td>
+            <td>Employment statistics</td>
+            <td>Economics</td>
+            <td>231</td>
+            <td>JSON, CSV, XLSX, Parquet</td>
+            <td class="success">SUCCESS</td>
+        </tr>
+
+        <tr>
+            <td>0008277</td>
+            <td>Nurses per 1000 inhabitants</td>
+            <td>Healthcare</td>
+            <td>344</td>
+            <td>JSON, CSV, XLSX, Parquet</td>
+            <td class="success">SUCCESS</td>
+        </tr>
+
+        <tr>
+            <td>0001228</td>
+            <td>Life expectancy at 65 years</td>
+            <td>Demographics</td>
+            <td>3</td>
+            <td>JSON, CSV, XLSX, Parquet</td>
+            <td class="success">SUCCESS</td>
+        </tr>
+
+    </table>
+
+    <h2>File Organization</h2>
+    <pre>
+ine_data_multiformat/
+├── json/          (Original API responses)
+├── csv/           (Semicolon-delimited, UTF-8)
+├── xlsx/          (Excel format)
+├── parquet/       (Columnar format)
+└── metadata/      (Indicator metadata)
+    </pre>
+
+</body>
+</html>

@@ -1,0 +1,147 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Eurostat Multi-Format Data Extraction Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h1 { color: #003399; }
+        h2 { color: #0066cc; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #003399; color: white; }
+        .success { color: green; }
+        .failed { color: red; }
+        .stat-box {
+            display: inline-block;
+            padding: 15px;
+            margin: 10px;
+            background: #f0f0f0;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Eurostat Multi-Format Data Extraction Report</h1>
+    <p>Generated: 2025-10-26 09:47:52</p>
+
+    <h2>Summary Statistics</h2>
+    <div class="stat-box">
+        <strong>Total Datasets:</strong> 9
+    </div>
+    <div class="stat-box">
+        <strong>Successfully Extracted:</strong> 9
+    </div>
+    <div class="stat-box">
+        <strong>Total Records:</strong> 30,643
+    </div>
+    <div class="stat-box">
+        <strong>Formats:</strong> 4
+    </div>
+
+    <h2>Extraction Details</h2>
+    <table>
+        <tr>
+            <th>Code</th>
+            <th>Dataset Name</th>
+            <th>Category</th>
+            <th>Records</th>
+            <th>Formats</th>
+            <th>Status</th>
+        </tr>
+
+        <tr>
+            <td>nama_10r_3gdp</td>
+            <td>regional_gdp_by_nuts</td>
+            <td>Economics</td>
+            <td>24</td>
+            <td>JSON, CSV, XLSX, Parquet</td>
+            <td class="success">SUCCESS</td>
+        </tr>
+
+        <tr>
+            <td>hlth_rs_bdsrg2</td>
+            <td>hospital_beds_by_region</td>
+            <td>Healthcare</td>
+            <td>93</td>
+            <td>JSON, CSV, XLSX, Parquet</td>
+            <td class="success">SUCCESS</td>
+        </tr>
+
+        <tr>
+            <td>hlth_rs_physreg</td>
+            <td>physicians_by_region</td>
+            <td>Healthcare</td>
+            <td>93</td>
+            <td>JSON, CSV, XLSX, Parquet</td>
+            <td class="success">SUCCESS</td>
+        </tr>
+
+        <tr>
+            <td>hlth_cd_asdr2</td>
+            <td>mortality_rate_by_region</td>
+            <td>Health Outcomes</td>
+            <td>9,465</td>
+            <td>JSON, CSV, XLSX, Parquet</td>
+            <td class="success">SUCCESS</td>
+        </tr>
+
+        <tr>
+            <td>demo_mlexpec</td>
+            <td>life_expectancy</td>
+            <td>Demographics</td>
+            <td>16,518</td>
+            <td>JSON, CSV, XLSX, Parquet</td>
+            <td class="success">SUCCESS</td>
+        </tr>
+
+        <tr>
+            <td>demo_r_pjangrp3</td>
+            <td>population_by_age_sex_region</td>
+            <td>Demographics</td>
+            <td>726</td>
+            <td>JSON, CSV, XLSX, Parquet</td>
+            <td class="success">SUCCESS</td>
+        </tr>
+
+        <tr>
+            <td>demo_r_find3</td>
+            <td>fertility_indicators_regional</td>
+            <td>Demographics</td>
+            <td>33</td>
+            <td>JSON, CSV, XLSX, Parquet</td>
+            <td class="success">SUCCESS</td>
+        </tr>
+
+        <tr>
+            <td>nama_10r_3empers</td>
+            <td>employment_by_region</td>
+            <td>Economics</td>
+            <td>871</td>
+            <td>JSON, CSV, XLSX, Parquet</td>
+            <td class="success">SUCCESS</td>
+        </tr>
+
+        <tr>
+            <td>lfst_r_lfu3rt</td>
+            <td>unemployment_rate_regional</td>
+            <td>Economics</td>
+            <td>2,820</td>
+            <td>JSON, CSV, XLSX, Parquet</td>
+            <td class="success">SUCCESS</td>
+        </tr>
+
+    </table>
+
+    <h2>File Organization</h2>
+    <pre>
+eurostat_data_multiformat/
+├── json/          (JSON-stat format)
+├── csv/           (Semicolon-delimited, UTF-8)
+├── xlsx/          (Excel format)
+├── parquet/       (Columnar format)
+└── metadata/      (Dataset metadata)
+    </pre>
+
+</body>
+</html>
