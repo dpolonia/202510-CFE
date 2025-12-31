@@ -1,0 +1,61 @@
+{
+    "schemas": {
+        "financial": {
+            "columns": {
+                "institution": "Instituição",
+                "date": "Periodo",
+                "value": "Valor_Total",
+                "category": "Categoria_Despesa"
+            },
+            "types": {
+                "value": "float",
+                "date": "datetime"
+            }
+        },
+        "operational": {
+            "columns": {
+                "institution": "Instituição",
+                "date": "Periodo",
+                "indicator": "Indicador",
+                "value": "Valor"
+            },
+            "types": {
+                "value": "int"
+            }
+        },
+        "hr": {
+            "columns": {
+                "institution": "Instituição",
+                "date": "Periodo",
+                "role": "Grupo_Profissional",
+                "contract_type": "Modalidade_Vinculacao",
+                "count": "N_Trabalhadores"
+            },
+            "types": {
+                "count": "int"
+            }
+        },
+        "impic_entidades": {
+            "columns": {
+                "nifEntidade": "nif",
+                "desigEntidade": "designacao",
+                "totAdjudicanteValorContratIni": "total_contratos_inicial"
+            },
+            "types": {
+                "total_contratos_inicial": "float"
+            }
+        },
+        "impic_anuncios": {
+            "columns": {
+                "idAnuncio": "id",
+                "tipoContrato": "tipo_contrato",
+                "tipoProcedimento": "tipo_procedimento",
+                "entidadeAquecedora": "entidade_compradora",
+                "precoContratual": "valor"
+            },
+            "types": {
+                "valor": "float"
+            }
+        }
+    }
+}

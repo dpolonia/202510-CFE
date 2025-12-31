@@ -1,0 +1,21 @@
+
+==============================
+File: Benchmarking Hospitais - Económico-Financeira_Export (1).xlsx
+==============================
+Error reading Benchmarking Hospitais - Económico-Financeira_Export (1).xlsx: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+
+==============================
+File: acss-datasets-2025-12-16-16-36.csv
+==============================
+Columns: ['id;"title";"slug";"acronym";"url";"organization";"organization_id";"owner";"owner_id";"description";"frequency";"license";"temporal_coverage.start";"temporal_coverage.end";"spatial.granularity";"spatial.zones";"featured";"created_at";"last_modified";"tags";"archived";"resources_count";"main_resources_count";"resources_formats";"harvest.backend";"harvest.domain";"harvest.created_at";"harvest.modified_at";"harvest.remote_url";"quality_score";"metric.discussions";"metric.reuses";"metric.reuses_by_months";"metric.followers";"metric.followers_by_months";"metric.views";"metric.resources_downloads"']
+
+==============================
+File: datasets (1).rdf
+==============================
+
+==============================
+File: direcao-geral-da-saude-datasets-2025-12-16-16-38.csv
+==============================
+Columns: ['id;"title";"slug";"acronym";"url";"organization";"organization_id";"owner";"owner_id";"description";"frequency";"license";"temporal_coverage.start";"temporal_coverage.end";"spatial.granularity";"spatial.zones";"featured";"created_at";"last_modified";"tags";"archived";"resources_count";"main_resources_count";"resources_formats";"harvest.backend";"harvest.domain";"harvest.created_at";"harvest.modified_at";"harvest.remote_url";"quality_score";"metric.discussions";"metric.reuses";"metric.reuses_by_months";"metric.followers";"metric.followers_by_months";"metric.views";"metric.resources_downloads"']
+
+Done.

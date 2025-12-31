@@ -1,0 +1,212 @@
+"id";"title";"slug";"acronym";"url";"organization";"organization_id";"owner";"owner_id";"description";"frequency";"license";"temporal_coverage.start";"temporal_coverage.end";"spatial.granularity";"spatial.zones";"featured";"created_at";"last_modified";"tags";"archived";"resources_count";"main_resources_count";"resources_formats";"harvest.backend";"harvest.domain";"harvest.created_at";"harvest.modified_at";"harvest.remote_url";"quality_score";"metric.discussions";"metric.reuses";"metric.reuses_by_months";"metric.followers";"metric.followers_by_months";"metric.views";"metric.resources_downloads"
+"6543c511d776fc609a65fca5";"Morbilidade - Casos notificados doenças de declaração obrigatória para 2013 da Região Autónoma da Madeira por NUTSIII";"morbilidade-casos-notificados-doencas-de-declaracao-obrigatoria-para-2013-da-regiao-autonoma-da-madeira-por-nutsiii";"";"https://dados.gov.pt/pt/datasets/morbilidade-casos-notificados-doencas-de-declaracao-obrigatoria-para-2013-da-regiao-autonoma-da-madeira-por-nutsiii/";"Direção-Geral da Saúde";"6520300b3a3c081c67ff8d21";"";"";"DOENÇA DE DECLARAÇÃO OBRIGATÓRIA:  Doença infeciosa, com impacto no domínio da saúde pública, que consta de legislação específica e é sujeita a declaração obrigatória assim que é feito o diagnóstico
+
+Unidade de Medida (símbolo) Número (N.º)
+
+
+Recolha de informação de todos os casos notificados de doenças sujeitas a notificação obrigatória de acordo com a legislação em vigor
+
+Lista de doenças:
+botulismo
+Brucelose
+Carbúnculo 
+Cólera 
+Doença de Creutzfeldt-Jakob (encefalopatia espongiforme subaguda) 
+Difteria 
+Equinococose 
+Febre escaro nodular 
+Febre-amarela
+Febre Q
+Hepatite aguda A
+Infeções gonocócicas
+Doença dos legionários
+Leishmaníase
+Doença de Hansen (lepra)
+Leptospirose 
+Doença de Lyme
+Malária 
+Parotidite epidémica
+Poliomielite aguda
+Peste
+Raiva 
+Rubéola congénita
+Rubéola (exclui rubéola congénita, P35.0)
+Outras Salmoneloses
+Sarampo 
+Shigelose 
+Sífilis congénita
+Sífilis precoce
+Tétano neonatal
+Tétano 
+Tifóide 
+Tosse convulsa
+Triquiníase";"";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-11-02T15:49:37.051000";"2023-11-02T15:49:37.051000";"cartografia-oficial,dgs,direcao-geral-da-saude,infomapaccessservice,inspirecore,prevencao-da-saude,saude,saude-humana-e-seguranca,saude-publica,snig-dgterritorio-gov-pt";False;1;1;"pt/geoserver/DDO_RAM/wms?REQUEST=GetCapabilities&SERVICE=WMS";"Harvester DGT";"snig.dgterritorio.gov.pt";"";"";"";"0.44";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"6543c5116b6400a88365fca5";"Morbilidade - Casos notificados doenças de declaração obrigatória para 2013 da Região Autónoma dos Açores Grupo Central e Oriental por NUTSIII";"morbilidade-casos-notificados-doencas-de-declaracao-obrigatoria-para-2013-da-regiao-autonoma-dos-acores-grupo-central-e-oriental-por-nutsiii";"";"https://dados.gov.pt/pt/datasets/morbilidade-casos-notificados-doencas-de-declaracao-obrigatoria-para-2013-da-regiao-autonoma-dos-acores-grupo-central-e-oriental-por-nutsiii/";"Direção-Geral da Saúde";"6520300b3a3c081c67ff8d21";"";"";"DOENÇA DE DECLARAÇÃO OBRIGATÓRIA:  Doença infeciosa, com impacto no domínio da saúde pública, que consta de legislação específica e é sujeita a declaração obrigatória assim que é feito o diagnóstico
+
+Unidade de Medida (símbolo) Número (N.º)
+
+
+Recolha de informação de todos os casos notificados de doenças sujeitas a notificação obrigatória de acordo com a legislação em vigor
+
+Lista de doenças:
+botulismo
+Brucelose
+Carbúnculo 
+Cólera 
+Doença de Creutzfeldt-Jakob (encefalopatia espongiforme subaguda) 
+Difteria 
+Equinococose 
+Febre escaro nodular 
+Febre-amarela
+Febre Q
+Hepatite aguda A
+Infeções gonocócicas
+Doença dos legionários
+Leishmaníase
+Doença de Hansen (lepra)
+Leptospirose 
+Doença de Lyme
+Malária 
+Parotidite epidémica
+Poliomielite aguda
+Peste
+Raiva 
+Rubéola congénita
+Rubéola (exclui rubéola congénita, P35.0)
+Outras Salmoneloses
+Sarampo 
+Shigelose 
+Sífilis congénita
+Sífilis precoce
+Tétano neonatal
+Tétano 
+Tifóide 
+Tosse convulsa
+Triquiníase";"";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-11-02T15:49:37.047000";"2023-11-02T15:49:37.047000";"cartografia-oficial,dgs,direcao-geral-da-saude,infomapaccessservice,inspirecore,prevencao-da-saude,saude,saude-humana-e-seguranca,saude-publica,snig-dgterritorio-gov-pt";False;1;1;"pt/geoserver/DDO_RAA_GRUPOCENTRAL_ORIENTAL/wms?REQUEST=GetCapabilities&SERVICE=WMS";"Harvester DGT";"snig.dgterritorio.gov.pt";"";"";"";"0.44";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"6543c511efccd3b60565fca3";"Morbilidade - Casos notificados doenças de declaração obrigatória para 2013 de Portugal Continental por NUTS";"morbilidade-casos-notificados-doencas-de-declaracao-obrigatoria-para-2013-de-portugal-continental-por-nuts";"";"https://dados.gov.pt/pt/datasets/morbilidade-casos-notificados-doencas-de-declaracao-obrigatoria-para-2013-de-portugal-continental-por-nuts/";"Direção-Geral da Saúde";"6520300b3a3c081c67ff8d21";"";"";"DOENÇA DE DECLARAÇÃO OBRIGATÓRIA:  Doença infeciosa, com impacto no domínio da saúde pública, que consta de legislação específica e é sujeita a declaração obrigatória assim que é feito o diagnóstico
+
+Unidade de Medida (símbolo) Número (N.º)
+
+
+Recolha de informação de todos os casos notificados de doenças sujeitas a notificação obrigatória de acordo com a legislação em vigor
+
+Lista de doenças:
+botulismo
+Brucelose
+Carbúnculo 
+Cólera 
+Doença de Creutzfeldt-Jakob (encefalopatia espongiforme subaguda) 
+Difteria 
+Equinococose 
+Febre escaro nodular 
+Febre-amarela
+Febre Q
+Hepatite aguda A
+Infeções gonocócicas
+Doença dos legionários
+Leishmaníase
+Doença de Hansen (lepra)
+Leptospirose 
+Doença de Lyme
+Malária 
+Parotidite epidémica
+Poliomielite aguda
+Peste
+Raiva 
+Rubéola congénita
+Rubéola (exclui rubéola congénita, P35.0)
+Outras Salmoneloses
+Sarampo 
+Shigelose 
+Sífilis congénita
+Sífilis precoce
+Tétano neonatal
+Tétano 
+Tifóide 
+Tosse convulsa
+Triquiníase";"";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-11-02T15:49:37.025000";"2023-11-02T15:49:37.025000";"cartografia-oficial,dgs,direcao-geral-da-saude,infomapaccessservice,inspirecore,saude,saude-humana-e-seguranca,saude-publica,snig-dgterritorio-gov-pt";False;1;1;"pt/geoserver/DDO_PT_CONTINENTAL/wms?REQUEST=GetCapabilities&SERVICE=WMS";"Harvester DGT";"snig.dgterritorio.gov.pt";"";"";"";"0.44";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"6543c51172bf0d20fa65fca3";"Morbilidade - Casos notificados doenças de declaração obrigatória para 2013 da Região Autónoma dos Açores Grupo Ocidental por NUTSIII";"morbilidade-casos-notificados-doencas-de-declaracao-obrigatoria-para-2013-da-regiao-autonoma-dos-acores-grupo-ocidental-por-nutsiii";"";"https://dados.gov.pt/pt/datasets/morbilidade-casos-notificados-doencas-de-declaracao-obrigatoria-para-2013-da-regiao-autonoma-dos-acores-grupo-ocidental-por-nutsiii/";"Direção-Geral da Saúde";"6520300b3a3c081c67ff8d21";"";"";"Recolha de informação de todos os casos notificados de doenças sujeitas a notificação obrigatória de acordo com a legislação em vigor
+
+Lista de doenças:
+botulismo
+Brucelose
+Carbúnculo 
+Cólera 
+Doença de Creutzfeldt-Jakob (encefalopatia espongiforme subaguda) 
+Difteria 
+Equinococose 
+Febre escaro nodular 
+Febre-amarela
+Febre Q
+Hepatite aguda A
+Infeções gonocócicas
+Doença dos legionários
+Leishmaníase
+Doença de Hansen (lepra)
+Leptospirose 
+Doença de Lyme
+Malária 
+Parotidite epidémica
+Poliomielite aguda
+Peste
+Raiva 
+Rubéola congénita
+Rubéola (exclui rubéola congénita, P35.0)
+Outras Salmoneloses
+Sarampo 
+Shigelose 
+Sífilis congénita
+Sífilis precoce
+Tétano neonatal
+Tétano 
+Tifóide 
+Tosse convulsa
+Triquiníase";"";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-11-02T15:49:37.020000";"2023-11-02T15:49:37.020000";"cartografia-oficial,dgs,infomapaccessservice,inspirecore,prevencao-da-saude,saude,saude-humana-e-seguranca,saude-publica,snig-dgterritorio-gov-pt";False;1;1;"pt/geoserver/DDO_RAA_GRUPOOCIDENTAL/wms?REQUEST=GetCapabilities&SERVICE=WMS";"Harvester DGT";"snig.dgterritorio.gov.pt";"";"";"";"0.44";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"5b03f730c8d8c9229f4afa60";"Evolução Mensal do Cartão de Pessoa com Doença Rara (CPDR)";"evolucao-mensal-do-cartao-de-pessoa-com-doenca-rara-cpdr";"";"https://dados.gov.pt/pt/datasets/evolucao-mensal-do-cartao-de-pessoa-com-doenca-rara-cpdr/";"Direção-Geral da Saúde";"6520300b3a3c081c67ff8d21";"";"";"O CPDR tem como objetivo assegurar que nas situações de urgência e/ou emergência, os profissionais de saúde tenham acesso à informação relevante da pessoa com doença rara e à especificidade da situação clínica, permitindo o melhor atendimento do utente.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:55:44.492000";"2019-12-15T04:00:07.069000";"acesso,cartao-de-pessoa-de-doenca-rara,cpdr,pds,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;16;0
+"5b03f72dc8d8c922944afa65";"Evolução Mensal das Referenciações Emitidas de Saúde Oral nos Cuidados de Saúde Primários (SOCSP)  nos Centros de Saúde agregado por Área dos CSP";"evolucao-mensal-das-referenciacoes-emitidas-de-saude-oral-nos-cuidados-de-saude-primarios-socsp-nos-centros-de-saude-agregado-por-area-dos-csp";"";"https://dados.gov.pt/pt/datasets/evolucao-mensal-das-referenciacoes-emitidas-de-saude-oral-nos-cuidados-de-saude-primarios-socsp-nos-centros-de-saude-agregado-por-area-dos-csp/";"Direção-Geral da Saúde";"6520300b3a3c081c67ff8d21";"";"";"Acompanhar o número de Referenciações SOCSP Emitidas por Área dos CSP
+
+Contabilização do número de referenciações SOCSP, emitidas pelo Médico de Família e Administrativos (2ª e seguintes referenciações) no âmbito da Saúde Oral nos Cuidados de Saúde Primários, nos centros de saúde.o SNS.
+
+**Observações:** No ano de 2016 os utentes do SNS referenciados para consultas nas unidades funcionais, foram abrangidos por uma experiencia piloto, da qual apenas estiveram inseridos os utentes com Diabetes, neoplasias, patologia cardíaca ou respiratória crónica, insuficiência renal em hemodiálise ou diálise peritoneal e transplantados. A partir de Janeiro de 2017, o âmbito de intervenção ""Experiência Piloto"" passou a designar-se Saúde Oral nos Cuidados de Saúde Primários, e passaram a estar abrangidos todos os utentes do SNS deixando de ser existir o critério de patologia clínica, para emissão de referenciação.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:55:41.052000";"2019-12-15T04:00:21.781000";"centros-de-saude,cuidados-de-saude-primarios,saude-dos-portugueses,saude-oral,socsp,transparencia-sns-gov-pt";False;8;8;"json,shp,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.44";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;3;0
+"5b03f704c8d8c9229f4afa57";"Notificação de Incidentes de Segurança";"notificacao-de-incidentes-de-seguranca-1";"";"https://dados.gov.pt/pt/datasets/notificacao-de-incidentes-de-seguranca-1/";"Direção-Geral da Saúde";"6520300b3a3c081c67ff8d21";"";"";"Notificação de Incidentes de Segurança em unidades prestadoras de cuidados de saúde.
+
+Acompanhamento do sistema de notificação de incidentes de segurança. A métrica representa o número de incidentes de segurança registados por profissionais de saúde ou cidadãos, no trimestre do ano correspondente.
+
+**Observações:** A notificação é uma atividade voluntária do profissional e/ou do cidadão com vista ao desenvolvimento de uma análise causal e à tomada de medidas corretoras sistémicas para evitar que situações geradoras de dano, real ou potencial, se venham a repetir. O NOTIFIC@ é uma plataforma, anónima, confidencial e não punitiva, de gestão de incidentes, ocorridos nas unidades prestadoras de cuidados do Sistema de Saúde.
+
+Os valores a _null_ __ são considerados NA (Não Aplicável)";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:55:00.693000";"2019-12-15T04:00:04.371000";"incidentes,qualidade,seguranca,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";1;0;1229;0
+"5b03f6e4c8d8c922914afa59";"Certificação de Unidades de Saúde";"certificacao-de-unidades-de-saude";"";"https://dados.gov.pt/pt/datasets/certificacao-de-unidades-de-saude/";"Direção-Geral da Saúde";"6520300b3a3c081c67ff8d21";"";"";"Reconhecimento da qualidade das Unidades de Saúde (Estratégia Nacional para a Qualidade na Saúde - Modelo de Certificação do Ministério da Saúde).
+
+Permitir conhecer o número de unidades de saúde em processo de certificação (certificadas e com processo em curso) no âmbito dos cuidados de saúde primários, cuidados hospitalares, cuidados continuados e paliativos.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:54:27.886000";"2019-12-15T04:00:39.051000";"certificacao,cuidados-continuados,cuidados-de-saude-primarios,cuidados-hospitalares,qualidade,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;137;0
+"5b03f6c5c8d8c922944afa51";"Evolução Mensal dos tratamentos efetuados no âmbito SOCSP, nos Centros de Saúde agregado por Área dos CSP";"evolucao-mensal-dos-tratamentos-efetuados-no-ambito-socsp-nos-centros-de-saude-agregado-por-area-dos-csp";"";"https://dados.gov.pt/pt/datasets/evolucao-mensal-dos-tratamentos-efetuados-no-ambito-socsp-nos-centros-de-saude-agregado-por-area-dos-csp/";"Direção-Geral da Saúde";"6520300b3a3c081c67ff8d21";"";"";"Evolução Mensal dos tratamentos efetuados no âmbito SOCSP, nos Centros de Saúde agregado por Área dos CSP.
+
+Acompanhar o número de tratamentos efetuados por Área dos CSP
+
+Contabilização do número de tratamentos efetuados, no âmbito da Saúde Oral nos Cuidados de Saúde Primária.
+
+**Observações:** Tratamentos contabilizados, segundo listagem disponivel para consulta no campo **Anexos**.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:53:57.276000";"2019-12-15T04:00:25.523000";"centros-de-saude,cuidados-de-saude-primarios,saude-dos-portugueses,saude-oral,transparencia-sns-gov-pt,tratamentos";False;9;9;"json,pdf,shp,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.44";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"5b03f6c0c8d8c922944afa50";"Notícias Nascimento Digital e Registo de Nascer Utente";"noticias-nascimento-digital-e-registo-de-nascer-utente";"";"https://dados.gov.pt/pt/datasets/noticias-nascimento-digital-e-registo-de-nascer-utente/";"Direção-Geral da Saúde";"6520300b3a3c081c67ff8d21";"";"";"Acompanhar o número de notícias nascimento em formato digital e o número de nascer utente que foram registadas.
+
+As Notícias Nascimento aqui contabilizadas, são as que são registadas na aplicação clínica local desde que se encontre devidamente integrado com os serviços disponibilizados pela SPMS. 
+
+Este indicador permite ainda acompanhar a implementação do Simplex de Saúde Infantil e Juvenil.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:53:52.352000";"2019-12-15T04:00:24.125000";"nascer-utente,noticias-nascimento,partos,recem-nascidos,saude-dos-portugueses,transparencia-sns-gov-pt";False;8;8;"json,shp,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;19;0
+"5b03f6b9c8d8c922a24afa46";"Evolução Mensal de utentes atendidos nos Centros de Saúde agregado por Área dos CSP, no âmbito da Saúde Oral nos Cuidados de Saúde Primários (SOCSP)";"evolucao-mensal-de-utentes-atendidos-nos-centros-de-saude-agregado-por-area-dos-csp-no-ambito-da-saude-oral-nos-cuidados-de-saude-primarios-socsp";"";"https://dados.gov.pt/pt/datasets/evolucao-mensal-de-utentes-atendidos-nos-centros-de-saude-agregado-por-area-dos-csp-no-ambito-da-saude-oral-nos-cuidados-de-saude-primarios-socsp/";"Direção-Geral da Saúde";"6520300b3a3c081c67ff8d21";"";"";"Acompanhar o número de utentes atendidos por Área dos CSP, no âmbito SOCSP.
+
+Contabilização do número de utentes atendidos no âmbito da Saúde Oral nos Cuidados de Saúde Primários, nos centros de saúde.
+
+**Observações:** Na contabilização dos utentes, são removidos os duplicados.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:53:45.073000";"2019-12-15T04:00:43.762000";"centros-de-saude,csp,cuidados-de-saude-primarios,saude-dos-portugueses,saude-oral,socsp,transparencia-sns-gov-pt";False;8;8;"json,shp,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.44";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;3;0
+"5b03f6a2c8d8c922914afa4b";"Registos de Certificados de Óbito";"registos-de-certificados-de-obito-1";"";"https://dados.gov.pt/pt/datasets/registos-de-certificados-de-obito-1/";"Direção-Geral da Saúde";"6520300b3a3c081c67ff8d21";"";"";"Evolução da mortalidade por dia, para os últimos dois anos (2014 e 2015). A data apresentada respeita à data de certificação de óbito, e não à data do óbito (ou seja, apresenta-se a data em que foi registado o certificado de óbito pelo médico, no sistema SICO)
+
+São referidas datas de 2016, por poder haver um intervalo de datas entre o óbito e a respetiva certificação - por exemplo, falecido a 31/12/2015 às 23:50 e o óbito poderá ser registado no dia 01/01/2016. Nestes dados, existem também alguns óbitos de 2014 que estão apresentados no ano de 2015, pela mesma razão.
+
+Observações: a Base de Dados de óbitos do ano de 2014 já se encontra encerrada, não podendo ocorrer mais alterações a esses dados. Relativamente ao ano de 2015, podem ainda ocorrer ligeiras atualizações aos dados.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:53:22.434000";"2019-12-15T04:00:08.628000";"certificado,mortalidade,obito,saude-dos-portugueses,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;1690;0
+"5b03f6a2c8d8c922944afa48";"Saúde Oral";"atividade-do-programa-nacional-de-saude-oral-1";"";"https://dados.gov.pt/pt/datasets/atividade-do-programa-nacional-de-saude-oral-1/";"Direção-Geral da Saúde";"6520300b3a3c081c67ff8d21";"";"";"Caracterização da atividade do Programa Nacional de Promoção da Saúde Oral através do instrumento Cheque Dentista, Referenciação para Higienista Oral e Referenciação para Medicina dentária nos Cuidados de Saúde Primários.
+
+Identificação do número de cheques dentistas/referenciações (HO e SOCSP) emitidos, utilizados e tratamentos efetuados, segundo o tipo de população abrangida pelo PNPSO (crianças e jovens que frequentam escolas públicas ou IPSS [até 18 anos], grávidas seguidas no SNS, idosos beneficiários do complemento solidário, portadores VIH/Sida, utentes para intervenção precoce no cancro oral e utentes seguidos no SNS).
+
+**Observações:** No ano de 2016 os utentes do SNS referenciados para consultas nas unidades funcionais, foram abrangidos por uma experiência piloto, da qual apenas estiveram inseridos os utentes com Diabetes, neoplasias, patologia cardíaca ou respiratória crónica, insuficiência renal em hemodiálise ou diálise peritoneal e transplantados. A partir de Janeiro de 2017, o âmbito de intervenção ""Experiência Piloto"" passou a designar-se Saúde Oral nos Cuidados de Saúde Primários, e passaram a estar abrangidos todos os utentes do SNS deixando de ser existir o critério de patologia clínica, para emissão de referenciação.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:53:22.111000";"2019-12-15T04:00:54.180000";"acesso,cheque-dentista,programa-nacional-de-saude,saude-oral,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;80;0
+"5b03f699c8d8c9229f4afa3f";"Certificados de Óbito por Instituição de Saúde";"certificados-de-obito-por-instituicao-de-saude-1";"";"https://dados.gov.pt/pt/datasets/certificados-de-obito-por-instituicao-de-saude-1/";"Direção-Geral da Saúde";"6520300b3a3c081c67ff8d21";"";"";"Volume da mortalidade mensal por cada instituição de saúde nos anos de 2014 e 2015 (inclui Centros Hospitalares e Hospitais, ULS, ACES e outras Instituições, como Santa Casa da Misericórdia e Rede Nacional de Cuidados Continuados Integrados).
+
+A data apresentada respeita à data de certificação de óbito, e não à data do óbito (ou seja, apresenta-se a data em que foi registado o certificado de óbito pelo médico, no sistema SICO).
+
+**Observações:** a Base de Dados de óbitos do ano de 2014 já se encontra encerrada, não podendo ocorrer mais alterações a esses dados. Relativamente ao ano de 2015, podem ainda ocorrer ligeiras atualizações aos dados.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:53:13.692000";"2019-12-15T04:00:06.563000";"certificados-de-obito,mortalidade,obitos,saude-dos-portugueses,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;24;0

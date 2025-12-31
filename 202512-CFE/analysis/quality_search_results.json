@@ -1,0 +1,167 @@
+{
+  "Quality": [],
+  "Staff": [],
+  "Access": [
+    {
+      "source_name": "SNS Transparencia",
+      "id": "acesso-de-consultas-medicas-pela-populacao-inscrita",
+      "title": "Acesso a Consultas M\u00e9dicas pela Popula\u00e7\u00e3o Inscrita",
+      "description": "<p>Taxas de utiliza\u00e7\u00e3o e quantidades de\u00a0acesso a consultas m\u00e9dicas pela popula\u00e7\u00e3o inscrita, apresentando a propor\u00e7\u00e3o de utentes inscritos que tiveram consulta m\u00e9dica nos cuidados de sa\u00fade prim\u00e1rios, no per\u00edodo em an\u00e1lise.</p><p><strong>F\u00f3rmula:</strong></p><ol><li>Taxa de utiliza\u00e7\u00e3o global de consultas m\u00e9dicas -1 ano\u00a0 = (numerador / denominador) * 100. Referente ao indicador 2013.002.01. O BI do indicador est\u00e1 dispon\u00edvel em\u00a0<a href=\"https://sdm.min-saude.pt/bi.aspx?id=2&amp;clusters=S\" target=\"_blank\">https://sdm.min-saude.pt/bi.aspx?id=2&amp;clusters=S</a>.</li><li>N\u00ba Utentes  pelo menos 1 consulta m\u00e9dicas presencial ou n\u00e3o presencial - 1 ano  = numerador. Referente ao numerador do indicador 2013.002.01. O BI do indicador est\u00e1 dispon\u00edvel em\u00a0<a href=\"https://sdm.min-saude.pt/bi.aspx?id=2&amp;clusters=S\" target=\"_blank\">https://sdm.min-saude.pt/bi.aspx?id=2&amp;clusters=S</a>.</li><li>Taxa de utiliza\u00e7\u00e3o de consultas m\u00e9dicas - 3 anos\u00a0 = (numerador / denominador) * 100. Referente ao indicador 2013.006.01. O BI do indicador est\u00e1 dispon\u00edvel em\u00a0<a href=\"https://sdm.min-saude.pt/bi.aspx?id=6&amp;clusters=S\" target=\"_blank\">https://sdm.min-saude.pt/bi.aspx?id=6&amp;clusters=S</a>.</li><li>N\u00ba Utentes com pelo menos 1 consulta m\u00e9dica em 3 anos = numerador. Referente ao numerador do indicador 2013.006.01. O BI do indicador est\u00e1 dispon\u00edvel em\u00a0<a href=\"https://sdm.min-saude.pt/bi.aspx?id=6&amp;clusters=S\" target=\"_blank\">https://sdm.min-saude.pt/bi.aspx?id=6&amp;clusters=S</a>.</li><li>As m\u00e9tricas a 1 ano s\u00e3o acumuladas desde o inicio do ano em an\u00e1lise at\u00e9 \u00e0 data de refer\u00eancia do indicador.</li><li>As m\u00e9tricas a 3 anos s\u00e3o acumuladas desde o inicio do ano n-2 at\u00e9 \u00e0 data de refer\u00eancia do indicador. (ex: an\u00e1lise do m\u00eas jun-2015,\u00a0 corresponde ao acumulado desde jan-2013 a jun-2015).</li></ol><p><strong>Observa\u00e7\u00f5es:</strong>\u00a0</p><ul><li>No calculo das m\u00e9tricas deste indicador, n\u00e3o foram consideradas as consultas do sistema Vitacare.\u00a0Devido a quest\u00f5es t\u00e9cnicas, para os registos de novembro 2016, os dados n\u00e3o incluem registos da Regi\u00e3o de Sa\u00fade LVT.</li><li><p class=\"MsoNormal\"><span lang=\"PT\">Os dados\nrelativos a este indicador s\u00e3o de car\u00e1ter tempor\u00e1rio para o m\u00eas publicado mais\nrecente. Por regra, no \u00faltimo dia do m\u00eas N+1 (N=\"\u00faltimo m\u00eas\npublicado\"), existir\u00e1 uma atualiza\u00e7\u00e3o dos mesmos, sendo prov\u00e1vel o seu\naumento a n\u00edvel nacional.</span></p><p class=\"MsoNormal\"><br></p></li></ul>",
+      "modified": "2025-11-26T10:53:54.176000+00:00",
+      "tags": [
+        "Consultas M\u00e9dicas",
+        "Cuidados de Sa\u00fade Prim\u00e1rios"
+      ],
+      "formats": [
+        "json",
+        "csv",
+        "parquet"
+      ],
+      "source_url": "https://transparencia.sns.gov.pt/explore/dataset/acesso-de-consultas-medicas-pela-populacao-inscrita/information/"
+    },
+    {
+      "source_name": "SNS Transparencia",
+      "id": "acordos-quadro-na-area-da-saude",
+      "title": "Acordos Quadro e Sistemas de Aquisi\u00e7\u00e3o Din\u00e2micos na \u00e1rea de Bens e Servi\u00e7os da Sa\u00fade",
+      "description": "<p>Acompanhar o n\u00famero de fornecedores participantes e vig\u00eancia dos Acordos Quadro celebrados na \u00e1rea espec\u00edfica da sa\u00fade, atualmente em vigor.</p><p>O objetivo dos Acordos Quadro \u00e9 selecionar empresas que respondam \u00e0s necessidades das institui\u00e7\u00f5es do SNS, sendo que o Acordo Quadro desburocratiza e simplifica o processo aquisitivo por parte das institui\u00e7\u00f5es de sa\u00fade.</p><p>Quando as institui\u00e7\u00f5es do SNS necessitam de adquirir bens de sa\u00fade (medicamentos e dispositivos m\u00e9dicos), ao recorrerem aos Acordos Quadro beneficiam de maior celeridade, fruto de processos mais eficientes.</p><p>Os contratos de fornecimento s\u00e3o realizados pelas institui\u00e7\u00f5es de sa\u00fade, ao desenvolverem procedimentos ao abrigo do Artigo 259.\u00ba do C\u00f3digo dos Contratos P\u00fablicos, em que consultam obrigatoriamente todas as empresas selecionadas no \u00e2mbito do Acordo Quadro, e destes resultando os adjudicat\u00e1rios.</p>",
+      "modified": "2025-12-09T17:43:10.260000+00:00",
+      "tags": [
+        "Acordos Quadro",
+        "Compras",
+        "Fornecedores"
+      ],
+      "formats": [
+        "json",
+        "csv",
+        "parquet"
+      ],
+      "source_url": "https://transparencia.sns.gov.pt/explore/dataset/acordos-quadro-na-area-da-saude/information/"
+    },
+    {
+      "source_name": "SNS Transparencia",
+      "id": "saude-oral",
+      "title": "Sa\u00fade Oral",
+      "description": "<p>Caracteriza\u00e7\u00e3o da atividade do Programa Nacional de Promo\u00e7\u00e3o da Sa\u00fade Oral atrav\u00e9s do instrumento Cheque Dentista,\u00a0Referencia\u00e7\u00e3o para Higienista Oral e Referencia\u00e7\u00e3o para Medicina dent\u00e1ria nos Cuidados de Sa\u00fade Prim\u00e1rios.</p><p>Identifica\u00e7\u00e3o do n\u00famero de cheques dentistas/referencia\u00e7\u00f5es (HO e SOCSP) emitidos, utilizados e tratamentos efetuados, segundo o tipo de popula\u00e7\u00e3o abrangida pelo PNPSO (crian\u00e7as e jovens que frequentam escolas p\u00fablicas ou IPSS [at\u00e9 18 anos], gr\u00e1vidas seguidas no SNS, idosos benefici\u00e1rios do complemento solid\u00e1rio, portadores VIH/Sida, utentes para interven\u00e7\u00e3o precoce no cancro oral e utentes seguidos no SNS).</p><p><strong>Observa\u00e7\u00f5es:\u00a0</strong>No ano de 2016 os utentes do SNS referenciados para consultas nas unidades funcionais, foram abrangidos por uma experi\u00eancia piloto, da qual apenas estiveram inseridos os utentes com Diabetes, neoplasias, patologia card\u00edaca ou respirat\u00f3ria cr\u00f3nica, insufici\u00eancia renal em hemodi\u00e1lise ou di\u00e1lise peritoneal e transplantados.\u00a0A partir de Janeiro de 2017, o \u00e2mbito de interven\u00e7\u00e3o \"Experi\u00eancia Piloto\" passou a designar-se Sa\u00fade Oral nos Cuidados de Sa\u00fade Prim\u00e1rios, e passaram a estar abrangidos todos os utentes do SNS deixando de ser existir o crit\u00e9rio de patologia cl\u00ednica, para emiss\u00e3o de referencia\u00e7\u00e3o.</p>",
+      "modified": "2025-12-03T12:01:27.683000+00:00",
+      "tags": [
+        "Sa\u00fade Oral",
+        "Cheque Dentista",
+        "Programa Nacional de Sa\u00fade"
+      ],
+      "formats": [
+        "json",
+        "csv",
+        "parquet"
+      ],
+      "source_url": "https://transparencia.sns.gov.pt/explore/dataset/saude-oral/information/"
+    },
+    {
+      "source_name": "SNS Transparencia",
+      "id": "referenciacoes-soep-emitidas-nos-centros-de-saude",
+      "title": "Evolu\u00e7\u00e3o Mensal das Referencia\u00e7\u00f5es Emitidas de Sa\u00fade Oral nos Cuidados de Sa\u00fade Prim\u00e1rios (SOCSP)  nos Centros de Sa\u00fade agregado por \u00c1rea dos CSP",
+      "description": "<p>Acompanhar o n\u00famero de Referencia\u00e7\u00f5es SOCSP Emitidas por \u00c1rea dos CSP</p><p>Contabiliza\u00e7\u00e3o do n\u00famero de referencia\u00e7\u00f5es SOCSP, emitidas pelo M\u00e9dico de Fam\u00edlia e Administrativos (2\u00aa e seguintes referencia\u00e7\u00f5es) no \u00e2mbito da Sa\u00fade Oral nos Cuidados de Sa\u00fade Prim\u00e1rios, nos centros de sa\u00fade.o SNS.</p><p><strong>Observa\u00e7\u00f5es:</strong>\u00a0No ano de 2016 os utentes do SNS referenciados para consultas nas unidades funcionais, foram abrangidos por uma experiencia piloto, da qual apenas estiveram inseridos os utentes com Diabetes, neoplasias, patologia card\u00edaca ou respirat\u00f3ria cr\u00f3nica, insufici\u00eancia renal em hemodi\u00e1lise ou di\u00e1lise peritoneal e transplantados.\u00a0A partir de Janeiro de 2017, o \u00e2mbito de interven\u00e7\u00e3o \"Experi\u00eancia Piloto\" passou a designar-se Sa\u00fade Oral nos Cuidados de Sa\u00fade Prim\u00e1rios, e passaram a estar abrangidos todos os utentes do SNS deixando de ser existir o crit\u00e9rio de patologia cl\u00ednica, para emiss\u00e3o de referencia\u00e7\u00e3o.</p>",
+      "modified": "2025-12-03T12:30:01.368000+00:00",
+      "tags": [
+        "Sa\u00fade Oral",
+        "SOCSP",
+        "Cuidados de Sa\u00fade Prim\u00e1rios",
+        "Centros de Sa\u00fade"
+      ],
+      "formats": [
+        "json",
+        "csv",
+        "parquet"
+      ],
+      "source_url": "https://transparencia.sns.gov.pt/explore/dataset/referenciacoes-soep-emitidas-nos-centros-de-saude/information/"
+    },
+    {
+      "source_name": "SNS Transparencia",
+      "id": "01_sica_evolucao-mensal-das-consultas-medicas-hospitalares",
+      "title": "Consultas M\u00e9dicas Hospitalares",
+      "description": "<p class=\"MsoNormal\"><span lang=\"PT\">Monitoriza\u00e7\u00e3o mensal do n\u00famero de consultas\nm\u00e9dicas hospitalares em territ\u00f3rio hospitalar, por entidade hospitalar.<o:p></o:p></span></p><p class=\"MsoNormal\"><span lang=\"PT\">Primeiras Consultas M\u00e9dicas referem-se \u00e0s\nconsultas externas em que o utente \u00e9 atendido pela primeira vez num servi\u00e7o de\nespecialidade, no \u00e2mbito de um epis\u00f3dio cl\u00ednico espec\u00edfico.<o:p></o:p></span></p><p class=\"MsoNormal\"><span lang=\"PT\">Consultas Subsequentes s\u00e3o consultas m\u00e9dicas\nrealizadas com o objetivo de acompanhar a evolu\u00e7\u00e3o do estado de sa\u00fade do\nutente, bem como proceder \u00e0 prescri\u00e7\u00e3o de terap\u00eautica e/ou medidas preventivas,\ntendo como refer\u00eancia uma consulta inicial previamente realizada.<o:p></o:p></span></p><p class=\"MsoNormal\"><b><span lang=\"PT\">Observa\u00e7\u00f5es:</span></b><span lang=\"PT\"><o:p></o:p></span></p><p class=\"MsoNormal\"><span lang=\"PT\">As consultas de medicina do trabalho n\u00e3o est\u00e3o\ninclu\u00eddas neste conjunto de dados.<o:p></o:p></span></p><p class=\"MsoNormal\">\n\n\n\n\n\n\n\n\n\n</p><p class=\"MsoNormal\"><span lang=\"PT\">Os dados relativos ao m\u00eas n-2, publicados at\u00e9\nao \u00faltimo dia \u00fatil do m\u00eas n, t\u00eam car\u00e1ter provis\u00f3rio , sujeitos a eventuais\natualiza\u00e7\u00f5es.<o:p></o:p></span></p>",
+      "modified": "2025-11-28T15:18:34.182000+00:00",
+      "tags": [
+        "Consultas M\u00e9dicas",
+        "Cuidados Hospitalares"
+      ],
+      "formats": [
+        "json",
+        "csv",
+        "parquet"
+      ],
+      "source_url": "https://transparencia.sns.gov.pt/explore/dataset/01_sica_evolucao-mensal-das-consultas-medicas-hospitalares/information/"
+    },
+    {
+      "source_name": "SNS Transparencia",
+      "id": "cirurgias-em-ambulatorio",
+      "title": "Cirurgias em Ambulat\u00f3rio",
+      "description": "<p style=\"margin: 0cm 0cm 12pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><font face=\"Arial, sans-serif\"><span style=\"font-size: 14.6667px;\">Monitoriza\u00e7\u00e3o da percentagem de cirurgias realizadas em ambulat\u00f3rio no total de cirurgias programadas (GDH), para procedimentos ambulatoriz\u00e1veis.</span></font></p><p style=\"margin: 0cm 0cm 12pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><font face=\"Arial, sans-serif\"><span style=\"font-size: 14.6667px;\"><b>Observa\u00e7\u00f5es:</b></span></font></p><p style=\"margin: 0cm 0cm 12pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"></p><p style=\"margin: 0cm 0cm 12pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><font face=\"Arial, sans-serif\"><span style=\"font-size: 14.6667px;\">Os dados relativos ao m\u00eas n-2, publicados at\u00e9 ao \u00faltimo dia \u00fatil do m\u00eas n, t\u00eam car\u00e1ter provis\u00f3rio, sujeitos a eventuais atualiza\u00e7\u00f5es.</span></font></p>",
+      "modified": "2025-11-28T15:29:46.188000+00:00",
+      "tags": [
+        "Cirurgias em ambulat\u00f3rio",
+        "Cirurgia"
+      ],
+      "formats": [
+        "json",
+        "csv",
+        "parquet"
+      ],
+      "source_url": "https://transparencia.sns.gov.pt/explore/dataset/cirurgias-em-ambulatorio/information/"
+    },
+    {
+      "source_name": "SNS Transparencia",
+      "id": "consultas-em-telemedicina",
+      "title": "Consultas em Telemedicina",
+      "description": "<p><font face=\"Arial, sans-serif\"><span style=\"font-size: 14.6667px;\">Monitoriza\u00e7\u00e3o mensal do n\u00famero de consultas em telemedicina por institui\u00e7\u00e3o hospitalar.</span></font></p><p><font face=\"Arial, sans-serif\"><span style=\"font-size: 14.6667px;\">Este conjunto de dados apresenta o n\u00famero de consultas realizadas em tempo real, utilizando comunica\u00e7\u00f5es interativas, audiovisuais e de dados, com a coleta das informa\u00e7\u00f5es na presen\u00e7a do doente.</span></font></p><p><font face=\"Arial, sans-serif\"><span style=\"font-size: 14.6667px;\"><b>Observa\u00e7\u00f5es:</b></span></font></p><p></p><p><font face=\"Arial, sans-serif\"><span style=\"font-size: 14.6667px;\">Os dados relativos ao m\u00eas n-2, publicados at\u00e9 ao \u00faltimo dia \u00fatil do m\u00eas n, t\u00eam car\u00e1ter provis\u00f3rio, sujeitos a eventuais atualiza\u00e7\u00f5es.</span></font></p>",
+      "modified": "2025-11-28T15:28:39.355000+00:00",
+      "tags": [
+        "Consultas",
+        "Telemedicina",
+        "Cuidados"
+      ],
+      "formats": [
+        "json",
+        "csv",
+        "parquet"
+      ],
+      "source_url": "https://transparencia.sns.gov.pt/explore/dataset/consultas-em-telemedicina/information/"
+    },
+    {
+      "source_name": "SNS Transparencia",
+      "id": "fraturas-da-anca-cirurgias-nas-primeiras-48h",
+      "title": "Fraturas da Anca (Cirurgias nas primeiras 48h)",
+      "description": "<p class=\"MsoNormal\"><span lang=\"PT\">Monitoriza\u00e7\u00e3o da percentagem de fraturas da\nanca com cirurgia realizada nas primeiras 48 horas.<o:p></o:p></span></p><p class=\"MsoNormal\"><span lang=\"PT\">Este conjunto de dados apresenta a percentagem\nde fraturas da anca que tiveram cirurgia realizada a utentes com idade igual ou\nsuperior a 65 anos, nas primeiras 48 horas ap\u00f3s admiss\u00e3o, em rela\u00e7\u00e3o ao total\nde fraturas da anca com cirurgia realizada a utentes da mesma faixa et\u00e1ria.<o:p></o:p></span></p><p class=\"MsoNormal\"><b><span lang=\"PT\">Observa\u00e7\u00f5es:</span></b><span lang=\"PT\"><o:p></o:p></span></p><p style=\"margin: 0cm 0cm 12pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">\n\n\n\n\n\n</p><p class=\"MsoNormal\"><span lang=\"PT\">Os dados relativos ao m\u00eas n-2, publicados at\u00e9\nao \u00faltimo dia \u00fatil do m\u00eas n, t\u00eam car\u00e1ter provis\u00f3rio, sujeitos a eventuais\natualiza\u00e7\u00f5es.<o:p></o:p></span></p>",
+      "modified": "2025-11-28T15:33:17.615000+00:00",
+      "tags": [
+        "Fraturas",
+        "Anca",
+        "Cirurgia"
+      ],
+      "formats": [
+        "json",
+        "csv",
+        "parquet"
+      ],
+      "source_url": "https://transparencia.sns.gov.pt/explore/dataset/fraturas-da-anca-cirurgias-nas-primeiras-48h/information/"
+    },
+    {
+      "source_name": "SNS Transparencia",
+      "id": "teleconsultas-atraves-da-plataforma-live",
+      "title": "Teleconsultas atrav\u00e9s da Plataforma Live",
+      "description": "<p class=\"MsoNormal\">Acompanhar o n\u00famero de\nteleconsultas atrav\u00e9s da aplica\u00e7\u00e3o RSE Live.<o:p></o:p></p><p class=\"MsoNormal\">A aplica\u00e7\u00e3o \u00e9 evocada\natrav\u00e9s do RSE AP, em contexto do profissional de sa\u00fade. No contexto do utente\natrav\u00e9s da APP SNS 24, Portal SNS e \u00c1rea Administrativa. As m\u00e9tricas\nrepresentadas referem-se a utiliza\u00e7\u00e3o da aplica\u00e7\u00e3o RSE Live em contextos\n(profissional / profissional ou profissional / utente) e utiliza\u00e7\u00f5es\ndiferentes, contudo a sua maior utiliza\u00e7\u00e3o ser\u00e1 em 1\u00aas TeleConsultas, Consultas\nsubsequentes, Consultoria e consultas n\u00e3o presenciais, etc.<o:p></o:p></p><p class=\"MsoNormal\">\n\n\n\n</p><ul style=\"margin-top:0cm\" type=\"disc\">\n <li class=\"MsoNormal\">O N\u00famero Total de Confer\u00eancias representa o\n     n\u00famero total de sess\u00f5es criadas pela aplica\u00e7\u00e3o, na qual se podem juntar 2\n     ou mais utilizadores;<o:p></o:p></li>\n <li class=\"MsoNormal\">O N\u00famero Total de Participantes representa o\n     n\u00famero total de utilizadores a usar a RSE Live;<o:p></o:p></li>\n <li class=\"MsoNormal\">O N\u00famero Total Minutos por Confer\u00eancia por\n     M\u00eas refere-se ao n\u00famero de tempo que a sess\u00e3o foi criada at\u00e9 que foi\n     desligada.<o:p></o:p></li>\n <li class=\"MsoNormal\">Na atualiza\u00e7\u00e3o realizada em 07/out, optamos\n     por excluir as colunas: \"M\u00e9dia sess\u00f5es PDS Live\" e \"M\u00e9dia\n     de Participantes por Minutos de Sess\u00e3o PDS\".<o:p></o:p></li>\n</ul>",
+      "modified": "2025-12-11T12:03:58.510000+00:00",
+      "tags": [
+        "TeleSa\u00fade",
+        "TeleConsultas",
+        "RSE Live",
+        "Sess\u00f5es de videochamada e \u00e1udio"
+      ],
+      "formats": [
+        "json",
+        "csv",
+        "parquet"
+      ],
+      "source_url": "https://transparencia.sns.gov.pt/explore/dataset/teleconsultas-atraves-da-plataforma-live/information/"
+    }
+  ]
+}

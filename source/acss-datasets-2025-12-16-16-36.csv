@@ -1,0 +1,1325 @@
+"id";"title";"slug";"acronym";"url";"organization";"organization_id";"owner";"owner_id";"description";"frequency";"license";"temporal_coverage.start";"temporal_coverage.end";"spatial.granularity";"spatial.zones";"featured";"created_at";"last_modified";"tags";"archived";"resources_count";"main_resources_count";"resources_formats";"harvest.backend";"harvest.domain";"harvest.created_at";"harvest.modified_at";"harvest.remote_url";"quality_score";"metric.discussions";"metric.reuses";"metric.reuses_by_months";"metric.followers";"metric.followers_by_months";"metric.views";"metric.resources_downloads"
+"649d01ca078190ea9c217703";"Cirurgias em Ambulatório";"cirurgias-em-ambulatorio";"";"https://dados.gov.pt/pt/datasets/cirurgias-em-ambulatorio/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Percentagem de cirurgias realizadas em ambulatório no total de cirurgias programadas (GDH) - para procedimentos ambulatorizáveis.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-29T05:00:10.944000";"2023-06-29T05:00:10.944000";"cirurgia,cirurgias-em-ambulatorio,qualidade,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649d01ca078190ea9d217706";"Intervenções Cirúrgicas nos Cuidados de Saúde Hospitalares";"intervencoes-cirurgicas-nos-cuidados-de-saude-hospitalares";"";"https://dados.gov.pt/pt/datasets/intervencoes-cirurgicas-nos-cuidados-de-saude-hospitalares/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorizar mensalmente o número de intervenções cirúrgicas nos cuidados hospitalares, para os diferentes tipos: Programadas, Programadas Ambulatórias, Programadas Convencionais e Urgentes.
+
+Intervenção Cirúrgica: Um ou mais atos cirúrgicos com o mesmo objectivo terapêutico e/ou diagnóstico, realizado(s) por cirurgião(ões) em sala operatória, na mesma sessão.
+
+**Métricas:**
+
+  * **Intervenções Cirúrgicas Convencionais:** programadas efectuadas em regime de internamento.
+  * **Intervenções Cirúrgicas de Ambulatório:** programadas, efectuadas em regime de admissão e alta num período inferior a 24 horas.
+  * **Intervenções Cirúrgicas Urgentes:** decorrente de admissão urgente ou de situação de saúde percepcionada como critica, no âmbito de internamento.
+  * **Intervenções Cirúrgicas Programadas:** decorrente de admissão programada.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-29T05:00:10.811000";"2023-06-29T05:00:10.811000";"acesso,cirurgia,cuidados,intervencao,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649d01ca078190ea91217707";"Prestadores de Serviços Médicos";"prestadores-de-servicos-medicos-1";"";"https://dados.gov.pt/pt/datasets/prestadores-de-servicos-medicos-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Acompanhar a prestação de serviços médicos, apresentando as horas prestadas e encargos cobrados.
+
+Detalha as prestações de serviços nas instituições do SNS, seja a título individual ou através de empresas de prestações de serviços, com indicação das horas prestadas no 1.º semestre de 2016 e respetivos encargos.
+
+Os dados recolhidos foram alvo de tratamento sendo necessário uma distribuição proporcional nos casos em que os registos estavam incompletos. Persistem ainda alguns casos em que não foi possível recolher dados.
+
+ **Observações:** Os valores indicados para o volume de horas de prestações de serviços para as instituições CH Setúbal, CH S.João, Inst. Oft. Gama Pinto, ULS Alto Minho, ULS Matosinhos, H Dist. Santarém **,** CH Barreiro-Montijo e CH Cova da Beira não incluem todas as horas relativas a prestações de serviços contratadas por ato (por ausência de informação relativa a nº de horas em alguns casos), estando no entanto considerados os respetivos encargos dessas mesmas prestações de serviços.
+
+ **Data de extração:**  20 dezembro 2017.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-29T05:00:10.734000";"2023-06-29T05:00:10.734000";"contratacao,eficiencia,empresas,prestacao-de-servicos-medicos,prestadores,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649d01ca078190ea92217701";"Consultas Médicas Hospitalares";"consultas-medicas-hospitalares";"";"https://dados.gov.pt/pt/datasets/consultas-medicas-hospitalares/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorizar mensalmente o número de consultas médicas hospitalares em território nacional, por entidade hospitalar.
+
+Primeiras Consultas médicas são as consultas externas em que o utente é examinado pela primeira vez num serviço de especialidade, referente a um episódio clínico.
+
+Consultas Subsequentes são as consultas médicas para verificação da evolução do estado de saúde do doente, prescrição terapêutica e/ou preventiva, tendo como referência a primeira consulta.
+
+ **Observações:** Não inclui as consultas de medicina no trabalho. Os dados referentes ao mês n-1 publicados no dia 26 do mês n.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-29T05:00:10.672000";"2023-06-29T05:00:10.672000";"acesso,consultas-medicas,cuidados-hospitalares,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649d01c9078190ea9c217702";"Utentes Inscritos em Cuidados de Saúde Primários";"utentes-inscritos-em-cuidados-de-saude-primarios";"";"https://dados.gov.pt/pt/datasets/utentes-inscritos-em-cuidados-de-saude-primarios/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitoriza a informação dos utentes inscritos por ARS e a nível Nacional (Portugal Continental), para utentes inscritos em unidades funcionais dos ACES. 
+
+O BI do indicador está disponível em [https://sdm.min-saude.pt/bi.aspx?id=2&cl](https://sdm.min-saude.pt/bi.aspx?id=2&cl).
+
+ **Observações:** Não inclui informação referente a utentes inscritos em ""postos empresa"".";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-29T05:00:09.429000";"2023-06-29T05:00:09.429000";"acesso,cuidados-de-saude-primarios,medicos-de-familia,transparencia-sns-gov-pt,utentes";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649d01c9078190ea96217701";"Morbilidade e Mortalidade Hospitalar para Diabetes";"morbilidade-e-mortalidade-hospitalar-para-diabetes-1";"";"https://dados.gov.pt/pt/datasets/morbilidade-e-mortalidade-hospitalar-para-diabetes-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução trimestral da taxa de internamento e taxa de mortalidade, por instituição, diabetes
+
+Taxa de internamento e Taxa de mortalidade, considerando:
+
+  * Ano e Trimestre de alta; 
+  * Região da Inst. Hospitalar e Instituição Hospitalar;
+  * Diabetes.
+
+
+
+  
+
+
+ **Observações:**  Calculado tendo em consideração a portaria 207/2017, o âmbito de análise de Estatística e tipo de produção Internamento. Os indicadores apresentados correspondem a indicadores contratualizados com as ULS e reconhecidos internacionalmente como sendo internamentos evitáveis.
+
+Os dados resultam da codificação clínica efetuada pelos hospitais em ICD9CM/ICD10CM/PCS após a alta do doente, podendo existir em algumas instituições maior atraso nesta codificação (o que pode resultar numa diminuição temporária dos episódios reportados). Os registos administrativos e de codificação clínica são da exclusiva responsabilidade de cada instituição hospitalar. A codificação clínica ICD9CM/ICD10CM/PCS não corresponde à classificação de causas de morte, em sede de certificados de óbito.
+
+As instituições apresentadas correspondem às instituições presentes no site de Benchmarking Hospitais da ACSS (Grupos B,C, D, E e F, https://benchmarking-acss.min-saude.pt/BH_Enquadramento/GrupoInstituicoes).";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-29T05:00:09.398000";"2023-06-29T05:00:09.398000";"diabetes,internamento-hospitalar,morbilidade,mortalidade,saude-dos-portugueses,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649d01c8078190ea93217706";"Atividade nos Cuidados Saúde Primários - Monitorização Sazonal";"atividade-nos-cuidados-saude-primarios-monitorizacao-sazonal-1";"";"https://dados.gov.pt/pt/datasets/atividade-nos-cuidados-saude-primarios-monitorizacao-sazonal-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorizar a evolução, o acesso, e a procura nos Cuidados de Saúde Primários e disponibilizar a informação em tempo útil.
+
+ **Observações:**
+
+  * Não foram consideradas as consultas registadas em MedicineOne.
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-29T05:00:08.742000";"2023-06-29T05:00:08.742000";"acesso,csp,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649d01c7078190ea9521770e";"Primeiras Consultas em Tempo Adequado";"primeiras-consultas-em-tempo-adequado";"";"https://dados.gov.pt/pt/datasets/primeiras-consultas-em-tempo-adequado/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Percentagem de primeiras consultas realizadas em tempo adequado.
+
+O objetivo deste indicador é apresentar a proporção de utentes referenciados (CTH) para a primeira consulta externa (CE), com consulta externa prestada dentro do Tempo Máximo de Resposta Garantido (TMRG), no total de primeiras consultas externas prestadas no período em análise.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-29T05:00:07.630000";"2023-06-29T05:00:07.630000";"acesso,consulta-externa,consultas,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649d01c7078190ea97217700";"Demora Média antes da Cirurgia";"demora-media-antes-da-cirurgia";"";"https://dados.gov.pt/pt/datasets/demora-media-antes-da-cirurgia/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Acompanhar os valores de Demora Média antes da Cirurgia.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-29T05:00:07.620000";"2023-06-29T05:00:07.620000";"cirurgia,demora-media,eficiencia,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.44";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649d01c7078190ea98217705";"Contactos de Enfermagem nos Cuidados de Saúde Primários";"contactos-de-enfermagem-nos-cuidados-de-saude-primarios-1";"";"https://dados.gov.pt/pt/datasets/contactos-de-enfermagem-nos-cuidados-de-saude-primarios-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução dos contactos de enfermagem realizados nos cuidados de saúde primários.
+
+ **Fórmula:**
+
+  1. Nº de contactos de enfermagem presenciais: soma dos contactos de enfermagem presenciais por ACES. 
+  2. Nº de contactos de enfermagem não presenciais: soma dos contactos de enfermagem não presenciais por ACES
+
+
+
+**Observações:**
+
+  * Devido a questões técnicas, para os registos de novembro 2016, os dados não incluem registos da Região de Saúde LVT. Os dados fornecidos dizem respeito aos sistemas SAM/Sclinico e Medicine 1. As regras de contabilização são as seguintes: só são contabilizados contactos a utentes e apenas se contabiliza um contacto por utente/dia/profissional/local.
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-29T05:00:07.529000";"2023-06-29T05:00:07.528000";"acesso,cuidados-de-saude-primarios,enfermagem,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649d01c4078190ea93217705";"Morbilidade e Mortalidade Hospitalar por Faixa Etária";"morbilidade-e-mortalidade-hospitalar-por-faixa-etaria-1";"";"https://dados.gov.pt/pt/datasets/morbilidade-e-mortalidade-hospitalar-por-faixa-etaria-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução trimestral da taxa de internamento e taxa de mortalidade, por região, faixa etária e capítulo do diagnóstico principal da ICD9CM/ICD10CM/PCS.
+
+Taxa de internamento e Taxa de mortalidade, considerando:
+
+  * Ano e Trimestre de alta;
+  * Região da Instituição Hospitalar;
+  * Faixa etária do utente à data de admissão;
+  * Código e descrição do capítulo do diagnóstico principal da ICD9CM/ICD10CM/PCS.
+
+
+
+  
+
+
+ **Observações:** Calculado tendo em consideração a portaria 207/2017, o âmbito de análise de Estatística e tipo de produção Internamento.
+
+Os dados resultam da codificação clínica efetuada pelos hospitais em ICD9CM/ICD10CM/PCS após a alta do doente, podendo existir em algumas instituições maior atraso nesta codificação (o que pode resultar numa diminuição temporária dos episódios reportados). Os registos administrativos e de codificação clínica são da exclusiva responsabilidade de cada instituição hospitalar.
+
+As instituições apresentadas correspondem às instituições presentes no site de Benchmarking Hospitais da ACSS (Grupos B,C, D, E e F, https://benchmarking-acss.min-saude.pt/BH_Enquadramento/GrupoInstituicoes).
+
+Diagnóstico principal ICD9CM/ICD10CM/PCS diz respeito ao diagnóstico que, após a alta do utente e o estudo completo do episódio de internamento, é considerado (em sede de codificação clinica) como a causa da admissão do utente ao internamento. A codificação clínica ICD9CM/ICD10CM/PCS não corresponde à classificação de causas de morte, em sede de certificados de óbito.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-29T05:00:04.597000";"2023-06-29T05:00:04.597000";"faixa-etaria,icd9cm-icd10cm-pcs,internamento-hospitalar,morbilidade,mortalidade,saude-dos-portugueses,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649bb04c078190f8a2e771a1";"Acesso a Consultas Médicas pela População Inscrita";"acesso-a-consultas-medicas-pela-populacao-inscrita";"";"https://dados.gov.pt/pt/datasets/acesso-a-consultas-medicas-pela-populacao-inscrita/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Taxas de utilização e quantidades de acesso a consultas médicas pela população inscrita, apresentando a proporção de utentes inscritos que tiveram consulta médica nos cuidados de saúde primários, no período em análise.
+
+ **Fórmula:**
+
+  1. Taxa de utilização global de consultas médicas -1 ano  = (numerador / denominador) * 100. Referente ao indicador 2013.002.01. O BI do indicador está disponível em [https://sdm.min-saude.pt/bi.aspx?id=2&clusters=S](https://sdm.min-saude.pt/bi.aspx?id=2&clusters=S).
+  2. Nº Utentes pelo menos 1 consulta médicas presencial ou não presencial - 1 ano = numerador. Referente ao numerador do indicador 2013.002.01. O BI do indicador está disponível em [https://sdm.min-saude.pt/bi.aspx?id=2&clusters=S](https://sdm.min-saude.pt/bi.aspx?id=2&clusters=S).
+  3. Taxa de utilização de consultas médicas - 3 anos  = (numerador / denominador) * 100. Referente ao indicador 2013.006.01. O BI do indicador está disponível em [https://sdm.min-saude.pt/bi.aspx?id=6&clusters=S](https://sdm.min-saude.pt/bi.aspx?id=6&clusters=S).
+  4. Nº Utentes com pelo menos 1 consulta médica em 3 anos = numerador. Referente ao numerador do indicador 2013.006.01. O BI do indicador está disponível em [https://sdm.min-saude.pt/bi.aspx?id=6&clusters=S](https://sdm.min-saude.pt/bi.aspx?id=6&clusters=S).
+  5. As métricas a 1 ano são acumuladas desde o inicio do ano em análise até à data de referência do indicador.
+  6. As métricas a 3 anos são acumuladas desde o inicio do ano n-3 até à data de referência do indicador. (ex: análise do mês jun-2015,  corresponde ao acumulado desde jan-2013 a jun-2015).
+
+
+
+ **Observações:**  
+
+  * No calculo das métricas deste indicador, não foram consideradas as consultas do sistema Vitacare. Devido a questões técnicas, para os registos de novembro 2016, os dados não incluem registos da Região de Saúde LVT.
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-28T05:00:12.678000";"2023-06-28T05:00:12.678000";"acesso,consultas-medicas,cuidados-de-saude-primarios,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649bb04c078190f8a4e77194";"Trabalho Noturno, Normal e Suplementar";"trabalho-noturno-normal-e-suplementar";"";"https://dados.gov.pt/pt/datasets/trabalho-noturno-normal-e-suplementar/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Quantifica o número de horas de trabalho normal noturno e ao sábado depois das 13h00, domingos, feriados e o trabalho suplementar efetuado mensalmente por entidade.
+
+Os indicadores constantes neste catálogo são:
+
+  1. Trabalho Suplementar Diurno
+  2. Trabalho Suplementar Nocturno
+  3. Trabalho em Dias de Descanso Semanal Obrigatório
+  4. Trabalho em Dias de Descanso Semanal Complementar
+  5. Trabalho em Dias Feriados
+  6. Trabalho Nocturno Normal
+  7. Trabalho Nocturno Suplementar
+
+
+
+  * O trabalho suplementar diurno e noturno só contempla o trabalho extraordinário efetuado em dias normais de trabalho.
+
+
+  * Para os indicadores 1) a 5), é o total de horas suplementares/extraordinárias efetuadas pelos trabalhadores do serviço entre 1 jan e 31 dez.
+
+
+  * Para os indicadores 6) e 7) é o total de horas apenas de trabalho noturno efetuadas pelos trabalhadores do serviço entre 1 jan e 31 dez.
+
+
+  * O trabalho noturno extraordinário é o efetuado em dias normais e em dias de descanso semanal obrigatório, complementar e feriados.
+
+
+
+ **Observações** **:** O indicador não abrange dados do IGAS.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-28T05:00:12.582000";"2023-06-28T05:00:12.582000";"eficiencia,recursos-humanos,trabalhadores,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649bb04c078190f897e7719f";"Consultas Médicas nos Cuidados de Saúde Primários";"consultas-medicas-nos-cuidados-de-saude-primarios-2";"";"https://dados.gov.pt/pt/datasets/consultas-medicas-nos-cuidados-de-saude-primarios-2/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução mensal das consultas médicas presenciais, não presenciais/inespecíficas e ao domicílio nos Cuidados de Saúde Primários, desdobradas por ACES. 
+
+ **Observações:**
+
+  * São consideradas as consultas realizadas em serviços dependentes dos ACES, bem como as consultas realizadas em serviços não dependentes dos ACES (diretamente dependentes das ARS).
+  * As consultas registadas no sistema Vitacare não entram no cálculo destas métricas.
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-28T05:00:12.155000";"2023-06-28T05:00:12.155000";"acesso,consultas-medicas,cuidados-de-saude-primarios,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649bb04c078190f89fe771a2";"Síntese do Movimento Assistencial da RNCCI";"sintese-do-movimento-assistencial-da-rncci-1";"";"https://dados.gov.pt/pt/datasets/sintese-do-movimento-assistencial-da-rncci-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Avaliar o movimento assistencial.
+
+1\. Número de camas/lugares contratados no período em análise;
+
+2\. Utentes admitidos no período em análise, independentemente da altura da referenciação (o que significa que podem ter sido referenciados no período ou em períodos anteriores e que entretanto aguardam vaga);
+
+3\. Número de utentes com alta, no período em análise;
+
+4\. Taxa de ocupação por região e tipologia, no período em análise:
+
+Taxa de ocupação = A/B*100
+
+Numerador (A) = Número efetivo de dias de internamento na unidade;
+
+Denominador (B) = Número possível de dias de internamento na unidade.
+
+ **Observações:** Até final de 2021, os dados incluíam informação relativa às UCP-RNCCI. Estas unidades, apesar de utilizarem o SI RNCCI, integram a Rede Nacional de Cuidados Paliativos (RNCP).";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-28T05:00:11.895000";"2023-06-28T05:00:11.895000";"acesso,admissao,alta,camas,cci,cuidados-continuados,lugares,movimento-assistencial,rncci,taxa-de-ocupacao,transparencia-sns-gov-pt,utente-admitidos,utentes-com-alta";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649bb04b078190f8a1e7719b";"Taxa de Ocupação Hospitalar";"taxa-de-ocupacao-hospitalar";"";"https://dados.gov.pt/pt/datasets/taxa-de-ocupacao-hospitalar/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"O objetivo deste indicador é apresentar a relação percentual entre o total de dias de internamento no ano e a capacidade do estabelecimento";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-28T05:00:11.537000";"2023-06-28T05:00:11.537000";"eficiencia,taxa-de-ocupacao,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649bb04b078190f89de77195";"Dispensa de Medicamentos";"dispensa-de-medicamentos";"";"https://dados.gov.pt/pt/datasets/dispensa-de-medicamentos/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorizar mensalmente o volume de prescrições de medicamentos dispensadas.
+
+Devido à necessidade de consolidação, os dados disponibilizados mensalmente respeitam ao período temporal n-3.
+
+ **Observações:**
+
+  * Métricas calculadas com base na Administração Regional de Saúde (ARS) de faturação.  A métrica ""Valor Comparticipado pelo SNS"" para a Região de Saúde do Algarve só apresenta registos a partir de  novembro 2015. Devido a questões técnicas, para os registos de novembro 2016, os dados não incluem registos da Região de Saúde LVT. 
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-28T05:00:11.505000";"2023-06-28T05:00:11.505000";"dispensa,medicamentos,prescricao-eletronica,qualidade,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649bb04b078190f8a0e771a1";"MCDT Realizados em Entidades Convencionadas";"mcdt-realizados-em-entidades-convencionadas";"";"https://dados.gov.pt/pt/datasets/mcdt-realizados-em-entidades-convencionadas/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução das requisições de Meios Complementares de Diagnóstico e Terapêutica (MCDT) realizados em entidades convencionadas, desdobrado por área de MCDT.
+
+ **Observações:**
+
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-28T05:00:11.386000";"2023-06-28T05:00:11.386000";"acesso,entidades-convencionadas,mcdt,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649bb04a078190f8a2e771a0";"Dívida Total, Vencida e Pagamentos em Atraso";"divida-total-vencida-e-pagamentos-em-atraso";"";"https://dados.gov.pt/pt/datasets/divida-total-vencida-e-pagamentos-em-atraso/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução mensal de valores para a dívida das instituições do SNS a fornecedores externos.
+
+ **Métricas:** Dívida Total, Dívida Vencida e Pagamentos em Atraso (Arrears).";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-28T05:00:10.327000";"2023-06-28T05:00:10.327000";"dividas,eficiencia,fornecedores,gestao-financeira,pagamentos,privado,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649bb049078190f897e7719e";"Consultas em Telemedicina";"consultas-em-telemedicina";"";"https://dados.gov.pt/pt/datasets/consultas-em-telemedicina/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorizar mensalmente o número de consultas em telemedicina por instituição hospitalar.
+
+Apresenta o número de consultas, em tempo real realizada com recurso à utilização de comunicações interativas, audiovisuais e de dados, recolhidos na presença do doente.
+
+ ****
+
+ **Nota:** Os dados referentes ao mês n-1 publicados até ao último dia útil do mês n são provisórios e poderão sofrer alterações.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-28T05:00:09.751000";"2023-06-28T05:00:09.751000";"acesso,consultas,cuidados,telemedicina,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649bb049078190f89fe771a1";"Trabalhadores por Grupo Profissional";"trabalhadores-por-grupo-profissional";"";"https://dados.gov.pt/pt/datasets/trabalhadores-por-grupo-profissional/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Apurar o nº de trabalhadores (empregos), por instituição e por grupo profissional, com contrato de trabalho ativo no mês de análise.
+
+Número de trabalhadores (empregos) com contrato de trabalho ativo no mês em análise, por entidade e por mês, discriminado pelos grupos profissionais: Médicos (sem contabilizar Internos), Médicos Internos, Enfermeiros, Técnicos Superiores de Saúde, Farmacêuticos, Técnicos de Diagnóstico e Terapêutica, Assistentes Técnicos, Assistentes Operacionais, Técnicos Superiores, Informáticos e Outros.
+
+ **Nota:** Os dados apresentados dizem respeito aos trabalhadores vinculados com contrato de trabalho às entidades do setor público administrativo (SPA) e entidades públicas empresarias (EPE) que se encontram sob a tutela do Ministério da Saúde, aos quais acrescem ainda os profissionais que exercem funções nos estabelecimentos hospitalares em regime de parceria público-privada integrados no Serviço Nacional de Saúde. ( **Ver anexo - Número de Profissionais nos Estabelecimentos Hospitalares em Regime de Parceira Público-Privada).**";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-28T05:00:09.648000";"2023-06-28T05:00:09.648000";"eficiencia,existencias,recursos-humanos,transparencia-sns-gov-pt";False;5;5;"json,png,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649bb049078190f8a3e77199";"Atividade do Programa de Diabetes";"atividade-do-programa-de-diabetes";"";"https://dados.gov.pt/pt/datasets/atividade-do-programa-de-diabetes/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorização do programa de acompanhamento de utentes com diabetes.
+
+**Fórmulas:**
+
+  1. Utentes inscritos com diabetes com exame dos pés realizado no último ano = numerador
+  2. Proporção DM com exame pés último ano = (numerador/denominador) * 100
+  3. Utentes inscritos com diabetes com último resultado de HgbA1c inferior ou igual a 8,0% = numerador
+  4. Proporção DM c/ última HgbA1c <= 8,0 % = (numerador /denominador) * 100
+
+
+
+  
+**Observações:**
+
+  * No cálculo das métricas deste indicador, não foram considerados dados de produção provenientes do sistema Vitacare. Devido a questões técnicas, para os registos de novembro 2016, os dados não incluem registos da Região de Saúde LVT.
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-28T05:00:09.254000";"2023-06-28T05:00:09.254000";"cuidados-de-saude-primarios,diabetes,saude-dos-portugueses,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649bb047078190f89ae77199";"Custos com Horas Extraordinárias e Suplementos";"custos-com-horas-extraordinarias-e-suplementos";"";"https://dados.gov.pt/pt/datasets/custos-com-horas-extraordinarias-e-suplementos/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"O objetivo deste indicador é apresentar uma relação percentual dos custos extraordinários no total de custos com pessoal.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-28T05:00:07.052000";"2023-06-28T05:00:07.052000";"custos-com-pessoal,eficiencia,horas-extraordinarias,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649bb046078190f89fe771a0";"Partos e Cesarianas nos Cuidados de Saúde Hospitalares";"partos-e-cesarianas-nos-cuidados-de-saude-hospitalares";"";"https://dados.gov.pt/pt/datasets/partos-e-cesarianas-nos-cuidados-de-saude-hospitalares/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorizar mensalmente o número total de partos e cesarianas por instituição hospitalar.
+
+ **Nota:** Os dados referentes ao mês n-1 publicados até ao último dia útil do mês n são provisórios e poderão sofrer alterações.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-28T05:00:06.816000";"2023-06-28T05:00:06.816000";"cesarianas,cuidados-hospitalares,partos,saude-dos-portugueses,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649bb046078190f899e771a0";"Agregados Económico Financeiros";"agregados-economico-financeiros";"";"https://dados.gov.pt/pt/datasets/agregados-economico-financeiros/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução mensal de valores para agregados económico financeiros.
+
+  
+
+
+ **Observações:**
+
+ **  
+**
+
+ **Dados relativos a dezembro de 2018 para as seguintes instituições foram obtidos através do Relatório de Contas:**
+
+  
+
+
+  * Hospital Distrital S.Maria Maior, EPE - Barcelos
+  * Hospital Garcia de Orta, EPE - Almada
+  * Centro Hospitalar de Lisboa - Zona Ocidental, EPE
+  * Centro Hospitalar de Setúbal, EPE
+  * Centro Hospitalar Vila Nova Gaia/Espinho, EPE
+  * Centro Hospitalar Universitário Lisboa Norte, EPE
+  * Centro Hospitalar de Entre o Douro e Vouga, EPE
+  * Hospital Fernando da Fonseca, EPE
+  * Centro Hospitalar do Barreiro - Montijo, EPE
+
+
+
+  
+
+
+Não se dispondo na presente data de informação relativa ao Instituto de Oftalmologia Dr. Gama Pinto.
+
+ **  
+**
+
+ **Dados relativos a 2019 estão incompletos, encontrando-se em falta os balancetes da seguinte entidade:**
+
+  
+
+
+  * Para todos os meses: Hospital Fernando da Fonseca, EPE.
+
+
+
+  
+
+
+ **O Hospital de Braga, EPE** constitui-se como Entidade Pública Empresarial (EPE) a partir de 1 de setembro de 2019.
+
+ **  
+**
+
+ **Dados relativos a 2020 estão incompletos, encontrando-se em falta os balancetes da seguinte entidade:**
+
+  
+
+
+  * Para outubro a novembro: Hospital de Braga, EPE.
+
+
+
+  
+
+
+ **O** **Hospital de Vila Franca de Xira, EPE** constitui-se como Entidade Pública Empresarial (EPE) a partir de 1 de junho de 2021.
+
+  
+
+
+ **O**  Hospital de Loures, EPE constitui-se como Entidade Pública Empresarial (EPE) a partir de 19 de janeiro de 2022.
+
+  
+
+
+Atualização 2023:
+
+  * O Centro Hospitalar Universitário de Santo António, EPE constitui-se como Entidade Pública Empresarial (EPE) a partir de 1 de fevereiro de 2023 por fusão do Centro Hospitalar Universitário do Porto, EPE e do Hospital de Magalhães Lemos, EPE.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-28T05:00:06.801000";"2023-06-28T05:00:06.801000";"custos,eficiencia,gestao-financeira,proveitos,resultados,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649bb046078190f8a5e77199";"Rastreios Oncológicos";"rastreios-oncologicos";"";"https://dados.gov.pt/pt/datasets/rastreios-oncologicos/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorização do programa de rastreio oncológico nos cuidados de saúde primários.
+
+**Fórmula:**
+
+  * [https://sdm.min-saude.pt/bi.aspx?id=44&clusters=S](https://sdm.min-saude.pt/bi.aspx?id=44&clusters=S)
+  * [https://sdm.min-saude.pt/bi.aspx?id=45&clusters=S](https://sdm.min-saude.pt/bi.aspx?id=45&clusters=S)
+  * [https://sdm.min-saude.pt/bi.aspx?id=46&clusters=S](https://sdm.min-saude.pt/bi.aspx?id=46&clusters=S)
+
+
+
+ ****
+
+  
+**Observações:**  
+
+  * Devido a questões técnicas, para os registos de novembro 2016, os dados não incluem registos da Região de Saúde LVT. Não foram considerados dados provenientes do sistema Vitacare.
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-28T05:00:06.341000";"2023-06-28T05:00:06.341000";"cuidados-de-saude-primarios,oncologia,rastreios,saude-dos-portugueses,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649bb046078190f8a6e7719e";"Evolução Mensal das Consultas de Psicologia";"evolucao-mensal-das-consultas-de-psicologia-1";"";"https://dados.gov.pt/pt/datasets/evolucao-mensal-das-consultas-de-psicologia-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Acompanhar o número de consultas de psicologia.
+
+Evolução mensal do número de primeiras consultas e de consultas subsequentes na especialidade de Psicologia, registado pelas entidades hospitalares do SNS.
+
+ **Primeiras Consultas** são as consultas externas em que o utente é examinado pela primeira vez num serviço de especialidade, referente a um episódio clinico.
+
+ **Consultas Subsequentes** são as consultas para verificação da evolução do estado de saúde do doente, prescrição terapêutica e/ou preventiva, tendo como referência a primeira consulta.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-28T05:00:06.197000";"2023-06-28T05:00:06.197000";"acesso,consultas-de-psicologia,consultas-hospitalares,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649bb044078190f89be7719c";"Ausências para Formação e Aperfeiçoamento Profissional";"ausencias-para-formacao-e-aperfeicoamento-profissional-1";"";"https://dados.gov.pt/pt/datasets/ausencias-para-formacao-e-aperfeicoamento-profissional-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorizar as ausências ao trabalho motivadas pela frequência de ações formação externas, por entidade e grupo profissional.
+
+Contempla os diversos tipos de ausências justificadas por motivo de frequência externa de ação de formação e aperfeiçoamento profissional pelos trabalhadores, agrupados por grupo profissional e entidade.
+
+ **Observações:**  Não inclui a frequência de ações de formação internas. Inclui horas de ausência convertidas em dias de trabalho (módulos de 7 horas de ausência equivalem a um dia de ausência). O indicador não abrange dados do IGAS e da DGS.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-28T05:00:04.569000";"2023-06-28T05:00:04.569000";"absentismo,ausencias,eficiencia,formacao,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649bb044078190f898e77195";"Morbilidade e Mortalidade Hospitalar por Sexo";"morbilidade-e-mortalidade-hospitalar-por-sexo-1";"";"https://dados.gov.pt/pt/datasets/morbilidade-e-mortalidade-hospitalar-por-sexo-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução trimestral da taxa de internamento e taxa de mortalidade, por região, sexo e capítulo do diagnóstico principal da ICD9CM/ICD10CM/PCS.
+
+Taxa de internamento e Taxa de mortalidade, considerando:
+
+  * Ano e Trimestre de alta;
+  * Região da Instituição Hospitalar;
+  * Sexo do utente;
+  * Código e descrição do capítulo do diagnóstico principal da ICD9CM/ICD10CM/PCS.
+
+
+
+  
+
+
+ **Observações:**  Calculado tendo em consideração a portaria 207/2017, o âmbito de análise de Estatística e tipo de produção Internamento.
+
+Os dados resultam da codificação clínica efetuada pelos hospitais em ICD9CM/ICD10CM/PCS após a alta do doente, podendo existir em algumas instituições maior atraso nesta codificação (o que pode resultar numa diminuição temporária dos episódios reportados). Os registos administrativos e de codificação clínica são da exclusiva responsabilidade de cada instituição hospitalar.
+
+As instituições apresentadas correspondem às instituições presentes no site de Benchmarking Hospitais da ACSS (Grupos B,C, D, E e F, https://benchmarking-acss.min-saude.pt/BH_Enquadramento/GrupoInstituicoes).
+
+Diagnóstico principal ICD9CM/ICD10CM/PCS diz respeito ao diagnóstico que, após a alta do utente e o estudo completo do episódio de internamento, é considerado (em sede de codificação clinica) como a causa da admissão do utente ao internamento. A codificação clínica ICD9CM/ICD10CM/PCS não corresponde à classificação de causas de morte, em sede de certificados de óbito.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-28T05:00:04.376000";"2023-06-28T05:00:04.376000";"icd9cm-icd10cm-pcs,internamento-hospitalar,morbilidade,mortalidade,saude-dos-portugueses,sexo,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649bb044078190f89ae77198";"Termos de Responsabilidade a Entidades Sociais ou Privadas";"termos-de-responsabilidade-a-entidades-sociais-ou-privadas-1";"";"https://dados.gov.pt/pt/datasets/termos-de-responsabilidade-a-entidades-sociais-ou-privadas-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Acompanhar a despesa relacionada com os pedidos de Meios Complementares de Diagnóstico e Terapêutica, para entidades não pertencentes ao SNS.
+
+Valor pago/a pagar por Termo de Responsabilidade pela Instituição Hospitalar para efetuar um Meio Complementares de Diagnóstico ou Terapêutica, numa entidade não pertencente ao SNS.
+
+ **Observações:**  Inclui termos de responsabilidade que tenham sido emitidos em 2015 e faturados em 2016 e termos de responsabilidade emitidos e ainda não faturados, neste caso é indicado o valor previsto de despesa.
+
+ **Data de extração:** 18 outubro 2016.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-28T05:00:04.335000";"2023-06-28T05:00:04.335000";"cuidados-hospitalares,eficiencia,meios-complementares,terapeutica,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ecd078190f8a6e77152";"Atividade nos Cuidados Saúde Hospitalares - Monitorização Sazonal";"atividade-nos-cuidados-saude-hospitalares-monitorizacao-sazonal-1";"";"https://dados.gov.pt/pt/datasets/atividade-nos-cuidados-saude-hospitalares-monitorizacao-sazonal-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorizar a evolução, o acesso e a procura nos Cuidados de Saúde Hospitalares e disponibilizar informação em tempo útil.
+
+A.1 - Número estimado de episódios de urgência: Somatório dos episódios de urgência com internamento.
+
+A.2 - Tempo médio de espera entre a triagem e a primeira observação médica (rede de urgência hospitalar): Numerador: Somatório do tempo decorrido entre a triagem de Manchester e a primeira observação médica, para cada um dos episódios de urgência ocorridos; Denominador: Contagem de episódios de urgência ocorridos.
+
+A.3 - Taxa Diária de Episódios de Urgência com Internamento (%) 
+
+ **Observações:** A.1 - Nos serviços que não reportam em determinados dias, efetua-se uma estimativa dos episódios através da fórmula seguinte:
+
+[Estimativa de episódios para o serviço de urgência X no dia Y] =   
+[Estimativa INE do nº residentes para a área de influência do serviço de urgência X no ano do dia Y] x [Episódios urgência reportados por todos os serviços de urgência no dia Y]  
+/ [Estimativa INE do nº residentes para a área de influência de todos os serviços de urgência que reportam no dia Y].
+
+No denominador da métrica A.2 apenas se contabilizam os episódios de urgência nos serviços de urgência que reportam dados relacionados com ""triagem de Manchester"" e na métrica 
+
+Especificação de Variáveis Monitorização da Urgência:
+
+  * [Número estimado de episódios de urgência](https://sdm.min-saude.pt/bi.aspx?id_var=531)
+  * [Taxa diária de atendimentos urgentes com internamento](https://sdm.min-saude.pt/bi.aspx?id_var=528)  
+
+  * [Taxa diária de atendimentos urgentes com prioridade verde ou azul](https://sdm.min-saude.pt/bi.aspx?id_var=515)  
+
+  * [Tempo médio de espera entre a triagem e a primeira observação médica](https://sdm.min-saude.pt/bi.aspx?id_var=405)";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:13.615000";"2023-06-27T05:00:13.615000";"acesso,episodios-de-urgencia-hospitalar,gripe,infecao-respiratoria,sindrome-gripal,tempos-de-espera,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ecd078190f897e77151";"Exames Convencionados por Área MCDT";"exames-convencionados-por-area-mcdt-2";"";"https://dados.gov.pt/pt/datasets/exames-convencionados-por-area-mcdt-2/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Quantidade de exames aceites, por mês, ARS (de faturação), convencionado e Área MCDT.
+
+Devido à necessidade de consolidação, os dados disponibilizados mensalmente respeitam ao período temporal n-3.
+
+**Fórmula:**
+
+  1.  **Atos Aceites** : Quantidade efetiva de atos prestados (uma linha de requisição pode ter 1 ou mais atos prestados);
+  2.  **Requisições Aceites** : Quantidade de requisições de MCDT.
+
+
+
+  
+**Observações:**  
+
+  * Devido a questões técnicas, para os registos de novembro 2016, os dados não incluem registos das Regiões de Saúde do Algarve e do Alentejo. 
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:13.588000";"2023-06-27T05:00:13.588000";"convencionados,eficiencia,exames,mcdt,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ecd078190f8a2e77152";"Utentes a Aguardar Vaga de Cuidados Continuados";"utentes-a-aguardar-vaga-de-cuidados-continuados";"";"https://dados.gov.pt/pt/datasets/utentes-a-aguardar-vaga-de-cuidados-continuados/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Acompanhar o número de utentes a aguardar vaga por Região e Tipologia.
+
+Apuramento diário do estado das listas de espera dos utentes a aguardar vaga (estados “Ingresso/Aguarda Vaga”) para entrada na Rede Nacional de Cuidados Continuados (RNCCI), por Região e Tipologia.
+
+Legenda da Tipologia:
+
+- ECCI: Equipa de Cuidados Continuados Integrados;
+
+- UC: Unidade de Convalescença;
+
+- UMDR: Unidade de Média Duração e Reabilitação;
+
+- ULDM: Unidade de Longa Duração e Manutenção;
+
+\- **UCIP N1** : Unidade de Cuidados Integrados Pediátricos Nível 1;
+
+- UAP: Unidade de Ambulatório Pediátrica;
+
+\- **EAD** : Equipas de Apoio Domiciliário;
+
+\- **EAD/IA** : Equipas de Apoio Domiciliário - Infância e Adolescência;
+
+- RA: Residência Autónoma;
+
+- RAMa: Residência de Apoio Máximo;
+
+- RAMo: Residência de Apoio Moderado;
+
+- RTA: Residência de Treino de Autonomia;
+
+- RTA-A: Residência de Treino de Autonomia - Tipo A - infância e adolescência;
+
+- USO: Unidade Socio-Ocupacional;
+
+\- **USO/IA** : Unidade Sócio Ocupacional - Infância e Adolescência.
+
+  
+
+
+Observações: São ignorados os utentes em transferência (mobilidade na RNCCI). Existem dados históricos das seguintes tipologias, não presentes no momento:
+
+\- **EDSCP** : Equipa Domiciliária de Suporte em Cuidados Paliativos;
+
+\- **UCP** : Unidade de Cuidados Paliativos.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:13.437000";"2023-06-27T05:00:13.437000";"acesso,auto,cci,cuidados-continuados,lista-de-espera,rncci,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ecd078190f898e77152";"Caracterização das Valências de Urgência";"caracterizacao-das-valencias-de-urgencia-1";"";"https://dados.gov.pt/pt/datasets/caracterizacao-das-valencias-de-urgencia-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Acompanhar o conhecimento do perfil funcional e assistencial dos Serviços de urgência nos diversos polos de prestação.
+
+Conjunto de recursos, que caracterizam as valências do serviço de urgência de um estabelecimento de saúde.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:13.267000";"2023-06-27T05:00:13.267000";"acesso,transparencia-sns-gov-pt,urgencias,valencias";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ecd078190f89ee77151";"Fornecimentos e Serviços Externos nas Instituições SNS";"fornecimentos-e-servicos-externos-nas-instituicoes-sns-1";"";"https://dados.gov.pt/pt/datasets/fornecimentos-e-servicos-externos-nas-instituicoes-sns-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorização dos valores de fornecimentos e serviços externos nas instituições SNS.
+
+Valores de fornecimentos e serviços externos nas instituições do SNS apurados no reporte mensal das demonstrações financeiras à tutela.
+
+**Observações:**  Os valores dos Fornecimentos e Serviços por tipologia (I, II, III e outros) são aqui apresentados como o detalhe da conta 622 - Fornecimento e Serviços, correspondente ao desdobramento da conta 62 - Fornecimentos e Serviços Externos, conforme o Plano Oficial de Contabilidade do Ministério da Saúde (POCMS) em vigor à data de reporte. Os valores apresentados resultam do saldo dos valores acumulados reportados mensalmente pelas instituições hospitalares, pelo que poderão ser apresentados valores negativos devido a acertos entre a instituição e o fornecedor.  
+O Centro Hospitalar Barreiro/Montijo, EPE não reporta balancete em referencial POCMS, pelo que não está incluído no presente conjunto de dados.
+
+Os dados para o mês de dezembro 2017 são de natureza temporária.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:13.218000";"2023-06-27T05:00:13.218000";"contabilidade,contas,eficiencia,fornecimentos,gestao-financeira,servicos-externos,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ecc078190f8a3e77151";"Prazo Médio de Pagamento a Fornecedores";"prazo-medio-de-pagamento-a-fornecedores";"";"https://dados.gov.pt/pt/datasets/prazo-medio-de-pagamento-a-fornecedores/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Prazo Médio de Pagamento (PMP) das instituições do SNS a fornecedores.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:12.531000";"2023-06-27T05:00:12.531000";"eficiencia,gestao-financeira,pagamentos,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.44";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ecc078190f899e77151";"Atividade de Internamento Hospitalar";"atividade-de-internamento-hospitalar-2";"";"https://dados.gov.pt/pt/datasets/atividade-de-internamento-hospitalar-2/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorizar a evolução do número de doentes saídos e dos dias de internamento por instituição hospitalar e por mês..
+
+Internamento: Modalidade de prestação de cuidados de saúde a indivíduos que, após admissão num estabelecimento de saúde, ocupam cama (ou berço de neonatologia ou pediatria) para diagnóstico, tratamento ou cuidados paliativos, com permanência de, pelo menos, 24 horas.
+
+**Métricas:**
+
+  * **Doentes Saídos:** Indicador que mede a produção em internamento considerando todos os doentes que têm alta do internamento de um estabelecimento de saúde num período de referência.
+  
+
+  * **Nº de Dias Internamento** : Número de dias de internamento utilizados por todos os doentes internados num período, cuja permanência de internamento seja superior a 24h, excluindo o dia da alta.
+
+
+
+  
+**Observações:**  Número de doentes saídos, excluíndo as transferências internas. Número de dias de internamento utilizados para todos os doentes internados, cuja permanência de internamento seja superior a 24h, excluindo o dia da alta.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:12.420000";"2023-06-27T05:00:12.420000";"acesso,cuidados-hospitalares,internamentos,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ecc078190f897e77150";"Transportes Não-Urgentes";"transportes-nao-urgentes";"";"https://dados.gov.pt/pt/datasets/transportes-nao-urgentes/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Objectivo: **Apresentar a contabilização mensal dos gastos em transportes suportados pelas ARS no âmbito de Cuidados de Saúde Primários.**
+
+Evolução mensal do Nº transportes não urgentes, realizados no âmbito dos cuidados de saúde primários, e respetivo valor acumulado (valor contabilizado corresponde ao valor faturado pelas entidades transportadoras às respetivas ARS).  
+  
+ **Descrição: Este indicador apresenta a evolução mensal do nº de transportes não urgentes e respetivos valores faturados por Administração Regional de Saúde. Tendo em conta que o fecho do mês pelas entidades transportadoras pode ocorrer até 180 dias, este indicador é disponibilizado trimestralmente com nova atualização do último mês, do trimestre anterior.**
+
+ **Nº Transportes:** Número de prestações de transporte Cálculo: Contador Prestação de Transporte
+
+Trata-se de uma métrica que visa responder à questão: quantos transportes/ prestações são efectuados sob o encargo do SNS
+
+ **Nº Utentes:**   Número de Utentes com Nº SNS distintos Cálculo:  Contador Nº de SNS
+
+Trata-se de uma métrica que visa responder à questão: quantos utentes beneficiam do transporte prescrito e sob o encargo financeiro do SNS.
+
+ **Valor:** Custo contabilizado em Euros Cálculo: Soma dos Custos
+
+Trata-se de um total em euros correspondente ao custos das prestações de transporte associados";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:12.326000";"2023-06-27T05:00:12.326000";"acesso,cuidados-de-saude-primarios,transparencia-sns-gov-pt,transportes";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ecc078190f89ae77151";"Mortalidade por AVC Isquémico e Hemorrágico";"mortalidade-por-avc-isquemico-e-hemorragico";"";"https://dados.gov.pt/pt/datasets/mortalidade-por-avc-isquemico-e-hemorragico/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorizar mensalmente a taxa de mortalidade por AVC Isquémico e Hemorrágico, nos 30 dias subsequentes ao episódio, discriminado por entidade de saúde.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:12.322000";"2023-06-27T05:00:12.322000";"avc,cuidados-hospitalares,mortalidade,qualidade,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ecc078190f8a2e77151";"Atividade do Programa Nacional de Vacinação";"atividade-do-programa-nacional-de-vacinacao";"";"https://dados.gov.pt/pt/datasets/atividade-do-programa-nacional-de-vacinacao/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorização do cumprimento do Programa Nacional de Vacinação (PNV) e o programa de saúde de adultos Vacina da Gripe.
+
+Indicador que exprime a proporção de utentes vacinados, no período em análise.
+
+ **Fórmula:**
+
+  1. Crianças com PNV totalmente cumprido na data do 2º aniversário  = numerador
+  2. Proporção crianças 2A, c/ PNV cumprido até 2A  = (numerador / denominador) * 100
+  3. Crianças com PNV totalmente cumprido na data do 7º aniversário  = numerador
+  4. Proporção crianças 7A, c/ PNV cumprido até 7A  = (numerador / denominador) * 100
+  5. Jovens com PNV totalmente cumprido na data do 14º aniversário = numerador
+  6. Proporção jovens 14A, c/ PNV cumprido até 14A  = (numerador / denominador) * 100
+  7. Utentes inscritos com a vacina da gripe prescrita ou efetuada nos últimos 12 meses. = numerador
+  8.  Proporção idosos ou doença crónica, c/ vac. gripe = (numerador / denominador) * 100
+
+
+
+ **Observações:** Devido a questões técnicas, para os registos de novembro 2016, os dados não incluem registos da Região de Saúde LVT. 
+
+Este indicador encontra-se descontinuado.
+
+ **Data de extração** : 31 agosto 2017.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:12.103000";"2023-06-27T05:00:12.102000";"cuidados-de-saude-primarios,saude-dos-portugueses,transparencia-sns-gov-pt,vacinas";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ecb078190f898e77151";"Trabalhadores por Modalidade de Vinculação";"trabalhadores-por-modalidade-de-vinculacao";"";"https://dados.gov.pt/pt/datasets/trabalhadores-por-modalidade-de-vinculacao/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Acompanhar o número de trabalhadores que estavam a exercer funções, por entidade e por mês, discriminado pelas várias formas de vinculação.
+
+ **Observações:**  O indicador não abrange dados do IGAS.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:11.916000";"2023-06-27T05:00:11.916000";"eficiencia,recursos-humanos,trabalhadores,transparencia-sns-gov-pt";False;3;3;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ecb078190f8a5e77150";"Fraturas da Anca (Cirurgias nas primeiras 48h)";"fraturas-da-anca-cirurgias-nas-primeiras-48h";"";"https://dados.gov.pt/pt/datasets/fraturas-da-anca-cirurgias-nas-primeiras-48h/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Percentagem de fraturas da anca com cirurgia efetuada nas primeiras 48 horas.
+
+O objetivo deste indicador é apresentar a percentagem de fraturas da anca com cirurgia realizada a utentes com idade igual ou superior a 65 anos, nas primeiras 48 horas após admissão, relativamente ao total de fraturas da anca com cirurgia realizada a utentes com idade igual ou superior a 65 anos.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:11.791000";"2023-06-27T05:00:11.791000";"anca,cirurgia,fraturas,qualidade,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ecb078190f89ce77150";"Morbilidade e Mortalidade Hospitalar por Instituição";"morbilidade-e-mortalidade-hospitalar-por-instituicao-1";"";"https://dados.gov.pt/pt/datasets/morbilidade-e-mortalidade-hospitalar-por-instituicao-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução trimestral da taxa de internamento, dias de internamento e taxa de mortalidade, por instituição e capítulo do diagnóstico principal da ICD9CM/ICD10CM/PCS.
+
+Taxa de internamento, Total de dias de internamento e Taxa de mortalidade considerando:
+
+  * Ano e Trimestre de alta;
+  * Região da Inst. Hospitalar e Instituição Hospitalar;
+  * Código e descrição do capítulo do diagnóstico principal da ICD9CM/ICD10CM/PCS.
+
+
+
+**  
+**
+
+**Observações:** Calculado tendo em consideração a portaria 207/2017, o âmbito de análise de Estatística e tipo de produção Internamento.
+
+  
+
+
+Os dados resultam da codificação clínica efetuada pelos hospitais em ICD9CM/ICD10CM/PCS após a alta do doente, podendo existir em algumas instituições maior atraso nesta codificação (o que pode resultar numa diminuição temporária dos episódios reportados). Os registos administrativos e de codificação clínica são da exclusiva responsabilidade de cada instituição hospitalar.
+
+  
+
+
+As instituições apresentadas correspondem às instituições presentes no site de Benchmarking Hospitais da ACSS (Grupos B,C, D, E e F, https://benchmarking-acss.min-saude.pt/BH_Enquadramento/GrupoInstituicoes).
+
+  
+
+
+Diagnóstico principal ICD9CM/ICD10CM/PCS diz respeito ao diagnóstico que, após a alta do utente e o estudo completo do episódio de internamento, é considerado (em sede de codificação clinica) como a causa da admissão do utente ao internamento. A codificação clínica ICD9CM/ICD10CM/PCS não corresponde à classificação de causas de morte, em sede de certificados de óbito.
+
+ **  
+**";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:10.973000";"2023-06-27T05:00:10.973000";"icd9cm-icd10cm-pcs,internamento-hospitalar,morbilidade,mortalidade,saude-dos-portugueses,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5eca078190f89ae77150";"Dispositivos Médicos por Nomenclatura Portuguesa do Dispositivo Médico";"dispositivos-medicos-por-nomenclatura-portuguesa-do-dispositivo-medico-1";"";"https://dados.gov.pt/pt/datasets/dispositivos-medicos-por-nomenclatura-portuguesa-do-dispositivo-medico-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Acompanhar o registo Dispositivos Médicos (DM) por Nomenclatura Portuguesa do Dispositivo Médico (NPDM), por Hospital.
+
+Dispositivos Médicos (DM) por Nomenclatura Portuguesa do Dispositivo Médico (NPDM)
+
+ **Data de extração:** 23 agosto 2017.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:10.903000";"2023-06-27T05:00:10.903000";"dispositivos,dispositivos-medicos,nomenclatura,saude-dos-portugueses,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5eca078190f899e77150";"​Mapeamento entre Códigos de Centros de Custo e Códigos da Hierarquia de Locais";"mapeamento-entre-codigos-de-centros-de-custo-e-codigos-da-hierarquia-de-locais-2";"";"https://dados.gov.pt/pt/datasets/mapeamento-entre-codigos-de-centros-de-custo-e-codigos-da-hierarquia-de-locais-2/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"A hierarquia de locais do sistema de saúde é produzida pela ACSS, com base em informações recolhidas a partir da legislação, transmitidas de forma oficial pelas ARS, ULS ou hospitais ou recolhidas direta e automaticamente a partir dos sistemas de informação.
+
+Os centros de custo nascem na contabilidade analítica das instituições (ARS, ULS e hospitais) e são carregados manualmente no RHV pelas instituições.
+
+Cada centro de custo relaciona-se com um e um só código da hierarquia de locais da ACSS.
+
+Cada código da hierarquia de locais da ACSS pode corresponder a zero, um ou mais centros de custo existentes no RHV.
+
+ **Chave Primária**
+
+A chave primária ou identificador único de registos desta view e também para a granularidade ""centro de custo"" é a combinação das seguintes colunas:
+
+\- [cod_mes];
+
+\- [tipo_instituicao];
+
+\- [cod_instituicao];
+
+\- [cod_centro_custo].
+
+A chave primária ou identificador único de registos para a granularidade ""local da hierarquia"" é a combinação das seguintes colunas:
+
+\- [cod_mes];
+
+\- [nivel_hierarquia];
+
+\- [cod_hier_loc].
+
+ **Descrição dos Campos:**
+
+ **Período:** Especifica o mês a que se aplica a informação. 
+
+ **cod_instituicao:** Código da instituição.
+
+ **cod_centro_custo:** Código de centro de custo usado no RHV para a instituição identificada pelos campos [tipo_instituicao] e [cod_instituicao].
+
+ **des_centro_custo:** Descritivo do código de centro de custo.
+
+ **abrev_instituicao:** Nome abreviado da instituição identificada pelos campos [tipo_instituicao] e [cod_instituicao].
+
+ **des_instituicao:** Nome da instituição.
+
+ **tipo_instituicao:** Especifica o tipo de instituição titular do código de centro de custo. São possíveis 2 valores: ARS e ULS. 
+
+**nivel_hierarquia:** Representa o ""tipo"" e ""nível"" da hierarquia de locais. O primeiro caracter representa o tipo de hierarquia (podendo assumir os valores ""O"" e ""H""). O segundo caracter é um valor numérico entre 1 e 9 e representa o nível hierárquico.
+
+ **cod_hier_loc:** Código do elemento que mapeia com o centro de custo no nível especificado em [nivel_hierarquia].
+
+ **nome_uf_serv_depart_hier_loc:** Designação do elemento com que mapeia o centro de custo na hierarquia de locais e no nível definidos em [tipo_hierarquia] e em [nivel_hierarquia].
+
+ **cod_dia_dta_ini_uf_serv_dep:** Especifica a data de criação da unidade funcional, serviço, departamento ou unidade orgânica na hierarquia de locais da ACSS. Formato YYYYMMDD. 
+
+**tipo_uf_serv_depart:** Define a tipologia de unidade funcional, serviço ou departamento.
+
+ **des_tipo_uf_serv_depart:** Designação da tipologia de unidade funcional, serviço ou departamento.
+
+ **cod_area_atuacao_princ_serv:** Código que permite especificar a área principal das atribuições conferidas à unidade, serviço, departamento ou outro tipo de unidade orgânica mapeada na hierarquia de locais.
+
+ **des_area_atuacao_princ_serv:** Descritivo do campo [cod_area_atuacao_princ_serv].
+
+ **cod_nivel_acesso:** Código que permite especificar a abrangência do acesso a informação no BI-CSP que será dado aos utilizadores associados ao centro de custo.
+
+ **des_nivel_acesso:** Descritivo do campo [cod_nivel_acesso].
+
+ **cod_aces_hosp_grupo:** Código do ACES ou do hospital ou do grupo agregador a que pertence a unidade funcional ou serviço, usado no nível 4 da hierarquia de locais clássica. Este campo não está preenchido nos códigos correspondentes aos serviços centrais das ARS nem nos códigos pertencentes aos serviços centrais das ULS.
+
+ **aces_hosp_grupo:** Designação do ACES ou do hospital ou do grupo agregador com o código registado em [cod_aces_hosp_grupo].
+
+ **cod_uls_grupo:** Código da ULS ou do grupo agregador a que pertence a unidade funcional ou serviço, usado no nível 5 da hierarquia de locais clássica.Este campo não está preenchido nos códigos correspondentes aos serviços centrais das ARS.
+
+ **uls_grupo:** Designação da ULS ou do grupo agregador com o código registado em [cod_uls_grupo].
+
+ **cod_ars_rs:** Código da ARS a que pertence a unidade funcional ou serviço, usado no nível 6 da hierarquia de locais clássica.
+
+ **ars_rs:** Designação da ARS registada em [cod_ars_rs].
+
+ **cod_mes_ini_mapeam_cc_hier_loc:** Especifica o mês em que pela primeira vez o centro de custo e o elemento da hierarquia de locais foram mapeados no passado. Formato YYYYMM.
+
+ **cod_mes_ini_nome_uf_serv_dep:** Especifica o mês em que pela primeira vez o centro de custo e o elemento da hierarquia de locais foram mapeados no passado com a mesma designação na hierarquia de locais. Formato YYYYMM.
+
+ **cod_dia_data_refer:** Especifica a data de referência do mapeamento. Formato YYYYMMDD.
+
+ **Ordem:** Ordenação lógica dos registos. Permite ordenar os registos de forma a que fiquem juntos os das mesmas instituições fazendo a ordenação habitual dos organigramas.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:10.792000";"2023-06-27T05:00:10.792000";"centros-de-custo,hierarquia-de-locais,saude-dos-portugueses,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5eca078190f8a2e77150";"Prevalência de Quedas e Incidências de Úlceras de Pressão";"prevalencia-de-quedas-e-incidencias-de-ulceras-de-pressao-1";"";"https://dados.gov.pt/pt/datasets/prevalencia-de-quedas-e-incidencias-de-ulceras-de-pressao-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução da taxa de prevalência de quedas e da taxa de incidência de úlceras de pressão na Rede Nacional de Cuidados Continuados Integrados (RNCCI), para efeitos de monitorização da qualidade de cuidados nos cuidados continuados.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:10.755000";"2023-06-27T05:00:10.755000";"qualidade,quedas,rncci,transparencia-sns-gov-pt,ulceras";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5eca078190f8a4e77150";"Episódios de Internamento com Dispositivos Médicos";"episodios-de-internamento-com-dispositivos-medicos-1";"";"https://dados.gov.pt/pt/datasets/episodios-de-internamento-com-dispositivos-medicos-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"O indicador encontra-se descontinuado.
+
+Acompanhar o registo de dispositivos médicos em episódios de internamento.
+
+Registo de dispositivos médicos em episódios de internamento.
+
+ **Data de extração:**  23 agosto 2016.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:10.753000";"2023-06-27T05:00:10.753000";"dispositivos,dispositivos-medicos,internamentos,saude-dos-portugueses,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5eca078190f89de77150";"Atendimentos por Tipo de Urgência Hospitalar";"atendimentos-por-tipo-de-urgencia-hospitalar";"";"https://dados.gov.pt/pt/datasets/atendimentos-por-tipo-de-urgencia-hospitalar/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorizar o número de atendimentos em urgência, detalhado por tipo de urgência, mês e entidade hospitalar.
+
+É apresentada a evolução mensal do número de atendimentos em urgência, detalhado pelos diferentes tipos - Geral, Pediátrica, Obstétrica e Psiquiátrica.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:10.556000";"2023-06-27T05:00:10.556000";"acesso,cuidados-hospitalares,transparencia-sns-gov-pt,urgencias";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5eca078190f89fe77150";"Admissão nos Cuidados Continuados";"admissao-nos-cuidados-continuados-1";"";"https://dados.gov.pt/pt/datasets/admissao-nos-cuidados-continuados-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorizar o número de utentes admitidos por região, no âmbito da atividade da Rede Nacional de Cuidados Continuados Integrados (RNCCI).
+
+1\. Até final de 2021, os dados contemplados neste indicador incluíam informação relativa aos utentes admitidos nas UCP-RNCCI;
+
+2\. A partir de 01.01.2022, esta informação apresenta-se desagregada, por região e tipologia, e encontra-se incluída no indicador ""Síntese do Movimento Assistencial da RNCCI"". 
+
+A Admissão corresponde ao número de utentes admitidos no período em análise, independentemente da altura da referenciação (o que significa que os utentes podem ter sido referenciados nesse período ou em períodos anteriores e que, entretanto, aguardavam vaga).";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:10.535000";"2023-06-27T05:00:10.535000";"acesso,admissao,cuidados-continuados,rncci,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5eca078190f89be77150";"Unidades Funcionais";"unidades-funcionais-1";"";"https://dados.gov.pt/pt/datasets/unidades-funcionais-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Distribuição das unidades funcionais (UF) nos cuidados de saúde primários.
+
+ **Observações:**
+
+  * De forma a simplificar a leitura geográfica deste indicador, apenas se encontram referenciadas as entidades referentes ao último período carregado.
+  * Os dados de indicadores de utilização estão congelados a abril para a ARS Algarve, em julho para a ARS LVT e em agosto para as restantes ARS.
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:10.508000";"2023-06-27T05:00:10.508000";"acesso,cuidados-de-saude-primarios,transparencia-sns-gov-pt,uf";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5eca078190f8a1e77150";"Prescritores “Receita Sem Papel” (RSP) em locais não-SNS";"prescritores-receita-sem-papel-rsp-em-locais-nao-sns-1";"";"https://dados.gov.pt/pt/datasets/prescritores-receita-sem-papel-rsp-em-locais-nao-sns-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Acompanhar a adoção da Receita sem Papel (RSP) no Setor Privado, pelos prescritores com maior nível de atividade RSP.
+
+ **Data de extracção:**  Diariamente";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:10.495000";"2023-06-27T05:00:10.495000";"acesso,prescricao,receita-sem-papel,rsp,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5eca078190f89ee7714f";"Atividade do Síndrome Gripal nos Cuidados de Saúde Primários";"atividade-do-sindrome-gripal-nos-cuidados-de-saude-primarios-1";"";"https://dados.gov.pt/pt/datasets/atividade-do-sindrome-gripal-nos-cuidados-de-saude-primarios-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorizar a evolução, o acesso, e a procura nos Cuidados de Saúde Primários e disponibilizar a informação em tempo útil.
+
+ **Observações:**
+
+  * Não foram consideradas as consultas registadas em MedicineOne.
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:10.482000";"2023-06-27T05:00:10.482000";"acesso,csp,sindroma-gripal,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5eca078190f8a5e7714f";"Gestão Integrada da Doença - Insuficiência Renal Crónica";"gestao-integrada-da-doenca-insuficiencia-renal-cronica-1";"";"https://dados.gov.pt/pt/datasets/gestao-integrada-da-doenca-insuficiencia-renal-cronica-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Acompanhar o nº de utentes registados, utentes e nº de tratamentos em Hemodiálise.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:10.461000";"2023-06-27T05:00:10.460000";"hemodialise,insuficiencia-renal,saude-dos-portugueses,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.44";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5eca078190f8a0e77150";"Ausência ao Trabalho por Tipologia";"ausencia-ao-trabalho-por-tipologia";"";"https://dados.gov.pt/pt/datasets/ausencia-ao-trabalho-por-tipologia/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Quantifica a evolução mensal cumulativa do número de dias de ausência ao trabalho pelos diferentes motivos de ausência.
+
+ **Observações:** O indicador não abrange dados do IGAS..";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:10.425000";"2023-06-27T05:00:10.425000";"ausencias,eficiencia,recursos-humanos,trabalhadores,transparencia-sns-gov-pt";False;3;3;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ec9078190f89ce7714f";"Lotação Hospitalar para Doentes Agudos";"lotacao-hospitalar-para-doentes-agudos";"";"https://dados.gov.pt/pt/datasets/lotacao-hospitalar-para-doentes-agudos/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Acompanhar a lotação praticada para doentes agudos, representando as camas disponíveis para internamento imediato, num estabelecimento de saúde
+
+Lotação Praticada por Tipo de Cama (Médicas, Cirúrgicas, Neutras, Outras).
+
+  * **Lotação Praticada:** Camas disponíveis e apetrechadas para internamento imediato de doentes agudos no estabelecimento de saúde
+  * **Camas Neutras:** Não estão atribuídas a uma especialidade concreta e são geridas de forma integrada de acordo com as necessidades de internamento
+  * **Camas Outras:** Camas utilizadas nos serviços de cuidados intensivos e intermédios
+  * **Camas Cirúrgicas:** Camas utilizadas no internamento das especialidades Cirúrgicas
+  * **Camas Médicas:** Camas utilizadas no internamento das especialidades Médicas";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:09.575000";"2023-06-27T05:00:09.575000";"acesso,cuidados-hospitalares,lotacao,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ec9078190f89ae7714f";"Emissão de Informações de Custo";"emissao-de-informacoes-de-custo";"";"https://dados.gov.pt/pt/datasets/emissao-de-informacoes-de-custo/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Acompanhar o volume de informações de custo emitidas nas instituições hospitalares (nas áreas da urgência e consulta externa), de forma a promover a transparência dos custos e a partilha da informação.
+
+É objetivo desta informação a consciencialização dos cidadãos para o esforço económico nacional, assim fomentando a utilização mais adequada dos cuidados hospitalares, de forma a assegurar uma utilização otimizada e eficiente dos recursos disponíveis e continuar a garantir o direito à proteção da saúde, cuja concretização resulta numa responsabilidade conjunta dos cidadãos, da sociedade e do Estado.
+
+A informação sobre os Custos dos Cuidados de Saúde surge enquadrada no Programa do XIX Governo Constitucional e, adicionalmente, do conjunto de recomendações que incorporam as iniciativas propostas pelo Grupo Técnico para a Reforma Hospitalar (GTRH), criado pelo Despacho n.º 10601/2011 de 16 de agosto, onde surge evidenciada a importância de informar o cidadão dos seus direitos. 
+
+Como tal, foi determinado que as instituições passassem a disponibilizar a informação de custos incorridos com todas as prestações de saúde realizadas ao utente, suportados pelo Estado, de acordo com a tabela de preços do SNS. A informação de custos incorridos disponibilizada assume um caráter meramente informativo, sendo devidamente explicitado ao utente que a mesma não implica qualquer pagamento adicional.
+
+ **Observações:** Os valores do Centro Hospitalar e Universitário de Coimbra, EPE contém a soma das informações de custo emitidas em todos os pólos do Centro Hospitalar (com e sem sistema SONHO).";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:09.465000";"2023-06-27T05:00:09.465000";"custos,eficiencia,gestao-financeira,informacoes-de-custo,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ec9078190f8a6e7714f";"Morbilidade e Mortalidade Hospitalar";"morbilidade-e-mortalidade-hospitalar-2";"";"https://dados.gov.pt/pt/datasets/morbilidade-e-mortalidade-hospitalar-2/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução mensal do número de episódios de internamento e ambulatório, dias de internamento e óbitos, por instituição e capítulo do diagnóstico principal da ICD9CM/ICD10CM/PCS.
+
+Internamentos, Total de dias de internamento, Ambulatórios e Óbitos considerando:
+
+  * Ano e Mês de alta;
+  * Região da Inst. Hospitalar e Instituição Hospitalar;
+  * Código e descrição do capítulo do diagnóstico principal da ICD9CM/ICD10CM/PCS
+  * Faixa Etária
+  * Sexo
+
+
+
+ **Observações:** Calculado tendo em consideração a portaria 207/2017 e o âmbito de análise de Estatística.
+
+Os dados resultam da codificação clínica efetuada pelos hospitais em ICD9CM/ICD10CM/PCS após a alta do doente, podendo existir em algumas instituições maior atraso nesta codificação (o que pode resultar numa diminuição temporária dos episódios reportados). Os registos administrativos e de codificação clínica são da exclusiva responsabilidade de cada instituição hospitalar.
+
+As instituições apresentadas correspondem às instituições presentes no site de Benchmarking Hospitais da ACSS (Grupos B,C, D, E e F, https://benchmarking-acss.min-saude.pt/BH_Enquadramento/GrupoInstituicoes).
+
+Diagnóstico principal ICD9CM/ICD10CM/PCS diz respeito ao diagnóstico que, após a alta do utente e o estudo completo do episódio de internamento, é considerado (em sede de codificação clinica) como a causa da admissão do utente ao internamento. A codificação clínica ICD9CM/ICD10CM/PCS não corresponde à classificação de causas de morte, em sede de certificados de óbito.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:09.339000";"2023-06-27T05:00:09.339000";"icd9cm-icd10cm-pcs,internamento-hospitalar,morbilidade,mortalidade,saude-dos-portugueses,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ec9078190f8a4e7714f";"Atividade do Programa de Hipertensão";"atividade-do-programa-de-hipertensao";"";"https://dados.gov.pt/pt/datasets/atividade-do-programa-de-hipertensao/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorização do programa de acompanhamento dos utentes com hipertensão arterial.
+
+Indicador que exprime a proporção de utentes com hipertensão arterial, com idade inferior a 65 anos, com pelo menos uma medição de pressão arterial nos últimos 6 meses e último resultado inferior a 150/90 mmHg
+
+ **Fórmula:**
+
+  1. Utentes inscritos com hipertensão arterial, com pressão arterial inferior a 150/90 mmHg nos últimos 6 meses = numerador 
+  2. Proporção hipertensos < 65 Anos, com Pressão Arterial < 150/90 = (numerador / denominador) * 100
+
+
+
+ **Observações:**  
+
+  * No cálculo das métricas deste indicador, não foram considerados dados de produção provenientes do sistema Vitacare. Devido a questões técnicas, para os registos de novembro 2016, os dados não incluem registos da Região de Saúde LVT.
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:09.307000";"2023-06-27T05:00:09.307000";"cuidados-de-saude-primarios,hipertensao,saude-dos-portugueses,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ec9078190f899e7714f";"Atendimentos em Urgência Hospitalar por Triagem de Manchester";"atendimentos-em-urgencia-hospitalar-por-triagem-de-manchester-1";"";"https://dados.gov.pt/pt/datasets/atendimentos-em-urgencia-hospitalar-por-triagem-de-manchester-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Acompanhar o número de atendimentos em urgência hospitalar por Triagem de Manchester, por mês e entidade hospitalar.
+
+É apresentada a evolução mensal do número de atendimentos em urgência hospitalar, de acordo com a atribuição de prioridade no atendimento aferida pela cor (Triagem de Manchester).";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:09.222000";"2023-06-27T05:00:09.222000";"acesso,cuidados-hospitalares,transparencia-sns-gov-pt,urgencias";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ec9078190f8a2e7714f";"Atividade do Síndrome Gripal nos Cuidados de Saúde Hospitalares";"atividade-do-sindrome-gripal-nos-cuidados-de-saude-hospitalares-1";"";"https://dados.gov.pt/pt/datasets/atividade-do-sindrome-gripal-nos-cuidados-de-saude-hospitalares-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorizar a evolução, o acesso e a procura nos Cuidados de Saúde Hospitalares e disponibilizar informação em tempo útil.
+
+ **A.1 - Número estimado de episódios de urgência** **:** Somatório dos episódios dos serviços de urgência.
+
+ **A.2 - Tempo médio de espera entre a triagem e a primeira observação médica (rede de urgência hospitalar):** Numerador: Somatório do tempo decorrido entre a triagem de Manchester e a primeira observação médica, para cada um dos episódios de urgência ocorridos; Denominador: Contagem de episódios de urgência ocorridos.
+
+ **A.3 - Taxa de episódios de urgência com diagnóstico de infeção respiratória (rede de urgência hospitalar):** Numerador: Contagem de episódios de urgência com gripe, síndrome gripal ou outras infeções respiratórias; Denominador: Contagem de episódios de urgência ocorridos.
+
+ __ ~~~~ **Observações:**   **A.1 -** Nos serviços que não reportam em determinados dias, efetua-se uma estimativa dos episódios através da fórmula seguinte:
+
+[Estimativa de episódios para o serviço de urgência X no dia Y] =   
+[Estimativa INE do nº residentes para a área de influência do serviço de urgência X no ano do dia Y] x [Episódios urgência reportados por todos os serviços de urgência no dia Y]  
+/ [Estimativa INE do nº residentes para a área de influência de todos os serviços de urgência que reportam no dia Y].
+
+No denominador da métrica  **A.2** apenas se contabilizam os episódios de urgência nos serviços de urgência que reportam dados relacionados com ""triagem de Manchester"" e no denominador da métrica **A.3** apenas se contabilizam os episódios de urgência nos serviços de urgência que reportam episódios com codificação de diagnósticos.
+
+Especificação de Variáveis Monitorização da Urgência:
+
+  * [Número estimado de episódios de urgência](https://sdm.min-saude.pt/bi.aspx?id_var=531)
+  * [Taxa de episódios de urgência com diagnóstico de infeção respiratória](https://sdm.min-saude.pt/bi.aspx?id_var=527)
+  * [Taxa diária de atendimentos urgentes com prioridade verde ou azul](https://sdm.min-saude.pt/bi.aspx?id_var=515)  
+
+  * [Tempo médio de espera entre a triagem e a primeira observação médica](https://sdm.min-saude.pt/bi.aspx?id_var=405)
+
+
+
+  
+
+
+ **** __ ~~~~";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:09.193000";"2023-06-27T05:00:09.193000";"acesso,episodios-de-urgencia-hospitalar,gripe,infecao-respiratoria,sindrome-gripal,tempos-de-espera,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ec9078190f89de7714f";"Existências de Médicos Especialistas e Previsão de Aposentações";"existencias-de-medicos-especialistas-e-previsao-de-aposentacoes-1";"";"https://dados.gov.pt/pt/datasets/existencias-de-medicos-especialistas-e-previsao-de-aposentacoes-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorizar os recursos humanos do SNS em termos de médicos especialistas (não incluindo MGF visto que se encontram na área relativa aos Cuidados de Saúde Primários), por entidade e grupo profissional, e fazer uma previsão da sua aposentação em função da idade.
+
+Apresenta o número de médicos especialistas (sem MGF), por especialidade, que têm contrato de trabalho ativo no mês em análise e apresenta uma previsão da sua aposentação tendo como base a idade, isto é, o ano em que fazem 66 anos.
+
+ **Observações:** O indicador não abrange dados do IGAS e da DGS.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:09.119000";"2023-06-27T05:00:09.119000";"aposentacoes,eficiencia,especialistas,medicos,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ec9078190f8a1e7714f";"Inscritos em LIC dentro do TMRG (270 dias)";"inscritos-em-lic-dentro-do-tmrg-270-dias-1";"";"https://dados.gov.pt/pt/datasets/inscritos-em-lic-dentro-do-tmrg-270-dias-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Percentagem de inscritos em LIC (Lista de Inscritos em Cirurgia) com tempo de espera inferior ao Tempo Máximo de Resposta Garantida (TMRG).
+
+O objetivo deste indicador é apresentar em valor percentual a proporção do número de doentes inscritos para cirurgia, que se encontram a aguardar intervenção cirúrgica, dentro dos tempos máximos de resposta garantida, no total de doentes inscritos no fim do período em análise.
+
+ 
+
+**_NOTA:_** De acordo com a Portaria nº 153/2017, de 4 de maio, os Tempos Máximos de Resposta Garantidos (TMRG) foram alterados, levando à necessidade de uma redefinição dos critérios de contabilização dos dados. O conjunto de dados aqui apresentado está de acordo com os critérios da Portaria anterior.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:09.049000";"2023-06-27T05:00:09.049000";"acesso,cirurgia,cirurgia-dentro-do-tmrg,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ec9078190f8a0e7714f";"Saúde da Mulher e Criança";"saude-da-mulher-e-crianca";"";"https://dados.gov.pt/pt/datasets/saude-da-mulher-e-crianca/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorização da vigilância aos recém-nascidos.
+
+**Fórmula:**
+
+  1. Recém-nascidos com pelo menos uma consulta médica de vigilância nos primeiros 28 dias de vida = numerador
+  2. Proporção RN c/ cons. méd. vigil. até 28 dias vida = (numerador /denominador) *100 
+  3. Recém-nascidos que tiveram pelo menos um domicílio de enfermagem durante os primeiros 15 dias de vida = numerador 
+  4. Proporção RN c/ domicílio enf. até 15º dia de vida = (numerador /denominador) *100
+
+
+
+**Observações:**  
+
+  * No cálculo das métricas deste indicador, não foram considerados dados de produção provenientes do sistema Vitacare. Devido a questões técnicas, para os registos de novembro 2016, os dados não incluem registos da Região de Saúde LVT.
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:08.935000";"2023-06-27T05:00:08.935000";"cuidados-de-saude-primarios,recem-nascidos,saude-dos-portugueses,transparencia-sns-gov-pt,vigilancia";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ec8078190f89fe7714f";"Utentes Isentos Taxas Moderadoras";"utentes-isentos-taxas-moderadoras";"";"https://dados.gov.pt/pt/datasets/utentes-isentos-taxas-moderadoras/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Acompanhar o número de utentes isentos do pagamento de taxa moderadora.
+
+À luz do novo regulamento do Registo Nacional de Utentes (RNU), em aplicação desde dezembro de 2017, neste indicador são apresentados todos os critérios de isenção do pagamento de taxa moderadora. Realça-se que um utente poderá beneficiar de isenção por cumprir mais do que um critério.
+
+Desta forma, o total de utentes isentos do pagamento de taxa moderadora no SNS é apresentado num campo específico, representando o universo integral de utentes que beneficiam da isenção de pagamento de Taxa Moderadora no Serviço Nacional de Saúde, cumprindo pelo menos um dos critérios previsto.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:08.677000";"2023-06-27T05:00:08.677000";"acesso,isentos,taxa-moderadora,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ec4078190f8a4e7714e";"Inscritos em LIC dentro do TMRG (180 dias)";"inscritos-em-lic-dentro-do-tmrg-180-dias-1";"";"https://dados.gov.pt/pt/datasets/inscritos-em-lic-dentro-do-tmrg-180-dias-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Percentagem de inscritos em LIC (Lista de Inscritos em Cirurgia) com tempo de espera inferior ao Tempo Máximo de Resposta Garantida (TMRG)
+
+O objetivo deste indicador é apresentar em valor percentual a proporção do número de doentes inscritos para cirurgia, que se encontram a aguardar intervenção cirúrgica, dentro dos tempos máximos de resposta garantida, no total de doentes inscritos no fim do período em análise.
+
+ _NOTA:_  A partir de janeiro de 2018 vigora o prazo de 180 dias contados da indicação para cirurgia conforme portaria nº153/2017, de 4 de maio.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:04.196000";"2023-06-27T05:00:04.196000";"acesso,cirurgia,cirurgia-dentro-do-tmrg,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ec4078190f8a0e7714e";"Qualidade de Registos no RHV";"qualidade-de-registos-no-rhv-1";"";"https://dados.gov.pt/pt/datasets/qualidade-de-registos-no-rhv-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"No âmbito dos processos de qualidade de dados identificados pelo Monitor SNS este conjunto de dados resulta de uma análise dos registos efetuados pelas instituições no sistema de informação de Recursos Humanos e Vencimentos (RHV).
+
+ **Descrição dos Indicadores:**
+
+  1. **Preenchimento de especialização** : (% de profissionais com especialidade/área/profissão preenchida) Considerados no universo base deste indicador apenas os grupos profissionais que possuem especialização (Médicos, Enfermeiros, TDT, TSS e Internos ainda em frequência de especialidade);
+  2. **Validade do documento profissional** : (% de profissionais com o documento profissional não caducado à data) Considerados no universo base deste indicador apenas os profissionais com registo do documento profissional;
+  3. **Validade do documento de identificação** : (% de profissionais com o documento de identificação não caducado à data) Considerados no universo base deste indicador todos os trabalhadores da instituição, dado que o documento de identificação é informação obrigatória;
+  4. **Preenchimento de email profissional** : (% de profissionais com o email profissional registado) Considerados no universo deste indicador todos os trabalhadores da instituição. Apenas é considerado “Email profissional” o contacto assinalado como email e cuja terminação seja ""min-saude.pt"";
+  5. **Contrato válidos** : (% de profissionais com contratos válidos à data) Considerados no universo deste indicador todos os profissionais ativos com relação jurídica que exige registo de contrato.
+  6. **Preenchimento de documento profissional** : (% de profissionais com nº de documento profissional preenchido) Considerados no universo base deste indicador apenas os grupos profissionais que devem possuir documento profissional (Médicos, Enfermeiros, TDT e TSS);";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:04.135000";"2023-06-27T05:00:04.135000";"qualidade,rhv,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ec4078190f8a3e7714e";"Morbilidade e Mortalidade Hospitalar para Asma, DPOC e Pneumonia";"morbilidade-e-mortalidade-hospitalar-para-asma-dpoc-e-pneumonia-2";"";"https://dados.gov.pt/pt/datasets/morbilidade-e-mortalidade-hospitalar-para-asma-dpoc-e-pneumonia-2/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução trimestral da taxa de internamento e taxa de mortalidade, por instituição, asma, DPOC e pneumonia.
+
+Taxa de internamento e Taxa de mortalidade, considerando:
+
+  * Ano e Trimestre de alta;
+  * Região da Inst. Hospitalar e Instituição Hospitalar;
+  * Asma, DPOC e Pneumonia.
+
+
+
+  
+
+
+ **Observações:**  Calculado tendo em consideração a portaria 207/2017, o âmbito de análise de Estatística e tipo de produção Internamento. Os indicadores apresentados correspondem a indicadores contratualizados com as ULS e reconhecidos internacionalmente como sendo internamentos evitáveis.
+
+Os dados resultam da codificação clínica efetuada pelos hospitais em ICD9CM/ICD10CM/PCS após a alta do doente, podendo existir em algumas instituições maior atraso nesta codificação (o que pode resultar numa diminuição temporária dos episódios reportados). Os registos administrativos e de codificação clínica são da exclusiva responsabilidade de cada instituição hospitalar. A codificação clínica ICD9CM/ICD10CM/PCS não corresponde à classificação de causas de morte, em sede de certificados de óbito.
+
+As instituições apresentadas correspondem às instituições presentes no site de Benchmarking Hospitais da ACSS (Grupos B,C, D, E e F, https://benchmarking-acss.min-saude.pt/BH_Enquadramento/GrupoInstituicoes).";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:04.104000";"2023-06-27T05:00:04.104000";"asma,dpoc,internamento-hospitalar,morbilidade,mortalidade,pneumonia,saude-dos-portugueses,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ec4078190f89ee7714e";"Evolução Mensal das Consultas de Nutrição";"evolucao-mensal-das-consultas-de-nutricao-1";"";"https://dados.gov.pt/pt/datasets/evolucao-mensal-das-consultas-de-nutricao-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Acompanhar o número de consultas de nutrição.
+
+Evolução mensal do número de primeiras consultas e de consultas subsequentes na especialidade de Nutrição, registado pelas entidades hospitalares do SNS.
+
+ **Primeiras Consultas**   são as consultas externas em que o utente é examinado pela primeira vez num serviço de especialidade, referente a um episódio clinico.                
+
+**Consultas Subsequentes** são as consultas para verificação da evolução do estado de saúde do doente, prescrição terapêutica e/ou preventiva, tendo como referência a primeira consulta.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:04.103000";"2023-06-27T05:00:04.103000";"acesso,consultas-de-nutricao,consultas-hospitalares,transparencia-sns-gov-pt";False;4;4;"json,shp,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ec4078190f89de7714e";"Utentes Referenciados pelos Hospitais e CS para a Rede";"utentes-referenciados-pelos-hospitais-e-cs-para-a-rede-1";"";"https://dados.gov.pt/pt/datasets/utentes-referenciados-pelos-hospitais-e-cs-para-a-rede-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Apuramento mensal do número de utentes referenciados pelos hospitais e CS para ingresso na Rede Nacional de Cuidados Continuados (RNCCI), por Região e Tipologia Proposta (processos aguardam aprovação da ECL).
+
+ **Observações:** Número de episódios que transitaram de “Pré-Alta/Novo” para “Nova Proposta/Para Avaliar” no período (mês) em análise.
+
+ **Nota:** Inclui informação relativa às UCP-RNCCI. Estas unidades, apesar de utilizarem o SI RNCCI, integram a Rede Nacional de Cuidados Paliativos (RNCP).";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:04.012000";"2023-06-27T05:00:04.012000";"acesso,cci,cuidados-continuados,ega,referenciados,rncci,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ec4078190f898e7714e";"Conta do Serviço Nacional de Saúde";"conta-do-servico-nacional-de-saude";"";"https://dados.gov.pt/pt/datasets/conta-do-servico-nacional-de-saude/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Apresentação do saldo do Serviço Nacional de Saúde (SNS), de acordo com a metodologia das contas nacionais.
+
+ **Observações:** As Contas Consolidadas do Serviço Nacional de Saúde (SNS) foram elaboradas com base na Demonstração dos Resultados, conforme o Plano Oficial de Contabilidade do Ministério da Saúde até 2017, SNC-AP a partir de 2018, e na base das contas nacionais de acordo com o Sistema Europeu de Contas (SEC 95) até 2014 e de acordo com o Sistema Europeu de Contas de 2010 (SEC 2010) a partir de 2015.
+
+Os dados de dezembro de 2022 são provisórios.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:03.983000";"2023-06-27T05:00:03.983000";"contabilidade,contas,eficiencia,gestao-financeira,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ec4078190f8a6e7714e";"Morbilidade e Mortalidade Hospitalar para Hipertensão Arterial e Insuficiência Cardíaca Congestiva";"morbilidade-e-mortalidade-hospitalar-para-hipertensao-arterial-e-insuficiencia-cardiaca-congestiva-1";"";"https://dados.gov.pt/pt/datasets/morbilidade-e-mortalidade-hospitalar-para-hipertensao-arterial-e-insuficiencia-cardiaca-congestiva-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução trimestral da taxa de internamento e taxa de mortalidade, por instituição, hipertensão arterial e insuficiência cardíaca congestiva.
+
+Taxa de internamento e Taxa de mortalidade, considerando:
+
+  * Ano e Trimestre de alta;
+  * Região da Inst. Hospitalar e Instituição Hospitalar;
+  * Hipertensão Arterial e Insuficiência Cardíaca Congestiva.
+
+
+
+  
+
+
+ **Observações:** Calculado tendo em consideração a portaria 207/2017, o âmbito de análise de Estatística e tipo de produção Internamento. Os indicadores apresentados correspondem a indicadores contratualizados com as ULS e reconhecidos internacionalmente como sendo internamentos evitáveis.
+
+Os dados resultam da codificação clínica efetuada pelos hospitais em ICD9CM/ICD10CM/PCS após a alta do doente, podendo existir em algumas instituições maior atraso nesta codificação (o que pode resultar numa diminuição temporária dos episódios reportados). Os registos administrativos e de codificação clínica são da exclusiva responsabilidade de cada instituição hospitalar. A codificação clínica ICD9CM/ICD10CM/PCS não corresponde à classificação de causas de morte, em sede de certificados de óbito.
+
+As instituições apresentadas correspondem às instituições presentes no site de Benchmarking Hospitais da ACSS (Grupos B,C, D, E e F, https://benchmarking-acss.min-saude.pt/BH_Enquadramento/GrupoInstituicoes).";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:03.948000";"2023-06-27T05:00:03.948000";"hipertensao-arterial,insuficiencia-cardiaca-congestiva,internamento-hospitalar,morbilidade,mortalidade,saude-dos-portugueses,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"649a5ec4078190f899e7714e";"Distribuição do Destino das Altas na Rede";"distribuicao-do-destino-das-altas-na-rede-1";"";"https://dados.gov.pt/pt/datasets/distribuicao-do-destino-das-altas-na-rede-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Identificar o destino dos utente que tiveram alta da Rede.
+
+Número de utentes com registos em cada uma das opções do campo “Destino após alta” na Nota de Alta cujos episódios estejam como “Terminado/Alta”, que tenham data de fim de internamento no período em questão
+
+**Observações:** Número de utentes com registos em cada uma das opções do campo “Destino após alta” na Nota de Alta cujos episódios estejam como “Terminado/Alta”, que tenham data de fim de internamento no período em questão.
+
+ **Nota:** Inclui informação relativa às UCP-RNCCI. Estas unidades, apesar de utilizarem o SI RNCCI, integram a Rede Nacional de Cuidados Paliativos (RNCP).
+
+**Data de extração:**  dia 12 de cada mês";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2023-06-27T05:00:03.918000";"2023-06-27T05:00:03.918000";"alta,alta-da-unidade,cci,cuidados-continuados,eficiencia,rncci,transparencia-sns-gov-pt";False;2;2;"json,csv";"";"";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"62f87348078190cc0c72ae71";"Morbilidade e Mortalidade Hospitalar";"morbilidade-e-mortalidade-hospitalar";"";"https://dados.gov.pt/pt/datasets/morbilidade-e-mortalidade-hospitalar/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução mensal do número de episódios de internamento e ambulatório, dias de internamento e óbitos, por instituição e capítulo do diagnóstico principal da ICD9CM/ICD10CM/PCS.
+
+Internamentos, Total de dias de internamento, Ambulatórios e Óbitos considerando:
+
+  * Ano e Mês de alta;
+  * Região da Inst. Hospitalar e Instituição Hospitalar;
+  * Código e descrição do capítulo do diagnóstico principal da ICD9CM/ICD10CM/PCS
+  * Faixa Etária
+  * Sexo
+
+
+
+**Observações:** Calculado tendo em consideração a portaria 207/2017 e o âmbito de análise de Estatística.
+
+Os dados resultam da codificação clínica efetuada pelos hospitais em ICD9CM/ICD10CM/PCS após a alta do doente, podendo existir em algumas instituições maior atraso nesta codificação (o que pode resultar numa diminuição temporária dos episódios reportados). Os registos administrativos e de codificação clínica são da exclusiva responsabilidade de cada instituição hospitalar.
+
+As instituições apresentadas correspondem às instituições presentes no site de Benchmarking Hospitais da ACSS (Grupos B,C, D, E e F, https://benchmarking-acss.min-saude.pt/BH_Enquadramento/GrupoInstituicoes).
+
+Diagnóstico principal ICD9CM/ICD10CM/PCS diz respeito ao diagnóstico que, após a alta do utente e o estudo completo do episódio de internamento, é considerado (em sede de codificação clinica) como a causa da admissão do utente ao internamento. A codificação clínica ICD9CM/ICD10CM/PCS não corresponde à classificação de causas de morte, em sede de certificados de óbito.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2022-08-14T05:00:08.618000";"2022-08-14T05:00:08.618000";"icd9cm-icd10cm-pcs,internamento-hospitalar,morbilidade,mortalidade,saude-dos-portugueses,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";1;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;362;0
+"62e0b8450781902ae58bd6f3";"Morbilidade e Mortalidade Hospitalar para Asma, DPOC e Pneumonia";"morbilidade-e-mortalidade-hospitalar-para-asma-dpoc-e-pneumonia-1";"";"https://dados.gov.pt/pt/datasets/morbilidade-e-mortalidade-hospitalar-para-asma-dpoc-e-pneumonia-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução trimestral da taxa de internamento e taxa de mortalidade, por instituição, asma, DPOC e pneumonia
+
+Taxa de internamento e Taxa de mortalidade, considerando:
+
+  * Ano e Trimestre de alta;
+  * Região da Inst. Hospitalar e Instituição Hospitalar;
+  * Asma, DPOC e Pneumonia.
+
+
+
+  
+
+
+**Observações:** Calculado tendo em consideração a portaria 207/2017, o âmbito de análise de Estatística e tipo de produção Internamento. Os indicadores apresentados correspondem a indicadores contratualizados com as ULS e reconhecidos internacionalmente como sendo internamentos evitáveis.
+
+Os dados resultam da codificação clínica efetuada pelos hospitais em ICD9CM/ICD10CM/PCS após a alta do doente, podendo existir em algumas instituições maior atraso nesta codificação (o que pode resultar numa diminuição temporária dos episódios reportados). Os registos administrativos e de codificação clínica são da exclusiva responsabilidade de cada instituição hospitalar. A codificação clínica ICD9CM/ICD10CM/PCS não corresponde à classificação de causas de morte, em sede de certificados de óbito.
+
+As instituições apresentadas correspondem às instituições presentes no site de Benchmarking Hospitais da ACSS (Grupos B,C, D, E e F, https://benchmarking-acss.min-saude.pt/BH_Enquadramento/GrupoInstituicoes).";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2022-07-27T05:00:05.330000";"2022-07-27T05:00:05.330000";"asma,dpoc,internamento-hospitalar,morbilidade,mortalidade,pneumonia,saude-dos-portugueses,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;5;0
+"62e0b84507819088b18bd6ed";"Morbilidade e Mortalidade Hospitalar por Sexo";"morbilidade-e-mortalidade-hospitalar-por-sexo";"";"https://dados.gov.pt/pt/datasets/morbilidade-e-mortalidade-hospitalar-por-sexo/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução trimestral da taxa de internamento e taxa de mortalidade, por região, sexo e capítulo do diagnóstico principal da ICD9CM/ICD10CM/PCS
+
+Taxa de internamento e Taxa de mortalidade, considerando:
+
+  * Ano e Trimestre de alta;
+  * Região da Instituição Hospitalar;
+  * Sexo do utente;
+  * Código e descrição do capítulo do diagnóstico principal da ICD9CM/ICD10CM/PCS.
+
+
+
+  
+
+
+**Observações:** Calculado tendo em consideração a portaria 207/2017, o âmbito de análise de Estatística e tipo de produção Internamento.
+
+Os dados resultam da codificação clínica efetuada pelos hospitais em ICD9CM/ICD10CM/PCS após a alta do doente, podendo existir em algumas instituições maior atraso nesta codificação (o que pode resultar numa diminuição temporária dos episódios reportados). Os registos administrativos e de codificação clínica são da exclusiva responsabilidade de cada instituição hospitalar.
+
+As instituições apresentadas correspondem às instituições presentes no site de Benchmarking Hospitais da ACSS (Grupos B,C, D, E e F, https://benchmarking-acss.min-saude.pt/BH_Enquadramento/GrupoInstituicoes).
+
+Diagnóstico principal ICD9CM/ICD10CM/PCS diz respeito ao diagnóstico que, após a alta do utente e o estudo completo do episódio de internamento, é considerado (em sede de codificação clinica) como a causa da admissão do utente ao internamento. A codificação clínica ICD9CM/ICD10CM/PCS não corresponde à classificação de causas de morte, em sede de certificados de óbito.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2022-07-27T05:00:05.197000";"2022-07-27T05:00:05.196000";"icd9cm-icd10cm-pcs,internamento-hospitalar,morbilidade,mortalidade,saude-dos-portugueses,sexo,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"62e0b851667d4914c22c1057";"Morbilidade e Mortalidade Hospitalar para Diabetes";"morbilidade-e-mortalidade-hospitalar-para-diabetes";"";"https://dados.gov.pt/pt/datasets/morbilidade-e-mortalidade-hospitalar-para-diabetes/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução trimestral da taxa de internamento e taxa de mortalidade, por instituição, diabetes.
+
+Taxa de internamento e Taxa de mortalidade, considerando:
+
+  * Ano e Trimestre de alta; 
+  * Região da Inst. Hospitalar e Instituição Hospitalar;
+  * Diabetes.
+
+
+
+  
+
+
+**Observações:** Calculado tendo em consideração a portaria 207/2017, o âmbito de análise de Estatística e tipo de produção Internamento. Os indicadores apresentados correspondem a indicadores contratualizados com as ULS e reconhecidos internacionalmente como sendo internamentos evitáveis.
+
+Os dados resultam da codificação clínica efetuada pelos hospitais em ICD9CM/ICD10CM/PCS após a alta do doente, podendo existir em algumas instituições maior atraso nesta codificação (o que pode resultar numa diminuição temporária dos episódios reportados). Os registos administrativos e de codificação clínica são da exclusiva responsabilidade de cada instituição hospitalar. A codificação clínica ICD9CM/ICD10CM/PCS não corresponde à classificação de causas de morte, em sede de certificados de óbito.
+
+As instituições apresentadas correspondem às instituições presentes no site de Benchmarking Hospitais da ACSS (Grupos B,C, D, E e F, https://benchmarking-acss.min-saude.pt/BH_Enquadramento/GrupoInstituicoes).";"unknown";"Licença não especificada";"";"";"";"";False;"2022-07-27T04:00:16.930000";"2022-07-27T04:00:16.930000";"diabetes,internamento-hospitalar,morbilidade,mortalidade,saude-dos-portugueses,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;1;0
+"62e0b850161ab4de232c1052";"Morbilidade e Mortalidade Hospitalar por Faixa Etária";"morbilidade-e-mortalidade-hospitalar-por-faixa-etaria";"";"https://dados.gov.pt/pt/datasets/morbilidade-e-mortalidade-hospitalar-por-faixa-etaria/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução trimestral da taxa de internamento e taxa de mortalidade, por região, faixa etária e capítulo do diagnóstico principal da ICD9CM/ICD10CM/PCS
+
+Taxa de internamento e Taxa de mortalidade, considerando:
+
+  * Ano e Trimestre de alta;
+  * Região da Instituição Hospitalar;
+  * Faixa etária do utente à data de admissão;
+  * Código e descrição do capítulo do diagnóstico principal da ICD9CM/ICD10CM/PCS.
+
+
+
+  
+
+
+**Observações:** Calculado tendo em consideração a portaria 207/2017, o âmbito de análise de Estatística e tipo de produção Internamento.
+
+Os dados resultam da codificação clínica efetuada pelos hospitais em ICD9CM/ICD10CM/PCS após a alta do doente, podendo existir em algumas instituições maior atraso nesta codificação (o que pode resultar numa diminuição temporária dos episódios reportados). Os registos administrativos e de codificação clínica são da exclusiva responsabilidade de cada instituição hospitalar.
+
+As instituições apresentadas correspondem às instituições presentes no site de Benchmarking Hospitais da ACSS (Grupos B,C, D, E e F, https://benchmarking-acss.min-saude.pt/BH_Enquadramento/GrupoInstituicoes).
+
+Diagnóstico principal ICD9CM/ICD10CM/PCS diz respeito ao diagnóstico que, após a alta do utente e o estudo completo do episódio de internamento, é considerado (em sede de codificação clinica) como a causa da admissão do utente ao internamento. A codificação clínica ICD9CM/ICD10CM/PCS não corresponde à classificação de causas de morte, em sede de certificados de óbito.";"unknown";"Licença não especificada";"";"";"";"";False;"2022-07-27T04:00:16.305000";"2022-07-27T04:00:16.305000";"faixa-etaria,icd9cm-icd10cm-pcs,internamento-hospitalar,morbilidade,mortalidade,saude-dos-portugueses,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;4;0
+"62e0b8468e897dcd972c1050";"Morbilidade e Mortalidade Hospitalar para Hipertensão Arterial e Insuficiência Cardíaca Congestiva";"morbilidade-e-mortalidade-hospitalar-para-hipertensao-arterial-e-insuficiencia-cardiaca-congestiva";"";"https://dados.gov.pt/pt/datasets/morbilidade-e-mortalidade-hospitalar-para-hipertensao-arterial-e-insuficiencia-cardiaca-congestiva/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução trimestral da taxa de internamento e taxa de mortalidade, por instituição, hipertensão arterial e insuficiência cardíaca congestiva
+
+Taxa de internamento e Taxa de mortalidade, considerando:
+
+  * Ano e Trimestre de alta;
+  * Região da Inst. Hospitalar e Instituição Hospitalar;
+  * Hipertensão Arterial e Insuficiência Cardíaca Congestiva.
+
+
+
+  
+
+
+**Observações:** Calculado tendo em consideração a portaria 207/2017, o âmbito de análise de Estatística e tipo de produção Internamento. Os indicadores apresentados correspondem a indicadores contratualizados com as ULS e reconhecidos internacionalmente como sendo internamentos evitáveis.
+
+Os dados resultam da codificação clínica efetuada pelos hospitais em ICD9CM/ICD10CM/PCS após a alta do doente, podendo existir em algumas instituições maior atraso nesta codificação (o que pode resultar numa diminuição temporária dos episódios reportados). Os registos administrativos e de codificação clínica são da exclusiva responsabilidade de cada instituição hospitalar. A codificação clínica ICD9CM/ICD10CM/PCS não corresponde à classificação de causas de morte, em sede de certificados de óbito.
+
+As instituições apresentadas correspondem às instituições presentes no site de Benchmarking Hospitais da ACSS (Grupos B,C, D, E e F, https://benchmarking-acss.min-saude.pt/BH_Enquadramento/GrupoInstituicoes).";"unknown";"Licença não especificada";"";"";"";"";False;"2022-07-27T04:00:06.473000";"2022-07-27T04:00:06.473000";"hipertensao-arterial,insuficiencia-cardiaca-congestiva,internamento-hospitalar,morbilidade,mortalidade,saude-dos-portugueses,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;5;0
+"5ba1c9d776892f0e4ed191cb";"​Mapeamento entre Códigos de Centros de Custo e Códigos da Hierarquia de Locais";"mapeamento-entre-codigos-de-centros-de-custo-e-codigos-da-hierarquia-de-locais";"";"https://dados.gov.pt/pt/datasets/mapeamento-entre-codigos-de-centros-de-custo-e-codigos-da-hierarquia-de-locais/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"A hierarquia de locais do sistema de saúde é produzida pela ACSS, com base em informações recolhidas a partir da legislação, transmitidas de forma oficial pelas ARS, ULS ou hospitais ou recolhidas direta e automaticamente a partir dos sistemas de informação.
+
+Os centros de custo nascem na contabilidade analítica das instituições (ARS, ULS e hospitais) e são carregados manualmente no RHV pelas instituições.
+
+Cada centro de custo relaciona-se com um e um só código da hierarquia de locais da ACSS.
+
+Cada código da hierarquia de locais da ACSS pode corresponder a zero, um ou mais centros de custo existentes no RHV.
+
+**Chave Primária**
+
+A chave primária ou identificador único de registos desta view e também para a granularidade ""centro de custo"" é a combinação das seguintes colunas:
+
+\- [cod_mes];
+
+\- [tipo_instituicao];
+
+\- [cod_instituicao];
+
+\- [cod_centro_custo].
+
+A chave primária ou identificador único de registos para a granularidade ""local da hierarquia"" é a combinação das seguintes colunas:
+
+\- [cod_mes];
+
+\- [nivel_hierarquia];
+
+\- [cod_hier_loc].
+
+**Descrição dos Campos:**
+
+**Período:** Especifica o mês a que se aplica a informação. 
+
+**cod_instituicao:** Código da instituição.
+
+**cod_centro_custo:** Código de centro de custo usado no RHV para a instituição identificada pelos campos [tipo_instituicao] e [cod_instituicao].
+
+**des_centro_custo:** Descritivo do código de centro de custo.
+
+**abrev_instituicao:** Nome abreviado da instituição identificada pelos campos [tipo_instituicao] e [cod_instituicao].
+
+**des_instituicao:** Nome da instituição.
+
+**tipo_instituicao:** Especifica o tipo de instituição titular do código de centro de custo. São possíveis 2 valores: ARS e ULS. 
+
+**nivel_hierarquia:** Representa o ""tipo"" e ""nível"" da hierarquia de locais. O primeiro caracter representa o tipo de hierarquia (podendo assumir os valores ""O"" e ""H""). O segundo caracter é um valor numérico entre 1 e 9 e representa o nível hierárquico.
+
+**cod_hier_loc:** Código do elemento que mapeia com o centro de custo no nível especificado em [nivel_hierarquia].
+
+**nome_uf_serv_depart_hier_loc:** Designação do elemento com que mapeia o centro de custo na hierarquia de locais e no nível definidos em [tipo_hierarquia] e em [nivel_hierarquia].
+
+**cod_dia_dta_ini_uf_serv_dep:** Especifica a data de criação da unidade funcional, serviço, departamento ou unidade orgânica na hierarquia de locais da ACSS. Formato YYYYMMDD. 
+
+**tipo_uf_serv_depart:** Define a tipologia de unidade funcional, serviço ou departamento.
+
+**des_tipo_uf_serv_depart:** Designação da tipologia de unidade funcional, serviço ou departamento.
+
+**cod_area_atuacao_princ_serv:** Código que permite especificar a área principal das atribuições conferidas à unidade, serviço, departamento ou outro tipo de unidade orgânica mapeada na hierarquia de locais.
+
+**des_area_atuacao_princ_serv:** Descritivo do campo [cod_area_atuacao_princ_serv].
+
+**cod_nivel_acesso:** Código que permite especificar a abrangência do acesso a informação no BI-CSP que será dado aos utilizadores associados ao centro de custo.
+
+**des_nivel_acesso:** Descritivo do campo [cod_nivel_acesso].
+
+**cod_aces_hosp_grupo:** Código do ACES ou do hospital ou do grupo agregador a que pertence a unidade funcional ou serviço, usado no nível 4 da hierarquia de locais clássica. Este campo não está preenchido nos códigos correspondentes aos serviços centrais das ARS nem nos códigos pertencentes aos serviços centrais das ULS.
+
+**aces_hosp_grupo:** Designação do ACES ou do hospital ou do grupo agregador com o código registado em [cod_aces_hosp_grupo].
+
+**cod_uls_grupo:** Código da ULS ou do grupo agregador a que pertence a unidade funcional ou serviço, usado no nível 5 da hierarquia de locais clássica.Este campo não está preenchido nos códigos correspondentes aos serviços centrais das ARS.
+
+**uls_grupo:** Designação da ULS ou do grupo agregador com o código registado em [cod_uls_grupo].
+
+**cod_ars_rs:** Código da ARS a que pertence a unidade funcional ou serviço, usado no nível 6 da hierarquia de locais clássica.
+
+**ars_rs:** Designação da ARS registada em [cod_ars_rs].
+
+**cod_mes_ini_mapeam_cc_hier_loc:** Especifica o mês em que pela primeira vez o centro de custo e o elemento da hierarquia de locais foram mapeados no passado. Formato YYYYMM.
+
+**cod_mes_ini_nome_uf_serv_dep:** Especifica o mês em que pela primeira vez o centro de custo e o elemento da hierarquia de locais foram mapeados no passado com a mesma designação na hierarquia de locais. Formato YYYYMM.
+
+**cod_dia_data_refer:** Especifica a data de referência do mapeamento. Formato YYYYMMDD.
+
+**Ordem:** Ordenação lógica dos registos. Permite ordenar os registos de forma a que fiquem juntos os das mesmas instituições fazendo a ordenação habitual dos organigramas.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2018-09-19T05:00:23.585000";"2019-12-15T04:00:08.666000";"centros-de-custo,hierarquia-de-locais,saude-dos-portugueses,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;74;0
+"5b31bb08c8d8c9285021e943";"Atividade nos Cuidados Saúde Primários - Monitorização Sazonal";"atividade-nos-cuidados-saude-primarios-monitorizacao-sazonal";"";"https://dados.gov.pt/pt/datasets/atividade-nos-cuidados-saude-primarios-monitorizacao-sazonal/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorizar a evolução, o acesso, e a procura nos Cuidados de Saúde Primários e disponibilizar a informação em tempo útil.
+
+**Observações:**
+
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Creative Commons Attribution 4.0 - CC BY 4.0";"";"";"";"";False;"2018-06-26T05:03:20.593000";"2019-12-15T04:00:21.242000";"acesso,csp,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;5;0
+"5b03f72fc8d8c922a24afa5c";"Atividade do Programa de Diabetes";"atividade-do-programa-de-diabetes-1";"";"https://dados.gov.pt/pt/datasets/atividade-do-programa-de-diabetes-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorização do programa de acompanhamento de utentes com diabetes.
+
+**Fórmulas:**
+
+  1. Utentes inscritos com diabetes com exame dos pés realizado no último ano = numerador
+  2. Proporção DM com exame pés último ano = (numerador/denominador) * 100
+  3. Utentes inscritos com diabetes com último resultado de HgbA1c inferior ou igual a 8,0% = numerador
+  4. Proporção DM c/ última HgbA1c <= 8,0 % = (numerador /denominador) * 100
+
+
+
+  
+**Observações:**
+
+  * No cálculo das métricas deste indicador, não foram considerados dados de produção provenientes do sistema Vitacare. Devido a questões técnicas, para os registos de novembro 2016, os dados não incluem registos da Região de Saúde LVT.
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:55:43.318000";"2019-12-15T04:00:29.210000";"cuidados-de-saude-primarios,diabetes,saude-dos-portugueses,transparencia-sns-gov-pt";False;8;8;"json,shp,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";1;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;12;0
+"5b03f724c8d8c922914afa66";"Dispensa de Medicamentos";"dispensa-de-medicamentos-1";"";"https://dados.gov.pt/pt/datasets/dispensa-de-medicamentos-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorizar mensalmente o volume de prescrições de medicamentos dispensadas.
+
+Devido à necessidade de consolidação, os dados disponibilizados mensalmente respeitam ao período temporal n-3.
+
+**Observações:**
+
+  * Métricas calculadas com base na Administração Regional de Saúde (ARS) de faturação. A métrica ""Valor Comparticipado pelo SNS"" para a Região de Saúde do Algarve só apresenta registos a partir de novembro 2015. Devido a questões técnicas, para os registos de novembro 2016, os dados não incluem registos da Região de Saúde LVT. 
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:55:32.107000";"2019-12-15T04:00:33.252000";"dispensa,medicamentos,prescricao-eletronica,qualidade,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";1;0;20;0
+"5b03f712c8d8c922914afa62";"Ausência ao Trabalho por Tipologia";"ausencia-ao-trabalho-por-tipologia-1";"";"https://dados.gov.pt/pt/datasets/ausencia-ao-trabalho-por-tipologia-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Quantifica a evolução mensal cumulativa do número de dias de ausência ao trabalho pelos diferentes motivos de ausência.
+
+**Observações:** O indicador não abrange dados do IGAS..";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:55:14.252000";"2019-12-15T04:00:45.799000";"ausencias,eficiencia,recursos-humanos,trabalhadores,transparencia-sns-gov-pt";False;7;7;"json,shp,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.44";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;10;0
+"5b03f70fc8d8c922944afa5f";"Atividade do Síndrome Gripal nos Cuidados de Saúde Primários";"atividade-do-sindrome-gripal-nos-cuidados-de-saude-primarios";"";"https://dados.gov.pt/pt/datasets/atividade-do-sindrome-gripal-nos-cuidados-de-saude-primarios/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorizar a evolução, o acesso, e a procura nos Cuidados de Saúde Primários e disponibilizar a informação em tempo útil.
+
+**Observações:**
+
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:55:10.930000";"2019-12-15T04:00:53.061000";"acesso,csp,sindroma-gripal,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;0;0
+"5b03f70ac8d8c9229f4afa58";"MCDT Realizados em Entidades Convencionadas";"mcdt-realizados-em-entidades-convencionadas-1";"";"https://dados.gov.pt/pt/datasets/mcdt-realizados-em-entidades-convencionadas-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Exprime a evolução da requisições de MCDT por área realizados em entidades convencionadas.  
+
+
+Devido à necessidade de consolidação, os dados disponibilizados mensalmente respeitam ao período temporal n-3.
+
+**Observações:**
+
+  * Nº Requisições Dispensadas por Área de MCDT (Qt) = soma das requisições por Região / AREA MCDT. Encargos c/ Setor Convencionado por Área de MCDT (€) = soma dos Encargos c/ setor convencionado por Região / AREA MCDT.
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:55:06.391000";"2019-12-15T04:00:36.977000";"acesso,entidades-convencionadas,mcdt,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;19;0
+"5b03f708c8d8c922944afa5e";"Trabalho Noturno, Normal e Suplementar";"trabalho-noturno-normal-e-suplementar-1";"";"https://dados.gov.pt/pt/datasets/trabalho-noturno-normal-e-suplementar-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Quantifica o número de horas de trabalho normal noturno e ao sábado depois das 13h00, domingos, feriados e o trabalho suplementar efetuado mensalmente por entidade.
+
+Os indicadores constantes neste catálogo são:
+
+  1. Trabalho Suplementar Diurno
+  2. Trabalho Suplementar Nocturno
+  3. Trabalho em Dias de Descanso Semanal Obrigatório
+  4. Trabalho em Dias de Descanso Semanal Complementar
+  5. Trabalho em Dias Feriados
+  6. Trabalho Nocturno Normal
+  7. Trabalho Nocturno Suplementar
+
+
+
+  * O trabalho suplementar diurno e noturno só contempla o trabalho extraordinário efetuado em dias normais de trabalho.
+
+
+  * Para os indicadores 1) a 5), é o total de horas suplementares/extraordinárias efetuadas pelos trabalhadores do serviço entre 1 jan e 31 dez.
+
+
+  * Para os indicadores 6) e 7) é o total de horas apenas de trabalho noturno efetuadas pelos trabalhadores do serviço entre 1 jan e 31 dez.
+
+
+  * O trabalho noturno extraordinário é o efetuado em dias normais e em dias de descanso semanal obrigatório, complementar e feriados.
+
+
+
+**Observações****:** O indicador não abrange dados do IGAS.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:55:04.079000";"2019-12-15T04:00:37.127000";"eficiencia,recursos-humanos,trabalhadores,transparencia-sns-gov-pt";False;8;8;"json,shp,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;68;0
+"5b03f706c8d8c922a24afa54";"Trabalhadores por Modalidade de Vinculação";"trabalhadores-por-modalidade-de-vinculacao-1";"";"https://dados.gov.pt/pt/datasets/trabalhadores-por-modalidade-de-vinculacao-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Acompanhar o número de trabalhadores que estavam a exercer funções, por entidade e por mês, discriminado pelas várias formas de vinculação
+
+**Observações:** O indicador não abrange dados do IGAS.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:55:02.177000";"2019-12-15T04:00:19.295000";"eficiencia,recursos-humanos,trabalhadores,transparencia-sns-gov-pt";False;7;7;"json,shp,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.44";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;2;0
+"5b03f6eac8d8c922a24afa4f";"Utentes Isentos Taxas Moderadoras";"utentes-isentos-taxas-moderadoras-1";"";"https://dados.gov.pt/pt/datasets/utentes-isentos-taxas-moderadoras-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Acompanhar o número de utentes isentos do pagamento de taxa moderadora.
+
+À luz do novo regulamento do Registo Nacional de Utentes (RNU), em aplicação desde dezembro de 2017, neste indicador são apresentados todos os critérios de isenção do pagamento de taxa moderadora. Realça-se que um utente poderá beneficiar de isenção por cumprir mais do que um critério.
+
+Desta forma, o total de utentes isentos do pagamento de taxa moderadora no SNS é apresentado num campo específico, representando o universo integral de utentes que beneficiam da isenção de pagamento de Taxa Moderadora no Serviço Nacional de Saúde, cumprindo pelo menos um dos critérios previsto.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:54:34.303000";"2019-12-15T04:00:44.404000";"acesso,isentos,taxa-moderadora,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;80;0
+"5b03f6e4c8d8c922a24afa4e";"Exames Convencionados por Área MCDT";"exames-convencionados-por-area-mcdt";"";"https://dados.gov.pt/pt/datasets/exames-convencionados-por-area-mcdt/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Quantidade de exames aceites, por mês, ARS (de faturação), convencionado e Área MCDT.
+
+Devido à necessidade de consolidação, os dados disponibilizados mensalmente respeitam ao período temporal n-3.
+
+**Fórmula:**
+
+  1. **Atos Aceites** : Quantidade efetiva de atos prestados (uma linha de requisição pode ter 1 ou mais atos prestados);
+  2. **Requisições Aceites** : Quantidade de requisições de MCDT.
+
+
+
+  
+**Observações:**
+
+  * Devido a questões técnicas, para os registos de novembro 2016, os dados não incluem registos das Regiões de Saúde do Algarve e do Alentejo. 
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:54:28.296000";"2019-12-15T04:00:14.175000";"convencionados,eficiencia,exames,mcdt,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;42;0
+"5b03f6dcc8d8c9229f4afa50";"Prescritores “Receita Sem Papel” (RSP) em locais não-SNS";"prescritores-receita-sem-papel-rsp-em-locais-nao-sns";"";"https://dados.gov.pt/pt/datasets/prescritores-receita-sem-papel-rsp-em-locais-nao-sns/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Acompanhar a adoção da Receita sem Papel (RSP) no Setor Privado, pelos prescritores com maior nível de atividade RSP
+
+**Data de extração:** Diariamente..";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:54:19.778000";"2019-12-15T04:00:53.536000";"acesso,prescricao,receita-sem-papel,rsp,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;1;0
+"5b03f6d6c8d8c9229f4afa4f";"Atividade do Programa de Hipertensão";"atividade-do-programa-de-hipertensao-1";"";"https://dados.gov.pt/pt/datasets/atividade-do-programa-de-hipertensao-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorização do programa de acompanhamento dos utentes com hipertensão arterial.
+
+Indicador que exprime a proporção de utentes com hipertensão arterial, com idade inferior a 65 anos, com pelo menos uma medição de pressão arterial nos últimos 6 meses e último resultado inferior a 150/90 mmHg
+
+**Fórmula:**
+
+  1. Utentes inscritos com hipertensão arterial, com pressão arterial inferior a 150/90 mmHg nos últimos 6 meses = numerador 
+  2. Proporção hipertensos < 65 Anos, com Pressão Arterial < 150/90 = (numerador / denominador) * 100
+
+
+
+**Observações:**
+
+  * No cálculo das métricas deste indicador, não foram considerados dados de produção provenientes do sistema Vitacare. Devido a questões técnicas, para os registos de novembro 2016, os dados não incluem registos da Região de Saúde LVT.
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:54:13.980000";"2019-12-15T04:00:49.468000";"cuidados-de-saude-primarios,hipertensao,saude-dos-portugueses,transparencia-sns-gov-pt";False;8;8;"json,shp,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;46;0
+"5b03f6d3c8d8c922914afa56";"Dívida Total, Vencida e Pagamentos em Atraso";"divida-total-vencida-e-pagamentos-em-atraso-1";"";"https://dados.gov.pt/pt/datasets/divida-total-vencida-e-pagamentos-em-atraso-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução mensal de valores para a dívida das instituições do SNS a fornecedores externos.
+
+**Métricas:** Dívida Total, Dívida Vencida e Pagamentos em Atraso (Arrears).";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:54:10.957000";"2019-12-15T04:00:43.159000";"dividas,eficiencia,fornecedores,gestao-financeira,pagamentos,privado,transparencia-sns-gov-pt";False;8;8;"json,shp,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;33;0
+"5b03f6d0c8d8c9229f4afa4e";"Gestão Integrada da Doença - Insuficiência Renal Crónica";"gestao-integrada-da-doenca-insuficiencia-renal-cronica";"";"https://dados.gov.pt/pt/datasets/gestao-integrada-da-doenca-insuficiencia-renal-cronica/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Acompanhar o nº de utentes registados, utentes e nº de tratamentos em Hemodiálise";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:54:08.522000";"2019-12-15T04:00:42.967000";"hemodialise,insuficiencia-renal,saude-dos-portugueses,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.44";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;11;0
+"5b03f6cdc8d8c922914afa55";"Mortalidade por AVC Isquémico e Hemorrágico";"mortalidade-por-avc-isquemico-e-hemorragico-1";"";"https://dados.gov.pt/pt/datasets/mortalidade-por-avc-isquemico-e-hemorragico-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorização mensal da taxa de mortalidade por AVC Isquémico e Hemorrágico, nos 30 dias subsequentes ao episódio, discriminada por entidade de saúde.
+
+**Observações:**
+
+Os dados relativos ao mês n-2, publicados até ao último dia útil do mês n, têm caráter provisório, sujeitos a eventuais atualizações.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:54:05.152000";"2019-12-15T04:00:26.197000";"avc,cuidados-hospitalares,mortalidade,qualidade,transparencia-sns-gov-pt";False;8;8;"json,shp,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;23;0
+"5b03f6c5c8d8c9229f4afa4c";"Conta do Serviço Nacional de Saúde";"conta-do-servico-nacional-de-saude-1";"";"https://dados.gov.pt/pt/datasets/conta-do-servico-nacional-de-saude-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Apresentação do saldo do Serviço Nacional de Saúde (SNS), de acordo com a metodologia das contas nacionais.
+
+**Observações** : As Contas Consolidadas do Serviço Nacional de Saúde (SNS) foram elaboradas com base na Demonstração dos Resultados, conforme o Plano Oficial de Contabilidade do Ministério da Saúde até 2017, SNC-AP a partir de 2018, e na base das contas nacionais de acordo com o Sistema Europeu de Contas (SEC 95) até 2014 e de acordo com o Sistema Europeu de Contas de 2010 (SEC 2010) a partir de 2015.
+
+Os dados de dezembro de 2023 são provisórios.
+
+Atendendo à reestruturação do SNS nos termos do decreto-lei 52/2022, de 4 de agosto (Estatutos do SNS), informa-se que os **_dados mensais agregados da conta do SNS de 2024, são provisórios._**";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:53:57.020000";"2019-12-15T04:00:47.121000";"contabilidade,contas,eficiencia,gestao-financeira,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";1;0;60;0
+"5b03f6c3c8d8c922a24afa48";"Atividade do Síndrome Gripal nos Cuidados de Saúde Hospitalares";"atividade-do-sindrome-gripal-nos-cuidados-de-saude-hospitalares";"";"https://dados.gov.pt/pt/datasets/atividade-do-sindrome-gripal-nos-cuidados-de-saude-hospitalares/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorizar a evolução, o acesso e a procura nos Cuidados de Saúde Hospitalares e disponibilizar informação em tempo útil.
+
+**Especificação de Variáveis Monitorização da Urgência:**
+
+[ 531 - Número estimado de episódios de urgência:](https://sdm.min-saude.pt/bi.aspx?id_var=531) Somatório dos episódios dos serviços de urgência.
+
+[527 - Taxa de episódios de urgência com diagnóstico de infeção respiratória:](https://sdm.min-saude.pt/bi.aspx?id_var=527) Numerador: Contagem de episódios de urgência com gripe, síndrome gripal ou outras infeções respiratórias; Denominador: Contagem de episódios de urgência ocorridos.
+
+[515 - Taxa diária de atendimentos urgentes com prioridade verde ou azul:](https://sdm.min-saude.pt/bi.aspx?id_var=515) Numerador: Somatório da contagem de episódios de urgência de Manchester verde, azul e branco; Denominador: Contagem da estimativa do número de residentes na área de inflûencia da urgência.
+
+[405 - Tempo médio de espera entre a triagem e a primeira observação médica:](https://sdm.min-saude.pt/bi.aspx?id_var=405) Numerador: Somatório do tempo decorrido entre a triagem de Manchester e a primeira observação médica, para cada um dos episódios de urgência ocorridos; Denominador: Contagem de episódios de urgência ocorridos.
+
+**Observações:**
+
+**Variável 531 -** Nos serviços que não reportam em determinados dias, efetua-se uma estimativa dos episódios através da fórmula seguinte:
+
+[Estimativa de episódios para o serviço de urgência X no dia Y] =
+
+[Estimativa INE do nº residentes para a área de influência do serviço de urgência X no ano do dia Y] x [Episódios urgência reportados por todos os serviços de urgência no dia Y]
+
+/ [Estimativa INE do nº residentes para a área de influência de todos os serviços de urgência que reportam no dia Y].  
+  
+**Variável 527 -** No denominador da métrica**** apenas se contabilizam os episódios de urgência nos serviços de urgência que reportam episódios com codificação de diagnósticos.
+
+**Variável 405 -** No denominador da métrica apenas se contabilizam os episódios de urgência nos serviços de urgência que reportam dados relacionados com ""triagem de Manchester"".";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:53:55.204000";"2019-12-15T04:00:40.616000";"acesso,episodios-de-urgencia-hospitalar,gripe,infecao-respiratoria,sindrome-gripal,tempos-de-espera,transparencia-sns-gov-pt";False;4;4;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;1;0
+"5b03f6bbc8d8c9229f4afa4a";"Ausências para Formação e Aperfeiçoamento Profissional";"ausencias-para-formacao-e-aperfeicoamento-profissional";"";"https://dados.gov.pt/pt/datasets/ausencias-para-formacao-e-aperfeicoamento-profissional/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorizar as ausências ao trabalho motivadas pela frequência de ações formação externas, por entidade e grupo profissional.
+
+Contempla os diversos tipos de ausências justificadas por motivo de frequência externa de ação de formação e aperfeiçoamento profissional pelos trabalhadores, agrupados por grupo profissional e entidade.
+
+**Observações:** Não inclui a frequência de ações de formação internas. Inclui horas de ausência convertidas em dias de trabalho (módulos de 7 horas de ausência equivalem a um dia de ausência). O indicador não abrange dados do IGAS e da DGS.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:53:47.290000";"2019-12-15T04:00:36.058000";"absentismo,ausencias,eficiencia,formacao,transparencia-sns-gov-pt";False;8;8;"json,shp,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;3;0
+"5b03f6abc8d8c922914afa4e";"Agregados Económico Financeiros";"agregados-economico-financeiros-1";"";"https://dados.gov.pt/pt/datasets/agregados-economico-financeiros-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução mensal de valores para agregados económico financeiros.
+
+**Observações:**
+
+**Dados relativos a dezembro de 2018 para as seguintes instituições foram obtidos através do Relatório de Contas:**
+
+  * Hospital Distrital S. Maria Maior, EPE - Barcelos
+  * Hospital Garcia de Orta, EPE - Almada
+  * Centro Hospitalar de Lisboa - Zona Ocidental, EPE
+  * Centro Hospitalar de Setúbal, EPE
+  * Centro Hospitalar Vila Nova Gaia/Espinho, EPE
+  * Centro Hospitalar Universitário Lisboa Norte, EPE
+  * Centro Hospitalar de Entre o Douro e Vouga, EPE
+  * Hospital Fernando da Fonseca, EPE
+  * Centro Hospitalar do Barreiro - Montijo, EPE
+
+
+
+Não se dispondo na presente data de informação relativa ao Instituto de Oftalmologia Dr. Gama Pinto.
+
+**Dados relativos a 2019 estão incompletos, encontrando-se em falta os balancetes das seguintes entidades:**
+
+  * Para todos os meses: Hospital Fernando da Fonseca, EPE.
+
+
+
+**O Hospital de Braga, EPE** constitui-se como Entidade Pública Empresarial (EPE) a partir de 1 de setembro de 2019.
+
+**Dados relativos a 2020 estão incompletos, encontrando-se em falta os balancetes da seguinte entidade:**
+
+  * Para outubro a novembro: Hospital de Braga, EPE.
+
+
+
+**O** **Hospital de Vila Franca de Xira, EPE** constitui-se como Entidade Pública Empresarial (EPE) a partir de 1 de junho de 2021.
+
+**O** **Hospital de Loures, EPE** constitui-se como Entidade Pública Empresarial (EPE) a partir de 19 de janeiro de 2022.
+
+**O Centro Hospitalar Universitário de Santo António, EPE** constitui-se como Entidade Pública Empresarial (EPE) a partir de 1 de fevereiro de 2023 por fusão do Centro Hospitalar Universitário do Porto, EPE e do Hospital de Magalhães Lemos, EPE.  
+
+
+Para a **ULS Loures-Odivelas, EPE** os dados económico-financeiros encontram-se com inconsistências e a necessitar de atualização, com exceção dos indicadores provisórios da dívida, por dificuldades técnicas de reporte da entidade. 
+
+**Atualização 2024:**
+
+  * O Decreto-Lei n.º 102/2023, de 7 de novembro procede à criação, com natureza de entidades públicas empresariais, de unidades locais de saúde (ULS).";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:53:30.921000";"2019-12-15T04:00:54.591000";"custos,eficiencia,gestao-financeira,proveitos,resultados,transparencia-sns-gov-pt";False;8;8;"json,shp,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;15;0
+"5b03f6a8c8d8c9229f4afa44";"Trabalhadores por Grupo Profissional";"trabalhadores-por-grupo-profissional-1";"";"https://dados.gov.pt/pt/datasets/trabalhadores-por-grupo-profissional-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Apurar o nº de trabalhadores (empregos), por instituição e por grupo profissional, com contrato de trabalho ativo no mês de análise.
+
+Número de trabalhadores (empregos) com contrato de trabalho ativo no mês em análise, por entidade e por mês, discriminado pelos grupos profissionais: Médicos (sem contabilizar internos), Médicos Internos, Enfermeiros, Técnicos Superiores de Saúde, Farmacêuticos, Técnicos de Diagnóstico e Terapêutica, Assistentes Técnicos, Assistentes Operacionais/Técnicos Auxiliares de Saúde, Técnicos Superiores, Informáticos e Outros.
+
+**Atualizações de informação do indicador**
+
+**2019** \- Em setembro passaram a ser contabilizados os profissionais do Hospital de Braga em virtude da transição desta entidade de Parceria Público Privada para Entidade Pública Empresarial.
+
+**2021** \- A partir de junho foram contabilizados os profissionais do Hospital de Vila Franca de Xira, na sequência da transição desta entidade de Parceria Público Privada para Entidade Pública Empresarial.
+
+**2022** \- Em fevereiro foram contabilizados os profissionais do Hospital de Loures, na sequência da transição desta entidade de Parceria Público Privada para Entidade Pública Empresarial.
+
+**2023** \- A partir de janeiro, os internos que ingressaram na Residência Farmacêutica passaram a ser considerados na informação do RHV. Em fevereiro o Centro Hospitalar Universitário de Santo António, E.P.E. passou a integrar o RHV, em substituição do Centro Hospitalar Universitário do Porto, E.P.E. e do Hospital de Magalhães Lemos, E.P.E., nos termos do Decreto-Lei n.º 7-A/2023, de 30 de janeiro. 
+
+**2024** \- Com a publicação do Decreto-Lei n.º 102/2023, de 7 de novembro, a partir de 1 de janeiro as entidades públicas empresariais passaram a ser designadas por unidades locais de saúde e a integrar os profissionais dos cuidados de saúde primários. Em janeiro, após a publicação do Decreto-Lei nº 120/2023, de 22 de dezembro, foi adicionada a carreira de Técnico Auxiliar de Saúde, cujo número de profissionais se encontra contabilizado em conjunto com os Assistentes Operacionais. A partir de 2025, face ao elevado número de assistentes operacionais que transitaram para a carreira de técnico auxiliar de saúde, optou-se por passar a identificar separadamente estas carreiras.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:53:28.583000";"2019-12-15T04:00:50.871000";"eficiencia,existencias,recursos-humanos,transparencia-sns-gov-pt";False;9;9;"json,png,shp,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";1;0;530;0
+"5b03f6a4c8d8c922a24afa41";"Prazo Médio de Pagamento a Fornecedores";"prazo-medio-de-pagamento-a-fornecedores-1";"";"https://dados.gov.pt/pt/datasets/prazo-medio-de-pagamento-a-fornecedores-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Prazo Médio de Pagamento (PMP) das instituições do SNS a fornecedores";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:53:24.572000";"2019-12-15T04:00:05.465000";"eficiencia,gestao-financeira,pagamentos,transparencia-sns-gov-pt";False;8;8;"json,shp,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.44";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";0;0;14;0
+"5b03f6a2c8d8c9229f4afa42";"Morbilidade e Mortalidade Hospitalar por Instituição";"morbilidade-e-mortalidade-hospitalar-por-instituicao";"";"https://dados.gov.pt/pt/datasets/morbilidade-e-mortalidade-hospitalar-por-instituicao/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Evolução trimestral da taxa de internamento, dias de internamento e taxa de mortalidade, por instituição e capítulo do diagnóstico principal da ICD9CM/ICD10CM/PCS
+
+Taxa de internamento, Total de dias de internamento e Taxa de mortalidade considerando:
+
+  * Ano e Trimestre de alta;
+  * Região da Inst. Hospitalar e Instituição Hospitalar;
+  * Código e descrição do capítulo do diagnóstico principal da ICD9CM/ICD10CM/PCS.
+
+
+
+**  
+**
+
+**Observações:** Calculado tendo em consideração a portaria 207/2017, o âmbito de análise de Estatística e tipo de produção Internamento.
+
+  
+
+
+Os dados resultam da codificação clínica efetuada pelos hospitais em ICD9CM/ICD10CM/PCS após a alta do doente, podendo existir em algumas instituições maior atraso nesta codificação (o que pode resultar numa diminuição temporária dos episódios reportados). Os registos administrativos e de codificação clínica são da exclusiva responsabilidade de cada instituição hospitalar.
+
+  
+
+
+As instituições apresentadas correspondem às instituições presentes no site de Benchmarking Hospitais da ACSS (Grupos B,C, D, E e F, https://benchmarking-acss.min-saude.pt/BH_Enquadramento/GrupoInstituicoes).
+
+  
+
+
+Diagnóstico principal ICD9CM/ICD10CM/PCS diz respeito ao diagnóstico que, após a alta do utente e o estudo completo do episódio de internamento, é considerado (em sede de codificação clinica) como a causa da admissão do utente ao internamento. A codificação clínica ICD9CM/ICD10CM/PCS não corresponde à classificação de causas de morte, em sede de certificados de óbito.
+
+**  
+**";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:53:22.591000";"2019-12-15T04:00:12.598000";"icd9cm-icd10cm-pcs,internamento-hospitalar,morbilidade,mortalidade,saude-dos-portugueses,transparencia-sns-gov-pt";False;5;5;"json,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";1;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";1;0;223;0
+"5b03f696c8d8c922914afa47";"Saúde da Mulher e Criança";"saude-da-mulher-e-crianca-1";"";"https://dados.gov.pt/pt/datasets/saude-da-mulher-e-crianca-1/";"Administração Central do Sistema de Saúde (ACSS), I.P";"5b03f67bc8d8c939b9576397";"";"";"Monitorização da vigilância aos recém-nascidos.
+
+**Fórmula:**
+
+  1. Recém-nascidos com pelo menos uma consulta médica de vigilância nos primeiros 28 dias de vida = numerador
+  2. Proporção RN c/ cons. méd. vigil. até 28 dias vida = (numerador /denominador) *100 
+  3. Recém-nascidos que tiveram pelo menos um domicílio de enfermagem durante os primeiros 15 dias de vida = numerador 
+  4. Proporção RN c/ domicílio enf. até 15º dia de vida = (numerador /denominador) *100
+
+
+
+**Observações:**
+
+  * No cálculo das métricas deste indicador, não foram considerados dados de produção provenientes do sistema Vitacare. Devido a questões técnicas, para os registos de novembro 2016, os dados não incluem registos da Região de Saúde LVT.
+  * Os dados relativos a este indicador são de caráter temporário para o mês publicado mais recente. Por regra, no último dia do mês N+1 (N=""último mês publicado""), existirá uma atualização dos mesmos, sendo provável o seu aumento a nível nacional.";"unknown";"Licença não especificada";"";"";"";"";False;"2018-05-22T11:53:10.330000";"2019-12-15T04:00:29.138000";"cuidados-de-saude-primarios,recem-nascidos,saude-dos-portugueses,transparencia-sns-gov-pt,vigilancia";False;8;8;"json,shp,csv";"OpenDataSoft PT";"transparencia.sns.gov.pt";"";"";"";"0.56";0;0;"{'2024-12': 0, '2025-01': 0, '2025-02': 0, '2025-03': 0, '2025-04': 0, '2025-05': 0, '2025-06': 0, '2025-07': 0, '2025-08': 0, '2025-09': 0, '2025-10': 0, '2025-11': 0, '2025-12': 0}";1;0;9;0
