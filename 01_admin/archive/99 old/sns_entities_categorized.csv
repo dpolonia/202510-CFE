@@ -1,0 +1,427 @@
+﻿id,entity_name,entity_type,region
+1,"Administração Central do Sistema de Saúde, I.P",ACSS,Nacional
+2,"Administração Central do Sistema de Saúde, I.P.",ACSS,Nacional
+3,"Administração Regional De Saúde Do Alentejo, I.P.",ARS,Alentejo
+4,Administração Regional de Saúde do Alentejo,ARS,Alentejo
+5,"Administração Regional de Saúde do Alentejo, I.P.",ARS,Alentejo
+6,"Administração Regional De Saúde Do Algarve, I.P.",ARS,Algarve
+7,Administração Regional de Saúde do Algarve,ARS,Algarve
+8,"Administração Regional de Saúde do Algarve, I.P.",ARS,Algarve
+9,"Administração Regional De Saúde Do Centro, I.P.",ARS,Centro
+10,Administração Regional de Saúde do Centro,ARS,Centro
+11,"Administração Regional de Saúde do Centro, I.P.",ARS,Centro
+12,"Administração Regional Saúde Lisboa Vale Tejo, I.P.",ARS,LVT
+13,Administração Regional de Saúde de Lisboa e Vale do Tejo,ARS,LVT
+14,"Administração Regional de Saúde de Lisboa e Vale do Tejo, I.P.",ARS,LVT
+15,"Administracao Regional Saúde Norte, I.P.",ARS,Norte
+16,"Administração Regional Saúde Norte, I.P.",ARS,Norte
+17,Administração Regional de Saúde do Norte,ARS,Norte
+18,"Administração Regional de Saúde do Norte, I.P.",ARS,Norte
+19,"Centro Hospitalar Alto Ave, E. P. E.",Centro Hospitalar,Centro
+20,"Centro Hospitalar Barreiro Montijo, E.P.E.",Centro Hospitalar,Centro
+21,"Centro Hospitalar Barreiro/Montijo, E.P.E.",Centro Hospitalar,Centro
+22,"Centro Hospitalar Barreiro/Montijo, EPE",Centro Hospitalar,Centro
+23,"Centro Hospitalar Cova da Beira, EPE",Centro Hospitalar,Centro
+24,"Centro Hospitalar Entre Douro e Vouga, E.P.E.",Centro Hospitalar,Centro
+25,"Centro Hospitalar Entre Douro e Vouga, EPE",Centro Hospitalar,Centro
+26,"Centro Hospitalar Médio Ave, E. P. E.",Centro Hospitalar,Centro
+27,"Centro Hospitalar Médio Ave, EPE",Centro Hospitalar,Centro
+28,"Centro Hospitalar Médio Tejo, E. P. E.",Centro Hospitalar,Centro
+29,"Centro Hospitalar Médio Tejo, E.P.E.",Centro Hospitalar,Centro
+30,"Centro Hospitalar Médio Tejo, EPE",Centro Hospitalar,Centro
+31,Centro Hospitalar Psiquiátrico de Lisboa,Centro Hospitalar,Centro
+32,"Centro Hospitalar Psiquiátrico de Lisboa, SPA",Centro Hospitalar,Centro
+33,"Centro Hospitalar Póvoa Varzim / Vila do Conde, E. P. E.",Centro Hospitalar,Centro
+34,"Centro Hospitalar Póvoa Varzim / Vila do Conde, EPE",Centro Hospitalar,Centro
+35,"Centro Hospitalar Póvoa de Varzim/Vila do Conde, E.P.E.",Centro Hospitalar,Centro
+36,"Centro Hospitalar Póvoa de Varzim/Vila do Conde, EPE",Centro Hospitalar,Centro
+37,"Centro Hospitalar Tondela-Viseu, E. P. E.",Centro Hospitalar,Centro
+38,"Centro Hospitalar Tondela-Viseu, E.P.E.",Centro Hospitalar,Centro
+39,"Centro Hospitalar Tondela-Viseu, EPE",Centro Hospitalar,Centro
+40,"Centro Hospitalar Trás-os-Montes e Alto Douro, E. P. E.",Centro Hospitalar,Centro
+41,"Centro Hospitalar Trás-os-Montes e Alto Douro, E.P.E.",Centro Hospitalar,Centro
+42,"Centro Hospitalar Trás-os-Montes e Alto Douro, EPE",Centro Hospitalar,Centro
+43,"Centro Hospitalar Tâmega e Sousa, E.P.E.",Centro Hospitalar,Centro
+44,"Centro Hospitalar Tâmega e Sousa, EPE",Centro Hospitalar,Centro
+45,"Centro Hospitalar Universitário Cova da Beira, E. P. E.",Centro Hospitalar,Centro
+46,"Centro Hospitalar Universitário Cova da Beira, E.P.E.",Centro Hospitalar,Centro
+47,"Centro Hospitalar Universitário Cova da Beira, EPE",Centro Hospitalar,Centro
+48,"Centro Hospitalar Universitário Lisboa Central, E.P.E.",Centro Hospitalar,Centro
+49,"Centro Hospitalar Universitário Lisboa Central, EPE",Centro Hospitalar,Centro
+50,"Centro Hospitalar Universitário de Lisboa Central, E. P. E.",Centro Hospitalar,Centro
+51,"Centro Hospitalar Universitário de Lisboa Central, E.P.E.",Centro Hospitalar,Centro
+52,"Centro Hospitalar Universitário de Lisboa Central, EPE",Centro Hospitalar,Centro
+53,"Centro Hospitalar Universitário de S. João, E.P.E.",Centro Hospitalar,Centro
+54,"Centro Hospitalar Universitário de Santo António, E. P. E.",Centro Hospitalar,Centro
+55,"Centro Hospitalar Universitário de Santo António, E.P.E.",Centro Hospitalar,Centro
+56,"Centro Hospitalar Universitário de Santo António, EPE",Centro Hospitalar,Centro
+57,"Centro Hospitalar Universitário de São João, E. P. E.",Centro Hospitalar,Centro
+58,"Centro Hospitalar Universitário de São João, E.P.E.",Centro Hospitalar,Centro
+59,"Centro Hospitalar Universitário de São João, EPE",Centro Hospitalar,Centro
+60,Centro Hospitalar Universitário do Algarve,Centro Hospitalar,Centro
+61,"Centro Hospitalar Universitário do Algarve, E.P.E",Centro Hospitalar,Centro
+62,"Centro Hospitalar Universitário do Algarve, E.P.E.",Centro Hospitalar,Centro
+63,"Centro Hospitalar Universitário do Algarve,EPE",Centro Hospitalar,Centro
+64,"Centro Hospitalar Universitário do Porto, E. P. E.",Centro Hospitalar,Centro
+65,"Centro Hospitalar Universitário do Porto, E.P.E.",Centro Hospitalar,Centro
+66,"Centro Hospitalar Universitário do Porto, EPE",Centro Hospitalar,Centro
+67,"Centro Hospitalar Vila Nova Gaia/Espinho, E. P. E.",Centro Hospitalar,Centro
+68,"Centro Hospitalar Vila Nova Gaia/Espinho, EPE",Centro Hospitalar,Centro
+69,"Centro Hospitalar Vila Nova de Gaia/Espinho, E.P.E.",Centro Hospitalar,Centro
+70,"Centro Hospitalar Vila Nova de Gaia/Espinho, EPE",Centro Hospitalar,Centro
+71,"Centro Hospitalar de Entre o Douro e Vouga, E. P. E.",Centro Hospitalar,Centro
+72,"Centro Hospitalar de Entre o Douro e Vouga, E.P.E.",Centro Hospitalar,Centro
+73,"Centro Hospitalar de Entre o Douro e Vouga, EPE",Centro Hospitalar,Centro
+74,"Centro Hospitalar de Leiria, E. P. E.",Centro Hospitalar,Centro
+75,"Centro Hospitalar de Leiria, E.P.E.",Centro Hospitalar,Centro
+76,"Centro Hospitalar de Leiria, EPE",Centro Hospitalar,Centro
+77,"Centro Hospitalar de Lisboa - Zona Ocidental, E. P. E.",Centro Hospitalar,Centro
+78,"Centro Hospitalar de Lisboa - Zona Ocidental, EPE",Centro Hospitalar,Centro
+79,"Centro Hospitalar de Lisboa Central, EPE",Centro Hospitalar,Centro
+80,"Centro Hospitalar de Lisboa Ocidental, E.P.E.",Centro Hospitalar,Centro
+81,"Centro Hospitalar de Lisboa Ocidental, EPE",Centro Hospitalar,Centro
+82,"Centro Hospitalar de Setúbal, E. P. E.",Centro Hospitalar,Centro
+83,"Centro Hospitalar de Setúbal, E.P.E.",Centro Hospitalar,Centro
+84,"Centro Hospitalar de Setúbal, EPE",Centro Hospitalar,Centro
+85,"Centro Hospitalar de São João, EPE",Centro Hospitalar,Centro
+86,"Centro Hospitalar de Trás-os-Montes e Alto Douro, E.P.E.",Centro Hospitalar,Centro
+87,"Centro Hospitalar de Vila Nova de Gaia/Espinho, E.P.E.",Centro Hospitalar,Centro
+88,"Centro Hospitalar do Alto Ave, EPE",Centro Hospitalar,Centro
+89,"Centro Hospitalar do Baixo Vouga, E. P. E.",Centro Hospitalar,Centro
+90,"Centro Hospitalar do Baixo Vouga, E.P.E.",Centro Hospitalar,Centro
+91,"Centro Hospitalar do Baixo Vouga, EPE",Centro Hospitalar,Centro
+92,"Centro Hospitalar do Barreiro - Montijo, E. P. E.",Centro Hospitalar,Centro
+93,"Centro Hospitalar do Barreiro - Montijo, EPE",Centro Hospitalar,Centro
+94,"Centro Hospitalar do Médio Ave, E.P.E.",Centro Hospitalar,Centro
+95,"Centro Hospitalar do Médio Ave, EPE",Centro Hospitalar,Centro
+96,"Centro Hospitalar do Médio Tejo, E.P.E.",Centro Hospitalar,Centro
+97,Centro Hospitalar do Oeste,Centro Hospitalar,Centro
+98,"Centro Hospitalar do Oeste, E. P. E.",Centro Hospitalar,Centro
+99,"Centro Hospitalar do Oeste, E.P.E.",Centro Hospitalar,Centro
+100,"Centro Hospitalar do Oeste, EPE",Centro Hospitalar,Centro
+101,"Centro Hospitalar do Oeste, SPA",Centro Hospitalar,Centro
+102,"Centro Hospitalar do Porto, EPE",Centro Hospitalar,Centro
+103,"Centro Hospitalar do Tâmega e Sousa, E. P. E.",Centro Hospitalar,Centro
+104,"Centro Hospitalar do Tâmega e Sousa, E.P.E.",Centro Hospitalar,Centro
+105,"Centro Hospitalar do Tâmega e Sousa, EPE",Centro Hospitalar,Centro
+106,"Centro Hospitalar e Universitário de Coimbra, E. P. E.",Centro Hospitalar,Centro
+107,"Centro Hospitalar e Universitário de Coimbra, E.P.E.",Centro Hospitalar,Centro
+108,"Centro Hospitalar e Universitário de Coimbra, EPE",Centro Hospitalar,Centro
+109,"Centro Hospitalar Lisboa Norte, EPE",Centro Hospitalar,Norte
+110,"Centro Hospitalar Universitário Lisboa Norte, E. P. E.",Centro Hospitalar,Norte
+111,"Centro Hospitalar Universitário Lisboa Norte, EPE",Centro Hospitalar,Norte
+112,"Centro Hospitalar Universitário de Lisboa Norte, E.P.E.",Centro Hospitalar,Norte
+113,"Centro Hospitalar Universitário de Lisboa Norte, EPE",Centro Hospitalar,Norte
+114,"HOSPITAL DE LOURES, E.P.E.",Hospital,Nacional
+115,Hospital Arcebispo João Crisóstomo,Hospital,Nacional
+116,Hospital Arcebispo João Crisóstomo - Cantanhede,Hospital,Nacional
+117,"Hospital Beatriz Ângelo, E.P.E.",Hospital,Nacional
+118,"Hospital De Vila Franca De Xira, E.P.E.",Hospital,Nacional
+119,"Hospital Distrital Figueira da Foz, E. P. E.",Hospital,Nacional
+120,"Hospital Distrital Figueira da Foz, EPE",Hospital,Nacional
+121,"Hospital Distrital S.Maria Maior, E. P. E. - Barcelos",Hospital,Nacional
+122,"Hospital Distrital S.Maria Maior, EPE - Barcelos",Hospital,Nacional
+123,"Hospital Distrital Santarém, E. P. E.",Hospital,Nacional
+124,"Hospital Distrital Santarém, EPE",Hospital,Nacional
+125,"Hospital Distrital da Figueira da Foz, E.P.E.",Hospital,Nacional
+126,"Hospital Distrital da Figueira da Foz, EPE",Hospital,Nacional
+127,"Hospital Distrital de Santarém, E.P.E.",Hospital,Nacional
+128,"Hospital Distrital de Santarém, EPE",Hospital,Nacional
+129,Hospital Doutor Francisco Zagalo - Ovar,Hospital,Nacional
+130,Hospital Dr. Francisco Zagalo,Hospital,Nacional
+131,Hospital Dr. Francisco Zagalo - Ovar,Hospital,Nacional
+132,"Hospital Espírito Santo de Évora, E. P. E.",Hospital,Nacional
+133,"Hospital Espírito Santo de Évora, E.P.E.",Hospital,Nacional
+134,"Hospital Espírito Santo de Évora, EPE",Hospital,Nacional
+135,"Hospital Fernando Fonseca, E. P. E.",Hospital,Nacional
+136,"Hospital Fernando Fonseca, EPE",Hospital,Nacional
+137,"Hospital Garcia de Orta, E. P. E. - Almada",Hospital,Nacional
+138,"Hospital Garcia de Orta, E.P.E.",Hospital,Nacional
+139,"Hospital Garcia de Orta, EPE",Hospital,Nacional
+140,"Hospital Garcia de Orta, EPE - Almada",Hospital,Nacional
+141,Hospital José Luciano Castro - Anadia,Hospital,Nacional
+142,Hospital José Luciano de Castro,Hospital,Nacional
+143,Hospital José Luciano de Castro - Anadia,Hospital,Nacional
+144,"Hospital Professor Doutor Fernando Fonseca, E.P.E.",Hospital,Nacional
+145,"Hospital Professor Doutor Fernando Fonseca, EPE",Hospital,Nacional
+146,Hospital Rovisco Pais,Hospital,Nacional
+147,"Hospital Santa Maria Maior, E.P.E.",Hospital,Nacional
+148,"Hospital Santa Maria Maior, EPE",Hospital,Nacional
+149,"Hospital da Senhora da Oliveira - Guimarães, E.P.E.",Hospital,Nacional
+150,"Hospital da Senhora da Oliveira Guimarães, E. P. E.",Hospital,Nacional
+151,"Hospital da Senhora da Oliveira Guimarães, EPE",Hospital,Nacional
+152,"Hospital da Senhora da Oliveira, Guimarães, E.P.E.",Hospital,Nacional
+153,"Hospital da Senhora da Oliveira, Guimarães, EPE",Hospital,Nacional
+154,"Hospital de Braga, E. P. E.",Hospital,Nacional
+155,"Hospital de Braga, E.P.E.",Hospital,Nacional
+156,"Hospital de Braga, EPE",Hospital,Nacional
+157,"Hospital de Braga, PPP",Hospital,Nacional
+158,Hospital de Cascais Dr. José de Almeida,Hospital,Nacional
+159,"Hospital de Cascais, PPP",Hospital,Nacional
+160,"Hospital de Loures, E. P. E.",Hospital,Nacional
+161,"Hospital de Loures, E.P.E.",Hospital,Nacional
+162,"Hospital de Loures, EPE",Hospital,Nacional
+163,"Hospital de Loures, PPP",Hospital,Nacional
+164,"Hospital de Magalhães Lemos, E. P. E.",Hospital,Nacional
+165,"Hospital de Magalhães Lemos, E.P.E.",Hospital,Nacional
+166,"Hospital de Magalhães Lemos, EPE",Hospital,Nacional
+167,"Hospital de Vila Franca de Xira, E. P. E.",Hospital,Nacional
+168,"Hospital de Vila Franca de Xira, E.P.E.",Hospital,Nacional
+169,"Hospital de Vila Franca de Xira, EPE",Hospital,Nacional
+170,"Hospital de Vila Franca de Xira, PPP",Hospital,Nacional
+171,"Hospital do Espírito Santo de Évora, E.P.E.",Hospital,Nacional
+172,"Autoridade Nac. Medicamento Produtos De Saúde, I.P.",INFARMED,Nacional
+173,"Autoridade Nacional Medicamento Produtos de Saúde, I.P.",INFARMED,Nacional
+174,"Infarmed - Autoridade Nacional do Medicamento e Produtos de Saúde, I.P.",INFARMED,Nacional
+175,"UNIDADE LOCAL DO BAIXO ALENTEJO, EPE",Other,Alentejo
+176,"CENTRO HOSP. UNIVERSITÁRIO SANTO ANTÓNIO, E.P.E.",Other,Centro
+177,Centro Medicina de Reabilitação da Região Centro - Rovisco Pais,Other,Centro
+178,Centro Medicina de Reabilitação da Região Centro Rovisco Pais,Other,Centro
+179,"Instituto Português Oncologia  F. Gentil - Centro, E.P.E.",Other,Centro
+180,"INSTITUTO PORTUGUES DE ONCOLOGIA DE LISBOA, EPE",Other,LVT
+181,"Inst.port.oncologia De Lisboa-franc.gentil, E.P.E.",Other,LVT
+182,Instituto Nacional Saúde Dr. Ricardo Jorge - Lisboa,Other,LVT
+183,"Instituto Português Oncologia  F. Gentil - Lisboa, E.P.E.",Other,LVT
+184,"Instituto Português Oncologia Francisco Gentil - Lisboa, E.P.E.",Other,LVT
+185,"Instituto Português Oncologia de Lisboa, E.P.E.",Other,LVT
+186,"Instituto Português Oncologia de Lisboa, EPE",Other,LVT
+187,"Instituto Português de Oncologia de Lisboa Francisco Gentil, E.P.E.",Other,LVT
+188,"Instituto Português de Oncologia de Lisboa, E. P. E.",Other,LVT
+189,"Instituto Português de Oncologia de Lisboa, EPE",Other,LVT
+190,Ação Governativa,Other,Nacional
+191,Ação Governativa - MS,Other,Nacional
+192,"DIREÇÃO EXECUTIVA DO SERVIÇO NACIONAL DE SAÚDE,I.P",Other,Nacional
+193,"DIREÇÃO EXECUTIVA DO SNS, I.P.",Other,Nacional
+194,"Direção Executiva do SNS, I.P.",Other,Nacional
+195,"Direção Executiva do Serviço Nacional de Saúde, I.P.",Other,Nacional
+196,Direção-Geral da Saúde,Other,Nacional
+197,"INSTITUTO PORTUGUES DE ONCOLOGIA DE COIMBRA, EPE",Other,Nacional
+198,"INSTITUTO PORTUGUES DE ONCOLOGIA DO PORTO, EPE",Other,Nacional
+199,Inspeção Geral das Actividades da Saúde,Other,Nacional
+200,Inspeção Geral das Atividades da Saúde,Other,Nacional
+201,Inspeção-Geral das Atividades em Saúde,Other,Nacional
+202,"Inst.port.onc.francisco Gentil-Coimbra, E.P.E.",Other,Nacional
+203,Instituto Gama Pinto,Other,Nacional
+204,Instituto Nacional De Emergência Médica,Other,Nacional
+205,"Instituto Nacional De Saúde Dr Ricardo Jorge, I.P.",Other,Nacional
+206,Instituto Nacional de Emergência Médica,Other,Nacional
+207,"Instituto Nacional de Emergência Médica, I.P.",Other,Nacional
+208,"Instituto Nacional de Saúde Doutor Ricardo Jorge, I.P.",Other,Nacional
+209,"Instituto Nacional de Saúde Dr. Ricardo Jorge, I.P.",Other,Nacional
+210,"Instituto Para Os Comportamentos Aditivos E As Dependências, I.P.",Other,Nacional
+211,"Instituto Port.oncologia Do Porto, E.P.E.",Other,Nacional
+212,"Instituto Portug. Do Sangue E Da Transplantação,I.P.",Other,Nacional
+213,"Instituto Português Do Sangue e Da Transplantação, IP",Other,Nacional
+214,"Instituto Português Oncologia  F. Gentil - Coimbra, E.P.E.",Other,Nacional
+215,"Instituto Português Oncologia  F. Gentil - Porto, E.P.E.",Other,Nacional
+216,"Instituto Português Oncologia Francisco Gentil - Coimbra, E.P.E.",Other,Nacional
+217,"Instituto Português Oncologia Francisco Gentil - Porto, E.P.E.",Other,Nacional
+218,"Instituto Português Oncologia de Coimbra, E.P.E.",Other,Nacional
+219,"Instituto Português Oncologia de Coimbra, EPE",Other,Nacional
+220,"Instituto Português Oncologia do Porto, E.P.E.",Other,Nacional
+221,"Instituto Português Oncologia do Porto, EPE",Other,Nacional
+222,"Instituto Português de Oncologia de Coimbra Francisco Gentil, E.P.E.",Other,Nacional
+223,"Instituto Português de Oncologia de Coimbra, E. P. E.",Other,Nacional
+224,"Instituto Português de Oncologia de Coimbra, EPE",Other,Nacional
+225,"Instituto Português de Oncologia do Porto Francisco Gentil, E.P.E.",Other,Nacional
+226,"Instituto Português de Oncologia do Porto, E. P. E.",Other,Nacional
+227,"Instituto Português de Oncologia do Porto, EPE",Other,Nacional
+228,"Instituto Português do Sangue e da Transplantação, I.P.",Other,Nacional
+229,"Instituto Português do Sangue e da Transplantação, IP",Other,Nacional
+230,Instituto de Oftalmologia Dr. Gama Pinto,Other,Nacional
+231,Instituto de Oftalmologia Gama Pinto,Other,Nacional
+232,"Instituto para os Comportamentos Aditivos e as DE. P. E.ndências, I. P.",Other,Nacional
+233,"Instituto para os Comportamentos Aditivos e as Dependências, I. P.",Other,Nacional
+234,"Instituto para os Comportamentos Aditivos e as Dependências, I.P.",Other,Nacional
+235,Secretaria Geral do Ministério da Saúde,Other,Nacional
+236,Secretaria-Geral do Ministério da Saúde,Other,Nacional
+237,Secretaria-geral Do Ministério Da Saúde,Other,Nacional
+238,Serviço de Intervenção Comportamentos Aditivos e Dependências,Other,Nacional
+239,Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências,Other,Nacional
+240,"Serviços Partilhados Do Ministério Da Saúde, E.P.E.",Other,Nacional
+241,"Serviços Partilhados do Ministério da Saúde, E.P.E.",Other,Nacional
+242,"Unidade Local Saúde De Matosinhos, E.P.E.",Other,Nacional
+243,"Unidade Local De Saúde Do Alentejo Central, E.P.E.",ULS,Alentejo
+244,"Unidade Local De Saúde Do Alto Alentejo, E.P.E.",ULS,Alentejo
+245,"Unidade Local De Saúde Do Baixo Alentejo, E.P.E.",ULS,Alentejo
+246,"Unidade Local de Saúde Baixo Alentejo, E.P.E.",ULS,Alentejo
+247,"Unidade Local de Saúde do Alentejo Central, E. P. E.",ULS,Alentejo
+248,"Unidade Local de Saúde do Alentejo Central, E.P.E.",ULS,Alentejo
+249,"Unidade Local de Saúde do Alentejo Central, EPE",ULS,Alentejo
+250,"Unidade Local de Saúde do Alto Alentejo, E. P. E.",ULS,Alentejo
+251,"Unidade Local de Saúde do Alto Alentejo, E.P.E.",ULS,Alentejo
+252,"Unidade Local de Saúde do Alto Alentejo, EPE",ULS,Alentejo
+253,"Unidade Local de Saúde do Baixo Alentejo, E. P. E.",ULS,Alentejo
+254,"Unidade Local de Saúde do Baixo Alentejo, E.P.E.",ULS,Alentejo
+255,"Unidade Local de Saúde do Baixo Alentejo, EPE",ULS,Alentejo
+256,"Unidade Local De Saúde Do Algarve, E.P.E.",ULS,Algarve
+257,"Unidade Local de Saúde do Algarve, E. P. E.",ULS,Algarve
+258,"Unidade Local de Saúde do Algarve, E.P.E.",ULS,Algarve
+259,"Unidade Local de Saúde do Algarve, EPE",ULS,Algarve
+260,"Unidade Local De Saúde Da Lezíria, E.P.E.",ULS,LVT
+261,"Unidade Local De Saúde De Lisboa Ocidental, E.P.E.",ULS,LVT
+262,"Unidade Local de Saúde da Lezíria, E. P. E",ULS,LVT
+263,"Unidade Local de Saúde da Lezíria, E.P.E.",ULS,LVT
+264,"Unidade Local de Saúde da Lezíria, EPE",ULS,LVT
+265,"Unidade Local de Saúde de Lisboa Ocidental, E. P. E.",ULS,LVT
+266,"Unidade Local de Saúde de Lisboa Ocidental, E.P.E.",ULS,LVT
+267,"Unidade Local de Saúde de Lisboa Ocidental, EPE",ULS,LVT
+268,"UNIDADE LOCAL DE SAUDE DE CASTELO BRANCO, EPE",ULS,Nacional
+269,"UNIDADE LOCAL DE SAUDE DO LITORAL ALENTEJANO, EPE",ULS,Nacional
+270,"UNIDADE LOCAL DE SAUDE DO NORDESTE, EPE",ULS,Nacional
+271,"UNIDADE LOCAL DE SAÚDE ALTO MINHO, EPE",ULS,Nacional
+272,"UNIDADE LOCAL DE SAÚDE DA GUARDA, EPE",ULS,Nacional
+273,"UNIDADE LOCAL DE SAÚDE DE AMADORA / SINTRA, E.P.E.",ULS,Nacional
+274,"UNIDADE LOCAL DE SAÚDE DE BRAGA, E.P.E.",ULS,Nacional
+275,"UNIDADE LOCAL DE SAÚDE DE LOURES / ODIVELAS, E.P.E.",ULS,Nacional
+276,"UNIDADE LOCAL DE SAÚDE DE MATOSINHOS, EPE",ULS,Nacional
+277,"UNIDADE LOCAL DE SAÚDE DE SANTO ANTÓNIO, E.P.E.",ULS,Nacional
+278,"UNIDADE LOCAL DE SAÚDE DO ESTUÁRIO DO TEJO, E.P.E.",ULS,Nacional
+279,"Unidade Local De Saúde Da Arrábida, E.P.E.",ULS,Nacional
+280,"Unidade Local De Saúde Da Cova Da Beira, E.P.E.",ULS,Nacional
+281,"Unidade Local De Saúde Da Guarda, E.P.E.",ULS,Nacional
+282,"Unidade Local De Saúde Da Póvoa De Varzim / Vila Do Conde, E.P.E.",ULS,Nacional
+283,"Unidade Local De Saúde Da Região De Aveiro, E.P.E.",ULS,Nacional
+284,"Unidade Local De Saúde Da Região De Leiria, E.P.E.",ULS,Nacional
+285,"Unidade Local De Saúde De Almada / Seixal, E.P.E.",ULS,Nacional
+286,"Unidade Local De Saúde De Amadora / Sintra, E.P.E.",ULS,Nacional
+287,"Unidade Local De Saúde De Barcelos / Esposende, E.P.E.",ULS,Nacional
+288,"Unidade Local De Saúde De Castelo Branco, E.P.E.",ULS,Nacional
+289,"Unidade Local De Saúde De Coimbra, E.P.E.",ULS,Nacional
+290,"Unidade Local De Saúde De Entre Douro E Vouga, E.P.E.",ULS,Nacional
+291,"Unidade Local De Saúde De Gaia / Espinho, E.P.E.",ULS,Nacional
+292,"Unidade Local De Saúde De Santa Maria, E.P.E.",ULS,Nacional
+293,"Unidade Local De Saúde De São José, E.P.E.",ULS,Nacional
+294,"Unidade Local De Saúde De São João, E.P.E.",ULS,Nacional
+295,"Unidade Local De Saúde De Trás-os-montes E Alto Douro, E.P.E.",ULS,Nacional
+296,"Unidade Local De Saúde De Viseu Dão-Lafões, E.P.E.",ULS,Nacional
+297,"Unidade Local De Saúde Do Alto Ave, E.P.E.",ULS,Nacional
+298,"Unidade Local De Saúde Do Alto Minho, E.P.E.",ULS,Nacional
+299,"Unidade Local De Saúde Do Arco Ribeirinho, E.P.E.",ULS,Nacional
+300,"Unidade Local De Saúde Do Baixo Mondego, E.P.E.",ULS,Nacional
+301,"Unidade Local De Saúde Do Médio Ave, E.P.E.",ULS,Nacional
+302,"Unidade Local De Saúde Do Médio Tejo, E.P.E.",ULS,Nacional
+303,"Unidade Local De Saúde Do Nordeste, E.P.E.",ULS,Nacional
+304,"Unidade Local De Saúde Do Oeste, E.P.E.",ULS,Nacional
+305,"Unidade Local De Saúde Do Tâmega E Sousa, E.P.E.",ULS,Nacional
+306,"Unidade Local De Saúde Litoral Alentejano, E.P.E.",ULS,Nacional
+307,"Unidade Local de Saúde Alto Minho, E. P. E.",ULS,Nacional
+308,"Unidade Local de Saúde Alto Minho, E.P.E.",ULS,Nacional
+309,"Unidade Local de Saúde Alto Minho, EPE",ULS,Nacional
+310,"Unidade Local de Saúde Castelo Branco, E.P.E.",ULS,Nacional
+311,"Unidade Local de Saúde Castelo Branco, EPE",ULS,Nacional
+312,"Unidade Local de Saúde Guarda, E.P.E.",ULS,Nacional
+313,"Unidade Local de Saúde Litoral Alentejano, E. P. E.",ULS,Nacional
+314,"Unidade Local de Saúde Litoral Alentejano, E.P.E.",ULS,Nacional
+315,"Unidade Local de Saúde Matosinhos, E.P.E.",ULS,Nacional
+316,"Unidade Local de Saúde Nordeste, E.P.E.",ULS,Nacional
+317,"Unidade Local de Saúde Póvoa de Varzim/Vila do Conde, E. P. E.",ULS,Nacional
+318,"Unidade Local de Saúde da Arrábida, E. P. E.",ULS,Nacional
+319,"Unidade Local de Saúde da Arrábida, E.P.E.",ULS,Nacional
+320,"Unidade Local de Saúde da Arrábida, EPE",ULS,Nacional
+321,"Unidade Local de Saúde da Cova da Beira, E. P. E.",ULS,Nacional
+322,"Unidade Local de Saúde da Cova da Beira, E.P.E.",ULS,Nacional
+323,"Unidade Local de Saúde da Cova da Beira, EPE",ULS,Nacional
+324,"Unidade Local de Saúde da Guarda, E. P. E.",ULS,Nacional
+325,"Unidade Local de Saúde da Guarda, E.P.E.",ULS,Nacional
+326,"Unidade Local de Saúde da Guarda, EPE",ULS,Nacional
+327,"Unidade Local de Saúde da Póvoa de Varzim / Vila do Conde, E.P.E.",ULS,Nacional
+328,"Unidade Local de Saúde da Póvoa de Varzim/Vila do Conde, E.P.E.",ULS,Nacional
+329,"Unidade Local de Saúde da Póvoa de Varzim/Vila do Conde, EPE",ULS,Nacional
+330,"Unidade Local de Saúde da Região de Aveiro, E. P. E.",ULS,Nacional
+331,"Unidade Local de Saúde da Região de Aveiro, E.P.E.",ULS,Nacional
+332,"Unidade Local de Saúde da Região de Aveiro, EPE",ULS,Nacional
+333,"Unidade Local de Saúde da Região de Leiria, E. P. E.",ULS,Nacional
+334,"Unidade Local de Saúde da Região de Leiria, E.P.E.",ULS,Nacional
+335,"Unidade Local de Saúde da Região de Leiria, EPE",ULS,Nacional
+336,"Unidade Local de Saúde de Almada / Seixal, E.P.E.",ULS,Nacional
+337,"Unidade Local de Saúde de Almada-Seixal, E. P. E.",ULS,Nacional
+338,"Unidade Local de Saúde de Almada-Seixal, E.P.E.",ULS,Nacional
+339,"Unidade Local de Saúde de Almada-Seixal, EPE",ULS,Nacional
+340,"Unidade Local de Saúde de Amadora / Sintra, E.P.E.",ULS,Nacional
+341,"Unidade Local de Saúde de Amadora/Sintra, E. P. E.",ULS,Nacional
+342,"Unidade Local de Saúde de Amadora/Sintra, E.P.E.",ULS,Nacional
+343,"Unidade Local de Saúde de Amadora/Sintra, EPE",ULS,Nacional
+344,"Unidade Local de Saúde de Barcelos / Esposende, E.P.E.",ULS,Nacional
+345,"Unidade Local de Saúde de Barcelos/Esposende, E. P. E.",ULS,Nacional
+346,"Unidade Local de Saúde de Barcelos/Esposende, E.P.E.",ULS,Nacional
+347,"Unidade Local de Saúde de Barcelos/Esposende, EPE",ULS,Nacional
+348,"Unidade Local de Saúde de Braga, E. P. E.",ULS,Nacional
+349,"Unidade Local de Saúde de Braga, E.P.E.",ULS,Nacional
+350,"Unidade Local de Saúde de Braga, EPE",ULS,Nacional
+351,"Unidade Local de Saúde de Castelo Branco, E. P. E.",ULS,Nacional
+352,"Unidade Local de Saúde de Castelo Branco, E.P.E.",ULS,Nacional
+353,"Unidade Local de Saúde de Castelo Branco, EPE",ULS,Nacional
+354,"Unidade Local de Saúde de Coimbra, E. P. E.",ULS,Nacional
+355,"Unidade Local de Saúde de Coimbra, E.P.E.",ULS,Nacional
+356,"Unidade Local de Saúde de Coimbra, EPE",ULS,Nacional
+357,"Unidade Local de Saúde de Dão-Lafões, EPE",ULS,Nacional
+358,"Unidade Local de Saúde de Entre Douro e Vouga, E. P. E.",ULS,Nacional
+359,"Unidade Local de Saúde de Entre Douro e Vouga, E.P.E.",ULS,Nacional
+360,"Unidade Local de Saúde de Entre Douro e Vouga, EPE",ULS,Nacional
+361,"Unidade Local de Saúde de Gaia / Espinho, E.P.E.",ULS,Nacional
+362,"Unidade Local de Saúde de Gaia e Espinho, E.P.E.",ULS,Nacional
+363,"Unidade Local de Saúde de Gaia/Espinho, E. P. E.",ULS,Nacional
+364,"Unidade Local de Saúde de Loures / Odivelas, E.P.E.",ULS,Nacional
+365,"Unidade Local de Saúde de Loures-Odivelas, E. P. E.",ULS,Nacional
+366,"Unidade Local de Saúde de Loures-Odivelas, E.P.E.",ULS,Nacional
+367,"Unidade Local de Saúde de Loures-Odivelas, EPE",ULS,Nacional
+368,"Unidade Local de Saúde de Matosinhos, E. P. E.",ULS,Nacional
+369,"Unidade Local de Saúde de Matosinhos, E.P.E.",ULS,Nacional
+370,"Unidade Local de Saúde de Matosinhos, EPE",ULS,Nacional
+371,"Unidade Local de Saúde de S. João, E.P.E.",ULS,Nacional
+372,"Unidade Local de Saúde de Santa Maria, E. P. E.",ULS,Nacional
+373,"Unidade Local de Saúde de Santa Maria, E.P.E.",ULS,Nacional
+374,"Unidade Local de Saúde de Santa Maria, EPE",ULS,Nacional
+375,"Unidade Local de Saúde de Santo António, E. P. E.",ULS,Nacional
+376,"Unidade Local de Saúde de Santo António, E.P.E.",ULS,Nacional
+377,"Unidade Local de Saúde de Santo António, EPE",ULS,Nacional
+378,"Unidade Local de Saúde de São José, E. P. E.",ULS,Nacional
+379,"Unidade Local de Saúde de São José, E.P.E.",ULS,Nacional
+380,"Unidade Local de Saúde de São José, EPE",ULS,Nacional
+381,"Unidade Local de Saúde de São João, E. P. E.",ULS,Nacional
+382,"Unidade Local de Saúde de São João, E.P.E.",ULS,Nacional
+383,"Unidade Local de Saúde de São João, EPE",ULS,Nacional
+384,"Unidade Local de Saúde de Trás-os-Montes e Alto Douro, E. P. E.",ULS,Nacional
+385,"Unidade Local de Saúde de Trás-os-Montes e Alto Douro, E.P.E.",ULS,Nacional
+386,"Unidade Local de Saúde de Trás-os-Montes e Alto Douro, EPE",ULS,Nacional
+387,"Unidade Local de Saúde de Vila Nova de Gaia/Espinho, EPE",ULS,Nacional
+388,"Unidade Local de Saúde de Viseu Dão-Lafões, E. P. E.",ULS,Nacional
+389,"Unidade Local de Saúde de Viseu Dão-Lafões, E.P.E.",ULS,Nacional
+390,"Unidade Local de Saúde do Alto Ave, E. P. E.",ULS,Nacional
+391,"Unidade Local de Saúde do Alto Ave, E.P.E.",ULS,Nacional
+392,"Unidade Local de Saúde do Alto Ave, EPE",ULS,Nacional
+393,"Unidade Local de Saúde do Alto Minho, E. P. E.",ULS,Nacional
+394,"Unidade Local de Saúde do Alto Minho, E.P.E.",ULS,Nacional
+395,"Unidade Local de Saúde do Alto Minho, EPE",ULS,Nacional
+396,"Unidade Local de Saúde do Arco Ribeirinho, E. P. E.",ULS,Nacional
+397,"Unidade Local de Saúde do Arco Ribeirinho, E.P.E.",ULS,Nacional
+398,"Unidade Local de Saúde do Arco Ribeirinho, EPE",ULS,Nacional
+399,"Unidade Local de Saúde do Baixo Mondego, E. P. E.",ULS,Nacional
+400,"Unidade Local de Saúde do Baixo Mondego, E.P.E.",ULS,Nacional
+401,"Unidade Local de Saúde do Baixo Mondego, EPE",ULS,Nacional
+402,"Unidade Local de Saúde do Estuário do Tejo, E. P. E.",ULS,Nacional
+403,"Unidade Local de Saúde do Estuário do Tejo, E.P.E.",ULS,Nacional
+404,"Unidade Local de Saúde do Estuário do Tejo, EPE",ULS,Nacional
+405,"Unidade Local de Saúde do Litoral Alentejano, E. P. E.",ULS,Nacional
+406,"Unidade Local de Saúde do Litoral Alentejano, E.P.E.",ULS,Nacional
+407,"Unidade Local de Saúde do Litoral Alentejano, EPE",ULS,Nacional
+408,"Unidade Local de Saúde do Médio Ave, E. P. E.",ULS,Nacional
+409,"Unidade Local de Saúde do Médio Ave, E.P.E.",ULS,Nacional
+410,"Unidade Local de Saúde do Médio Ave, EPE",ULS,Nacional
+411,"Unidade Local de Saúde do Médio Tejo, E. P. E.",ULS,Nacional
+412,"Unidade Local de Saúde do Médio Tejo, E.P.E.",ULS,Nacional
+413,"Unidade Local de Saúde do Médio Tejo, EPE",ULS,Nacional
+414,"Unidade Local de Saúde do Nordeste, E. P. E.",ULS,Nacional
+415,"Unidade Local de Saúde do Nordeste, E.P.E.",ULS,Nacional
+416,"Unidade Local de Saúde do Nordeste, EPE",ULS,Nacional
+417,"Unidade Local de Saúde do Oeste, E. P. E.",ULS,Nacional
+418,"Unidade Local de Saúde do Oeste, E.P.E.",ULS,Nacional
+419,"Unidade Local de Saúde do Oeste, EPE",ULS,Nacional
+420,"Unidade Local de Saúde do Tâmega e Sousa, E. P. E.",ULS,Nacional
+421,"Unidade Local de Saúde do Tâmega e Sousa, E.P.E.",ULS,Nacional
+422,"Unidade Local de Saúde do Tâmega e Sousa, EPE",ULS,Nacional
+423,"Unidade Local de Saúde Norte Alentejano, E.P.E.",ULS,Norte
+424,"Unidade Local de Saúde do Norte Alentejano, E. P. E.",ULS,Norte
+425,"Unidade Local de Saúde do Norte Alentejano, E.P.E.",ULS,Norte
+426,"Unidade Local de Saúde do Norte Alentejano, EPE",ULS,Norte

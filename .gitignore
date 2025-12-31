@@ -21,9 +21,11 @@ Desktop.ini
 *:Zone.Identifier
 
 # --- Project Specific Ignored Folders ---
-# Assuming '99 old' and '_ul' are local clutter/backups
-99 old/
-_ul
+# Archived data (already in _archived subfolder)
+03_data/raw/_archived/
+# Temporary files
+firebase-debug.log
+*.log
 
 # --- Virtual Environments ---
 # (Common names, just in case you create one later)
@@ -32,10 +34,12 @@ env/
 .venv/
 
 # --- Optional: Large Data Files ---
-# GitHub rejects files > 100MB. 
+# GitHub rejects files > 100MB.
 # Uncomment lines below if you want to stop syncing raw data:
-# *.csv
-# *.xlsx
-# *.zip
-# ine_data_OLD_BACKUP/
-# eurostat_data_OLD_NATIONAL/
+# 03_data/raw/**/*.csv
+# 03_data/raw/**/*.xlsx
+# 03_data/raw/**/*.parquet
+# 03_data/raw/**/*.zip
+# But keep processed data and metadata
+!03_data/processed/
+!03_data/metadata/

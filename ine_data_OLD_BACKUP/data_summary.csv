@@ -1,9 +1,0 @@
-code,name,category,use_case,records,file
-0008273,"Population by region, sex and age group",Demographics,"Case-mix adjustment, demand forecasting",19608,ine_data\ind_0008273.csv
-0008274,Fertility index,Demographics,Birth rate trends,36,ine_data\ind_0008274.csv
-0008275,Adolescent fertility rate,Demographics,Maternal health services demand,36,ine_data\ind_0008275.csv
-0007789,Aging index by region,Demographics,Elderly population trends,34551,ine_data\ind_0007789.csv
-0007790,Dependency ratio,Demographics,Healthcare demand pressure,770,ine_data\ind_0007790.csv
-0011062,GDP by region,Economics,Regional economic context,21,ine_data\ind_0011062.csv
-0008480,Unemployment rate by region,Economics,Economic distress indicator,63036,ine_data\ind_0008480.csv
-0010683,Employment statistics,Economics,Regional employment context,231,ine_data\ind_0010683.csv
