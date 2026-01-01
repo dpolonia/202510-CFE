@@ -1,0 +1,36 @@
+2025-12-31 23:30:50,096 - INFO - ======================================================================
+2025-12-31 23:30:50,096 - INFO - GRANGER CAUSALITY ANALYSIS PIPELINE
+2025-12-31 23:30:50,096 - INFO - ======================================================================
+
+2025-12-31 23:30:50,096 - INFO - Loading monthly panel dataset...
+2025-12-31 23:30:50,111 - INFO - Loaded 5339 hospital-months
+2025-12-31 23:30:50,111 - INFO - Columns: ['parent_uls_std', 'year', 'month', 'divida_total_fornecedores_externos', 'divida_vencida_fornecedores_externos', 'pagamentos_em_atraso', 'taxa_internamento', 'dias_internamento', 'taxa_mortalidade', 'mortalidade_avc_hemorragico_30_dias', 'mortalidade_avc_isquemico_30_dias', 'resultado_liquido', 'resultados_operacionais', 'covid_period', 'election_month', 'uls_integrated', 'month_1', 'month_2', 'month_3', 'month_4', 'month_5', 'month_6', 'month_7', 'month_8', 'month_9', 'month_10', 'month_11', 'month_12', 'entidade', 'parent_uls', 'entidade_std']
+2025-12-31 23:30:50,111 - INFO - 
+======================================================================
+2025-12-31 23:30:50,111 - INFO - SEQUENTIAL TRANSFER MECHANISM: POOLED GRANGER CAUSALITY
+2025-12-31 23:30:50,111 - INFO - ======================================================================
+2025-12-31 23:30:50,112 - INFO - 
+Entities with ≥36 months: 53
+2025-12-31 23:30:50,112 - INFO - 
+======================================================================
+2025-12-31 23:30:50,112 - INFO - TESTING: pagamentos_em_atraso → taxa_mortalidade
+2025-12-31 23:30:50,112 - INFO - ======================================================================
+Traceback (most recent call last):
+  File "/home/dpolonia/202512-CFE/04_code/04_analysis/granger_causality_analysis.py", line 493, in <module>
+    main()
+    ~~~~^^
+  File "/home/dpolonia/202512-CFE/04_code/04_analysis/granger_causality_analysis.py", line 489, in main
+    analyzer.run_analysis()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dpolonia/202512-CFE/04_code/04_analysis/granger_causality_analysis.py", line 460, in run_analysis
+    self.test_sequential_transfer_pooled()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/dpolonia/202512-CFE/04_code/04_analysis/granger_causality_analysis.py", line 257, in test_sequential_transfer_pooled
+    ts_data = self.prepare_time_series(entity, [cause_var, effect_var])
+  File "/home/dpolonia/202512-CFE/04_code/04_analysis/granger_causality_analysis.py", line 97, in prepare_time_series
+    entity_data = entity_data.sort_values('year_month')
+  File "/home/dpolonia/anaconda3/lib/python3.13/site-packages/pandas/core/frame.py", line 7211, in sort_values
+    k = self._get_label_or_level_values(by[0], axis=axis)
+  File "/home/dpolonia/anaconda3/lib/python3.13/site-packages/pandas/core/generic.py", line 1914, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'year_month'

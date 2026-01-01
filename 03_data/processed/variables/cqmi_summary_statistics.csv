@@ -1,0 +1,44 @@
+entidade,count,mean,std,min,max
+Hospital de Cascais Dr. José de Almeida,6,0.5504,0.0706,0.4125,0.6035
+"Instituto Português Oncologia  F. Gentil - Coimbra, E.P.E.",6,0.6551,0.1527,0.435,0.8335
+"Instituto Português Oncologia  F. Gentil - Lisboa, E.P.E.",6,0.5066,0.093,0.3668,0.6134
+"Instituto Português Oncologia  F. Gentil - Porto, E.P.E.",6,0.3538,0.0697,0.3138,0.493
+"Unidade Local de Saúde da Arrábida, E.P.E.",6,0.4627,0.0513,0.4082,0.5375
+"Unidade Local de Saúde da Cova da Beira, E.P.E.",6,0.5822,0.0552,0.5132,0.664
+"Unidade Local de Saúde da Guarda, E.P.E.",6,0.4291,0.0456,0.3761,0.4927
+"Unidade Local de Saúde da Lezíria, E.P.E.",6,0.4257,0.024,0.4033,0.4726
+"Unidade Local de Saúde da Póvoa de Varzim / Vila do Conde, E.P.E.",6,0.6253,0.0528,0.5562,0.7006
+"Unidade Local de Saúde da Região de Aveiro, E.P.E.",6,0.4607,0.0441,0.3997,0.5186
+"Unidade Local de Saúde da Região de Leiria, E.P.E.",6,0.4144,0.0365,0.3817,0.477
+"Unidade Local de Saúde de Almada / Seixal, E.P.E.",6,0.3608,0.0307,0.3121,0.3945
+"Unidade Local de Saúde de Amadora / Sintra, E.P.E.",6,0.2838,0.011,0.2701,0.2983
+"Unidade Local de Saúde de Barcelos / Esposende, E.P.E.",6,0.5649,0.0616,0.5106,0.675
+"Unidade Local de Saúde de Braga, E.P.E.",6,0.4423,0.0296,0.4191,0.4924
+"Unidade Local de Saúde de Castelo Branco, E.P.E.",6,0.5869,0.0535,0.4997,0.6627
+"Unidade Local de Saúde de Coimbra, E.P.E.",6,0.249,0.0466,0.1752,0.2993
+"Unidade Local de Saúde de Entre Douro e Vouga, E.P.E.",6,0.5107,0.0325,0.4784,0.5619
+"Unidade Local de Saúde de Gaia / Espinho, E.P.E.",6,0.42,0.0414,0.3505,0.4575
+"Unidade Local de Saúde de Lisboa Ocidental, E.P.E.",6,0.4173,0.0258,0.3763,0.4492
+"Unidade Local de Saúde de Loures / Odivelas, E.P.E.",6,0.4627,0.0472,0.4057,0.5255
+"Unidade Local de Saúde de Matosinhos, E.P.E.",6,0.5549,0.0458,0.5128,0.6133
+"Unidade Local de Saúde de Santa Maria, E.P.E.",6,0.3144,0.0875,0.222,0.4579
+"Unidade Local de Saúde de Santo António, E.P.E.",6,0.3343,0.0333,0.2779,0.3778
+"Unidade Local de Saúde de São José, E.P.E.",6,0.402,0.1402,0.2873,0.6162
+"Unidade Local de Saúde de São João, E.P.E.",6,0.2923,0.0165,0.2737,0.3168
+"Unidade Local de Saúde de Trás-os-Montes e Alto Douro, E.P.E.",6,0.4531,0.0341,0.4125,0.508
+"Unidade Local de Saúde de Viseu Dão-Lafões, E.P.E.",6,0.376,0.0135,0.3519,0.3879
+"Unidade Local de Saúde do Alentejo Central, E.P.E.",6,0.6322,0.048,0.5752,0.7065
+"Unidade Local de Saúde do Algarve, E.P.E.",6,0.1225,0.011,0.1075,0.137
+"Unidade Local de Saúde do Alto Alentejo, E.P.E.",6,0.3942,0.0092,0.3816,0.4042
+"Unidade Local de Saúde do Alto Ave, E.P.E.",6,0.52,0.0364,0.4627,0.5527
+"Unidade Local de Saúde do Alto Minho, E.P.E.",6,0.5317,0.0177,0.5142,0.5563
+"Unidade Local de Saúde do Arco Ribeirinho, E.P.E.",6,0.4002,0.0429,0.3767,0.4874
+"Unidade Local de Saúde do Baixo Alentejo, E.P.E.",6,0.547,0.0575,0.4862,0.6338
+"Unidade Local de Saúde do Baixo Mondego, E.P.E.",6,0.536,0.0889,0.459,0.67
+"Unidade Local de Saúde do Estuário do Tejo, E.P.E.",6,0.44,0.0593,0.3863,0.5436
+"Unidade Local de Saúde do Litoral Alentejano, E.P.E.",6,0.4439,0.0264,0.4261,0.495
+"Unidade Local de Saúde do Médio Ave, E.P.E.",6,0.522,0.055,0.4715,0.5988
+"Unidade Local de Saúde do Médio Tejo, E.P.E.",6,0.4344,0.0613,0.3854,0.5221
+"Unidade Local de Saúde do Nordeste, E.P.E.",6,0.4927,0.0584,0.401,0.5779
+"Unidade Local de Saúde do Oeste, E.P.E.",6,0.4855,0.0503,0.4259,0.5752
+"Unidade Local de Saúde do Tâmega e Sousa, E.P.E.",6,0.3949,0.0596,0.3497,0.4986

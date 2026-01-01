@@ -1,0 +1,108 @@
+======================================================================
+SAMPLE CONSTRUCTION DIAGNOSTICS REPORT
+======================================================================
+
+SUMMARY
+-------
+Initial panel observations: 741
+Final regression sample: 69
+Attrition rate: 90.7%
+Final entities: 38
+
+SAMPLE CONSTRUCTION STEPS
+-------------------------
+
+STEP 1: 1. Raw hospital-year panel
+  Observations: 741
+  Entities: 149
+  Years: 2017-2024
+  Criterion: All SNS entities, 2017-2024
+  Notes: Includes hospitals, ACES, primary care, administration
+
+STEP 2: 2. Merge with PHFSI scores
+  Observations: 741
+  Entities: 149
+  Years: 2017-2024
+  Criterion: PHFSI available for 435 observations
+  Notes: Left merge preserves all panel observations
+
+STEP 3: 3. Filter to hospital entities
+  Observations: 665
+  Entities: 131
+  Years: 2017-2024
+  Criterion: Exclude ACES, primary care, administration
+  Notes: Removed 18 non-hospital entities
+
+STEP 4: 5. Drop missing PHFSI
+  Observations: 361
+  Entities: 85
+  Years: 2017-2024
+  Criterion: PHFSI score available
+  Notes: Dropped 304 observations with missing PHFSI
+
+STEP 5: 6. Create regression variables
+  Observations: 361
+  Entities: 85
+  Years: 2017-2024
+  Criterion: Calculate subsidy, size, debt variables
+  Notes: Missing: subsidy(6), log_rev(6), debt(292)
+
+STEP 6: 7. Complete cases for regression
+  Observations: 69
+  Entities: 38
+  Years: 2017-2024
+  Criterion: Non-missing: PHFSI, subsidy, log_revenue, debt_ratio
+  Notes: Dropped 292 incomplete observations
+
+======================================================================
+ATTRITION BIAS ANALYSIS
+======================================================================
+
+Comparison of Included vs Excluded Hospitals:
+
+Total Debt (€k):
+  Included mean:  21595118.37 (SD=31880411.17)
+  Excluded mean:  4148176.99 (SD=2746638.32)
+  Difference:     17446941.37
+  P-value:        0.0000 *
+
+Operating Revenue (€k):
+  Included mean:  1177786243.71 (SD=1325639785.72)
+  Excluded mean:  910217304.32 (SD=756052085.16)
+  Difference:     267568939.40
+  P-value:        0.1104
+
+Payment Delays (days):
+  Included mean:  3838828.33 (SD=8673134.10)
+  Excluded mean:  248841.77 (SD=566992.22)
+  Difference:     3589986.56
+  P-value:        0.0013 *
+
+Overdue Debt (€k):
+  Included mean:  11578520.08 (SD=20690652.42)
+  Excluded mean:  881763.95 (SD=1785458.20)
+  Difference:     10696756.13
+  P-value:        0.0001 *
+
+======================================================================
+CONCLUSION
+======================================================================
+
+⚠ 3 of 4 variables show significant differences.
+  Excluded hospitals may differ systematically from included hospitals.
+  Selection bias concern: HIGH
+  Recommendation: Consider inverse probability weighting or Heckman correction.
+
+======================================================================
+MANUSCRIPT RECOMMENDATIONS
+======================================================================
+
+1. Add Table A3 to Appendix with sample construction flowchart
+2. Add Table A3b to Appendix with attrition bias tests
+3. Update Methods section to reference Table A3
+4. Update Table 3 footnote to explain sample size:
+   'Sample restricted to N=69 observations with complete data for
+   PHFSI, subsidy dependence, operating revenue, and debt ratio (see Appendix
+   Table A3 for detailed sample construction).'
+
+======================================================================

@@ -1,0 +1,343 @@
+SCOPUS REFERENCE VERIFICATION REPORT
+======================================================================
+
+Total Citations: 47
+Verified in Scopus: 46 (97.9%)
+Not Found: 1
+High-Impact (>500 citations): 5
+
+NOT FOUND (1):
+  Garcia: Could not parse citation key
+
+ALL VERIFIED CITATIONS:
+----------------------------------------------------------------------
+
+ACSS2023:
+  Title: Obtaining ‘useful’ high-resolution soil data from proximallysensed electrical conductivity/resistivity (PSEC/R) surveys
+  Authors: McBratney A.B.
+  Journal: Precision Agriculture 05
+  Year: 2023
+  Citations: 1
+
+Acharya2017:
+  Title: Impact of device design parameters on VDSAT and analog performance of TFETs
+  Authors: Acharya A.
+  Journal: 2017 Silicon Nanoelectronics Workshop Snw 2017
+  Year: 2017
+  Citations: 1
+
+Allen2023:
+  Title: A sandwich-like silk fibroin/polysaccharide composite dressing with continual biofluid draining for wound exudate management
+  Authors: Wang Y.
+  Journal: International Journal of Biological Macromolecules
+  Year: 2023
+  Citations: 28
+
+Altman1968:
+  Title: FINANCIAL RATIOS, DISCRIMINANT ANALYSIS AND THE PREDICTION OF CORPORATE BANKRUPTCY
+  Authors: Altman E.I.
+  Journal: Journal of Finance
+  Year: 1968
+  Citations: 8514
+  DOI: 10.1111/j.1540-6261.1968.tb00843.x
+
+Altman1983:
+  Title: S gene product: Identification and membrane localization of a lysis control protein
+  Authors: Altman E.
+  Journal: Journal of Bacteriology
+  Year: 1983
+  Citations: 39
+
+Baker2002:
+  Title: The effects of banking mergers on loan contracts
+  Authors: Sapienza P.
+  Journal: Journal of Finance
+  Year: 2002
+  Citations: 270
+  DOI: 10.1111/1540-6261.00424
+
+Barboza2017:
+  Title: Analysis of the exponential linear pulse in baseband digital communication systems
+  Authors: Aranda-Cubillo J.
+  Journal: 2017 IEEE 9th Latin American Conference on Communications Latincom 2017
+  Year: 2017
+  Citations: 4
+
+Barros2011:
+  Title: Rooting soft cuttings of soursop (Annona muricata) 'giant of alagoas
+  Authors: Santos M.Q.C.
+  Journal: Acta Horticulturae
+  Year: 2011
+  Citations: 5
+
+Barros2013:
+  Title: Three-phase to three-phase AC/AC De-link converters based on three-level and two-level legs
+  Authors: Barros L.
+  Journal: 2013 IEEE Energy Conversion Congress and Exposition Ecce 2013
+  Year: 2013
+  Citations: 0
+
+Barros2023ULS:
+  Title: A novel application of recovered stresses in stress intensity factors extraction methods for the generalized/extended finite element method
+  Authors: Lins R.M.
+  Journal: International Journal for Numerical Methods in Engineering
+  Year: 2023
+  Citations: 2
+
+Bebchuk1988:
+  Title: N/A
+  Authors: N/A
+  Journal: N/A
+  Year: N/A
+  Citations: 0
+
+Besley2003:
+  Title: A WDM Fiber-Radio System with Improved Optical Spectral Efficiency Incorporating Remote LO Delivery and Novel FBG Optical Filtering
+  Authors: Marra C.
+  Journal: Conference on Optical Fiber Communication Technical Digest Series
+  Year: 2003
+  Citations: 3
+
+Bevan2006:
+  Title: Foreword
+  Authors: Bevan H.
+  Journal: Sustainability and Spread of Organizational Change Modernizing Healthcare
+  Year: 2006
+  Citations: 0
+
+Cantarero2017:
+  Title: Effects of hydrostatic pressure on the thermoelectric properties of the -polytype of InSe, GaSe, and InGaSe2 semiconductor compounds: An ab initio study
+  Authors: Elsayed H.
+  Journal: Materials Research Express
+  Year: 2017
+  Citations: 0
+
+Cooper2011:
+  Title: Genome sequence of an Australian kangaroo, Macropus eugenii, provides insight into the evolution of mammalian reproduction and development
+  Authors: Renfree M.B.
+  Journal: Genome Biology
+  Year: 2011
+  Citations: 19
+
+Cunat2007:
+  Title: Global sequencing approach for characterizing the molecular background of hereditary iron disorders
+  Authors: Cunat S.
+  Journal: Clinical Chemistry
+  Year: 2007
+  Citations: 32
+
+DeLong1988:
+  Title: Characterization of doped Nd-based superconductors
+  Authors: Arnett W.D.
+  Journal: Journal of Superconductivity
+  Year: 1988
+  Citations: 3
+
+Dewatripont1994:
+  Title: The firm as a communication network
+  Authors: Bolton P.
+  Journal: Quarterly Journal of Economics
+  Year: 1994
+  Citations: 377
+
+Duggan2000:
+  Title: Micronutrients and infections: The road from A to Z and beyond
+  Authors: Duggan C.
+  Journal: Journal of Pediatric Gastroenterology and Nutrition
+  Year: 2000
+  Citations: 1
+
+Ellis1986:
+  Title: Effects of improved glycemic control on microalbuminuria in adolescents with insulin-dependent diabetes mellitus
+  Authors: Ellis D.
+  Journal: International Journal of Pediatric Nephrology
+  Year: 1986
+  Citations: 3
+
+Gaynor2015:
+  Title: Assessment of maternal vascular remodeling during pregnancy in the mouse uterus
+  Authors: Kieckbusch J.
+  Journal: Journal of Visualized Experiments
+  Year: 2015
+  Citations: 24
+
+Gilson1990:
+  Title: Troubled debt restructurings. An empirical study of private reorganization of firms in default
+  Authors: Gilson S.
+  Journal: Journal of Financial Economics
+  Year: 1990
+  Citations: 571
+  DOI: 10.1016/0304-405X(90)90059-9
+
+Herwartz2014:
+  Title: Significance of the whole rock Re-Os ages in cryptically and modally metasomatised cratonic peridotites: Constraints from HSE-Se-Te systematics
+  Authors: Luguet A.
+  Journal: Geochimica Et Cosmochimica Acta
+  Year: 2014
+  Citations: 59
+
+Hirsch1995:
+  Title: Analysis of regulatory regions of the ciliary neurotrophic factor gene in transgenic mice
+  Authors: Stefanuto G.
+  Journal: Neuroreport
+  Year: 1995
+  Citations: 3
+
+Hotchkiss1995:
+  Title: Venture Capitalists and the Oversight of Private Firms
+  Authors: LERNER J.
+  Journal: Journal of Finance
+  Year: 1995
+  Citations: 864
+  DOI: 10.1111/j.1540-6261.1995.tb05175.x
+
+Howell2015:
+  Title: Modelling passive absorption properties of phytochemicals using physicochemical properties
+  Authors: Selby-Pham S.N.
+  Journal: Acta Horticulturae
+  Year: 2015
+  Citations: 0
+
+Inman2003:
+  Title: The osteoblast transcription factor Runx2 is expressed in mammary epithelial cells and mediates osteopontin expression
+  Authors: Inman C.K.
+  Journal: Journal of Biological Chemistry
+  Year: 2003
+  Citations: 130
+
+Kornai1986:
+  Title: The Soft Budget Constraint
+  Authors: KORNAI J.
+  Journal: Kyklos
+  Year: 1986
+  Citations: 750
+
+Kornai2003:
+  Title: Explicit Finitism
+  Authors: Kornai A.
+  Journal: International Journal of Theoretical Physics
+  Year: 2003
+  Citations: 2
+
+Kornai2009:
+  Title: The soft budget constraint syndrome in the hospital sector
+  Authors: Kornai J.
+  Journal: Society and Economy
+  Year: 2009
+  Citations: 9
+
+Kunreuther2023:
+  Title: The bridge
+  Authors: Kunreuther L.
+  Journal: Anthropology and Humanism
+  Year: 2023
+  Citations: 0
+
+Laffont1993:
+  Title: Percutaneous radiofrequency lumbar facet denervation for chronic low back pain. Results in 103 patients
+  Authors: Goupille P.
+  Journal: Revue Du Rhumatisme English Edition
+  Year: 1993
+  Citations: 0
+
+Maskin1999:
+  Title: N/A
+  Authors: N/A
+  Journal: N/A
+  Year: N/A
+  Citations: 0
+  DOI: 10.2307/2564874
+
+MinisterioFinancas2024:
+  Title: N/A
+  Authors: N/A
+  Journal: N/A
+  Year: N/A
+  Citations: 0
+
+Myers1984:
+  Title: The Capital Structure Puzzle
+  Authors: MYERS S.C.
+  Journal: Journal of Finance
+  Year: 1984
+  Citations: 3799
+  DOI: 10.1111/j.1540-6261.1984.tb03646.x
+
+Myers2001:
+  Title: Do depositors punish banks for bad behavior? Market discipline, deposit insurance, and banking crises
+  Authors: Soledad M.
+  Journal: Journal of Finance
+  Year: 2001
+  Citations: 379
+  DOI: 10.1111/0022-1082.00354
+
+Newhouse1996:
+  Title: Effects of nicotinic cholinergic agents on cognitive functioning in Alzheimer's and Parkinson's disease
+  Authors: Newhouse P.
+  Journal: Drug Development Research
+  Year: 1996
+  Citations: 34
+
+Ohlson1980:
+  Title: N/A
+  Authors: N/A
+  Journal: N/A
+  Year: N/A
+  Citations: 0
+  DOI: 10.1016/0304-405X(80)90011-1
+
+Petersen1997:
+  Title: Methodological analysis of fertilization rate in the bluehead wrasse Thalassoma bifasciatum: Pair versus group spawns
+  Authors: Marconato A.
+  Journal: Marine Ecology Progress Series
+  Year: 1997
+  Citations: 26
+
+Propper2004:
+  Title: Increased interhemispheric interaction is associated with decreased false memories in a verbal converging semantic associates paradigm
+  Authors: Christman S.
+  Journal: Brain and Cognition
+  Year: 2004
+  Citations: 119
+
+Propper2008:
+  Title: Education and fertility: Evidence from a natural experiment
+  Authors: Monstad K.
+  Journal: Scandinavian Journal of Economics
+  Year: 2008
+  Citations: 126
+
+Robinson2006:
+  Title: Connecting to BIM information with application program interfaces
+  Authors: Robinson C.
+  Journal: Structural Engineer
+  Year: 2006
+  Citations: 1
+
+Shleifer1994:
+  Title: Mechanical design of a high-resolution tunable crystal monochromator for the multiple energy computed tomography project
+  Authors: Shleifer M.
+  Journal: Nuclear Inst and Methods in Physics Research A
+  Year: 1994
+  Citations: 7
+
+Sutherland2013:
+  Title: PML: Not all about tumor suppression
+  Authors: Martin-Martin N.
+  Journal: Frontiers in Oncology
+  Year: 2013
+  Citations: 11
+
+Weingast2009:
+  Title: Second generation fiscal federalism: The implications of fiscal incentives
+  Authors: Weingast B.R.
+  Journal: Journal of Urban Economics
+  Year: 2009
+  Citations: 472
+
+Xanthakis2009:
+  Title: A web and virtual reality-based platform for collaborative product review and customisation
+  Authors: Chryssolouris G.
+  Journal: Collaborative Design and Planning for Digital Manufacturing
+  Year: 2009
+  Citations: 26

@@ -1,0 +1,91 @@
+2025-12-31 23:24:56,309 - INFO - ======================================================================
+2025-12-31 23:24:56,309 - INFO - MERGE QUALITY METRICS WITH MONTHLY PANEL
+2025-12-31 23:24:56,309 - INFO - ======================================================================
+
+2025-12-31 23:24:56,309 - INFO - Loading datasets...
+2025-12-31 23:24:56,332 - INFO -   Monthly panel: 8867 rows, 192 entities
+2025-12-31 23:24:56,337 - INFO -   Quality metrics: 258 rows, 43 ULS
+2025-12-31 23:24:56,340 - INFO -   Crosswalk: 95 hospital mappings
+2025-12-31 23:24:56,340 - INFO - 
+Creating hospital→ULS mapping dictionary...
+2025-12-31 23:24:56,342 - INFO -   Created 12 mapping entries
+2025-12-31 23:24:56,342 - INFO -   Covering 4 unique ULS
+2025-12-31 23:24:56,342 - INFO - 
+======================================================================
+2025-12-31 23:24:56,342 - INFO - MAPPING MONTHLY PANEL TO PARENT ULS
+2025-12-31 23:24:56,342 - INFO - ======================================================================
+2025-12-31 23:24:56,346 - INFO - 
+Mapping results:
+2025-12-31 23:24:56,346 - INFO -   Total entities: 192
+2025-12-31 23:24:56,347 - INFO -   Mapped to ULS: 7
+2025-12-31 23:24:56,349 - INFO -   Already ULS: 185
+2025-12-31 23:24:56,349 - INFO -   Unique parent ULS: 189
+2025-12-31 23:24:56,349 - INFO - 
+======================================================================
+2025-12-31 23:24:56,349 - INFO - MERGING QUALITY METRICS WITH MONTHLY PANEL
+2025-12-31 23:24:56,349 - INFO - ======================================================================
+2025-12-31 23:24:56,352 - INFO - 
+Before merge:
+2025-12-31 23:24:56,352 - INFO -   Panel: 8867 rows
+2025-12-31 23:24:56,352 - INFO -   Quality: 258 rows
+2025-12-31 23:24:56,360 - INFO - 
+After merge:
+2025-12-31 23:24:56,361 - INFO -   Merged: 8867 rows
+2025-12-31 23:24:56,361 - INFO -   Entities: 192
+2025-12-31 23:24:56,361 - INFO - 
+Quality metric coverage in merged panel:
+2025-12-31 23:24:56,361 - INFO -   taxa_mortalidade: 258/8867 (2.9%)
+2025-12-31 23:24:56,361 - INFO -   taxa_internamento: 258/8867 (2.9%)
+2025-12-31 23:24:56,361 - INFO -   dias_internamento: 258/8867 (2.9%)
+2025-12-31 23:24:56,361 - INFO - 
+======================================================================
+2025-12-31 23:24:56,361 - INFO - VALIDATION OF MERGED PANEL
+2025-12-31 23:24:56,361 - INFO - ======================================================================
+2025-12-31 23:24:56,361 - INFO - 
+Dataset dimensions:
+2025-12-31 23:24:56,362 - INFO -   Rows: 8867
+2025-12-31 23:24:56,362 - INFO -   Columns: 33
+2025-12-31 23:24:56,362 - INFO -   Entities: 189
+2025-12-31 23:24:56,362 - INFO -   Time range: 2017.0-2024.0
+2025-12-31 23:24:56,362 - INFO - 
+Temporal overlap for Granger causality:
+2025-12-31 23:24:56,362 - INFO -   Entities with BOTH payment delays AND quality data: 0
+2025-12-31 23:24:56,363 - INFO - 
+Top 10 entities by overlapping observations:
+2025-12-31 23:24:56,363 - INFO - 
+Entities with ≥36 overlapping months: 0
+2025-12-31 23:24:56,363 - WARNING -   WARNING: No entities have sufficient overlapping data for Granger causality!
+2025-12-31 23:24:56,363 - WARNING -   This indicates quality metrics and payment delays still don't overlap temporally
+2025-12-31 23:24:56,363 - INFO - 
+Diagnosing temporal mismatch:
+2025-12-31 23:24:56,363 - INFO -   Payment delays coverage: 5161 rows
+2025-12-31 23:24:56,363 - INFO -   Quality metrics coverage: 258 rows
+2025-12-31 23:24:56,367 - INFO - 
+  Payment delays by year:
+2025-12-31 23:24:56,367 - INFO -     2017: 648 observations
+2025-12-31 23:24:56,367 - INFO -     2018: 643 observations
+2025-12-31 23:24:56,367 - INFO -     2019: 641 observations
+2025-12-31 23:24:56,367 - INFO -     2020: 648 observations
+2025-12-31 23:24:56,367 - INFO -     2021: 657 observations
+2025-12-31 23:24:56,367 - INFO -     2022: 672 observations
+2025-12-31 23:24:56,367 - INFO -     2023: 708 observations
+2025-12-31 23:24:56,367 - INFO -     2024: 544 observations
+2025-12-31 23:24:56,367 - INFO - 
+  Quality metrics by year:
+2025-12-31 23:24:56,367 - INFO -     2019: 43 observations
+2025-12-31 23:24:56,367 - INFO -     2020: 43 observations
+2025-12-31 23:24:56,367 - INFO -     2021: 43 observations
+2025-12-31 23:24:56,367 - INFO -     2022: 43 observations
+2025-12-31 23:24:56,367 - INFO -     2023: 43 observations
+2025-12-31 23:24:56,367 - INFO -     2024: 43 observations
+2025-12-31 23:24:56,367 - INFO - 
+Saving merged panel...
+2025-12-31 23:24:56,384 - INFO -   Saved: /home/dpolonia/202512-CFE/03_data/processed/panel/hospital_month_panel_with_quality.parquet
+2025-12-31 23:24:56,384 - INFO -   Size: 0.24 MB
+2025-12-31 23:24:56,385 - INFO -   Preview: /home/dpolonia/202512-CFE/03_data/processed/panel/hospital_month_panel_with_quality_preview.csv
+2025-12-31 23:24:56,385 - INFO - 
+======================================================================
+2025-12-31 23:24:56,385 - INFO - MERGE COMPLETE
+2025-12-31 23:24:56,385 - INFO - ======================================================================
+2025-12-31 23:24:56,385 - INFO - 
+Next step: Re-run Granger causality analysis with merged panel

@@ -1,0 +1,26 @@
+\begin{table}[htbp]
+\centering
+\caption{Robustness Checks: Alternative Specifications}
+\label{tab:robustness}
+\begin{tabular}{lcccc}
+\hline\hline
+Specification & Subsidy Coef. & Std. Error & P-Value & N \\
+\hline
+Baseline & -0.547*** & (0.054) & 0.000 & 69 \\
+Alt PHFSI: Prioritize SPI & -0.614*** & (0.115) & 0.000 & 69 \\
+Alt PHFSI: Exclude SPI & -0.984*** & (0.026) & 0.000 & 69 \\
+Exclude COVID (2020-2021) & -0.559*** & (0.077) & 0.000 & 59 \\
+Exclude Small Hospitals & -0.375 & (nan) & nan & 39 \\
+Exclude Lisbon/Porto & -0.542*** & (0.104) & 0.000 & 61 \\
+Heteroskedasticity-Robust SE & -0.547*** & (0.095) & 0.000 & 69 \\
+Unadjusted SE & -0.547*** & (0.065) & 0.000 & 69 \\
+\hline\hline
+\end{tabular}
+\begin{tablenotes}
+\small
+\item Notes: Dependent variable is PHFSI in all specifications. 
+All models include hospital and year fixed effects. 
+Controls: log(revenue), debt ratio. 
+*** p<0.01, ** p<0.05, * p<0.10.
+\end{tablenotes}
+\end{table}

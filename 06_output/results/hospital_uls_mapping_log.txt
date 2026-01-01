@@ -1,0 +1,191 @@
+2025-12-31 23:07:40,589 - INFO - ======================================================================
+2025-12-31 23:07:40,589 - INFO - MAPPING PRE-INTEGRATION HOSPITALS TO PARENT ULS
+2025-12-31 23:07:40,590 - INFO - ======================================================================
+
+2025-12-31 23:07:40,600 - INFO - Loaded 47 canonical ULS
+2025-12-31 23:07:40,601 - INFO - Found 95 pre-integration hospitals
+
+2025-12-31 23:07:40,604 - INFO - 
+MAPPING SUMMARY
+2025-12-31 23:07:40,604 - INFO - ======================================================================
+2025-12-31 23:07:40,605 - INFO - 
+Total hospitals: 95
+2025-12-31 23:07:40,605 - INFO -   High confidence: 78 (82.1%)
+2025-12-31 23:07:40,605 - INFO -   Medium confidence: 2 (2.1%)
+2025-12-31 23:07:40,605 - INFO -   Low confidence: 15 (15.8%)
+2025-12-31 23:07:40,605 - INFO -   Unmapped: 15 (15.8%)
+2025-12-31 23:07:40,605 - INFO - 
+======================================================================
+2025-12-31 23:07:40,605 - INFO - HIGH CONFIDENCE MAPPINGS (Sample)
+2025-12-31 23:07:40,605 - INFO - ======================================================================
+2025-12-31 23:07:40,605 - INFO - 
+Hospital Espírito Santo de Évora, EPE
+2025-12-31 23:07:40,605 - INFO -   → ULS Alentejo Central
+2025-12-31 23:07:40,605 - INFO -   Match: Known mapping: Hospital Espírito Santo de Évora
+2025-12-31 23:07:40,605 - INFO - 
+Centro Hospitalar Póvoa de Varzim/Vila do Conde, EPE
+2025-12-31 23:07:40,605 - INFO -   → ULS Póvoa de Varzim/Vila do Conde
+2025-12-31 23:07:40,605 - INFO -   Match: Known mapping: Centro Hospitalar Póvoa de Varzim/Vila do Conde
+2025-12-31 23:07:40,605 - INFO - 
+Centro Hospitalar Universitário do Porto, EPE
+2025-12-31 23:07:40,605 - INFO -   → ULS Santo António
+2025-12-31 23:07:40,605 - INFO -   Match: Known mapping: Centro Hospitalar Universitário do Porto
+2025-12-31 23:07:40,605 - INFO - 
+Centro Hospitalar Médio Tejo, EPE
+2025-12-31 23:07:40,605 - INFO -   → ULS Médio Tejo
+2025-12-31 23:07:40,605 - INFO -   Match: Known mapping: Centro Hospitalar Médio Tejo
+2025-12-31 23:07:40,605 - INFO - 
+Centro Hospitalar Universitário do Porto, E. P. E.
+2025-12-31 23:07:40,605 - INFO -   → ULS Santo António
+2025-12-31 23:07:40,605 - INFO -   Match: Known mapping: Centro Hospitalar Universitário do Porto
+2025-12-31 23:07:40,606 - INFO - 
+Centro Hospitalar Médio Ave, EPE
+2025-12-31 23:07:40,606 - INFO -   → ULS Médio Ave
+2025-12-31 23:07:40,606 - INFO -   Match: Known mapping: Centro Hospitalar Médio Ave
+2025-12-31 23:07:40,606 - INFO - 
+Centro Hospitalar Médio Ave, E. P. E.
+2025-12-31 23:07:40,606 - INFO -   → ULS Médio Ave
+2025-12-31 23:07:40,606 - INFO -   Match: Known mapping: Centro Hospitalar Médio Ave
+2025-12-31 23:07:40,606 - INFO - 
+Centro Hospitalar Vila Nova Gaia/Espinho, EPE
+2025-12-31 23:07:40,606 - INFO -   → ULS Gaia/Espinho
+2025-12-31 23:07:40,606 - INFO -   Match: Known mapping: Centro Hospitalar Vila Nova Gaia/Espinho
+2025-12-31 23:07:40,606 - INFO - 
+Centro Hospitalar de Lisboa - Zona Ocidental, EPE
+2025-12-31 23:07:40,606 - INFO -   → ULS Lisboa Ocidental
+2025-12-31 23:07:40,606 - INFO -   Match: Known mapping: Centro Hospitalar de Lisboa
+2025-12-31 23:07:40,606 - INFO - 
+Hospital Distrital Figueira da Foz, EPE
+2025-12-31 23:07:40,606 - INFO -   → ULS Baixo Mondego
+2025-12-31 23:07:40,606 - INFO -   Match: Known mapping: Hospital Distrital Figueira da Foz
+2025-12-31 23:07:40,606 - INFO - 
+Hospital de Braga, E. P. E.
+2025-12-31 23:07:40,606 - INFO -   → ULS Braga
+2025-12-31 23:07:40,606 - INFO -   Match: Known mapping: Hospital de Braga
+2025-12-31 23:07:40,606 - INFO - 
+Centro Hospitalar Universitário de Lisboa Central, E. P. E.
+2025-12-31 23:07:40,606 - INFO -   → ULS São José
+2025-12-31 23:07:40,606 - INFO -   Match: Known mapping: Centro Hospitalar Universitário de Lisboa Central
+2025-12-31 23:07:40,606 - INFO - 
+Centro Hospitalar Universitário Cova da Beira, E. P. E.
+2025-12-31 23:07:40,606 - INFO -   → ULS Cova da Beira
+2025-12-31 23:07:40,606 - INFO -   Match: Known mapping: Centro Hospitalar Universitário Cova da Beira
+2025-12-31 23:07:40,606 - INFO - 
+Centro Hospitalar do Médio Ave, EPE
+2025-12-31 23:07:40,606 - INFO -   → ULS Médio Ave
+2025-12-31 23:07:40,606 - INFO -   Match: Known mapping: Centro Hospitalar do Médio Ave
+2025-12-31 23:07:40,606 - INFO - 
+Centro Hospitalar Barreiro/Montijo, EPE
+2025-12-31 23:07:40,606 - INFO -   → ULS Arco Ribeirinho
+2025-12-31 23:07:40,606 - INFO -   Match: Known mapping: Centro Hospitalar Barreiro/Montijo
+2025-12-31 23:07:40,606 - INFO - 
+Centro Hospitalar do Barreiro - Montijo, EPE
+2025-12-31 23:07:40,606 - INFO -   → ULS Arco Ribeirinho
+2025-12-31 23:07:40,607 - INFO -   Match: Known mapping: Centro Hospitalar do Barreiro
+2025-12-31 23:07:40,607 - INFO - 
+Centro Hospitalar Universitário de São João, E. P. E.
+2025-12-31 23:07:40,607 - INFO -   → ULS São João
+2025-12-31 23:07:40,607 - INFO -   Match: Known mapping: Centro Hospitalar Universitário de São João
+2025-12-31 23:07:40,607 - INFO - 
+Centro Hospitalar Trás-os-Montes e Alto Douro, E. P. E.
+2025-12-31 23:07:40,607 - INFO -   → ULS Trás-os-Montes e Alto Douro
+2025-12-31 23:07:40,607 - INFO -   Match: Known mapping: Centro Hospitalar Trás-os-Montes e Alto Douro
+2025-12-31 23:07:40,607 - INFO - 
+Centro Hospitalar do Oeste, E. P. E.
+2025-12-31 23:07:40,607 - INFO -   → ULS Oeste
+2025-12-31 23:07:40,607 - INFO -   Match: Known mapping: Centro Hospitalar do Oeste
+2025-12-31 23:07:40,607 - INFO - 
+Hospital Garcia de Orta, EPE
+2025-12-31 23:07:40,607 - INFO -   → ULS Almada-Seixal
+2025-12-31 23:07:40,607 - INFO -   Match: Known mapping: Hospital Garcia de Orta
+2025-12-31 23:07:40,607 - INFO - 
+======================================================================
+2025-12-31 23:07:40,607 - INFO - UNCERTAIN MAPPINGS (Require Manual Review)
+2025-12-31 23:07:40,607 - INFO - ======================================================================
+2025-12-31 23:07:40,608 - INFO - 
+Hospital José Luciano de Castro - Anadia
+2025-12-31 23:07:40,608 - INFO -   → None (Confidence: Low)
+2025-12-31 23:07:40,608 - INFO -   Keywords: No match
+2025-12-31 23:07:40,608 - INFO - 
+Hospital Distrital Santarém, E. P. E.
+2025-12-31 23:07:40,608 - INFO -   → None (Confidence: Low)
+2025-12-31 23:07:40,608 - INFO -   Keywords: No match
+2025-12-31 23:07:40,609 - INFO - 
+Hospital Dr. Francisco Zagalo - Ovar
+2025-12-31 23:07:40,609 - INFO -   → None (Confidence: Low)
+2025-12-31 23:07:40,609 - INFO -   Keywords: No match
+2025-12-31 23:07:40,609 - INFO - 
+Centro Hospitalar Psiquiátrico de Lisboa
+2025-12-31 23:07:40,609 - INFO -   → ULS Lisboa Ocidental (Confidence: Medium)
+2025-12-31 23:07:40,609 - INFO -   Keywords: Lisboa
+2025-12-31 23:07:40,609 - INFO - 
+Hospital de Magalhães Lemos, E. P. E.
+2025-12-31 23:07:40,609 - INFO -   → None (Confidence: Low)
+2025-12-31 23:07:40,609 - INFO -   Keywords: No geographic keywords found
+2025-12-31 23:07:40,609 - INFO - 
+Hospital Distrital Santarém, EPE
+2025-12-31 23:07:40,609 - INFO -   → None (Confidence: Low)
+2025-12-31 23:07:40,609 - INFO -   Keywords: No match
+2025-12-31 23:07:40,609 - INFO - 
+Hospital de Cascais, PPP
+2025-12-31 23:07:40,609 - INFO -   → None (Confidence: Low)
+2025-12-31 23:07:40,609 - INFO -   Keywords: No match
+2025-12-31 23:07:40,609 - INFO - 
+Hospital Arcebispo João Crisóstomo - Cantanhede
+2025-12-31 23:07:40,609 - INFO -   → None (Confidence: Low)
+2025-12-31 23:07:40,609 - INFO -   Keywords: No geographic keywords found
+2025-12-31 23:07:40,609 - INFO - 
+Hospital Rovisco Pais
+2025-12-31 23:07:40,609 - INFO -   → None (Confidence: Low)
+2025-12-31 23:07:40,609 - INFO -   Keywords: No geographic keywords found
+2025-12-31 23:07:40,609 - INFO - 
+Hospital Santa Maria Maior, EPE
+2025-12-31 23:07:40,609 - INFO -   → None (Confidence: Low)
+2025-12-31 23:07:40,609 - INFO -   Keywords: No geographic keywords found
+2025-12-31 23:07:40,609 - INFO - 
+Hospital Dr. Francisco Zagalo
+2025-12-31 23:07:40,609 - INFO -   → None (Confidence: Low)
+2025-12-31 23:07:40,609 - INFO -   Keywords: No geographic keywords found
+2025-12-31 23:07:40,609 - INFO - 
+Hospital Arcebispo João Crisóstomo
+2025-12-31 23:07:40,609 - INFO -   → None (Confidence: Low)
+2025-12-31 23:07:40,609 - INFO -   Keywords: No geographic keywords found
+2025-12-31 23:07:40,610 - INFO - 
+Hospital Distrital da Figueira da Foz, EPE
+2025-12-31 23:07:40,610 - INFO -   → None (Confidence: Low)
+2025-12-31 23:07:40,610 - INFO -   Keywords: No geographic keywords found
+2025-12-31 23:07:40,610 - INFO - 
+Centro Hospitalar Psiquiátrico de Lisboa, SPA
+2025-12-31 23:07:40,610 - INFO -   → ULS Lisboa Ocidental (Confidence: Medium)
+2025-12-31 23:07:40,610 - INFO -   Keywords: Lisboa
+2025-12-31 23:07:40,610 - INFO - 
+Hospital de Cascais Dr. José de Almeida
+2025-12-31 23:07:40,610 - INFO -   → None (Confidence: Low)
+2025-12-31 23:07:40,610 - INFO -   Keywords: No match
+2025-12-31 23:07:40,610 - INFO - 
+Hospital da Senhora da Oliveira, Guimarães, EPE
+2025-12-31 23:07:40,610 - INFO -   → None (Confidence: Low)
+2025-12-31 23:07:40,610 - INFO -   Keywords: No match
+2025-12-31 23:07:40,610 - INFO - 
+Hospital de Magalhães Lemos, EPE
+2025-12-31 23:07:40,610 - INFO -   → None (Confidence: Low)
+2025-12-31 23:07:40,610 - INFO -   Keywords: No geographic keywords found
+2025-12-31 23:07:40,612 - INFO - 
+
+Mapping saved: /home/dpolonia/202512-CFE/03_data/processed/crosswalks/hospital_to_uls_mapping.csv
+2025-12-31 23:07:40,612 - INFO - 
+Generating mapping documentation...
+2025-12-31 23:07:40,619 - INFO - Documentation saved: /home/dpolonia/202512-CFE/08_documentation/hospital_to_uls_mapping.md
+2025-12-31 23:07:40,619 - INFO - 
+======================================================================
+2025-12-31 23:07:40,619 - INFO - MAPPING COMPLETE
+2025-12-31 23:07:40,620 - INFO - ======================================================================
+2025-12-31 23:07:40,620 - INFO - 
+Outputs:
+2025-12-31 23:07:40,620 - INFO -   1. CSV: 03_data/processed/crosswalks/hospital_to_uls_mapping.csv
+2025-12-31 23:07:40,620 - INFO -   2. Documentation: 08_documentation/hospital_to_uls_mapping.md
+2025-12-31 23:07:40,620 - INFO - 
+Next steps:
+2025-12-31 23:07:40,620 - INFO -   1. Review uncertain mappings (Medium/Low confidence)
+2025-12-31 23:07:40,620 - INFO -   2. Manually verify against official ULS integration decrees
+2025-12-31 23:07:40,620 - INFO -   3. Update parent_uls column in crosswalk for quality metric aggregation

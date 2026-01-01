@@ -1,0 +1,305 @@
+2025-12-31 23:31:13,495 - INFO - ======================================================================
+2025-12-31 23:31:13,495 - INFO - GRANGER CAUSALITY ANALYSIS PIPELINE
+2025-12-31 23:31:13,495 - INFO - ======================================================================
+
+2025-12-31 23:31:13,495 - INFO - Loading monthly panel dataset...
+2025-12-31 23:31:13,510 - INFO - Loaded 5339 hospital-months
+2025-12-31 23:31:13,510 - INFO - Columns: ['parent_uls_std', 'year', 'month', 'divida_total_fornecedores_externos', 'divida_vencida_fornecedores_externos', 'pagamentos_em_atraso', 'taxa_internamento', 'dias_internamento', 'taxa_mortalidade', 'mortalidade_avc_hemorragico_30_dias', 'mortalidade_avc_isquemico_30_dias', 'resultado_liquido', 'resultados_operacionais', 'covid_period', 'election_month', 'uls_integrated', 'month_1', 'month_2', 'month_3', 'month_4', 'month_5', 'month_6', 'month_7', 'month_8', 'month_9', 'month_10', 'month_11', 'month_12', 'entidade', 'parent_uls', 'entidade_std']
+2025-12-31 23:31:13,510 - INFO - 
+======================================================================
+2025-12-31 23:31:13,510 - INFO - SEQUENTIAL TRANSFER MECHANISM: POOLED GRANGER CAUSALITY
+2025-12-31 23:31:13,510 - INFO - ======================================================================
+2025-12-31 23:31:13,511 - INFO - 
+Entities with ≥36 months: 53
+2025-12-31 23:31:13,511 - INFO - 
+======================================================================
+2025-12-31 23:31:13,511 - INFO - TESTING: pagamentos_em_atraso → taxa_mortalidade
+2025-12-31 23:31:13,511 - INFO - ======================================================================
+2025-12-31 23:31:13,564 - WARNING -   No valid results for pagamentos_em_atraso → taxa_mortalidade
+2025-12-31 23:31:13,564 - INFO - 
+======================================================================
+2025-12-31 23:31:13,564 - INFO - TESTING: pagamentos_em_atraso → resultados_operacionais
+2025-12-31 23:31:13,564 - INFO - ======================================================================
+2025-12-31 23:31:13,581 - INFO - 
+Testing: pagamentos_em_atraso → resultados_operacionais
+2025-12-31 23:31:13,581 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,583 - INFO -   resultados_operacionais: ADF p-value = 0.2657 (non-stationary)
+2025-12-31 23:31:13,585 - INFO -   pagamentos_em_atraso: ADF p-value = 0.3221 (non-stationary)
+2025-12-31 23:31:13,586 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,586 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,591 - INFO -   Optimal lag: 1 months, p-value: 0.0000
+2025-12-31 23:31:13,591 - INFO -   Conclusion: pagamentos_em_atraso DOES Granger-cause resultados_operacionais
+2025-12-31 23:31:13,593 - INFO - 
+Testing: pagamentos_em_atraso → resultados_operacionais
+2025-12-31 23:31:13,594 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,596 - INFO -   resultados_operacionais: ADF p-value = 0.8680 (non-stationary)
+2025-12-31 23:31:13,598 - INFO -   pagamentos_em_atraso: ADF p-value = 0.2752 (non-stationary)
+2025-12-31 23:31:13,598 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,598 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,602 - INFO -   Optimal lag: 1 months, p-value: 0.0000
+2025-12-31 23:31:13,602 - INFO -   Conclusion: pagamentos_em_atraso DOES Granger-cause resultados_operacionais
+2025-12-31 23:31:13,605 - INFO - 
+Testing: pagamentos_em_atraso → resultados_operacionais
+2025-12-31 23:31:13,605 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,607 - INFO -   resultados_operacionais: ADF p-value = 0.8917 (non-stationary)
+2025-12-31 23:31:13,608 - INFO -   pagamentos_em_atraso: ADF p-value = 0.0000 (stationary)
+2025-12-31 23:31:13,609 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,612 - INFO -   Optimal lag: 1 months, p-value: 0.3904
+2025-12-31 23:31:13,612 - INFO -   Conclusion: pagamentos_em_atraso DOES NOT Granger-cause resultados_operacionais
+2025-12-31 23:31:13,615 - INFO - 
+Testing: pagamentos_em_atraso → resultados_operacionais
+2025-12-31 23:31:13,615 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,617 - INFO -   resultados_operacionais: ADF p-value = 0.4593 (non-stationary)
+2025-12-31 23:31:13,618 - INFO -   pagamentos_em_atraso: ADF p-value = 0.2069 (non-stationary)
+2025-12-31 23:31:13,619 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,619 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,623 - INFO -   Optimal lag: 1 months, p-value: 0.0000
+2025-12-31 23:31:13,623 - INFO -   Conclusion: pagamentos_em_atraso DOES Granger-cause resultados_operacionais
+2025-12-31 23:31:13,625 - INFO - 
+Testing: pagamentos_em_atraso → resultados_operacionais
+2025-12-31 23:31:13,626 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,628 - INFO -   resultados_operacionais: ADF p-value = 0.6338 (non-stationary)
+2025-12-31 23:31:13,629 - INFO -   pagamentos_em_atraso: ADF p-value = 0.1754 (non-stationary)
+2025-12-31 23:31:13,629 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,630 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,633 - INFO -   Optimal lag: 1 months, p-value: 0.0000
+2025-12-31 23:31:13,634 - INFO -   Conclusion: pagamentos_em_atraso DOES Granger-cause resultados_operacionais
+2025-12-31 23:31:13,636 - INFO - 
+Testing: pagamentos_em_atraso → resultados_operacionais
+2025-12-31 23:31:13,637 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,638 - INFO -   resultados_operacionais: ADF p-value = 0.7284 (non-stationary)
+2025-12-31 23:31:13,640 - INFO -   pagamentos_em_atraso: ADF p-value = 0.5805 (non-stationary)
+2025-12-31 23:31:13,640 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,640 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,644 - INFO -   Optimal lag: 1 months, p-value: 0.0000
+2025-12-31 23:31:13,644 - INFO -   Conclusion: pagamentos_em_atraso DOES Granger-cause resultados_operacionais
+2025-12-31 23:31:13,647 - INFO - 
+Testing: pagamentos_em_atraso → resultados_operacionais
+2025-12-31 23:31:13,647 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,649 - INFO -   resultados_operacionais: ADF p-value = 0.8039 (non-stationary)
+2025-12-31 23:31:13,650 - INFO -   pagamentos_em_atraso: ADF p-value = 0.0493 (stationary)
+2025-12-31 23:31:13,651 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,655 - INFO -   Optimal lag: 2 months, p-value: 0.0000
+2025-12-31 23:31:13,655 - INFO -   Conclusion: pagamentos_em_atraso DOES Granger-cause resultados_operacionais
+2025-12-31 23:31:13,657 - INFO - 
+Testing: pagamentos_em_atraso → resultados_operacionais
+2025-12-31 23:31:13,657 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,659 - INFO -   resultados_operacionais: ADF p-value = 0.3958 (non-stationary)
+2025-12-31 23:31:13,661 - INFO -   pagamentos_em_atraso: ADF p-value = 0.3526 (non-stationary)
+2025-12-31 23:31:13,661 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,661 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,665 - INFO -   Optimal lag: 2 months, p-value: 0.0032
+2025-12-31 23:31:13,665 - INFO -   Conclusion: pagamentos_em_atraso DOES Granger-cause resultados_operacionais
+2025-12-31 23:31:13,668 - INFO - 
+Testing: pagamentos_em_atraso → resultados_operacionais
+2025-12-31 23:31:13,668 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,670 - INFO -   resultados_operacionais: ADF p-value = 0.2746 (non-stationary)
+2025-12-31 23:31:13,671 - INFO -   pagamentos_em_atraso: ADF p-value = 0.1839 (non-stationary)
+2025-12-31 23:31:13,671 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,672 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,676 - INFO -   Optimal lag: 3 months, p-value: 0.0000
+2025-12-31 23:31:13,676 - INFO -   Conclusion: pagamentos_em_atraso DOES Granger-cause resultados_operacionais
+2025-12-31 23:31:13,678 - INFO - 
+Testing: pagamentos_em_atraso → resultados_operacionais
+2025-12-31 23:31:13,679 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,680 - INFO -   resultados_operacionais: ADF p-value = 0.7377 (non-stationary)
+2025-12-31 23:31:13,682 - INFO -   pagamentos_em_atraso: ADF p-value = 0.5645 (non-stationary)
+2025-12-31 23:31:13,682 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,682 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,687 - INFO -   Optimal lag: 1 months, p-value: 0.0000
+2025-12-31 23:31:13,687 - INFO -   Conclusion: pagamentos_em_atraso DOES Granger-cause resultados_operacionais
+2025-12-31 23:31:13,689 - INFO - 
+Testing: pagamentos_em_atraso → resultados_operacionais
+2025-12-31 23:31:13,690 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,692 - INFO -   resultados_operacionais: ADF p-value = 0.9317 (non-stationary)
+2025-12-31 23:31:13,693 - INFO -   pagamentos_em_atraso: ADF p-value = 0.7197 (non-stationary)
+2025-12-31 23:31:13,694 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,694 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,698 - INFO -   Optimal lag: 1 months, p-value: 0.0000
+2025-12-31 23:31:13,698 - INFO -   Conclusion: pagamentos_em_atraso DOES Granger-cause resultados_operacionais
+2025-12-31 23:31:13,700 - INFO - 
+Testing: pagamentos_em_atraso → resultados_operacionais
+2025-12-31 23:31:13,701 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,702 - INFO -   resultados_operacionais: ADF p-value = 0.8339 (non-stationary)
+2025-12-31 23:31:13,704 - INFO -   pagamentos_em_atraso: ADF p-value = 0.3361 (non-stationary)
+2025-12-31 23:31:13,704 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,705 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,709 - INFO -   Optimal lag: 2 months, p-value: 0.0000
+2025-12-31 23:31:13,709 - INFO -   Conclusion: pagamentos_em_atraso DOES Granger-cause resultados_operacionais
+2025-12-31 23:31:13,712 - INFO - 
+Testing: pagamentos_em_atraso → resultados_operacionais
+2025-12-31 23:31:13,712 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,714 - INFO -   resultados_operacionais: ADF p-value = 0.8426 (non-stationary)
+2025-12-31 23:31:13,716 - INFO -   pagamentos_em_atraso: ADF p-value = 0.2912 (non-stationary)
+2025-12-31 23:31:13,716 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,716 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,720 - INFO -   Optimal lag: 1 months, p-value: 0.0000
+2025-12-31 23:31:13,720 - INFO -   Conclusion: pagamentos_em_atraso DOES Granger-cause resultados_operacionais
+2025-12-31 23:31:13,723 - INFO - 
+Testing: pagamentos_em_atraso → resultados_operacionais
+2025-12-31 23:31:13,723 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,725 - INFO -   resultados_operacionais: ADF p-value = 0.1775 (non-stationary)
+2025-12-31 23:31:13,726 - INFO -   pagamentos_em_atraso: ADF p-value = 0.2057 (non-stationary)
+2025-12-31 23:31:13,727 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,727 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,731 - INFO -   Optimal lag: 1 months, p-value: 0.0000
+2025-12-31 23:31:13,731 - INFO -   Conclusion: pagamentos_em_atraso DOES Granger-cause resultados_operacionais
+2025-12-31 23:31:13,731 - INFO - 
+  SUMMARY: pagamentos_em_atraso → resultados_operacionais
+2025-12-31 23:31:13,731 - INFO -     Entities tested: 14
+2025-12-31 23:31:13,731 - INFO -     Significant (p < 0.05): 13 (92.9%)
+2025-12-31 23:31:13,731 - INFO -     Average min p-value: 0.0281
+2025-12-31 23:31:13,731 - INFO -     Conclusion: SUPPORTED
+2025-12-31 23:31:13,731 - INFO - 
+======================================================================
+2025-12-31 23:31:13,731 - INFO - TESTING: taxa_mortalidade → pagamentos_em_atraso
+2025-12-31 23:31:13,731 - INFO - ======================================================================
+2025-12-31 23:31:13,779 - WARNING -   No valid results for taxa_mortalidade → pagamentos_em_atraso
+2025-12-31 23:31:13,779 - INFO - 
+======================================================================
+2025-12-31 23:31:13,779 - INFO - TESTING: resultados_operacionais → pagamentos_em_atraso
+2025-12-31 23:31:13,779 - INFO - ======================================================================
+2025-12-31 23:31:13,795 - INFO - 
+Testing: resultados_operacionais → pagamentos_em_atraso
+2025-12-31 23:31:13,795 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,797 - INFO -   pagamentos_em_atraso: ADF p-value = 0.3221 (non-stationary)
+2025-12-31 23:31:13,799 - INFO -   resultados_operacionais: ADF p-value = 0.2657 (non-stationary)
+2025-12-31 23:31:13,799 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,799 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,803 - INFO -   Optimal lag: 3 months, p-value: 0.0255
+2025-12-31 23:31:13,803 - INFO -   Conclusion: resultados_operacionais DOES Granger-cause pagamentos_em_atraso
+2025-12-31 23:31:13,806 - INFO - 
+Testing: resultados_operacionais → pagamentos_em_atraso
+2025-12-31 23:31:13,806 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,808 - INFO -   pagamentos_em_atraso: ADF p-value = 0.2752 (non-stationary)
+2025-12-31 23:31:13,809 - INFO -   resultados_operacionais: ADF p-value = 0.8680 (non-stationary)
+2025-12-31 23:31:13,810 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,810 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,814 - INFO -   Optimal lag: 1 months, p-value: 0.4241
+2025-12-31 23:31:13,814 - INFO -   Conclusion: resultados_operacionais DOES NOT Granger-cause pagamentos_em_atraso
+2025-12-31 23:31:13,816 - INFO - 
+Testing: resultados_operacionais → pagamentos_em_atraso
+2025-12-31 23:31:13,817 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,818 - INFO -   pagamentos_em_atraso: ADF p-value = 0.0000 (stationary)
+2025-12-31 23:31:13,820 - INFO -   resultados_operacionais: ADF p-value = 0.8917 (non-stationary)
+2025-12-31 23:31:13,820 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,824 - INFO -   Optimal lag: 6 months, p-value: 0.7715
+2025-12-31 23:31:13,824 - INFO -   Conclusion: resultados_operacionais DOES NOT Granger-cause pagamentos_em_atraso
+2025-12-31 23:31:13,827 - INFO - 
+Testing: resultados_operacionais → pagamentos_em_atraso
+2025-12-31 23:31:13,827 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,829 - INFO -   pagamentos_em_atraso: ADF p-value = 0.2069 (non-stationary)
+2025-12-31 23:31:13,830 - INFO -   resultados_operacionais: ADF p-value = 0.4593 (non-stationary)
+2025-12-31 23:31:13,830 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,831 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,835 - INFO -   Optimal lag: 5 months, p-value: 0.3268
+2025-12-31 23:31:13,835 - INFO -   Conclusion: resultados_operacionais DOES NOT Granger-cause pagamentos_em_atraso
+2025-12-31 23:31:13,838 - INFO - 
+Testing: resultados_operacionais → pagamentos_em_atraso
+2025-12-31 23:31:13,838 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,840 - INFO -   pagamentos_em_atraso: ADF p-value = 0.1754 (non-stationary)
+2025-12-31 23:31:13,841 - INFO -   resultados_operacionais: ADF p-value = 0.6338 (non-stationary)
+2025-12-31 23:31:13,841 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,842 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,846 - INFO -   Optimal lag: 5 months, p-value: 0.0941
+2025-12-31 23:31:13,846 - INFO -   Conclusion: resultados_operacionais DOES NOT Granger-cause pagamentos_em_atraso
+2025-12-31 23:31:13,848 - INFO - 
+Testing: resultados_operacionais → pagamentos_em_atraso
+2025-12-31 23:31:13,849 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,850 - INFO -   pagamentos_em_atraso: ADF p-value = 0.5805 (non-stationary)
+2025-12-31 23:31:13,852 - INFO -   resultados_operacionais: ADF p-value = 0.7284 (non-stationary)
+2025-12-31 23:31:13,852 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,853 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,857 - INFO -   Optimal lag: 5 months, p-value: 0.0076
+2025-12-31 23:31:13,857 - INFO -   Conclusion: resultados_operacionais DOES Granger-cause pagamentos_em_atraso
+2025-12-31 23:31:13,859 - INFO - 
+Testing: resultados_operacionais → pagamentos_em_atraso
+2025-12-31 23:31:13,860 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,861 - INFO -   pagamentos_em_atraso: ADF p-value = 0.0493 (stationary)
+2025-12-31 23:31:13,863 - INFO -   resultados_operacionais: ADF p-value = 0.8039 (non-stationary)
+2025-12-31 23:31:13,863 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,867 - INFO -   Optimal lag: 1 months, p-value: 0.7354
+2025-12-31 23:31:13,867 - INFO -   Conclusion: resultados_operacionais DOES NOT Granger-cause pagamentos_em_atraso
+2025-12-31 23:31:13,870 - INFO - 
+Testing: resultados_operacionais → pagamentos_em_atraso
+2025-12-31 23:31:13,870 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,872 - INFO -   pagamentos_em_atraso: ADF p-value = 0.3526 (non-stationary)
+2025-12-31 23:31:13,873 - INFO -   resultados_operacionais: ADF p-value = 0.3958 (non-stationary)
+2025-12-31 23:31:13,873 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,874 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,878 - INFO -   Optimal lag: 2 months, p-value: 0.1692
+2025-12-31 23:31:13,878 - INFO -   Conclusion: resultados_operacionais DOES NOT Granger-cause pagamentos_em_atraso
+2025-12-31 23:31:13,880 - INFO - 
+Testing: resultados_operacionais → pagamentos_em_atraso
+2025-12-31 23:31:13,880 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,882 - INFO -   pagamentos_em_atraso: ADF p-value = 0.1839 (non-stationary)
+2025-12-31 23:31:13,884 - INFO -   resultados_operacionais: ADF p-value = 0.2746 (non-stationary)
+2025-12-31 23:31:13,884 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,884 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,889 - INFO -   Optimal lag: 1 months, p-value: 0.3162
+2025-12-31 23:31:13,889 - INFO -   Conclusion: resultados_operacionais DOES NOT Granger-cause pagamentos_em_atraso
+2025-12-31 23:31:13,892 - INFO - 
+Testing: resultados_operacionais → pagamentos_em_atraso
+2025-12-31 23:31:13,892 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,894 - INFO -   pagamentos_em_atraso: ADF p-value = 0.5645 (non-stationary)
+2025-12-31 23:31:13,895 - INFO -   resultados_operacionais: ADF p-value = 0.7377 (non-stationary)
+2025-12-31 23:31:13,896 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,896 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,900 - INFO -   Optimal lag: 6 months, p-value: 0.5109
+2025-12-31 23:31:13,900 - INFO -   Conclusion: resultados_operacionais DOES NOT Granger-cause pagamentos_em_atraso
+2025-12-31 23:31:13,902 - INFO - 
+Testing: resultados_operacionais → pagamentos_em_atraso
+2025-12-31 23:31:13,903 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,905 - INFO -   pagamentos_em_atraso: ADF p-value = 0.7197 (non-stationary)
+2025-12-31 23:31:13,907 - INFO -   resultados_operacionais: ADF p-value = 0.9317 (non-stationary)
+2025-12-31 23:31:13,907 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,907 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,911 - INFO -   Optimal lag: 1 months, p-value: 0.0922
+2025-12-31 23:31:13,911 - INFO -   Conclusion: resultados_operacionais DOES NOT Granger-cause pagamentos_em_atraso
+2025-12-31 23:31:13,914 - INFO - 
+Testing: resultados_operacionais → pagamentos_em_atraso
+2025-12-31 23:31:13,914 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,916 - INFO -   pagamentos_em_atraso: ADF p-value = 0.3361 (non-stationary)
+2025-12-31 23:31:13,917 - INFO -   resultados_operacionais: ADF p-value = 0.8339 (non-stationary)
+2025-12-31 23:31:13,918 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,918 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,922 - INFO -   Optimal lag: 3 months, p-value: 0.1015
+2025-12-31 23:31:13,922 - INFO -   Conclusion: resultados_operacionais DOES NOT Granger-cause pagamentos_em_atraso
+2025-12-31 23:31:13,926 - INFO - 
+Testing: resultados_operacionais → pagamentos_em_atraso
+2025-12-31 23:31:13,926 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,928 - INFO -   pagamentos_em_atraso: ADF p-value = 0.2912 (non-stationary)
+2025-12-31 23:31:13,929 - INFO -   resultados_operacionais: ADF p-value = 0.8426 (non-stationary)
+2025-12-31 23:31:13,929 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,930 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,934 - INFO -   Optimal lag: 3 months, p-value: 0.3880
+2025-12-31 23:31:13,934 - INFO -   Conclusion: resultados_operacionais DOES NOT Granger-cause pagamentos_em_atraso
+2025-12-31 23:31:13,936 - INFO - 
+Testing: resultados_operacionais → pagamentos_em_atraso
+2025-12-31 23:31:13,937 - INFO -   Stationarity tests:
+2025-12-31 23:31:13,938 - INFO -   pagamentos_em_atraso: ADF p-value = 0.2057 (non-stationary)
+2025-12-31 23:31:13,940 - INFO -   resultados_operacionais: ADF p-value = 0.1775 (non-stationary)
+2025-12-31 23:31:13,940 - INFO -     Differenced pagamentos_em_atraso
+2025-12-31 23:31:13,941 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:31:13,945 - INFO -   Optimal lag: 4 months, p-value: 0.0377
+2025-12-31 23:31:13,945 - INFO -   Conclusion: resultados_operacionais DOES Granger-cause pagamentos_em_atraso
+2025-12-31 23:31:13,945 - INFO - 
+  SUMMARY: resultados_operacionais → pagamentos_em_atraso
+2025-12-31 23:31:13,945 - INFO -     Entities tested: 14
+2025-12-31 23:31:13,945 - INFO -     Significant (p < 0.05): 3 (21.4%)
+2025-12-31 23:31:13,945 - INFO -     Average min p-value: 0.2858
+2025-12-31 23:31:13,945 - INFO -     Conclusion: NOT SUPPORTED
+2025-12-31 23:31:13,945 - INFO - 
+======================================================================
+2025-12-31 23:31:13,945 - INFO - VAR MODEL ESTIMATION
+2025-12-31 23:31:13,945 - INFO - ======================================================================
+2025-12-31 23:31:13,949 - INFO - Using entity: Administração Central do Sistema de Saúde, I.P
+2025-12-31 23:31:13,949 - ERROR - Insufficient data for VAR estimation
+2025-12-31 23:31:13,949 - INFO - 
+Saving results...
+2025-12-31 23:31:13,949 - INFO - Results saved: /home/dpolonia/202512-CFE/06_output/results/granger_causality_results.txt
+2025-12-31 23:31:13,949 - INFO - LaTeX table saved: /home/dpolonia/202512-CFE/06_output/tables/appendix/tableA3_granger_causality.tex
+2025-12-31 23:31:13,949 - INFO - 
+======================================================================
+2025-12-31 23:31:13,949 - INFO - GRANGER CAUSALITY ANALYSIS COMPLETE
+2025-12-31 23:31:13,950 - INFO - ======================================================================

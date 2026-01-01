@@ -1,0 +1,14 @@
+date,dr_number,entity,amount_eur,project,period,source_url
+2025-10-31,Portaria 614/2025/2,ULS Guarda,2770437.88,Psychiatric building renovation & expansion,2025-2026,https://dre.tretas.org/dre/6331207
+2025-12-12,Portaria 738/2025/2,SPMS (SNS 24),95533430.38,SNS 24 Contact Center tech development,2023-2027,https://dre.tretas.org/dre/6376175
+2025-12-12,Portaria 737/2025/2,IPO Lisboa,2000000,New outpatient building execution project,2025-2030,https://dre.tretas.org/dre/6376174
+2025-10-24,Despacho 12497/2025,ULS São José,72100000,Liquidation overdue payments >90d to suppliers,2024,https://observador.pt/2025/10/24/governo-transfere-500-milhoes-de-euros-para-pagar-dividas-a-fornecedores-no-setor-da-saude/
+2025-10-24,Despacho 12497/2025,ULS Gaia/Espinho,32000000,Liquidation overdue payments >90d to suppliers,2024,https://observador.pt/2025/10/24/governo-transfere-500-milhoes-de-euros-para-pagar-dividas-a-fornecedores-no-setor-da-saude/
+2025-10-24,Despacho 12497/2025,ULS Santa Maria,31300000,Liquidation overdue payments >90d to suppliers,2024,https://observador.pt/2025/10/24/governo-transfere-500-milhoes-de-euros-para-pagar-dividas-a-fornecedores-no-setor-da-saude/
+2025-10-24,Despacho 12497/2025,ULS Algarve,29900000,Liquidation overdue payments >90d to suppliers,2024,https://observador.pt/2025/10/24/governo-transfere-500-milhoes-de-euros-para-pagar-dividas-a-fornecedores-no-setor-da-saude/
+2025-10-24,Despacho 12497/2025,ULS Lisboa Ocidental,23600000,Liquidation overdue payments >90d to suppliers,2024,https://observador.pt/2025/10/24/governo-transfere-500-milhoes-de-euros-para-pagar-dividas-a-fornecedores-no-setor-da-saude/
+2025-10-24,Despacho 12497/2025,ULS Trás-os-Montes e Alto Douro,23600000,Liquidation overdue payments >90d to suppliers,2024,https://observador.pt/2025/10/24/governo-transfere-500-milhoes-de-euros-para-pagar-dividas-a-fornecedores-no-setor-da-saude/
+2025-10-24,Despacho 12497/2025,ULS Coimbra,22300000,Liquidation overdue payments >90d to suppliers,2024,https://observador.pt/2025/10/24/governo-transfere-500-milhoes-de-euros-para-pagar-dividas-a-fornecedores-no-setor-da-saude/
+2025-10-24,Despacho 12497/2025,IPO Lisboa,14700000,Liquidation overdue payments >90d to suppliers,2024,https://observador.pt/2025/10/24/governo-transfere-500-milhoes-de-euros-para-pagar-dividas-a-fornecedores-no-setor-da-saude/
+2025-10-24,Despacho 12497/2025,IPO Coimbra,8300000,Liquidation overdue payments >90d to suppliers,2024,https://observador.pt/2025/10/24/governo-transfere-500-milhoes-de-euros-para-pagar-dividas-a-fornecedores-no-setor-da-saude/
+2025-10-24,Despacho 12497/2025,IPO Porto,2900000,Liquidation overdue payments >90d to suppliers,2024,https://observador.pt/2025/10/24/governo-transfere-500-milhoes-de-euros-para-pagar-dividas-a-fornecedores-no-setor-da-saude/

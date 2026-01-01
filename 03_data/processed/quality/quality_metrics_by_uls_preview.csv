@@ -1,0 +1,101 @@
+entidade,year,month,taxa_mortalidade,mortalidade_avc_hemorragico_30_dias,mortalidade_avc_isquemico_30_dias,taxa_internamento,dias_internamento,regiao
+Hospital de Cascais Dr. José de Almeida,2019.0,1.0,7.1293750000000005,,,4.999875,861.375,Região de Saúde LVT
+Hospital de Cascais Dr. José de Almeida,2020.0,1.0,11.021829268292683,,,4.878048780487805,738.8048780487804,Região de Saúde LVT
+Hospital de Cascais Dr. José de Almeida,2021.0,1.0,5.884047619047619,,,4.761904761904762,989.7380952380952,Região de Saúde LVT
+Hospital de Cascais Dr. José de Almeida,2022.0,1.0,6.305357142857143,,,4.761428571428572,1105.952380952381,Região de Saúde LVT
+Hospital de Cascais Dr. José de Almeida,2023.0,1.0,5.495,,,4.761904761904762,1073.9761904761904,Região de Saúde LVT
+Hospital de Cascais Dr. José de Almeida,2024.0,1.0,5.635903614457831,,,4.82,1186.120481927711,Região de Saúde LVT
+"Instituto Português Oncologia  F. Gentil - Coimbra, E.P.E.",2019.0,1.0,5.6683076923076925,,,6.154615384615385,649.0153846153846,Região de Saúde do Centro
+"Instituto Português Oncologia  F. Gentil - Coimbra, E.P.E.",2020.0,1.0,2.650983606557377,,,6.55688524590164,640.9672131147541,Região de Saúde do Centro
+"Instituto Português Oncologia  F. Gentil - Coimbra, E.P.E.",2021.0,1.0,10.39953125,,,6.249687499999999,548.828125,Região de Saúde do Centro
+"Instituto Português Oncologia  F. Gentil - Coimbra, E.P.E.",2022.0,1.0,8.333043478260869,,,5.796811594202898,514.5507246376811,Região de Saúde do Centro
+"Instituto Português Oncologia  F. Gentil - Coimbra, E.P.E.",2023.0,1.0,5.483818181818182,,,7.272363636363637,329.90909090909093,Região de Saúde do Centro
+"Instituto Português Oncologia  F. Gentil - Coimbra, E.P.E.",2024.0,1.0,3.0978947368421053,,,10.526842105263157,124.07894736842105,Região de Saúde do Centro
+"Instituto Português Oncologia  F. Gentil - Lisboa, E.P.E.",2019.0,1.0,9.964366197183098,,,5.633943661971831,1222.9859154929577,Região de Saúde LVT
+"Instituto Português Oncologia  F. Gentil - Lisboa, E.P.E.",2020.0,1.0,8.745405405405405,,,5.405540540540541,976.1351351351351,Região de Saúde LVT
+"Instituto Português Oncologia  F. Gentil - Lisboa, E.P.E.",2021.0,1.0,8.246714285714285,,,5.714285714285714,1081.2857142857142,Região de Saúde LVT
+"Instituto Português Oncologia  F. Gentil - Lisboa, E.P.E.",2022.0,1.0,6.800675675675675,,,5.405675675675676,987.527027027027,Região de Saúde LVT
+"Instituto Português Oncologia  F. Gentil - Lisboa, E.P.E.",2023.0,1.0,5.971333333333334,,,5.332133333333334,1021.1466666666666,Região de Saúde LVT
+"Instituto Português Oncologia  F. Gentil - Lisboa, E.P.E.",2024.0,1.0,5.754533333333333,,,5.332533333333333,883.0,Região de Saúde LVT
+"Instituto Português Oncologia  F. Gentil - Porto, E.P.E.",2019.0,1.0,11.719264705882352,,,5.883235294117647,1569.1323529411766,Região de Saúde do Norte
+"Instituto Português Oncologia  F. Gentil - Porto, E.P.E.",2020.0,1.0,10.995373134328359,,,5.970298507462687,1386.1194029850747,Região de Saúde do Norte
+"Instituto Português Oncologia  F. Gentil - Porto, E.P.E.",2021.0,1.0,7.13445945945946,,,5.405675675675676,1328.3513513513512,Região de Saúde do Norte
+"Instituto Português Oncologia  F. Gentil - Porto, E.P.E.",2022.0,1.0,9.520588235294117,,,5.881764705882353,1549.7205882352941,Região de Saúde do Norte
+"Instituto Português Oncologia  F. Gentil - Porto, E.P.E.",2023.0,1.0,10.53057142857143,,,5.714142857142857,1572.9714285714285,Região de Saúde do Norte
+"Instituto Português Oncologia  F. Gentil - Porto, E.P.E.",2024.0,1.0,13.868028169014085,,,5.632816901408451,1554.0704225352113,Região de Saúde do Norte
+"Unidade Local de Saúde da Arrábida, E.P.E.",2019.0,1.0,6.607375,,,4.999750000000001,1584.0625,Região de Saúde LVT
+"Unidade Local de Saúde da Arrábida, E.P.E.",2020.0,1.0,8.048809523809524,,,4.761904761904762,1445.9166666666667,Região de Saúde LVT
+"Unidade Local de Saúde da Arrábida, E.P.E.",2021.0,1.0,8.228571428571428,,,4.762380952380953,1592.0833333333333,Região de Saúde LVT
+"Unidade Local de Saúde da Arrábida, E.P.E.",2022.0,1.0,7.877380952380953,,,4.762142857142857,1676.857142857143,Região de Saúde LVT
+"Unidade Local de Saúde da Arrábida, E.P.E.",2023.0,1.0,6.531785714285713,,,4.762023809523809,1581.9285714285713,Região de Saúde LVT
+"Unidade Local de Saúde da Arrábida, E.P.E.",2024.0,1.0,5.715,,,4.761190476190476,1540.654761904762,Região de Saúde LVT
+"Unidade Local de Saúde da Cova da Beira, E.P.E.",2019.0,1.0,4.7128749999999995,,,4.999499999999999,1163.0625,Região de Saúde do Centro
+"Unidade Local de Saúde da Cova da Beira, E.P.E.",2020.0,1.0,6.576463414634146,,,4.877682926829268,1038.060975609756,Região de Saúde do Centro
+"Unidade Local de Saúde da Cova da Beira, E.P.E.",2021.0,1.0,6.366190476190476,,,4.761904761904762,1035.7857142857142,Região de Saúde do Centro
+"Unidade Local de Saúde da Cova da Beira, E.P.E.",2022.0,1.0,7.407831325301205,,,4.819156626506024,1044.6265060240964,Região de Saúde do Centro
+"Unidade Local de Saúde da Cova da Beira, E.P.E.",2023.0,1.0,6.331084337349398,,,4.818192771084337,1058.5301204819277,Região de Saúde do Centro
+"Unidade Local de Saúde da Cova da Beira, E.P.E.",2024.0,1.0,4.883614457831325,,,4.815060240963855,815.9277108433735,Região de Saúde do Centro
+"Unidade Local de Saúde da Guarda, E.P.E.",2019.0,1.0,7.770126582278482,,,5.06367088607595,1224.8987341772151,Região de Saúde do Centro
+"Unidade Local de Saúde da Guarda, E.P.E.",2020.0,1.0,9.339871794871796,,,5.127948717948718,1165.2307692307693,Região de Saúde do Centro
+"Unidade Local de Saúde da Guarda, E.P.E.",2021.0,1.0,9.785925925925925,,,4.937654320987654,1217.9012345679012,Região de Saúde do Centro
+"Unidade Local de Saúde da Guarda, E.P.E.",2022.0,1.0,9.214285714285714,,,5.195454545454545,1263.4935064935064,Região de Saúde do Centro
+"Unidade Local de Saúde da Guarda, E.P.E.",2023.0,1.0,8.83280487804878,,,4.8774390243902435,1168.5243902439024,Região de Saúde do Centro
+"Unidade Local de Saúde da Guarda, E.P.E.",2024.0,1.0,7.566625,,,4.99475,1152.3,Região de Saúde do Centro
+"Unidade Local de Saúde da Lezíria, E.P.E.",2019.0,1.0,6.9036708860759495,,,5.063291139240507,1596.0,Região de Saúde LVT
+"Unidade Local de Saúde da Lezíria, E.P.E.",2020.0,1.0,8.351463414634146,,,4.878170731707317,1455.5487804878048,Região de Saúde LVT
+"Unidade Local de Saúde da Lezíria, E.P.E.",2021.0,1.0,8.220361445783132,,,4.819277108433735,1492.7590361445782,Região de Saúde LVT
+"Unidade Local de Saúde da Lezíria, E.P.E.",2022.0,1.0,8.320722891566264,,,4.819518072289156,1595.2771084337348,Região de Saúde LVT
+"Unidade Local de Saúde da Lezíria, E.P.E.",2023.0,1.0,7.7615662650602415,,,4.819036144578313,1656.0240963855422,Região de Saúde LVT
+"Unidade Local de Saúde da Lezíria, E.P.E.",2024.0,1.0,7.657738095238095,,,4.758452380952381,1762.9404761904761,Região de Saúde LVT
+"Unidade Local de Saúde da Póvoa de Varzim / Vila do Conde, E.P.E.",2019.0,1.0,4.68038961038961,,,5.195064935064935,590.8441558441558,Região de Saúde do Norte
+"Unidade Local de Saúde da Póvoa de Varzim / Vila do Conde, E.P.E.",2020.0,1.0,7.702467532467533,,,5.195064935064935,559.7662337662338,Região de Saúde do Norte
+"Unidade Local de Saúde da Póvoa de Varzim / Vila do Conde, E.P.E.",2021.0,1.0,6.044415584415584,,,5.195324675324676,623.5584415584416,Região de Saúde do Norte
+"Unidade Local de Saúde da Póvoa de Varzim / Vila do Conde, E.P.E.",2022.0,1.0,6.797926829268292,,,4.878414634146342,627.3536585365854,Região de Saúde do Norte
+"Unidade Local de Saúde da Póvoa de Varzim / Vila do Conde, E.P.E.",2023.0,1.0,6.402025316455696,,,5.06253164556962,698.620253164557,Região de Saúde do Norte
+"Unidade Local de Saúde da Póvoa de Varzim / Vila do Conde, E.P.E.",2024.0,1.0,5.030506329113924,,,5.062151898734178,714.5822784810126,Região de Saúde do Norte
+"Unidade Local de Saúde da Região de Aveiro, E.P.E.",2019.0,1.0,5.662125,,,5.000375,1721.675,Região de Saúde do Centro
+"Unidade Local de Saúde da Região de Aveiro, E.P.E.",2020.0,1.0,8.196987951807229,,,4.819277108433735,1506.710843373494,Região de Saúde do Centro
+"Unidade Local de Saúde da Região de Aveiro, E.P.E.",2021.0,1.0,8.393214285714285,,,4.761785714285715,1595.5238095238096,Região de Saúde do Centro
+"Unidade Local de Saúde da Região de Aveiro, E.P.E.",2022.0,1.0,6.897857142857142,,,4.762023809523809,1640.5119047619048,Região de Saúde do Centro
+"Unidade Local de Saúde da Região de Aveiro, E.P.E.",2023.0,1.0,6.677380952380952,,,4.761785714285715,1722.6904761904761,Região de Saúde do Centro
+"Unidade Local de Saúde da Região de Aveiro, E.P.E.",2024.0,1.0,6.031686746987952,,,4.8186746987951805,1811.0963855421687,Região de Saúde do Centro
+"Unidade Local de Saúde da Região de Leiria, E.P.E.",2019.0,1.0,5.301625,,,5.000500000000001,2222.7375,Região de Saúde do Centro
+"Unidade Local de Saúde da Região de Leiria, E.P.E.",2020.0,1.0,6.88,,,4.762261904761904,1886.2738095238096,Região de Saúde do Centro
+"Unidade Local de Saúde da Região de Leiria, E.P.E.",2021.0,1.0,7.178674698795181,,,4.819397590361445,2136.5662650602408,Região de Saúde do Centro
+"Unidade Local de Saúde da Região de Leiria, E.P.E.",2022.0,1.0,7.255301204819278,,,4.8189156626506024,2218.156626506024,Região de Saúde do Centro
+"Unidade Local de Saúde da Região de Leiria, E.P.E.",2023.0,1.0,6.868452380952381,,,4.761428571428572,2209.6071428571427,Região de Saúde do Centro
+"Unidade Local de Saúde da Região de Leiria, E.P.E.",2024.0,1.0,7.253214285714286,,,4.76,2138.1190476190477,Região de Saúde do Centro
+"Unidade Local de Saúde de Almada / Seixal, E.P.E.",2019.0,1.0,6.2021250000000006,,,4.999875,2546.775,Região de Saúde LVT
+"Unidade Local de Saúde de Almada / Seixal, E.P.E.",2020.0,1.0,7.149642857142858,,,4.762023809523809,2310.2619047619046,Região de Saúde LVT
+"Unidade Local de Saúde de Almada / Seixal, E.P.E.",2021.0,1.0,7.488571428571428,,,4.762023809523809,2329.940476190476,Região de Saúde LVT
+"Unidade Local de Saúde de Almada / Seixal, E.P.E.",2022.0,1.0,8.045357142857142,,,4.761547619047619,2479.0476190476193,Região de Saúde LVT
+"Unidade Local de Saúde de Almada / Seixal, E.P.E.",2023.0,1.0,7.423452380952382,,,4.762380952380953,2497.5,Região de Saúde LVT
+"Unidade Local de Saúde de Almada / Seixal, E.P.E.",2024.0,1.0,7.097738095238095,,,4.761666666666667,2260.2380952380954,Região de Saúde LVT
+"Unidade Local de Saúde de Amadora / Sintra, E.P.E.",2019.0,1.0,6.288625,,,4.999499999999999,3323.05,Região de Saúde LVT
+"Unidade Local de Saúde de Amadora / Sintra, E.P.E.",2020.0,1.0,8.054880952380952,,,4.762380952380953,2763.3333333333335,Região de Saúde LVT
+"Unidade Local de Saúde de Amadora / Sintra, E.P.E.",2021.0,1.0,7.453690476190476,,,4.7613095238095235,2927.714285714286,Região de Saúde LVT
+"Unidade Local de Saúde de Amadora / Sintra, E.P.E.",2022.0,1.0,7.206190476190477,,,4.761547619047619,3181.785714285714,Região de Saúde LVT
+"Unidade Local de Saúde de Amadora / Sintra, E.P.E.",2023.0,1.0,6.6884523809523815,,,4.762023809523809,3352.964285714286,Região de Saúde LVT
+"Unidade Local de Saúde de Amadora / Sintra, E.P.E.",2024.0,1.0,6.43,,,4.761785714285715,3309.190476190476,Região de Saúde LVT
+"Unidade Local de Saúde de Barcelos / Esposende, E.P.E.",2019.0,1.0,5.274929577464788,,,5.633661971830986,561.0845070422536,Região de Saúde do Norte
+"Unidade Local de Saúde de Barcelos / Esposende, E.P.E.",2020.0,1.0,7.374794520547946,,,5.47986301369863,502.71232876712327,Região de Saúde do Norte
+"Unidade Local de Saúde de Barcelos / Esposende, E.P.E.",2021.0,1.0,8.294492753623189,,,5.796811594202898,536.9710144927536,Região de Saúde do Norte
+"Unidade Local de Saúde de Barcelos / Esposende, E.P.E.",2022.0,1.0,8.654285714285713,,,5.713857142857143,550.7,Região de Saúde do Norte
+"Unidade Local de Saúde de Barcelos / Esposende, E.P.E.",2023.0,1.0,8.445277777777777,,,5.555277777777778,585.1527777777778,Região de Saúde do Norte
+"Unidade Local de Saúde de Barcelos / Esposende, E.P.E.",2024.0,1.0,7.207432432432433,,,5.405,577.0540540540541,Região de Saúde do Norte
+"Unidade Local de Saúde de Braga, E.P.E.",2019.0,1.0,3.739625,,,5.0005,2739.35,Região de Saúde do Norte
+"Unidade Local de Saúde de Braga, E.P.E.",2020.0,1.0,6.046666666666667,,,4.761904761904762,2402.690476190476,Região de Saúde do Norte
+"Unidade Local de Saúde de Braga, E.P.E.",2021.0,1.0,4.6519047619047615,,,4.761785714285715,2621.095238095238,Região de Saúde do Norte
+"Unidade Local de Saúde de Braga, E.P.E.",2022.0,1.0,5.019880952380952,,,4.762261904761904,2821.6785714285716,Região de Saúde do Norte
+"Unidade Local de Saúde de Braga, E.P.E.",2023.0,1.0,4.857619047619048,,,4.7625,2877.8928571428573,Região de Saúde do Norte
+"Unidade Local de Saúde de Braga, E.P.E.",2024.0,1.0,4.661785714285714,,,4.756785714285714,2800.4523809523807,Região de Saúde do Norte
+"Unidade Local de Saúde de Castelo Branco, E.P.E.",2019.0,1.0,5.070632911392405,,,5.063291139240507,749.5443037974684,Região de Saúde do Centro
+"Unidade Local de Saúde de Castelo Branco, E.P.E.",2020.0,1.0,8.612073170731708,,,4.878292682926829,660.2926829268292,Região de Saúde do Centro
+"Unidade Local de Saúde de Castelo Branco, E.P.E.",2021.0,1.0,7.093292682926829,,,4.878048780487805,695.3048780487804,Região de Saúde do Centro
+"Unidade Local de Saúde de Castelo Branco, E.P.E.",2022.0,1.0,6.298214285714285,,,4.762142857142857,697.4285714285714,Região de Saúde do Centro
+"Unidade Local de Saúde de Castelo Branco, E.P.E.",2023.0,1.0,6.524880952380952,,,4.762023809523809,678.547619047619,Região de Saúde do Centro
+"Unidade Local de Saúde de Castelo Branco, E.P.E.",2024.0,1.0,6.767804878048781,,,4.8724390243902445,740.0121951219512,Região de Saúde do Centro
+"Unidade Local de Saúde de Coimbra, E.P.E.",2019.0,1.0,4.094875,,,4.999875,6263.3375,Região de Saúde do Centro
+"Unidade Local de Saúde de Coimbra, E.P.E.",2020.0,1.0,6.626904761904761,,,4.761904761904762,5078.285714285715,Região de Saúde do Centro
+"Unidade Local de Saúde de Coimbra, E.P.E.",2021.0,1.0,5.778095238095238,,,4.761428571428572,5352.4047619047615,Região de Saúde do Centro
+"Unidade Local de Saúde de Coimbra, E.P.E.",2022.0,1.0,5.160833333333334,,,4.761666666666667,5596.726190476191,Região de Saúde do Centro

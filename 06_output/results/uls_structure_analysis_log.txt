@@ -1,0 +1,368 @@
+2025-12-31 23:04:38,726 - INFO - ======================================================================
+2025-12-31 23:04:38,726 - INFO - ULS INTEGRATION STRUCTURE ANALYSIS
+2025-12-31 23:04:38,726 - INFO - ======================================================================
+
+2025-12-31 23:04:38,726 - INFO - Loading entities from all datasets...
+2025-12-31 23:04:38,801 - INFO -   Monthly panel: 192 entities
+2025-12-31 23:04:38,814 - INFO -   Quality data: 128 entities
+2025-12-31 23:04:38,821 - INFO -   Financial data: 95 entities
+2025-12-31 23:04:38,821 - INFO - 
+Total unique entities: 252
+2025-12-31 23:04:38,822 - INFO - 
+Classifying entities...
+2025-12-31 23:04:38,822 - INFO - 
+Classification results:
+2025-12-31 23:04:38,822 - INFO -   ULS: 128
+2025-12-31 23:04:38,822 - INFO -   IPO: 16
+2025-12-31 23:04:38,822 - INFO -   Hospitals/Centros Hospitalares: 95
+2025-12-31 23:04:38,822 - INFO -   ACES: 0
+2025-12-31 23:04:38,822 - INFO -   Other: 13
+2025-12-31 23:04:38,822 - INFO - 
+======================================================================
+2025-12-31 23:04:38,822 - INFO - UNIDADES LOCAIS DE SAÚDE (ULS)
+2025-12-31 23:04:38,822 - INFO - ======================================================================
+2025-12-31 23:04:38,822 - INFO -  1. UNIDADE LOCAL DE SAUDE DE CASTELO BRANCO, EPE
+2025-12-31 23:04:38,822 - INFO -  2. UNIDADE LOCAL DE SAUDE DO LITORAL ALENTEJANO, EPE
+2025-12-31 23:04:38,822 - INFO -  3. UNIDADE LOCAL DE SAUDE DO NORDESTE, EPE
+2025-12-31 23:04:38,822 - INFO -  4. UNIDADE LOCAL DE SAÚDE ALTO MINHO, EPE
+2025-12-31 23:04:38,822 - INFO -  5. UNIDADE LOCAL DE SAÚDE DA GUARDA, EPE
+2025-12-31 23:04:38,822 - INFO -  6. UNIDADE LOCAL DE SAÚDE DE MATOSINHOS, EPE
+2025-12-31 23:04:38,822 - INFO -  7. Unidade Local de Saúde Alto Minho, E. P. E.
+2025-12-31 23:04:38,822 - INFO -  8. Unidade Local de Saúde Castelo Branco, EPE
+2025-12-31 23:04:38,822 - INFO -  9. Unidade Local de Saúde Litoral Alentejano, E. P. E.
+2025-12-31 23:04:38,822 - INFO - 10. Unidade Local de Saúde Póvoa de Varzim/Vila do Conde, E. P. E.
+2025-12-31 23:04:38,822 - INFO - 11. Unidade Local de Saúde da Arrábida, E. P. E.
+2025-12-31 23:04:38,822 - INFO - 12. Unidade Local de Saúde da Arrábida, E.P.E.
+2025-12-31 23:04:38,822 - INFO - 13. Unidade Local de Saúde da Arrábida, EPE
+2025-12-31 23:04:38,822 - INFO - 14. Unidade Local de Saúde da Cova da Beira, E. P. E.
+2025-12-31 23:04:38,822 - INFO - 15. Unidade Local de Saúde da Cova da Beira, E.P.E.
+2025-12-31 23:04:38,822 - INFO - 16. Unidade Local de Saúde da Cova da Beira, EPE
+2025-12-31 23:04:38,822 - INFO - 17. Unidade Local de Saúde da Guarda, E. P. E.
+2025-12-31 23:04:38,822 - INFO - 18. Unidade Local de Saúde da Guarda, E.P.E.
+2025-12-31 23:04:38,822 - INFO - 19. Unidade Local de Saúde da Guarda, EPE
+2025-12-31 23:04:38,822 - INFO - 20. Unidade Local de Saúde da Lezíria, E. P. E
+2025-12-31 23:04:38,822 - INFO - 21. Unidade Local de Saúde da Lezíria, E.P.E.
+2025-12-31 23:04:38,822 - INFO - 22. Unidade Local de Saúde da Lezíria, EPE
+2025-12-31 23:04:38,822 - INFO - 23. Unidade Local de Saúde da Póvoa de Varzim / Vila do Conde, E.P.E.
+2025-12-31 23:04:38,822 - INFO - 24. Unidade Local de Saúde da Póvoa de Varzim/Vila do Conde, EPE
+2025-12-31 23:04:38,822 - INFO - 25. Unidade Local de Saúde da Região de Aveiro, E. P. E.
+2025-12-31 23:04:38,822 - INFO - 26. Unidade Local de Saúde da Região de Aveiro, E.P.E.
+2025-12-31 23:04:38,822 - INFO - 27. Unidade Local de Saúde da Região de Aveiro, EPE
+2025-12-31 23:04:38,822 - INFO - 28. Unidade Local de Saúde da Região de Leiria, E. P. E.
+2025-12-31 23:04:38,822 - INFO - 29. Unidade Local de Saúde da Região de Leiria, E.P.E.
+2025-12-31 23:04:38,822 - INFO - 30. Unidade Local de Saúde da Região de Leiria, EPE
+2025-12-31 23:04:38,822 - INFO - 31. Unidade Local de Saúde de Almada / Seixal, E.P.E.
+2025-12-31 23:04:38,822 - INFO - 32. Unidade Local de Saúde de Almada-Seixal, E. P. E.
+2025-12-31 23:04:38,822 - INFO - 33. Unidade Local de Saúde de Almada-Seixal, EPE
+2025-12-31 23:04:38,822 - INFO - 34. Unidade Local de Saúde de Amadora / Sintra, E.P.E.
+2025-12-31 23:04:38,822 - INFO - 35. Unidade Local de Saúde de Amadora/Sintra, E. P. E.
+2025-12-31 23:04:38,822 - INFO - 36. Unidade Local de Saúde de Amadora/Sintra, EPE
+2025-12-31 23:04:38,822 - INFO - 37. Unidade Local de Saúde de Barcelos / Esposende, E.P.E.
+2025-12-31 23:04:38,822 - INFO - 38. Unidade Local de Saúde de Barcelos/Esposende, E. P. E.
+2025-12-31 23:04:38,822 - INFO - 39. Unidade Local de Saúde de Barcelos/Esposende, EPE
+2025-12-31 23:04:38,822 - INFO - 40. Unidade Local de Saúde de Braga, E. P. E.
+2025-12-31 23:04:38,822 - INFO - 41. Unidade Local de Saúde de Braga, E.P.E.
+2025-12-31 23:04:38,822 - INFO - 42. Unidade Local de Saúde de Braga, EPE
+2025-12-31 23:04:38,822 - INFO - 43. Unidade Local de Saúde de Castelo Branco, E. P. E.
+2025-12-31 23:04:38,822 - INFO - 44. Unidade Local de Saúde de Castelo Branco, E.P.E.
+2025-12-31 23:04:38,822 - INFO - 45. Unidade Local de Saúde de Castelo Branco, EPE
+2025-12-31 23:04:38,822 - INFO - 46. Unidade Local de Saúde de Coimbra, E. P. E.
+2025-12-31 23:04:38,822 - INFO - 47. Unidade Local de Saúde de Coimbra, E.P.E.
+2025-12-31 23:04:38,822 - INFO - 48. Unidade Local de Saúde de Coimbra, EPE
+2025-12-31 23:04:38,822 - INFO - 49. Unidade Local de Saúde de Dão-Lafões, EPE
+2025-12-31 23:04:38,822 - INFO - 50. Unidade Local de Saúde de Entre Douro e Vouga, E. P. E.
+2025-12-31 23:04:38,822 - INFO - 51. Unidade Local de Saúde de Entre Douro e Vouga, E.P.E.
+2025-12-31 23:04:38,822 - INFO - 52. Unidade Local de Saúde de Entre Douro e Vouga, EPE
+2025-12-31 23:04:38,822 - INFO - 53. Unidade Local de Saúde de Gaia / Espinho, E.P.E.
+2025-12-31 23:04:38,822 - INFO - 54. Unidade Local de Saúde de Gaia/Espinho, E. P. E.
+2025-12-31 23:04:38,822 - INFO - 55. Unidade Local de Saúde de Lisboa Ocidental, E. P. E.
+2025-12-31 23:04:38,822 - INFO - 56. Unidade Local de Saúde de Lisboa Ocidental, E.P.E.
+2025-12-31 23:04:38,822 - INFO - 57. Unidade Local de Saúde de Lisboa Ocidental, EPE
+2025-12-31 23:04:38,822 - INFO - 58. Unidade Local de Saúde de Loures / Odivelas, E.P.E.
+2025-12-31 23:04:38,822 - INFO - 59. Unidade Local de Saúde de Loures-Odivelas, E. P. E.
+2025-12-31 23:04:38,822 - INFO - 60. Unidade Local de Saúde de Loures-Odivelas, EPE
+2025-12-31 23:04:38,822 - INFO - 61. Unidade Local de Saúde de Matosinhos, E. P. E.
+2025-12-31 23:04:38,822 - INFO - 62. Unidade Local de Saúde de Matosinhos, E.P.E.
+2025-12-31 23:04:38,822 - INFO - 63. Unidade Local de Saúde de Matosinhos, EPE
+2025-12-31 23:04:38,822 - INFO - 64. Unidade Local de Saúde de Santa Maria, E. P. E.
+2025-12-31 23:04:38,822 - INFO - 65. Unidade Local de Saúde de Santa Maria, E.P.E.
+2025-12-31 23:04:38,822 - INFO - 66. Unidade Local de Saúde de Santa Maria, EPE
+2025-12-31 23:04:38,822 - INFO - 67. Unidade Local de Saúde de Santo António, E. P. E.
+2025-12-31 23:04:38,822 - INFO - 68. Unidade Local de Saúde de Santo António, E.P.E.
+2025-12-31 23:04:38,822 - INFO - 69. Unidade Local de Saúde de Santo António, EPE
+2025-12-31 23:04:38,822 - INFO - 70. Unidade Local de Saúde de São José, E. P. E.
+2025-12-31 23:04:38,823 - INFO - 71. Unidade Local de Saúde de São José, E.P.E.
+2025-12-31 23:04:38,823 - INFO - 72. Unidade Local de Saúde de São José, EPE
+2025-12-31 23:04:38,823 - INFO - 73. Unidade Local de Saúde de São João, E. P. E.
+2025-12-31 23:04:38,823 - INFO - 74. Unidade Local de Saúde de São João, E.P.E.
+2025-12-31 23:04:38,823 - INFO - 75. Unidade Local de Saúde de São João, EPE
+2025-12-31 23:04:38,823 - INFO - 76. Unidade Local de Saúde de Trás-os-Montes e Alto Douro, E. P. E.
+2025-12-31 23:04:38,823 - INFO - 77. Unidade Local de Saúde de Trás-os-Montes e Alto Douro, E.P.E.
+2025-12-31 23:04:38,823 - INFO - 78. Unidade Local de Saúde de Trás-os-Montes e Alto Douro, EPE
+2025-12-31 23:04:38,823 - INFO - 79. Unidade Local de Saúde de Vila Nova de Gaia/Espinho, EPE
+2025-12-31 23:04:38,823 - INFO - 80. Unidade Local de Saúde de Viseu Dão-Lafões, E. P. E.
+2025-12-31 23:04:38,823 - INFO - 81. Unidade Local de Saúde de Viseu Dão-Lafões, E.P.E.
+2025-12-31 23:04:38,823 - INFO - 82. Unidade Local de Saúde do Alentejo Central, E. P. E.
+2025-12-31 23:04:38,823 - INFO - 83. Unidade Local de Saúde do Alentejo Central, E.P.E.
+2025-12-31 23:04:38,823 - INFO - 84. Unidade Local de Saúde do Alentejo Central, EPE
+2025-12-31 23:04:38,823 - INFO - 85. Unidade Local de Saúde do Algarve, E. P. E.
+2025-12-31 23:04:38,823 - INFO - 86. Unidade Local de Saúde do Algarve, E.P.E.
+2025-12-31 23:04:38,823 - INFO - 87. Unidade Local de Saúde do Algarve, EPE
+2025-12-31 23:04:38,823 - INFO - 88. Unidade Local de Saúde do Alto Alentejo, E. P. E.
+2025-12-31 23:04:38,823 - INFO - 89. Unidade Local de Saúde do Alto Alentejo, E.P.E.
+2025-12-31 23:04:38,823 - INFO - 90. Unidade Local de Saúde do Alto Alentejo, EPE
+2025-12-31 23:04:38,823 - INFO - 91. Unidade Local de Saúde do Alto Ave, E. P. E.
+2025-12-31 23:04:38,823 - INFO - 92. Unidade Local de Saúde do Alto Ave, E.P.E.
+2025-12-31 23:04:38,823 - INFO - 93. Unidade Local de Saúde do Alto Ave, EPE
+2025-12-31 23:04:38,823 - INFO - 94. Unidade Local de Saúde do Alto Minho, E. P. E.
+2025-12-31 23:04:38,823 - INFO - 95. Unidade Local de Saúde do Alto Minho, E.P.E.
+2025-12-31 23:04:38,823 - INFO - 96. Unidade Local de Saúde do Alto Minho, EPE
+2025-12-31 23:04:38,823 - INFO - 97. Unidade Local de Saúde do Arco Ribeirinho, E. P. E.
+2025-12-31 23:04:38,823 - INFO - 98. Unidade Local de Saúde do Arco Ribeirinho, E.P.E.
+2025-12-31 23:04:38,823 - INFO - 99. Unidade Local de Saúde do Arco Ribeirinho, EPE
+2025-12-31 23:04:38,823 - INFO - 100. Unidade Local de Saúde do Baixo Alentejo, E. P. E.
+2025-12-31 23:04:38,823 - INFO - 101. Unidade Local de Saúde do Baixo Alentejo, E.P.E.
+2025-12-31 23:04:38,823 - INFO - 102. Unidade Local de Saúde do Baixo Alentejo, EPE
+2025-12-31 23:04:38,823 - INFO - 103. Unidade Local de Saúde do Baixo Mondego, E. P. E.
+2025-12-31 23:04:38,823 - INFO - 104. Unidade Local de Saúde do Baixo Mondego, E.P.E.
+2025-12-31 23:04:38,823 - INFO - 105. Unidade Local de Saúde do Baixo Mondego, EPE
+2025-12-31 23:04:38,823 - INFO - 106. Unidade Local de Saúde do Estuário do Tejo, E. P. E.
+2025-12-31 23:04:38,823 - INFO - 107. Unidade Local de Saúde do Estuário do Tejo, E.P.E.
+2025-12-31 23:04:38,823 - INFO - 108. Unidade Local de Saúde do Estuário do Tejo, EPE
+2025-12-31 23:04:38,823 - INFO - 109. Unidade Local de Saúde do Litoral Alentejano, E. P. E.
+2025-12-31 23:04:38,823 - INFO - 110. Unidade Local de Saúde do Litoral Alentejano, E.P.E.
+2025-12-31 23:04:38,823 - INFO - 111. Unidade Local de Saúde do Litoral Alentejano, EPE
+2025-12-31 23:04:38,823 - INFO - 112. Unidade Local de Saúde do Médio Ave, E. P. E.
+2025-12-31 23:04:38,823 - INFO - 113. Unidade Local de Saúde do Médio Ave, E.P.E.
+2025-12-31 23:04:38,823 - INFO - 114. Unidade Local de Saúde do Médio Ave, EPE
+2025-12-31 23:04:38,823 - INFO - 115. Unidade Local de Saúde do Médio Tejo, E. P. E.
+2025-12-31 23:04:38,823 - INFO - 116. Unidade Local de Saúde do Médio Tejo, E.P.E.
+2025-12-31 23:04:38,823 - INFO - 117. Unidade Local de Saúde do Médio Tejo, EPE
+2025-12-31 23:04:38,823 - INFO - 118. Unidade Local de Saúde do Nordeste, E. P. E.
+2025-12-31 23:04:38,823 - INFO - 119. Unidade Local de Saúde do Nordeste, E.P.E.
+2025-12-31 23:04:38,823 - INFO - 120. Unidade Local de Saúde do Nordeste, EPE
+2025-12-31 23:04:38,823 - INFO - 121. Unidade Local de Saúde do Norte Alentejano, E. P. E.
+2025-12-31 23:04:38,823 - INFO - 122. Unidade Local de Saúde do Norte Alentejano, EPE
+2025-12-31 23:04:38,823 - INFO - 123. Unidade Local de Saúde do Oeste, E. P. E.
+2025-12-31 23:04:38,823 - INFO - 124. Unidade Local de Saúde do Oeste, E.P.E.
+2025-12-31 23:04:38,823 - INFO - 125. Unidade Local de Saúde do Oeste, EPE
+2025-12-31 23:04:38,823 - INFO - 126. Unidade Local de Saúde do Tâmega e Sousa, E. P. E.
+2025-12-31 23:04:38,823 - INFO - 127. Unidade Local de Saúde do Tâmega e Sousa, E.P.E.
+2025-12-31 23:04:38,823 - INFO - 128. Unidade Local de Saúde do Tâmega e Sousa, EPE
+2025-12-31 23:04:38,823 - INFO - 
+Geographic distribution:
+2025-12-31 23:04:38,823 - INFO -   LOCAL DE SAUDE DE CASTELO BRANCO: 1
+2025-12-31 23:04:38,823 - INFO -   LOCAL DE SAUDE DO LITORAL ALENTEJANO: 1
+2025-12-31 23:04:38,823 - INFO -   LOCAL DE SAUDE DO NORDESTE: 1
+2025-12-31 23:04:38,823 - INFO -   LOCAL DE SAÚDE ALTO MINHO: 1
+2025-12-31 23:04:38,823 - INFO -   LOCAL DE SAÚDE DA GUARDA: 1
+2025-12-31 23:04:38,823 - INFO -   LOCAL DE SAÚDE DE MATOSINHOS: 1
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde Castelo Branco: 1
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde da Arrábida: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde da Cova da Beira: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde da Guarda: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde da Lezíria: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde da Região de Aveiro: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde da Região de Leiria: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde de Braga: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde de Castelo Branco: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde de Coimbra: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde de Entre Douro e Vouga: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde de Lisboa Ocidental: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde de Matosinhos: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde de Santa Maria: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde de Santo António: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde de São José: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde de São João: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde do Alentejo Central: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde do Algarve: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde do Alto Alentejo: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde do Alto Ave: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde do Alto Minho: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde do Arco Ribeirinho: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde do Baixo Alentejo: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde do Baixo Mondego: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde do Estuário do Tejo: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde do Litoral Alentejano: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde do Médio Ave: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde do Médio Tejo: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde do Nordeste: 2
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde do Norte Alentejano: 1
+2025-12-31 23:04:38,823 - INFO -   Local de Saúde do Oeste: 2
+2025-12-31 23:04:38,824 - INFO -   Local de Saúde do Tâmega e Sousa: 2
+2025-12-31 23:04:38,824 - INFO - 
+======================================================================
+2025-12-31 23:04:38,824 - INFO - INSTITUTOS PORTUGUESES DE ONCOLOGIA (IPO)
+2025-12-31 23:04:38,824 - INFO - ======================================================================
+2025-12-31 23:04:38,824 - INFO - 1. INSTITUTO PORTUGUES DE ONCOLOGIA DE COIMBRA, EPE
+2025-12-31 23:04:38,824 - INFO - 2. INSTITUTO PORTUGUES DE ONCOLOGIA DE LISBOA, EPE
+2025-12-31 23:04:38,824 - INFO - 3. INSTITUTO PORTUGUES DE ONCOLOGIA DO PORTO, EPE
+2025-12-31 23:04:38,824 - INFO - 4. Instituto Português Oncologia  F. Gentil - Centro, E.P.E.
+2025-12-31 23:04:38,824 - INFO - 5. Instituto Português Oncologia  F. Gentil - Coimbra, E.P.E.
+2025-12-31 23:04:38,824 - INFO - 6. Instituto Português Oncologia  F. Gentil - Lisboa, E.P.E.
+2025-12-31 23:04:38,824 - INFO - 7. Instituto Português Oncologia  F. Gentil - Porto, E.P.E.
+2025-12-31 23:04:38,824 - INFO - 8. Instituto Português Oncologia de Coimbra, EPE
+2025-12-31 23:04:38,824 - INFO - 9. Instituto Português Oncologia de Lisboa, EPE
+2025-12-31 23:04:38,824 - INFO - 10. Instituto Português Oncologia do Porto, EPE
+2025-12-31 23:04:38,824 - INFO - 11. Instituto Português de Oncologia de Coimbra, E. P. E.
+2025-12-31 23:04:38,824 - INFO - 12. Instituto Português de Oncologia de Coimbra, EPE
+2025-12-31 23:04:38,824 - INFO - 13. Instituto Português de Oncologia de Lisboa, E. P. E.
+2025-12-31 23:04:38,824 - INFO - 14. Instituto Português de Oncologia de Lisboa, EPE
+2025-12-31 23:04:38,824 - INFO - 15. Instituto Português de Oncologia do Porto, E. P. E.
+2025-12-31 23:04:38,824 - INFO - 16. Instituto Português de Oncologia do Porto, EPE
+2025-12-31 23:04:38,824 - INFO - 
+======================================================================
+2025-12-31 23:04:38,824 - INFO - VERIFICATION
+2025-12-31 23:04:38,824 - INFO - ======================================================================
+2025-12-31 23:04:38,824 - INFO - 
+Expected structure (as of 2024 reform):
+2025-12-31 23:04:38,824 - INFO -   ULS: 39
+2025-12-31 23:04:38,824 - INFO -   IPO: 3
+2025-12-31 23:04:38,824 - INFO -   Total core entities: 42
+2025-12-31 23:04:38,824 - INFO - 
+Found in data:
+2025-12-31 23:04:38,824 - INFO -   ULS: 128
+2025-12-31 23:04:38,824 - INFO -   IPO: 16
+2025-12-31 23:04:38,824 - INFO -   Total: 144
+2025-12-31 23:04:38,824 - WARNING - 
+⚠ ULS count mismatch: Found 128, expected 39
+2025-12-31 23:04:38,824 - WARNING -   Difference: 89
+2025-12-31 23:04:38,824 - WARNING - ⚠ IPO count mismatch: Found 16, expected 3
+2025-12-31 23:04:38,824 - INFO - 
+======================================================================
+2025-12-31 23:04:38,824 - INFO - PRE-INTEGRATION HOSPITALS & CENTROS HOSPITALARES
+2025-12-31 23:04:38,824 - INFO - ======================================================================
+2025-12-31 23:04:38,824 - INFO - 
+Found 95 hospital entities:
+2025-12-31 23:04:38,824 - INFO -   1. Centro Hospitalar Barreiro/Montijo, EPE
+2025-12-31 23:04:38,824 - INFO -   2. Centro Hospitalar Entre Douro e Vouga, EPE
+2025-12-31 23:04:38,824 - INFO -   3. Centro Hospitalar Médio Ave, E. P. E.
+2025-12-31 23:04:38,824 - INFO -   4. Centro Hospitalar Médio Ave, EPE
+2025-12-31 23:04:38,824 - INFO -   5. Centro Hospitalar Médio Tejo, E. P. E.
+2025-12-31 23:04:38,824 - INFO -   6. Centro Hospitalar Médio Tejo, EPE
+2025-12-31 23:04:38,824 - INFO -   7. Centro Hospitalar Psiquiátrico de Lisboa
+2025-12-31 23:04:38,824 - INFO -   8. Centro Hospitalar Psiquiátrico de Lisboa, SPA
+2025-12-31 23:04:38,824 - INFO -   9. Centro Hospitalar Póvoa Varzim / Vila do Conde, E. P. E.
+2025-12-31 23:04:38,824 - INFO -  10. Centro Hospitalar Póvoa Varzim / Vila do Conde, EPE
+2025-12-31 23:04:38,824 - INFO -  11. Centro Hospitalar Póvoa de Varzim/Vila do Conde, EPE
+2025-12-31 23:04:38,824 - INFO -  12. Centro Hospitalar Tondela-Viseu, E. P. E.
+2025-12-31 23:04:38,824 - INFO -  13. Centro Hospitalar Tondela-Viseu, EPE
+2025-12-31 23:04:38,824 - INFO -  14. Centro Hospitalar Trás-os-Montes e Alto Douro, E. P. E.
+2025-12-31 23:04:38,824 - INFO -  15. Centro Hospitalar Trás-os-Montes e Alto Douro, EPE
+2025-12-31 23:04:38,824 - INFO -  16. Centro Hospitalar Tâmega e Sousa, EPE
+2025-12-31 23:04:38,824 - INFO -  17. Centro Hospitalar Universitário Cova da Beira, E. P. E.
+2025-12-31 23:04:38,824 - INFO -  18. Centro Hospitalar Universitário Cova da Beira, EPE
+2025-12-31 23:04:38,824 - INFO -  19. Centro Hospitalar Universitário Lisboa Central, EPE
+2025-12-31 23:04:38,824 - INFO -  20. Centro Hospitalar Universitário Lisboa Norte, E. P. E.
+2025-12-31 23:04:38,824 - INFO -  21. Centro Hospitalar Universitário Lisboa Norte, EPE
+2025-12-31 23:04:38,824 - INFO -  22. Centro Hospitalar Universitário de Lisboa Central, E. P. E.
+2025-12-31 23:04:38,824 - INFO -  23. Centro Hospitalar Universitário de Lisboa Central, EPE
+2025-12-31 23:04:38,824 - INFO -  24. Centro Hospitalar Universitário de Santo António, E. P. E.
+2025-12-31 23:04:38,824 - INFO -  25. Centro Hospitalar Universitário de Santo António, EPE
+2025-12-31 23:04:38,824 - INFO -  26. Centro Hospitalar Universitário de São João, E. P. E.
+2025-12-31 23:04:38,824 - INFO -  27. Centro Hospitalar Universitário de São João, EPE
+2025-12-31 23:04:38,824 - INFO -  28. Centro Hospitalar Universitário do Algarve, E.P.E
+2025-12-31 23:04:38,824 - INFO -  29. Centro Hospitalar Universitário do Algarve,EPE
+2025-12-31 23:04:38,824 - INFO -  30. Centro Hospitalar Universitário do Porto, E. P. E.
+2025-12-31 23:04:38,824 - INFO -  31. Centro Hospitalar Universitário do Porto, EPE
+2025-12-31 23:04:38,824 - INFO -  32. Centro Hospitalar Vila Nova Gaia/Espinho, E. P. E.
+2025-12-31 23:04:38,824 - INFO -  33. Centro Hospitalar Vila Nova Gaia/Espinho, EPE
+2025-12-31 23:04:38,824 - INFO -  34. Centro Hospitalar Vila Nova de Gaia/Espinho, EPE
+2025-12-31 23:04:38,824 - INFO -  35. Centro Hospitalar de Entre o Douro e Vouga, E. P. E.
+2025-12-31 23:04:38,824 - INFO -  36. Centro Hospitalar de Entre o Douro e Vouga, EPE
+2025-12-31 23:04:38,824 - INFO -  37. Centro Hospitalar de Leiria, E. P. E.
+2025-12-31 23:04:38,824 - INFO -  38. Centro Hospitalar de Leiria, EPE
+2025-12-31 23:04:38,824 - INFO -  39. Centro Hospitalar de Lisboa - Zona Ocidental, E. P. E.
+2025-12-31 23:04:38,824 - INFO -  40. Centro Hospitalar de Lisboa - Zona Ocidental, EPE
+2025-12-31 23:04:38,824 - INFO -  41. Centro Hospitalar de Lisboa Ocidental, EPE
+2025-12-31 23:04:38,824 - INFO -  42. Centro Hospitalar de Setúbal, E. P. E.
+2025-12-31 23:04:38,824 - INFO -  43. Centro Hospitalar de Setúbal, EPE
+2025-12-31 23:04:38,824 - INFO -  44. Centro Hospitalar do Alto Ave, EPE
+2025-12-31 23:04:38,824 - INFO -  45. Centro Hospitalar do Baixo Vouga, E. P. E.
+2025-12-31 23:04:38,824 - INFO -  46. Centro Hospitalar do Baixo Vouga, EPE
+2025-12-31 23:04:38,824 - INFO -  47. Centro Hospitalar do Barreiro - Montijo, E. P. E.
+2025-12-31 23:04:38,824 - INFO -  48. Centro Hospitalar do Barreiro - Montijo, EPE
+2025-12-31 23:04:38,824 - INFO -  49. Centro Hospitalar do Médio Ave, EPE
+2025-12-31 23:04:38,824 - INFO -  50. Centro Hospitalar do Oeste, E. P. E.
+2025-12-31 23:04:38,824 - INFO -  51. Centro Hospitalar do Oeste, EPE
+2025-12-31 23:04:38,824 - INFO -  52. Centro Hospitalar do Oeste, SPA
+2025-12-31 23:04:38,824 - INFO -  53. Centro Hospitalar do Tâmega e Sousa, E. P. E.
+2025-12-31 23:04:38,824 - INFO -  54. Centro Hospitalar do Tâmega e Sousa, EPE
+2025-12-31 23:04:38,824 - INFO -  55. Centro Hospitalar e Universitário de Coimbra, E. P. E.
+2025-12-31 23:04:38,824 - INFO -  56. Centro Hospitalar e Universitário de Coimbra, EPE
+2025-12-31 23:04:38,824 - INFO -  57. Hospital Arcebispo João Crisóstomo
+2025-12-31 23:04:38,824 - INFO -  58. Hospital Arcebispo João Crisóstomo - Cantanhede
+2025-12-31 23:04:38,824 - INFO -  59. Hospital Distrital Figueira da Foz, E. P. E.
+2025-12-31 23:04:38,825 - INFO -  60. Hospital Distrital Figueira da Foz, EPE
+2025-12-31 23:04:38,825 - INFO -  61. Hospital Distrital S.Maria Maior, E. P. E. - Barcelos
+2025-12-31 23:04:38,825 - INFO -  62. Hospital Distrital S.Maria Maior, EPE - Barcelos
+2025-12-31 23:04:38,825 - INFO -  63. Hospital Distrital Santarém, E. P. E.
+2025-12-31 23:04:38,825 - INFO -  64. Hospital Distrital Santarém, EPE
+2025-12-31 23:04:38,825 - INFO -  65. Hospital Distrital da Figueira da Foz, EPE
+2025-12-31 23:04:38,825 - INFO -  66. Hospital Distrital de Santarém, EPE
+2025-12-31 23:04:38,825 - INFO -  67. Hospital Dr. Francisco Zagalo
+2025-12-31 23:04:38,825 - INFO -  68. Hospital Dr. Francisco Zagalo - Ovar
+2025-12-31 23:04:38,825 - INFO -  69. Hospital Espírito Santo de Évora, E. P. E.
+2025-12-31 23:04:38,825 - INFO -  70. Hospital Espírito Santo de Évora, EPE
+2025-12-31 23:04:38,825 - INFO -  71. Hospital Fernando Fonseca, E. P. E.
+2025-12-31 23:04:38,825 - INFO -  72. Hospital Fernando Fonseca, EPE
+2025-12-31 23:04:38,825 - INFO -  73. Hospital Garcia de Orta, E. P. E. - Almada
+2025-12-31 23:04:38,825 - INFO -  74. Hospital Garcia de Orta, EPE
+2025-12-31 23:04:38,825 - INFO -  75. Hospital Garcia de Orta, EPE - Almada
+2025-12-31 23:04:38,825 - INFO -  76. Hospital José Luciano de Castro - Anadia
+2025-12-31 23:04:38,825 - INFO -  77. Hospital Professor Doutor Fernando Fonseca, EPE
+2025-12-31 23:04:38,825 - INFO -  78. Hospital Rovisco Pais
+2025-12-31 23:04:38,825 - INFO -  79. Hospital Santa Maria Maior, EPE
+2025-12-31 23:04:38,825 - INFO -  80. Hospital da Senhora da Oliveira Guimarães, E. P. E.
+2025-12-31 23:04:38,825 - INFO -  81. Hospital da Senhora da Oliveira Guimarães, EPE
+2025-12-31 23:04:38,825 - INFO -  82. Hospital da Senhora da Oliveira, Guimarães, EPE
+2025-12-31 23:04:38,825 - INFO -  83. Hospital de Braga, E. P. E.
+2025-12-31 23:04:38,825 - INFO -  84. Hospital de Braga, EPE
+2025-12-31 23:04:38,825 - INFO -  85. Hospital de Braga, PPP
+2025-12-31 23:04:38,825 - INFO -  86. Hospital de Cascais Dr. José de Almeida
+2025-12-31 23:04:38,825 - INFO -  87. Hospital de Cascais, PPP
+2025-12-31 23:04:38,825 - INFO -  88. Hospital de Loures, E. P. E.
+2025-12-31 23:04:38,825 - INFO -  89. Hospital de Loures, EPE
+2025-12-31 23:04:38,825 - INFO -  90. Hospital de Loures, PPP
+2025-12-31 23:04:38,825 - INFO -  91. Hospital de Magalhães Lemos, E. P. E.
+2025-12-31 23:04:38,825 - INFO -  92. Hospital de Magalhães Lemos, EPE
+2025-12-31 23:04:38,825 - INFO -  93. Hospital de Vila Franca de Xira, E. P. E.
+2025-12-31 23:04:38,825 - INFO -  94. Hospital de Vila Franca de Xira, EPE
+2025-12-31 23:04:38,825 - INFO -  95. Hospital de Vila Franca de Xira, PPP
+2025-12-31 23:04:38,825 - INFO - 
+NOTE: These 95 hospital entities likely represent:
+2025-12-31 23:04:38,825 - INFO -   1. Historical entities (2017-2023) before ULS integration
+2025-12-31 23:04:38,825 - INFO -   2. Entities incorporated into the 39 ULS in 2024
+2025-12-31 23:04:38,825 - INFO -   3. Specialized hospitals not yet integrated
+2025-12-31 23:04:38,825 - INFO - 
+======================================================================
+2025-12-31 23:04:38,825 - INFO - CREATING ENTITY CROSSWALK
+2025-12-31 23:04:38,825 - INFO - ======================================================================
+2025-12-31 23:04:38,834 - INFO - 
+Entity crosswalk saved: /home/dpolonia/202512-CFE/03_data/processed/crosswalks/entity_name_crosswalk.csv
+2025-12-31 23:04:38,834 - INFO - Total entities: 252
+2025-12-31 23:04:38,834 - INFO - 
+Crosswalk summary:
+2025-12-31 23:04:38,834 - INFO -   ULS (integrated): 128
+2025-12-31 23:04:38,834 - INFO -   IPO (independent): 16
+2025-12-31 23:04:38,834 - INFO -   Hospitals (need mapping): 95
+2025-12-31 23:04:38,834 - INFO -   ACES (need mapping): 0
+2025-12-31 23:04:38,834 - INFO -   Administrative: 13
+2025-12-31 23:04:38,834 - INFO - 
+⚠ ACTION REQUIRED:
+2025-12-31 23:04:38,834 - INFO -   Manual mapping needed for 95 hospitals
+2025-12-31 23:04:38,834 - INFO -   Map each pre-2024 hospital to its parent ULS in 'parent_uls' column
+2025-12-31 23:04:38,834 - INFO - 
+Generating documentation...
+2025-12-31 23:04:38,835 - INFO - Documentation saved: /home/dpolonia/202512-CFE/08_documentation/uls_integration_structure.md
+2025-12-31 23:04:38,835 - INFO - 
+======================================================================
+2025-12-31 23:04:38,835 - INFO - ANALYSIS COMPLETE
+2025-12-31 23:04:38,835 - INFO - ======================================================================
+2025-12-31 23:04:38,835 - INFO - 
+Outputs:
+2025-12-31 23:04:38,835 - INFO -   1. Entity crosswalk: 03_data/processed/crosswalks/entity_name_crosswalk.csv
+2025-12-31 23:04:38,835 - INFO -   2. Documentation: 08_documentation/uls_integration_structure.md
+2025-12-31 23:04:38,835 - INFO - 
+⚠ CRITICAL ACTION REQUIRED:
+2025-12-31 23:04:38,835 - INFO -   Complete manual mapping of 95 hospitals to parent ULS

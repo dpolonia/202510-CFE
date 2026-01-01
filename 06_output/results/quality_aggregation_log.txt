@@ -1,0 +1,71 @@
+2025-12-31 23:13:46,947 - INFO - ======================================================================
+2025-12-31 23:13:46,947 - INFO - AGGREGATE QUALITY METRICS BY PARENT ULS
+2025-12-31 23:13:46,947 - INFO - ======================================================================
+
+2025-12-31 23:13:46,947 - INFO - Loading data...
+2025-12-31 23:13:47,022 - INFO -   Quality metrics: 27326 rows
+2025-12-31 23:13:47,026 - INFO -   Hospital→ULS mapping: 95 hospitals
+2025-12-31 23:13:47,026 - INFO - 
+Standardizing entity names...
+2025-12-31 23:13:47,028 - INFO -   Original entities in quality data: 128
+2025-12-31 23:13:47,028 - INFO - 
+Creating entity mapping dictionary...
+2025-12-31 23:13:47,029 - INFO -   Created mappings for 3 unique ULS
+2025-12-31 23:13:47,030 - INFO -   Total mapping entries: 9
+2025-12-31 23:13:47,030 - INFO - 
+======================================================================
+2025-12-31 23:13:47,030 - INFO - AGGREGATING QUALITY METRICS BY PARENT ULS
+2025-12-31 23:13:47,030 - INFO - ======================================================================
+2025-12-31 23:13:47,045 - INFO - 
+Entity mapping:
+2025-12-31 23:13:47,045 - INFO -   Total entities: 128
+2025-12-31 23:13:47,045 - INFO -   Mapped: 128 (100.0%)
+2025-12-31 23:13:47,045 - INFO - 
+Quality metrics to aggregate: 5
+2025-12-31 23:13:47,045 - INFO -   - taxa_mortalidade
+2025-12-31 23:13:47,045 - INFO -   - mortalidade_avc_hemorragico_30_dias
+2025-12-31 23:13:47,045 - INFO -   - mortalidade_avc_isquemico_30_dias
+2025-12-31 23:13:47,045 - INFO -   - taxa_internamento
+2025-12-31 23:13:47,045 - INFO -   - dias_internamento
+2025-12-31 23:13:47,050 - INFO - 
+Aggregating by: ['parent_uls', 'year', 'month']
+2025-12-31 23:13:47,058 - INFO - 
+Aggregation results:
+2025-12-31 23:13:47,058 - INFO -   Input rows: 27326
+2025-12-31 23:13:47,058 - INFO -   Output rows: 258
+2025-12-31 23:13:47,058 - INFO -   Unique ULS: 43
+2025-12-31 23:13:47,059 - INFO - 
+======================================================================
+2025-12-31 23:13:47,059 - INFO - VALIDATION
+2025-12-31 23:13:47,059 - INFO - ======================================================================
+2025-12-31 23:13:47,059 - INFO - 
+Aggregated dataset:
+2025-12-31 23:13:47,059 - INFO -   Shape: (258, 9)
+2025-12-31 23:13:47,059 - INFO -   Unique ULS: 43
+2025-12-31 23:13:47,059 - INFO -   Years: 2019.0 - 2024.0
+2025-12-31 23:13:47,059 - INFO - 
+Data availability by year:
+2025-12-31 23:13:47,059 - INFO -   2019.0: 43 ULS-periods
+2025-12-31 23:13:47,059 - INFO -   2020.0: 43 ULS-periods
+2025-12-31 23:13:47,059 - INFO -   2021.0: 43 ULS-periods
+2025-12-31 23:13:47,059 - INFO -   2022.0: 43 ULS-periods
+2025-12-31 23:13:47,059 - INFO -   2023.0: 43 ULS-periods
+2025-12-31 23:13:47,059 - INFO -   2024.0: 43 ULS-periods
+2025-12-31 23:13:47,059 - INFO - 
+Quality metric coverage:
+2025-12-31 23:13:47,060 - INFO -   taxa_mortalidade: 258/258 (100.0%)
+2025-12-31 23:13:47,060 - INFO -   mortalidade_avc_hemorragico_30_dias: 0/258 (0.0%)
+2025-12-31 23:13:47,060 - INFO -   mortalidade_avc_isquemico_30_dias: 0/258 (0.0%)
+2025-12-31 23:13:47,060 - INFO -   taxa_internamento: 258/258 (100.0%)
+2025-12-31 23:13:47,060 - INFO -   dias_internamento: 258/258 (100.0%)
+2025-12-31 23:13:47,060 - INFO - 
+Saving aggregated data...
+2025-12-31 23:13:47,062 - INFO -   Saved: /home/dpolonia/202512-CFE/03_data/processed/quality/quality_metrics_by_uls.parquet
+2025-12-31 23:13:47,062 - INFO -   Size: 12.7 KB
+2025-12-31 23:13:47,063 - INFO -   Preview: /home/dpolonia/202512-CFE/03_data/processed/quality/quality_metrics_by_uls_preview.csv
+2025-12-31 23:13:47,063 - INFO - 
+======================================================================
+2025-12-31 23:13:47,063 - INFO - AGGREGATION COMPLETE
+2025-12-31 23:13:47,063 - INFO - ======================================================================
+2025-12-31 23:13:47,063 - INFO - 
+Next step: Calculate CQMI component using aggregated quality metrics

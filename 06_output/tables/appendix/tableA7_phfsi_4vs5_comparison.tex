@@ -1,0 +1,35 @@
+\begin{table}[htbp]
+\centering
+\caption{Comparison of 4-Component vs. 5-Component PHFSI}
+\label{tab:phfsi_4vs5_comparison}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Statistic} & \textbf{4-Component} & \textbf{5-Component} \\
+\midrule
+\multicolumn{3}{l}{\textit{Panel A: Summary Statistics}} \\
+N observations & 25 & 25 \\
+N entities & 25 & 25 \\
+Mean & 0.395 & 0.405 \\
+SD & 0.079 & 0.066 \\
+Min & 0.256 & 0.296 \\
+P25 & 0.350 & 0.358 \\
+Median & 0.386 & 0.408 \\
+P75 & 0.478 & 0.461 \\
+Max & 0.506 & 0.530 \\
+\midrule
+\multicolumn{3}{l}{\textit{Panel B: Correlation Between Versions}} \\
+Pearson correlation & \multicolumn{2}{c}{0.9239*** (p < 0.001)} \\
+Spearman correlation & \multicolumn{2}{c}{0.9238*** (p < 0.001)} \\
+\midrule
+\multicolumn{3}{l}{\textit{Panel C: Differences (5-comp minus 4-comp)}} \\
+Mean difference & \multicolumn{2}{c}{0.0104} \\
+SD of difference & \multicolumn{2}{c}{0.0311} \\
+Mean absolute difference & \multicolumn{2}{c}{0.0251} \\
+Max absolute difference & \multicolumn{2}{c}{0.0650} \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\footnotesize
+\item \textit{Notes}: This table compares 4-component PHFSI (OSSR, SPI, LRR, TLR) with 5-component PHFSI (adding CQMI) for the 25 observations where all five components are available. Very high correlation (r = 0.924) and small mean absolute difference (0.025) confirm that equal weighting produces robust results regardless of whether quality metrics are included. *** p < 0.001.
+\end{tablenotes}
+\end{table}

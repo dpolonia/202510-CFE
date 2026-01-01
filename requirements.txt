@@ -1,23 +1,77 @@
-# Data Processing
-pandas>=2.0.0
-numpy>=1.24.0
-pyarrow>=12.0.0
-openpyxl>=3.1.0
+# Python Dependencies for Portuguese SNS Financial Sustainability Research
+# Project: Corporate Finance in Public Healthcare
+# Author: Daniel Polonia
+# Generated: January 2026
+# Python version: 3.10+
 
-# Data Extraction
-requests>=2.31.0
-beautifulsoup4>=4.12.0
-lxml>=4.9.0
+# ============================================================================
+# CORE DATA PROCESSING (REQUIRED)
+# ============================================================================
+pandas>=2.0.0            # Data manipulation and analysis
+numpy>=1.24.0            # Numerical computing
+pyarrow>=12.0.0          # Parquet file support (REQUIRED for data files)
+openpyxl>=3.1.0          # Excel file support
 
-# HTTP/API
-urllib3>=2.0.0
+# ============================================================================
+# STATISTICAL ANALYSIS (REQUIRED)
+# ============================================================================
+scipy>=1.10.0            # Scientific computing, statistical tests
+statsmodels>=0.14.0      # OLS, time series, statistical models
+linearmodels>=5.0        # Panel regression, IV/2SLS, fixed effects
 
-# Data Analysis (optional)
-matplotlib>=3.7.0
-seaborn>=0.12.0
-scipy>=1.10.0
-scikit-learn>=1.3.0
+# ============================================================================
+# VISUALIZATION (REQUIRED FOR FIGURES)
+# ============================================================================
+matplotlib>=3.7.0        # Plotting library
+seaborn>=0.12.0          # Statistical visualization
 
-# Jupyter (optional)
-jupyter>=1.0.0
-ipython>=8.12.0
+# ============================================================================
+# WEB SCRAPING / DATA COLLECTION (for raw data collection)
+# ============================================================================
+requests>=2.31.0         # HTTP requests
+beautifulsoup4>=4.12.0   # HTML parsing
+lxml>=4.9.0              # XML/HTML processing
+urllib3>=2.0.0           # URL handling
+
+# ============================================================================
+# MACHINE LEARNING (optional, for validation)
+# ============================================================================
+scikit-learn>=1.3.0      # ROC curves, cross-validation
+
+# ============================================================================
+# JUPYTER NOTEBOOKS (optional, for exploration)
+# ============================================================================
+jupyter>=1.0.0           # Jupyter notebook
+ipython>=8.12.0          # Enhanced Python shell
+notebook>=7.0.0          # Notebook interface
+ipykernel>=6.20.0        # Jupyter kernel
+
+# ============================================================================
+# UTILITIES
+# ============================================================================
+tqdm>=4.64.0             # Progress bars
+python-dotenv>=0.20.0    # Environment variables
+
+# ============================================================================
+# DEVELOPMENT TOOLS (optional)
+# ============================================================================
+pytest>=7.2.0            # Testing framework
+black>=23.0.0            # Code formatter
+flake8>=6.0.0            # Linter
+
+# ============================================================================
+# NOTES
+# ============================================================================
+# - linearmodels depends on: statsmodels, pandas, numpy, scipy
+#   All dependencies are handled automatically by pip
+#
+# - For replication, only packages marked REQUIRED are essential
+#   Development tools are optional
+#
+# - Tested on Python 3.13.1, but 3.10+ should work
+#
+# Installation:
+#   pip install -r requirements.txt
+#
+# To create exact environment (with version freeze):
+#   pip freeze > requirements_frozen.txt

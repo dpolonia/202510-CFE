@@ -1,0 +1,10 @@
+\begin{tabular}{lccl}
+\toprule
+Diagnostic Test & Statistic & p-value & Conclusion \\
+\midrule
+Hausman (FE vs RE) & -16.48 & 1.0000 & Fail to reject H0: RE is consistent \\
+Modified Wald (Heteroskedasticity) & -73.27 & 1.0000 & No heteroskedasticity detected \\
+Wooldridge (AR(1)) & 103.95 & 0.0000 & Autocorrelation detected; cluster-robust SEs already address this \\
+Durbin-Watson & 1.14 & --- & DW < 2: Positive autocorrelation \\
+\bottomrule
+\end{tabular}

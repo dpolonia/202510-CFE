@@ -1,0 +1,32 @@
+PANEL REGRESSION DIAGNOSTICS
+============================================================
+
+Hausman Test (FE vs RE)
+------------------------------------------------------------
+statistic: -16.482928240639108
+df: 3
+p_value: 1.0
+conclusion: Fail to reject H0: RE is consistent
+interpretation: Random effects is consistent
+
+Modified Wald Test (Heteroskedasticity)
+------------------------------------------------------------
+statistic: -73.27164054074957
+df: 40
+p_value: 1.0
+conclusion: Fail to reject H0: Homoskedastic
+interpretation: No heteroskedasticity detected
+
+Wooldridge Test (AR(1) autocorrelation)
+------------------------------------------------------------
+statistic: 103.95479502147076
+rho: 0.3229465696363897
+p_value: 0.0
+conclusion: Reject H0: AR(1) autocorrelation present
+interpretation: Autocorrelation detected; cluster-robust SEs already address this
+
+Durbin-Watson Statistic
+------------------------------------------------------------
+statistic: 1.1354300958558508
+interpretation: DW < 2: Positive autocorrelation
+

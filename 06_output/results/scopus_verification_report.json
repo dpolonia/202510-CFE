@@ -1,0 +1,653 @@
+{
+  "summary": {
+    "total_citations": 47,
+    "verified_count": 46,
+    "verification_rate": "97.9%",
+    "high_impact_count": 5
+  },
+  "results": [
+    {
+      "citation_key": "ACSS2023",
+      "scopus_result": {
+        "found": true,
+        "title": "Obtaining \u2018useful\u2019 high-resolution soil data from proximallysensed electrical conductivity/resistivity (PSEC/R) surveys",
+        "authors": "McBratney A.B.",
+        "year": "2023",
+        "journal": "Precision Agriculture 05",
+        "citations": "1",
+        "scopus_id": "SCOPUS_ID:85199635783",
+        "match_quality": "fuzzy",
+        "total_matches": 1
+      }
+    },
+    {
+      "citation_key": "Acharya2017",
+      "scopus_result": {
+        "found": true,
+        "title": "Impact of device design parameters on VDSAT and analog performance of TFETs",
+        "authors": "Acharya A.",
+        "year": "2017",
+        "journal": "2017 Silicon Nanoelectronics Workshop Snw 2017",
+        "citations": "1",
+        "scopus_id": "SCOPUS_ID:85051020453",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Allen2023",
+      "scopus_result": {
+        "found": true,
+        "title": "A sandwich-like silk fibroin/polysaccharide composite dressing with continual biofluid draining for wound exudate management",
+        "authors": "Wang Y.",
+        "year": "2023",
+        "journal": "International Journal of Biological Macromolecules",
+        "citations": "28",
+        "scopus_id": "SCOPUS_ID:85172140752",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Altman1968",
+      "scopus_result": {
+        "found": true,
+        "title": "FINANCIAL RATIOS, DISCRIMINANT ANALYSIS AND THE PREDICTION OF CORPORATE BANKRUPTCY",
+        "authors": "Altman E.I.",
+        "year": "1968",
+        "journal": "Journal of Finance",
+        "citations": "8514",
+        "scopus_id": "SCOPUS_ID:84980104458",
+        "doi": "10.1111/j.1540-6261.1968.tb00843.x"
+      }
+    },
+    {
+      "citation_key": "Altman1983",
+      "scopus_result": {
+        "found": true,
+        "title": "S gene product: Identification and membrane localization of a lysis control protein",
+        "authors": "Altman E.",
+        "year": "1983",
+        "journal": "Journal of Bacteriology",
+        "citations": "39",
+        "scopus_id": "SCOPUS_ID:0020617319",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Baker2002",
+      "scopus_result": {
+        "found": true,
+        "title": "The effects of banking mergers on loan contracts",
+        "authors": "Sapienza P.",
+        "year": "2002",
+        "journal": "Journal of Finance",
+        "citations": "270",
+        "scopus_id": "SCOPUS_ID:0011238685",
+        "doi": "10.1111/1540-6261.00424"
+      }
+    },
+    {
+      "citation_key": "Barboza2017",
+      "scopus_result": {
+        "found": true,
+        "title": "Analysis of the exponential linear pulse in baseband digital communication systems",
+        "authors": "Aranda-Cubillo J.",
+        "year": "2017",
+        "journal": "2017 IEEE 9th Latin American Conference on Communications Latincom 2017",
+        "citations": "4",
+        "scopus_id": "SCOPUS_ID:85046399619",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Barros2011",
+      "scopus_result": {
+        "found": true,
+        "title": "Rooting soft cuttings of soursop (Annona muricata) 'giant of alagoas",
+        "authors": "Santos M.Q.C.",
+        "year": "2011",
+        "journal": "Acta Horticulturae",
+        "citations": "5",
+        "scopus_id": "SCOPUS_ID:84863660344",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Barros2013",
+      "scopus_result": {
+        "found": true,
+        "title": "Three-phase to three-phase AC/AC De-link converters based on three-level and two-level legs",
+        "authors": "Barros L.",
+        "year": "2013",
+        "journal": "2013 IEEE Energy Conversion Congress and Exposition Ecce 2013",
+        "citations": "0",
+        "scopus_id": "SCOPUS_ID:84891065431",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Barros2023ULS",
+      "scopus_result": {
+        "found": true,
+        "title": "A novel application of recovered stresses in stress intensity factors extraction methods for the generalized/extended finite element method",
+        "authors": "Lins R.M.",
+        "year": "2023",
+        "journal": "International Journal for Numerical Methods in Engineering",
+        "citations": "2",
+        "scopus_id": "SCOPUS_ID:85170701381",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Bebchuk1988",
+      "scopus_result": {
+        "found": true,
+        "title": "N/A",
+        "authors": "N/A",
+        "year": "N/A",
+        "journal": "N/A",
+        "citations": 0,
+        "scopus_id": "N/A",
+        "match_quality": "fuzzy",
+        "total_matches": 1
+      }
+    },
+    {
+      "citation_key": "Besley2003",
+      "scopus_result": {
+        "found": true,
+        "title": "A WDM Fiber-Radio System with Improved Optical Spectral Efficiency Incorporating Remote LO Delivery and Novel FBG Optical Filtering",
+        "authors": "Marra C.",
+        "year": "2003",
+        "journal": "Conference on Optical Fiber Communication Technical Digest Series",
+        "citations": "3",
+        "scopus_id": "SCOPUS_ID:12144290014",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Bevan2006",
+      "scopus_result": {
+        "found": true,
+        "title": "Foreword",
+        "authors": "Bevan H.",
+        "year": "2006",
+        "journal": "Sustainability and Spread of Organizational Change Modernizing Healthcare",
+        "citations": "0",
+        "scopus_id": "SCOPUS_ID:84917513714",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Cantarero2017",
+      "scopus_result": {
+        "found": true,
+        "title": "Effects of hydrostatic pressure on the thermoelectric properties of the -polytype of InSe, GaSe, and InGaSe2 semiconductor compounds: An ab initio study",
+        "authors": "Elsayed H.",
+        "year": "2017",
+        "journal": "Materials Research Express",
+        "citations": "0",
+        "scopus_id": "SCOPUS_ID:85040043329",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Cooper2011",
+      "scopus_result": {
+        "found": true,
+        "title": "Genome sequence of an Australian kangaroo, Macropus eugenii, provides insight into the evolution of mammalian reproduction and development",
+        "authors": "Renfree M.B.",
+        "year": "2011",
+        "journal": "Genome Biology",
+        "citations": "19",
+        "scopus_id": "SCOPUS_ID:84855187684",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Cunat2007",
+      "scopus_result": {
+        "found": true,
+        "title": "Global sequencing approach for characterizing the molecular background of hereditary iron disorders",
+        "authors": "Cunat S.",
+        "year": "2007",
+        "journal": "Clinical Chemistry",
+        "citations": "32",
+        "scopus_id": "SCOPUS_ID:36649003076",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "DeLong1988",
+      "scopus_result": {
+        "found": true,
+        "title": "Characterization of doped Nd-based superconductors",
+        "authors": "Arnett W.D.",
+        "year": "1988",
+        "journal": "Journal of Superconductivity",
+        "citations": "3",
+        "scopus_id": "SCOPUS_ID:34250087649",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Dewatripont1994",
+      "scopus_result": {
+        "found": true,
+        "title": "The firm as a communication network",
+        "authors": "Bolton P.",
+        "year": "1994",
+        "journal": "Quarterly Journal of Economics",
+        "citations": "377",
+        "scopus_id": "SCOPUS_ID:84960612695",
+        "match_quality": "fuzzy",
+        "total_matches": 2
+      }
+    },
+    {
+      "citation_key": "Duggan2000",
+      "scopus_result": {
+        "found": true,
+        "title": "Micronutrients and infections: The road from A to Z and beyond",
+        "authors": "Duggan C.",
+        "year": "2000",
+        "journal": "Journal of Pediatric Gastroenterology and Nutrition",
+        "citations": "1",
+        "scopus_id": "SCOPUS_ID:0033675514",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Ellis1986",
+      "scopus_result": {
+        "found": true,
+        "title": "Effects of improved glycemic control on microalbuminuria in adolescents with insulin-dependent diabetes mellitus",
+        "authors": "Ellis D.",
+        "year": "1986",
+        "journal": "International Journal of Pediatric Nephrology",
+        "citations": "3",
+        "scopus_id": "SCOPUS_ID:0022618055",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Garcia",
+      "scopus_result": {
+        "found": false,
+        "error": "Could not parse citation key"
+      }
+    },
+    {
+      "citation_key": "Gaynor2015",
+      "scopus_result": {
+        "found": true,
+        "title": "Assessment of maternal vascular remodeling during pregnancy in the mouse uterus",
+        "authors": "Kieckbusch J.",
+        "year": "2015",
+        "journal": "Journal of Visualized Experiments",
+        "citations": "24",
+        "scopus_id": "SCOPUS_ID:84952837538",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Gilson1990",
+      "scopus_result": {
+        "found": true,
+        "title": "Troubled debt restructurings. An empirical study of private reorganization of firms in default",
+        "authors": "Gilson S.",
+        "year": "1990",
+        "journal": "Journal of Financial Economics",
+        "citations": "571",
+        "scopus_id": "SCOPUS_ID:44949291946",
+        "doi": "10.1016/0304-405X(90)90059-9"
+      }
+    },
+    {
+      "citation_key": "Herwartz2014",
+      "scopus_result": {
+        "found": true,
+        "title": "Significance of the whole rock Re-Os ages in cryptically and modally metasomatised cratonic peridotites: Constraints from HSE-Se-Te systematics",
+        "authors": "Luguet A.",
+        "year": "2014",
+        "journal": "Geochimica Et Cosmochimica Acta",
+        "citations": "59",
+        "scopus_id": "SCOPUS_ID:85028210302",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Hirsch1995",
+      "scopus_result": {
+        "found": true,
+        "title": "Analysis of regulatory regions of the ciliary neurotrophic factor gene in transgenic mice",
+        "authors": "Stefanuto G.",
+        "year": "1995",
+        "journal": "Neuroreport",
+        "citations": "3",
+        "scopus_id": "SCOPUS_ID:0029552151",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Hotchkiss1995",
+      "scopus_result": {
+        "found": true,
+        "title": "Venture Capitalists and the Oversight of Private Firms",
+        "authors": "LERNER J.",
+        "year": "1995",
+        "journal": "Journal of Finance",
+        "citations": "864",
+        "scopus_id": "SCOPUS_ID:84993865817",
+        "doi": "10.1111/j.1540-6261.1995.tb05175.x"
+      }
+    },
+    {
+      "citation_key": "Howell2015",
+      "scopus_result": {
+        "found": true,
+        "title": "Modelling passive absorption properties of phytochemicals using physicochemical properties",
+        "authors": "Selby-Pham S.N.",
+        "year": "2015",
+        "journal": "Acta Horticulturae",
+        "citations": "0",
+        "scopus_id": "SCOPUS_ID:84962572175",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Inman2003",
+      "scopus_result": {
+        "found": true,
+        "title": "The osteoblast transcription factor Runx2 is expressed in mammary epithelial cells and mediates osteopontin expression",
+        "authors": "Inman C.K.",
+        "year": "2003",
+        "journal": "Journal of Biological Chemistry",
+        "citations": "130",
+        "scopus_id": "SCOPUS_ID:1542677035",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Kornai1986",
+      "scopus_result": {
+        "found": true,
+        "title": "The Soft Budget Constraint",
+        "authors": "KORNAI J.",
+        "year": "1986",
+        "journal": "Kyklos",
+        "citations": "750",
+        "scopus_id": "SCOPUS_ID:84977406211",
+        "match_quality": "fuzzy",
+        "total_matches": 1
+      }
+    },
+    {
+      "citation_key": "Kornai2003",
+      "scopus_result": {
+        "found": true,
+        "title": "Explicit Finitism",
+        "authors": "Kornai A.",
+        "year": "2003",
+        "journal": "International Journal of Theoretical Physics",
+        "citations": "2",
+        "scopus_id": "SCOPUS_ID:0037745534",
+        "match_quality": "fuzzy",
+        "total_matches": 4
+      }
+    },
+    {
+      "citation_key": "Kornai2009",
+      "scopus_result": {
+        "found": true,
+        "title": "The soft budget constraint syndrome in the hospital sector",
+        "authors": "Kornai J.",
+        "year": "2009",
+        "journal": "Society and Economy",
+        "citations": "9",
+        "scopus_id": "SCOPUS_ID:67650066540",
+        "match_quality": "fuzzy",
+        "total_matches": 4
+      }
+    },
+    {
+      "citation_key": "Kunreuther2023",
+      "scopus_result": {
+        "found": true,
+        "title": "The bridge",
+        "authors": "Kunreuther L.",
+        "year": "2023",
+        "journal": "Anthropology and Humanism",
+        "citations": "0",
+        "scopus_id": "SCOPUS_ID:85169824929",
+        "match_quality": "fuzzy",
+        "total_matches": 4
+      }
+    },
+    {
+      "citation_key": "Laffont1993",
+      "scopus_result": {
+        "found": true,
+        "title": "Percutaneous radiofrequency lumbar facet denervation for chronic low back pain. Results in 103 patients",
+        "authors": "Goupille P.",
+        "year": "1993",
+        "journal": "Revue Du Rhumatisme English Edition",
+        "citations": "0",
+        "scopus_id": "SCOPUS_ID:0027759239",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Maskin1999",
+      "scopus_result": {
+        "found": true,
+        "title": "N/A",
+        "authors": "N/A",
+        "year": "N/A",
+        "journal": "N/A",
+        "citations": 0,
+        "scopus_id": "N/A",
+        "doi": "10.2307/2564874"
+      }
+    },
+    {
+      "citation_key": "MinisterioFinancas2024",
+      "scopus_result": {
+        "found": true,
+        "title": "N/A",
+        "authors": "N/A",
+        "year": "N/A",
+        "journal": "N/A",
+        "citations": 0,
+        "scopus_id": "N/A",
+        "match_quality": "fuzzy",
+        "total_matches": 1
+      }
+    },
+    {
+      "citation_key": "Myers1984",
+      "scopus_result": {
+        "found": true,
+        "title": "The Capital Structure Puzzle",
+        "authors": "MYERS S.C.",
+        "year": "1984",
+        "journal": "Journal of Finance",
+        "citations": "3799",
+        "scopus_id": "SCOPUS_ID:84944830772",
+        "doi": "10.1111/j.1540-6261.1984.tb03646.x"
+      }
+    },
+    {
+      "citation_key": "Myers2001",
+      "scopus_result": {
+        "found": true,
+        "title": "Do depositors punish banks for bad behavior? Market discipline, deposit insurance, and banking crises",
+        "authors": "Soledad M.",
+        "year": "2001",
+        "journal": "Journal of Finance",
+        "citations": "379",
+        "scopus_id": "SCOPUS_ID:0039923092",
+        "doi": "10.1111/0022-1082.00354"
+      }
+    },
+    {
+      "citation_key": "Newhouse1996",
+      "scopus_result": {
+        "found": true,
+        "title": "Effects of nicotinic cholinergic agents on cognitive functioning in Alzheimer's and Parkinson's disease",
+        "authors": "Newhouse P.",
+        "year": "1996",
+        "journal": "Drug Development Research",
+        "citations": "34",
+        "scopus_id": "SCOPUS_ID:0030459333",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Ohlson1980",
+      "scopus_result": {
+        "found": true,
+        "title": "N/A",
+        "authors": "N/A",
+        "year": "N/A",
+        "journal": "N/A",
+        "citations": 0,
+        "scopus_id": "N/A",
+        "doi": "10.1016/0304-405X(80)90011-1"
+      }
+    },
+    {
+      "citation_key": "Petersen1997",
+      "scopus_result": {
+        "found": true,
+        "title": "Methodological analysis of fertilization rate in the bluehead wrasse Thalassoma bifasciatum: Pair versus group spawns",
+        "authors": "Marconato A.",
+        "year": "1997",
+        "journal": "Marine Ecology Progress Series",
+        "citations": "26",
+        "scopus_id": "SCOPUS_ID:0031593011",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Propper2004",
+      "scopus_result": {
+        "found": true,
+        "title": "Increased interhemispheric interaction is associated with decreased false memories in a verbal converging semantic associates paradigm",
+        "authors": "Christman S.",
+        "year": "2004",
+        "journal": "Brain and Cognition",
+        "citations": "119",
+        "scopus_id": "SCOPUS_ID:7444258435",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Propper2008",
+      "scopus_result": {
+        "found": true,
+        "title": "Education and fertility: Evidence from a natural experiment",
+        "authors": "Monstad K.",
+        "year": "2008",
+        "journal": "Scandinavian Journal of Economics",
+        "citations": "126",
+        "scopus_id": "SCOPUS_ID:57349162207",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Robinson2006",
+      "scopus_result": {
+        "found": true,
+        "title": "Connecting to BIM information with application program interfaces",
+        "authors": "Robinson C.",
+        "year": "2006",
+        "journal": "Structural Engineer",
+        "citations": "1",
+        "scopus_id": "SCOPUS_ID:33845704221",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Shleifer1994",
+      "scopus_result": {
+        "found": true,
+        "title": "Mechanical design of a high-resolution tunable crystal monochromator for the multiple energy computed tomography project",
+        "authors": "Shleifer M.",
+        "year": "1994",
+        "journal": "Nuclear Inst and Methods in Physics Research A",
+        "citations": "7",
+        "scopus_id": "SCOPUS_ID:0000366975",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Sutherland2013",
+      "scopus_result": {
+        "found": true,
+        "title": "PML: Not all about tumor suppression",
+        "authors": "Martin-Martin N.",
+        "year": "2013",
+        "journal": "Frontiers in Oncology",
+        "citations": "11",
+        "scopus_id": "SCOPUS_ID:84891092810",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Weingast2009",
+      "scopus_result": {
+        "found": true,
+        "title": "Second generation fiscal federalism: The implications of fiscal incentives",
+        "authors": "Weingast B.R.",
+        "year": "2009",
+        "journal": "Journal of Urban Economics",
+        "citations": "472",
+        "scopus_id": "SCOPUS_ID:63149150002",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    },
+    {
+      "citation_key": "Xanthakis2009",
+      "scopus_result": {
+        "found": true,
+        "title": "A web and virtual reality-based platform for collaborative product review and customisation",
+        "authors": "Chryssolouris G.",
+        "year": "2009",
+        "journal": "Collaborative Design and Planning for Digital Manufacturing",
+        "citations": "26",
+        "scopus_id": "SCOPUS_ID:77952940167",
+        "match_quality": "fuzzy",
+        "total_matches": 5
+      }
+    }
+  ]
+}

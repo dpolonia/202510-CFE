@@ -1,0 +1,20 @@
+\begin{tabular}{lrrp{3.5cm}p{4cm}}
+\toprule
+Filter Step & Obs. & Entities & Years & Criterion \\
+\midrule
+1. Raw hospital-year panel & 741 & 149 & 2017-2024 & \small{All SNS entities, 2017-2024} \\
+\multicolumn{5}{l}{\hspace{0.5cm}\textit{\footnotesize Includes hospitals, ACES, primary care, administration}} \\
+2. Merge with PHFSI scores & 741 & 149 & 2017-2024 & \small{PHFSI available for 435 observations} \\
+\multicolumn{5}{l}{\hspace{0.5cm}\textit{\footnotesize Left merge preserves all panel observations}} \\
+3. Filter to hospital entities & 665 & 131 & 2017-2024 & \small{Exclude ACES, primary care, administration} \\
+\multicolumn{5}{l}{\hspace{0.5cm}\textit{\footnotesize Removed 18 non-hospital entities}} \\
+5. Drop missing PHFSI & 361 & 85 & 2017-2024 & \small{PHFSI score available} \\
+\multicolumn{5}{l}{\hspace{0.5cm}\textit{\footnotesize Dropped 304 observations with missing PHFSI}} \\
+6. Create regression variables & 361 & 85 & 2017-2024 & \small{Calculate subsidy, size, debt variables} \\
+\multicolumn{5}{l}{\hspace{0.5cm}\textit{\footnotesize Missing: subsidy(6), log_rev(6), debt(292)}} \\
+7. Complete cases for regression & 69 & 38 & 2017-2024 & \small{Non-missing: PHFSI, subsidy, log_revenue, debt_ratio} \\
+\multicolumn{5}{l}{\hspace{0.5cm}\textit{\footnotesize Dropped 292 incomplete observations}} \\
+\midrule
+\multicolumn{5}{l}{\textbf{Attrition rate: 90.7\% (741 → 69 observations)}} \\
+\bottomrule
+\end{tabular}

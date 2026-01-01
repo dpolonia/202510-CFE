@@ -1,0 +1,74 @@
+2025-12-31 23:28:40,571 - INFO - Testing ULS name standardization...
+
+2025-12-31 23:28:40,572 - INFO - ✓ Unidade Local de Saúde de Coimbra, E.P.E.
+2025-12-31 23:28:40,572 - INFO -   Expected: Uls Coimbra
+2025-12-31 23:28:40,572 - INFO -   Got:      Uls Coimbra
+
+2025-12-31 23:28:40,572 - INFO - ✓ ULS Coimbra
+2025-12-31 23:28:40,572 - INFO -   Expected: Uls Coimbra
+2025-12-31 23:28:40,572 - INFO -   Got:      Uls Coimbra
+
+2025-12-31 23:28:40,572 - INFO - ✓ Unidade Local de Saúde do Alto Minho, E.P.E.
+2025-12-31 23:28:40,572 - INFO -   Expected: Uls Alto Minho
+2025-12-31 23:28:40,572 - INFO -   Got:      Uls Alto Minho
+
+2025-12-31 23:28:40,572 - INFO - ✓ ULS do Alto Ave
+2025-12-31 23:28:40,572 - INFO -   Expected: Uls Alto Ave
+2025-12-31 23:28:40,572 - INFO -   Got:      Uls Alto Ave
+
+2025-12-31 23:28:40,572 - INFO - ✓ Instituto Português Oncologia  F. Gentil - Lisboa, E.P.E.
+2025-12-31 23:28:40,572 - INFO -   Expected: Ipo Lisboa
+2025-12-31 23:28:40,572 - INFO -   Got:      Ipo Lisboa
+
+2025-12-31 23:28:40,572 - INFO - ✓ Instituto Português de Oncologia de Porto, E. P. E.
+2025-12-31 23:28:40,572 - INFO -   Expected: Ipo Porto
+2025-12-31 23:28:40,572 - INFO -   Got:      Ipo Porto
+
+2025-12-31 23:28:40,572 - INFO - All tests PASSED!
+
+2025-12-31 23:28:40,572 - INFO - ======================================================================
+2025-12-31 23:28:40,572 - INFO - STANDARDIZE ULS NAMES FOR MERGING
+2025-12-31 23:28:40,572 - INFO - ======================================================================
+
+2025-12-31 23:28:40,592 - INFO - Loaded monthly panel: 8867 rows
+2025-12-31 23:28:40,594 - INFO - Loaded quality metrics: 258 rows
+2025-12-31 23:28:40,594 - INFO - 
+Standardizing ULS names...
+2025-12-31 23:28:40,630 - INFO -   Panel unique standardized ULS: 105
+2025-12-31 23:28:40,631 - INFO -   Quality unique standardized ULS: 43
+2025-12-31 23:28:40,631 - INFO - 
+======================================================================
+2025-12-31 23:28:40,631 - INFO - MERGING WITH STANDARDIZED NAMES
+2025-12-31 23:28:40,631 - INFO - ======================================================================
+2025-12-31 23:28:40,635 - INFO - 
+Before merge:
+2025-12-31 23:28:40,635 - INFO -   Panel: 8867 rows
+2025-12-31 23:28:40,635 - INFO -   Quality: 258 rows
+2025-12-31 23:28:40,636 - INFO -   Dropped 3 old quality columns
+2025-12-31 23:28:40,642 - INFO - 
+After merge:
+2025-12-31 23:28:40,642 - INFO -   Merged: 8867 rows
+2025-12-31 23:28:40,642 - INFO -   Entities: 192
+2025-12-31 23:28:40,642 - INFO - 
+Quality metric coverage:
+2025-12-31 23:28:40,642 - INFO -   taxa_mortalidade: 258/8867 (2.9%)
+2025-12-31 23:28:40,642 - INFO -   taxa_internamento: 258/8867 (2.9%)
+2025-12-31 23:28:40,642 - INFO -   dias_internamento: 258/8867 (2.9%)
+2025-12-31 23:28:40,643 - INFO - 
+======================================================================
+2025-12-31 23:28:40,643 - INFO - TEMPORAL OVERLAP VALIDATION
+2025-12-31 23:28:40,643 - INFO - ======================================================================
+2025-12-31 23:28:40,643 - INFO - 
+Entities with BOTH payment delays AND quality data: 0
+2025-12-31 23:28:40,643 - WARNING -   ✗ NO OVERLAP found between payment delays and quality metrics
+2025-12-31 23:28:40,643 - INFO - 
+Saving final merged panel...
+2025-12-31 23:28:40,659 - INFO -   Saved: /home/dpolonia/202512-CFE/03_data/processed/panel/hospital_month_panel_final.parquet
+2025-12-31 23:28:40,659 - INFO -   Size: 0.23 MB
+2025-12-31 23:28:40,661 - INFO -   Preview: /home/dpolonia/202512-CFE/03_data/processed/panel/hospital_month_panel_final_preview.csv
+2025-12-31 23:28:40,661 - INFO - 
+======================================================================
+2025-12-31 23:28:40,661 - INFO - STANDARDIZATION AND MERGE COMPLETE
+2025-12-31 23:28:40,661 - INFO - ======================================================================
+2025-12-31 23:28:40,662 - INFO - 
+Next step: Re-run Granger causality with final merged panel

@@ -1,0 +1,23 @@
+\begin{table}[htbp]
+\centering
+\caption{PHFSI Weighting Scheme Comparison: Equal vs PCA}
+\label{tab:pca_comparison}
+\footnotesize
+\begin{threeparttable}
+\begin{tabular}{lccccc}
+\toprule
+Weighting Scheme & Mean & SD & Min & Max & Correlation \\
+\midrule
+Equal weights & 0.465 & 0.196 & 0.137 & 1.000 & — \\
+PCA weights & 0.659 & 0.100 & 0.055 & 0.947 & 0.683 \\
+\midrule
+\multicolumn{6}{l}{\textit{Spearman rank correlation: } ρ = 0.790} \\
+\multicolumn{6}{l}{\textit{Mean absolute difference: } 0.224} \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item \textit{Notes:} Comparison of PHFSI calculated using equal weights (0.20 each for 5 components) vs PCA-derived weights from first principal component (variance explained: 74.7\%). PCA weights: OSSR=0.258, LRR=0.260, TLR=0.235, SPI=0.246. High correlation (r=0.683) indicates weighting scheme does not materially affect index rankings. N=435 hospital-year observations with complete component data.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

@@ -1,0 +1,96 @@
+2025-12-31 23:30:09,192 - INFO - Testing ULS name standardization...
+
+2025-12-31 23:30:09,192 - INFO - ✓ Unidade Local de Saúde de Coimbra, E.P.E.
+2025-12-31 23:30:09,192 - INFO -   Expected: Uls Coimbra
+2025-12-31 23:30:09,192 - INFO -   Got:      Uls Coimbra
+
+2025-12-31 23:30:09,192 - INFO - ✓ ULS Coimbra
+2025-12-31 23:30:09,192 - INFO -   Expected: Uls Coimbra
+2025-12-31 23:30:09,192 - INFO -   Got:      Uls Coimbra
+
+2025-12-31 23:30:09,192 - INFO - ✓ Unidade Local de Saúde do Alto Minho, E.P.E.
+2025-12-31 23:30:09,192 - INFO -   Expected: Uls Alto Minho
+2025-12-31 23:30:09,192 - INFO -   Got:      Uls Alto Minho
+
+2025-12-31 23:30:09,192 - INFO - ✓ ULS do Alto Ave
+2025-12-31 23:30:09,192 - INFO -   Expected: Uls Alto Ave
+2025-12-31 23:30:09,192 - INFO -   Got:      Uls Alto Ave
+
+2025-12-31 23:30:09,192 - INFO - ✓ Instituto Português Oncologia  F. Gentil - Lisboa, E.P.E.
+2025-12-31 23:30:09,192 - INFO -   Expected: Ipo Lisboa
+2025-12-31 23:30:09,192 - INFO -   Got:      Ipo Lisboa
+
+2025-12-31 23:30:09,192 - INFO - ✓ Instituto Português de Oncologia de Porto, E. P. E.
+2025-12-31 23:30:09,192 - INFO -   Expected: Ipo Porto
+2025-12-31 23:30:09,192 - INFO -   Got:      Ipo Porto
+
+2025-12-31 23:30:09,192 - INFO - All tests PASSED!
+
+2025-12-31 23:30:09,192 - INFO - ======================================================================
+2025-12-31 23:30:09,192 - INFO - STANDARDIZE ULS NAMES FOR MERGING
+2025-12-31 23:30:09,192 - INFO - ======================================================================
+
+2025-12-31 23:30:09,212 - INFO - Loaded monthly panel: 8867 rows
+2025-12-31 23:30:09,214 - INFO - Loaded quality metrics: 258 rows
+2025-12-31 23:30:09,214 - INFO - 
+Standardizing ULS names...
+2025-12-31 23:30:09,252 - INFO -   Panel unique standardized ULS: 105
+2025-12-31 23:30:09,252 - INFO -   Quality unique standardized ULS: 43
+2025-12-31 23:30:09,252 - INFO - 
+======================================================================
+2025-12-31 23:30:09,252 - INFO - MERGING WITH STANDARDIZED NAMES
+2025-12-31 23:30:09,252 - INFO - ======================================================================
+2025-12-31 23:30:09,256 - INFO - 
+Before consolidation:
+2025-12-31 23:30:09,256 - INFO -   Panel: 8867 rows
+2025-12-31 23:30:09,256 - INFO - 
+Consolidating duplicate entity variations...
+2025-12-31 23:30:09,269 - INFO -   Before: 8867 rows
+2025-12-31 23:30:09,269 - INFO -   After: 5339 rows
+2025-12-31 23:30:09,269 - INFO -   Removed 3528 duplicate rows
+2025-12-31 23:30:09,269 - INFO - 
+Before merge:
+2025-12-31 23:30:09,269 - INFO -   Panel (consolidated): 5339 rows
+2025-12-31 23:30:09,269 - INFO -   Quality: 258 rows
+2025-12-31 23:30:09,269 - INFO -   Dropped 3 old quality columns
+2025-12-31 23:30:09,273 - INFO - 
+After merge:
+2025-12-31 23:30:09,273 - INFO -   Merged: 5339 rows
+2025-12-31 23:30:09,273 - INFO -   Entities: 139
+2025-12-31 23:30:09,273 - INFO - 
+Quality metric coverage:
+2025-12-31 23:30:09,274 - INFO -   taxa_mortalidade: 258/5339 (4.8%)
+2025-12-31 23:30:09,274 - INFO -   taxa_internamento: 258/5339 (4.8%)
+2025-12-31 23:30:09,274 - INFO -   dias_internamento: 258/5339 (4.8%)
+2025-12-31 23:30:09,274 - INFO - 
+======================================================================
+2025-12-31 23:30:09,274 - INFO - TEMPORAL OVERLAP VALIDATION
+2025-12-31 23:30:09,274 - INFO - ======================================================================
+2025-12-31 23:30:09,274 - INFO - 
+Entities with BOTH payment delays AND quality data: 36
+2025-12-31 23:30:09,275 - INFO - 
+Top 10 entities by overlapping observations:
+2025-12-31 23:30:09,275 - INFO -   Ipo Coimbra: 6 months
+2025-12-31 23:30:09,275 - INFO -   Ipo Lisboa: 6 months
+2025-12-31 23:30:09,275 - INFO -   Ipo Porto: 6 months
+2025-12-31 23:30:09,275 - INFO -   Uls Alto Ave: 6 months
+2025-12-31 23:30:09,275 - INFO -   Uls Santo António: 6 months
+2025-12-31 23:30:09,275 - INFO -   Uls Baixo Alentejo: 6 months
+2025-12-31 23:30:09,275 - INFO -   Uls Coimbra: 6 months
+2025-12-31 23:30:09,275 - INFO -   Uls Castelo Branco: 6 months
+2025-12-31 23:30:09,275 - INFO -   Uls Entre Douro E Vouga: 6 months
+2025-12-31 23:30:09,275 - INFO -   Uls Guarda: 6 months
+2025-12-31 23:30:09,275 - INFO - 
+Entities with ≥36 overlapping months: 0
+2025-12-31 23:30:09,275 - WARNING -   ✗ No entities with sufficient temporal overlap
+2025-12-31 23:30:09,275 - INFO - 
+Saving final merged panel...
+2025-12-31 23:30:09,286 - INFO -   Saved: /home/dpolonia/202512-CFE/03_data/processed/panel/hospital_month_panel_final.parquet
+2025-12-31 23:30:09,286 - INFO -   Size: 0.22 MB
+2025-12-31 23:30:09,289 - INFO -   Preview: /home/dpolonia/202512-CFE/03_data/processed/panel/hospital_month_panel_final_preview.csv
+2025-12-31 23:30:09,289 - INFO - 
+======================================================================
+2025-12-31 23:30:09,289 - INFO - STANDARDIZATION AND MERGE COMPLETE
+2025-12-31 23:30:09,289 - INFO - ======================================================================
+2025-12-31 23:30:09,289 - INFO - 
+Next step: Re-run Granger causality with final merged panel

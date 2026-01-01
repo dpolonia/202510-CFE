@@ -1,0 +1,119 @@
+2025-12-31 23:05:51,427 - INFO - ======================================================================
+2025-12-31 23:05:51,427 - INFO - ENTITY NAME STANDARDIZATION & ULS STRUCTURE VERIFICATION
+2025-12-31 23:05:51,427 - INFO - ======================================================================
+
+2025-12-31 23:05:51,432 - INFO - Loaded crosswalk: 252 entities
+2025-12-31 23:05:51,435 - INFO - 
+======================================================================
+2025-12-31 23:05:51,435 - INFO - ULS STANDARDIZATION
+2025-12-31 23:05:51,435 - INFO - ======================================================================
+2025-12-31 23:05:51,437 - INFO - 
+Total ULS entries (with duplicates): 128
+2025-12-31 23:05:51,437 - INFO - Unique ULS (after deduplication): 47
+2025-12-31 23:05:51,437 - INFO - 
+Unique ULS list:
+2025-12-31 23:05:51,437 - INFO -  1. ALTO MINHO                                         (1 variations)
+2025-12-31 23:05:51,437 - INFO -  2. Alentejo Central                                   (3 variations)
+2025-12-31 23:05:51,438 - INFO -  3. Algarve                                            (3 variations)
+2025-12-31 23:05:51,438 - INFO -  4. Almada-Seixal                                      (2 variations)
+2025-12-31 23:05:51,438 - INFO -  5. Almada/Seixal                                      (1 variations)
+2025-12-31 23:05:51,438 - INFO -  6. Alto Alentejo                                      (3 variations)
+2025-12-31 23:05:51,438 - INFO -  7. Alto Ave                                           (3 variations)
+2025-12-31 23:05:51,438 - INFO -  8. Alto Minho                                         (4 variations)
+2025-12-31 23:05:51,438 - INFO -  9. Amadora/Sintra                                     (3 variations)
+2025-12-31 23:05:51,439 - INFO - 10. Arco Ribeirinho                                    (3 variations)
+2025-12-31 23:05:51,439 - INFO - 11. Arrábida                                           (3 variations)
+2025-12-31 23:05:51,439 - INFO - 12. Baixo Alentejo                                     (3 variations)
+2025-12-31 23:05:51,439 - INFO - 13. Baixo Mondego                                      (3 variations)
+2025-12-31 23:05:51,439 - INFO - 14. Barcelos/Esposende                                 (3 variations)
+2025-12-31 23:05:51,439 - INFO - 15. Braga                                              (3 variations)
+2025-12-31 23:05:51,439 - INFO - 16. Castelo Branco                                     (4 variations)
+2025-12-31 23:05:51,439 - INFO - 17. Coimbra                                            (3 variations)
+2025-12-31 23:05:51,440 - INFO - 18. Cova da Beira                                      (3 variations)
+2025-12-31 23:05:51,440 - INFO - 19. Dão-Lafões                                         (1 variations)
+2025-12-31 23:05:51,440 - INFO - 20. Entre Douro e Vouga                                (3 variations)
+2025-12-31 23:05:51,440 - INFO - 21. Estuário do Tejo                                   (3 variations)
+2025-12-31 23:05:51,440 - INFO - 22. GUARDA                                             (1 variations)
+2025-12-31 23:05:51,440 - INFO - 23. Gaia/Espinho                                       (2 variations)
+2025-12-31 23:05:51,440 - INFO - 24. Guarda                                             (3 variations)
+2025-12-31 23:05:51,440 - INFO - 25. Lezíria                                            (3 variations)
+2025-12-31 23:05:51,441 - INFO - 26. Lisboa Ocidental                                   (3 variations)
+2025-12-31 23:05:51,441 - INFO - 27. Litoral Alentejano                                 (4 variations)
+2025-12-31 23:05:51,441 - INFO - 28. Loures-Odivelas                                    (2 variations)
+2025-12-31 23:05:51,441 - INFO - 29. Loures/Odivelas                                    (1 variations)
+2025-12-31 23:05:51,441 - INFO - 30. MATOSINHOS                                         (1 variations)
+2025-12-31 23:05:51,441 - INFO - 31. Matosinhos                                         (3 variations)
+2025-12-31 23:05:51,441 - INFO - 32. Médio Ave                                          (3 variations)
+2025-12-31 23:05:51,441 - INFO - 33. Médio Tejo                                         (3 variations)
+2025-12-31 23:05:51,441 - INFO - 34. Nordeste                                           (3 variations)
+2025-12-31 23:05:51,442 - INFO - 35. Norte Alentejano                                   (2 variations)
+2025-12-31 23:05:51,442 - INFO - 36. Oeste                                              (3 variations)
+2025-12-31 23:05:51,442 - INFO - 37. Póvoa de Varzim/Vila do Conde                      (3 variations)
+2025-12-31 23:05:51,442 - INFO - 38. Região de Aveiro                                   (3 variations)
+2025-12-31 23:05:51,442 - INFO - 39. Região de Leiria                                   (3 variations)
+2025-12-31 23:05:51,442 - INFO - 40. Santa Maria                                        (3 variations)
+2025-12-31 23:05:51,442 - INFO - 41. Santo António                                      (3 variations)
+2025-12-31 23:05:51,442 - INFO - 42. São José                                           (3 variations)
+2025-12-31 23:05:51,443 - INFO - 43. São João                                           (3 variations)
+2025-12-31 23:05:51,443 - INFO - 44. Trás-os-Montes e Alto Douro                        (3 variations)
+2025-12-31 23:05:51,443 - INFO - 45. Tâmega e Sousa                                     (3 variations)
+2025-12-31 23:05:51,443 - INFO - 46. Vila Nova de Gaia/Espinho                          (1 variations)
+2025-12-31 23:05:51,443 - INFO - 47. Viseu Dão-Lafões                                   (2 variations)
+2025-12-31 23:05:51,443 - INFO - 
+======================================================================
+2025-12-31 23:05:51,443 - INFO - IPO STANDARDIZATION
+2025-12-31 23:05:51,443 - INFO - ======================================================================
+2025-12-31 23:05:51,443 - INFO - 
+Total IPO entries (with duplicates): 16
+2025-12-31 23:05:51,444 - INFO - Unique IPO (after deduplication): 4
+2025-12-31 23:05:51,444 - INFO - 
+Unique IPO list:
+2025-12-31 23:05:51,444 - INFO - 1. IPO Centro               (1 variations)
+2025-12-31 23:05:51,444 - INFO - 2. IPO Coimbra              (5 variations)
+2025-12-31 23:05:51,444 - INFO - 3. IPO Lisboa               (5 variations)
+2025-12-31 23:05:51,444 - INFO - 4. IPO Porto                (5 variations)
+2025-12-31 23:05:51,444 - INFO - 
+======================================================================
+2025-12-31 23:05:51,444 - INFO - FINAL VERIFICATION
+2025-12-31 23:05:51,444 - INFO - ======================================================================
+2025-12-31 23:05:51,444 - INFO - 
+Expected structure:
+2025-12-31 23:05:51,444 - INFO -   ULS: 39
+2025-12-31 23:05:51,444 - INFO -   IPO: 3
+2025-12-31 23:05:51,444 - INFO -   Total: 42
+2025-12-31 23:05:51,444 - INFO - 
+Found (after deduplication):
+2025-12-31 23:05:51,444 - INFO -   ULS: 47
+2025-12-31 23:05:51,444 - INFO -   IPO: 4
+2025-12-31 23:05:51,444 - INFO -   Total: 51
+2025-12-31 23:05:51,444 - WARNING - 
+⚠ ULS count ABOVE expected: +8
+2025-12-31 23:05:51,444 - WARNING -   Possible reasons: New ULS created, or base name extraction needs refinement
+2025-12-31 23:05:51,444 - INFO - ℹ IPO count is 4 (Lisboa, Porto, Coimbra, Centro)
+2025-12-31 23:05:51,444 - INFO -   Note: 'Centro' and 'Coimbra' may refer to same IPO
+2025-12-31 23:05:51,446 - INFO - 
+Standardized crosswalk saved: /home/dpolonia/202512-CFE/03_data/processed/crosswalks/entity_name_crosswalk_standardized.csv
+2025-12-31 23:05:51,446 - INFO - Canonical ULS list saved: /home/dpolonia/202512-CFE/03_data/processed/crosswalks/canonical_uls_list.csv
+2025-12-31 23:05:51,447 - INFO - Canonical IPO list saved: /home/dpolonia/202512-CFE/03_data/processed/crosswalks/canonical_ipo_list.csv
+2025-12-31 23:05:51,447 - INFO - 
+======================================================================
+2025-12-31 23:05:51,447 - INFO - SUMMARY
+2025-12-31 23:05:51,447 - INFO - ======================================================================
+2025-12-31 23:05:51,447 - INFO - 
+Data quality:
+2025-12-31 23:05:51,447 - INFO -   Original ULS entries: 128 → Unique ULS: 47
+2025-12-31 23:05:51,447 - INFO -   Original IPO entries: 16 → Unique IPO: 4
+2025-12-31 23:05:51,447 - INFO -   Deduplication rate: 64.6%
+2025-12-31 23:05:51,447 - INFO - 
+Structure verification:
+2025-12-31 23:05:51,447 - INFO -   ⚠ Structure partially verified
+2025-12-31 23:05:51,447 - INFO -   ℹ May require manual verification of edge cases
+2025-12-31 23:05:51,447 - INFO - 
+Next steps:
+2025-12-31 23:05:51,447 - INFO -   1. Review canonical ULS list: canonical_uls_list.csv
+2025-12-31 23:05:51,447 - INFO -   2. Map 95 pre-integration hospitals to parent ULS
+2025-12-31 23:05:51,447 - INFO -   3. Use standardized names for all future analysis
+2025-12-31 23:05:51,447 - INFO - 
+======================================================================
+2025-12-31 23:05:51,447 - INFO - STANDARDIZATION COMPLETE
+2025-12-31 23:05:51,447 - INFO - ======================================================================

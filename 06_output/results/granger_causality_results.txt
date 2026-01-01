@@ -1,0 +1,19 @@
+======================================================================
+GRANGER CAUSALITY ANALYSIS: SEQUENTIAL TRANSFER MECHANISM
+======================================================================
+
+POOLED GRANGER CAUSALITY TESTS
+----------------------------------------------------------------------
+
+Test: pagamentos_em_atraso → resultados_operacionais
+  Entities tested: 14
+  Significant (p<0.05): 13 (92.9%)
+  Average min p-value: 0.0281
+  Conclusion: SUPPORTED
+
+Test: resultados_operacionais → pagamentos_em_atraso
+  Entities tested: 14
+  Significant (p<0.05): 3 (21.4%)
+  Average min p-value: 0.2858
+  Conclusion: NOT SUPPORTED
+

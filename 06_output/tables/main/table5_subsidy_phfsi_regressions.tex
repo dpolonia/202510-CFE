@@ -1,0 +1,30 @@
+\begin{table}[htbp]
+\centering
+\caption{Subsidy Dependence and Financial Sustainability (PHFSI)}
+\label{tab:subsidy_phfsi}
+\begin{tabular}{lccc}
+\toprule
+& \textbf{(1)} & \textbf{(2)} & \textbf{(3)} \\
+& Pooled OLS & Fixed Effects & FE + Lag \\
+\midrule
+Subsidy Dependence & -1.1418*** & -0.4988*** & -0.5114*** \\
+& (0.2023) & (0.1247) & (0.1169) \\
+Subsidy Dependence$_{t-1}$ &  &  & 0.1264 \\
+&  &  & (0.1156) \\
+COVID (2020-2021) & -0.0094 &  &  \\
+& (0.0233) &  &  \\
+\midrule
+Entity Fixed Effects & No & Yes & Yes \\
+Year Fixed Effects & No & Yes & Yes \\
+\midrule
+$R^2$ & 0.5381 &  &  \\
+$R^2$ (within) &  & 0.3439 & 0.3730 \\
+Observations & 79 & 79 & 46 \\
+Entities &  & 41 &  \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\footnotesize
+\item \textit{Notes}: Dependent variable is PHFSI 4-component index (0-1 scale). Subsidy dependence is the ratio of operating deficit to operating revenue. Standard errors in parentheses. Models (2) and (3) use cluster-robust standard errors (clustered by entity). COVID variable absorbed by year fixed effects in models (2) and (3). *** p<0.01, ** p<0.05, * p<0.1.
+\end{tablenotes}
+\end{table}

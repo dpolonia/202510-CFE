@@ -1,0 +1,107 @@
+2025-12-31 23:14:50,084 - INFO - ======================================================================
+2025-12-31 23:14:50,084 - INFO - COMPLETE PHFSI CALCULATION WITH CQMI COMPONENT
+2025-12-31 23:14:50,084 - INFO - ======================================================================
+
+2025-12-31 23:14:50,100 - INFO - Loaded quality data: 258 ULS-periods
+2025-12-31 23:14:50,100 - INFO - 
+======================================================================
+2025-12-31 23:14:50,100 - INFO - CALCULATING CQMI COMPONENT
+2025-12-31 23:14:50,100 - INFO - ======================================================================
+2025-12-31 23:14:50,106 - INFO - 
+✓ Mortality Quality Index calculated
+2025-12-31 23:14:50,106 - INFO -     Mean: 0.338
+2025-12-31 23:14:50,106 - INFO -     Std: 0.174
+2025-12-31 23:14:50,107 - INFO - 
+✓ Efficiency Index calculated
+2025-12-31 23:14:50,107 - INFO -     Mean: 0.564
+2025-12-31 23:14:50,107 - INFO -     Std: 0.247
+2025-12-31 23:14:50,108 - INFO - 
+✓ CQMI Component calculated
+2025-12-31 23:14:50,108 - INFO -     Based on 2 sub-components: ['mortality_quality_index', 'efficiency_index']
+2025-12-31 23:14:50,108 - INFO -     Mean: 0.451
+2025-12-31 23:14:50,108 - INFO -     Std: 0.119
+2025-12-31 23:14:50,108 - INFO -     Range: [0.107, 0.833]
+2025-12-31 23:14:50,108 - INFO - 
+======================================================================
+2025-12-31 23:14:50,108 - INFO - CQMI VALIDATION
+2025-12-31 23:14:50,108 - INFO - ======================================================================
+2025-12-31 23:14:50,108 - INFO - 
+Distribution statistics:
+2025-12-31 23:14:50,108 - INFO -   Mean: 0.451
+2025-12-31 23:14:50,108 - INFO -   Median: 0.451
+2025-12-31 23:14:50,108 - INFO -   Std: 0.119
+2025-12-31 23:14:50,108 - INFO -   Min: 0.107
+2025-12-31 23:14:50,108 - INFO -   Max: 0.833
+2025-12-31 23:14:50,108 - INFO - 
+Percentiles:
+2025-12-31 23:14:50,108 - INFO -   25th: 0.383
+2025-12-31 23:14:50,109 - INFO -   50th: 0.451
+2025-12-31 23:14:50,109 - INFO -   75th: 0.529
+2025-12-31 23:14:50,109 - INFO - 
+Outliers (1.5×IQR rule): 8 (3.1%)
+2025-12-31 23:14:50,111 - INFO - 
+Bottom 5 ULS (lowest CQMI - quality concerns):
+2025-12-31 23:14:50,111 - INFO -   Unidade Local de Saúde do Algarve, E.P.E.: 0.122
+2025-12-31 23:14:50,111 - INFO -   Unidade Local de Saúde de Coimbra, E.P.E.: 0.249
+2025-12-31 23:14:50,112 - INFO -   Unidade Local de Saúde de Amadora / Sintra, E.P.E.: 0.284
+2025-12-31 23:14:50,112 - INFO -   Unidade Local de Saúde de São João, E.P.E.: 0.292
+2025-12-31 23:14:50,112 - INFO -   Unidade Local de Saúde de Santa Maria, E.P.E.: 0.314
+2025-12-31 23:14:50,112 - INFO - 
+Top 5 ULS (highest CQMI - best quality):
+2025-12-31 23:14:50,112 - INFO -   Unidade Local de Saúde da Cova da Beira, E.P.E.: 0.582
+2025-12-31 23:14:50,112 - INFO -   Unidade Local de Saúde de Castelo Branco, E.P.E.: 0.587
+2025-12-31 23:14:50,112 - INFO -   Unidade Local de Saúde da Póvoa de Varzim / Vila do Conde, E.P.E.: 0.625
+2025-12-31 23:14:50,112 - INFO -   Unidade Local de Saúde do Alentejo Central, E.P.E.: 0.632
+2025-12-31 23:14:50,112 - INFO -   Instituto Português Oncologia  F. Gentil - Coimbra, E.P.E.: 0.655
+2025-12-31 23:14:50,112 - INFO - 
+Saving CQMI results...
+2025-12-31 23:14:50,114 - INFO -   Saved: /home/dpolonia/202512-CFE/03_data/processed/variables/cqmi_component_scores.parquet
+2025-12-31 23:14:50,114 - INFO -   Size: 21.2 KB
+2025-12-31 23:14:50,118 - INFO -   Summary: /home/dpolonia/202512-CFE/03_data/processed/variables/cqmi_summary_statistics.csv
+2025-12-31 23:14:50,118 - INFO - 
+CQMI trends over time:
+2025-12-31 23:14:50,119 - INFO -   2019: Mean=0.489, Std=0.130, N=43
+2025-12-31 23:14:50,119 - INFO -   2020: Mean=0.422, Std=0.117, N=43
+2025-12-31 23:14:50,119 - INFO -   2021: Mean=0.433, Std=0.106, N=43
+2025-12-31 23:14:50,119 - INFO -   2022: Mean=0.429, Std=0.102, N=43
+2025-12-31 23:14:50,119 - INFO -   2023: Mean=0.453, Std=0.115, N=43
+2025-12-31 23:14:50,119 - INFO -   2024: Mean=0.479, Std=0.133, N=43
+2025-12-31 23:14:50,119 - INFO - 
+======================================================================
+2025-12-31 23:14:50,119 - INFO - COMPLETE PHFSI CALCULATION
+2025-12-31 23:14:50,119 - INFO - ======================================================================
+2025-12-31 23:14:50,122 - INFO - 
+Dataset for PHFSI:
+2025-12-31 23:14:50,122 - INFO -   Rows: 258
+2025-12-31 23:14:50,122 - INFO -   ULS: 43
+2025-12-31 23:14:50,122 - INFO -   Time periods: 6 years
+2025-12-31 23:14:50,122 - INFO - 
+Component availability:
+2025-12-31 23:14:50,122 - INFO -   ✓ CQMI: 258 observations (100.0%)
+2025-12-31 23:14:50,122 - INFO -   ⚠ OSSR: Not yet calculated (needs financial data)
+2025-12-31 23:14:50,122 - INFO -   ⚠ SPI: Not yet calculated (needs payment delay data)
+2025-12-31 23:14:50,122 - INFO -   ⚠ LRR: Not yet calculated (needs cash flow data)
+2025-12-31 23:14:50,122 - INFO -   ⚠ TLR: Not yet calculated (needs balance sheet data)
+2025-12-31 23:14:50,122 - INFO - 
+Note: Complete PHFSI calculation requires merging with:
+2025-12-31 23:14:50,122 - INFO -   1. Financial data (for OSSR, LRR, TLR)
+2025-12-31 23:14:50,122 - INFO -   2. Payment delay data (for SPI)
+2025-12-31 23:14:50,122 - INFO -   3. This quality data (for CQMI) ✓
+2025-12-31 23:14:50,122 - INFO - 
+======================================================================
+2025-12-31 23:14:50,122 - INFO - CQMI COMPONENT CALCULATION COMPLETE
+2025-12-31 23:14:50,122 - INFO - ======================================================================
+2025-12-31 23:14:50,122 - INFO - 
+✅ Achievement: CQMI component (Gap 1.2) SOLVED
+2025-12-31 23:14:50,122 - INFO - 
+Peer review critique addressed:
+2025-12-31 23:14:50,122 - INFO -   "CQMI Component Missing (Major): One of five PHFSI components
+2025-12-31 23:14:50,123 - INFO -    (Clinical Quality Maintenance Index) is entirely missing due to
+2025-12-31 23:14:50,123 - INFO -    entity name mapping issues."
+2025-12-31 23:14:50,123 - INFO - 
+  → RESOLVED: Entity mapping complete, CQMI calculated for 258 ULS-periods
+2025-12-31 23:14:50,123 - INFO - 
+Next steps:
+2025-12-31 23:14:50,123 - INFO -   1. Merge CQMI with financial components (OSSR, SPI, LRR, TLR)
+2025-12-31 23:14:50,123 - INFO -   2. Calculate complete 5-component PHFSI
+2025-12-31 23:14:50,123 - INFO -   3. Run Granger causality analysis with complete panel data

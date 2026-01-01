@@ -1,0 +1,4 @@
+Analysis,Method,Finding,Limitation
+Event Study (2017-2024),Annual means comparison,Trend analysis pre/post reform,No control group (all hospitals treated 2024)
+Before-After Regression,FE regression with post-2024 dummy,Average reform effect,Single post-period observation
+Component Mechanisms,Component-level FE regressions,Which components improved?,Cannot establish causality

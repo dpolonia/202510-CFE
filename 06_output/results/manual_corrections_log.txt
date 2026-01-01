@@ -1,0 +1,99 @@
+2025-12-31 23:12:07,465 - INFO - ======================================================================
+2025-12-31 23:12:07,465 - INFO - APPLYING MANUAL CORRECTIONS TO HOSPITAL→ULS MAPPING
+2025-12-31 23:12:07,465 - INFO - ======================================================================
+
+2025-12-31 23:12:07,473 - INFO - Loaded mapping: 95 hospitals
+2025-12-31 23:12:07,476 - INFO - 
+Before corrections:
+2025-12-31 23:12:07,476 - INFO -   High confidence: 78 (82.1%)
+2025-12-31 23:12:07,476 - INFO -   Unmapped: 15 (15.8%)
+2025-12-31 23:12:07,478 - INFO - 
+✓ Corrected: Hospital José Luciano de Castro - Anadia
+2025-12-31 23:12:07,478 - INFO -     → None
+2025-12-31 23:12:07,478 - INFO -     Status: REMOVED
+2025-12-31 23:12:07,480 - INFO - 
+✓ Corrected: Hospital Dr. Francisco Zagalo - Ovar
+2025-12-31 23:12:07,480 - INFO -     → ULS Entre Douro e Vouga
+2025-12-31 23:12:07,480 - INFO -     Status: ACTIVE
+2025-12-31 23:12:07,480 - INFO - 
+✓ Corrected: Hospital Dr. Francisco Zagalo
+2025-12-31 23:12:07,480 - INFO -     → ULS Entre Douro e Vouga
+2025-12-31 23:12:07,480 - INFO -     Status: ACTIVE
+2025-12-31 23:12:07,481 - INFO - 
+✓ Corrected: Hospital de Magalhães Lemos, E. P. E.
+2025-12-31 23:12:07,481 - INFO -     → ULS Santo António
+2025-12-31 23:12:07,481 - INFO -     Status: ACTIVE
+2025-12-31 23:12:07,482 - INFO - 
+✓ Corrected: Hospital de Magalhães Lemos, EPE
+2025-12-31 23:12:07,482 - INFO -     → ULS Santo António
+2025-12-31 23:12:07,482 - INFO -     Status: ACTIVE
+2025-12-31 23:12:07,483 - INFO - 
+✓ Corrected: Hospital de Cascais, PPP
+2025-12-31 23:12:07,483 - INFO -     → None
+2025-12-31 23:12:07,483 - INFO -     Status: EXCLUDED_PPP
+2025-12-31 23:12:07,483 - INFO - 
+✓ Corrected: Hospital de Cascais Dr. José de Almeida
+2025-12-31 23:12:07,483 - INFO -     → None
+2025-12-31 23:12:07,483 - INFO -     Status: EXCLUDED_PPP
+2025-12-31 23:12:07,484 - INFO - 
+✓ Corrected: Hospital Rovisco Pais
+2025-12-31 23:12:07,484 - INFO -     → ULS Coimbra
+2025-12-31 23:12:07,484 - INFO -     Status: ACTIVE
+2025-12-31 23:12:07,485 - INFO - 
+✓ Corrected: Hospital Arcebispo João Crisóstomo - Cantanhede
+2025-12-31 23:12:07,485 - INFO -     → ULS Coimbra
+2025-12-31 23:12:07,485 - INFO -     Status: ACTIVE
+2025-12-31 23:12:07,486 - INFO - 
+✓ Corrected: Hospital Arcebispo João Crisóstomo
+2025-12-31 23:12:07,486 - INFO -     → ULS Coimbra
+2025-12-31 23:12:07,486 - INFO -     Status: ACTIVE
+2025-12-31 23:12:07,486 - INFO - 
+======================================================================
+2025-12-31 23:12:07,486 - INFO - CORRECTION SUMMARY
+2025-12-31 23:12:07,486 - INFO - ======================================================================
+2025-12-31 23:12:07,486 - INFO - 
+After corrections:
+2025-12-31 23:12:07,486 - INFO -   High confidence: 88 (92.6%)
+2025-12-31 23:12:07,486 - INFO -   Unmapped (active): 0 (0.0%)
+2025-12-31 23:12:07,487 - INFO -   Removed from SNS: 1
+2025-12-31 23:12:07,487 - INFO -   Excluded (PPP): 2
+2025-12-31 23:12:07,487 - INFO - 
+Improvements:
+2025-12-31 23:12:07,487 - INFO -   High confidence: 78 → 88 (+10)
+2025-12-31 23:12:07,487 - INFO -   Unmapped: 15 → 0 (-15)
+2025-12-31 23:12:07,488 - INFO - 
+Corrected mapping saved: /home/dpolonia/202512-CFE/03_data/processed/crosswalks/hospital_to_uls_mapping_corrected.csv
+2025-12-31 23:12:07,489 - INFO - 
+✅ ALL ACTIVE HOSPITALS MAPPED!
+2025-12-31 23:12:07,489 - INFO - 
+======================================================================
+2025-12-31 23:12:07,489 - INFO - FINAL MAPPING STATISTICS
+2025-12-31 23:12:07,489 - INFO - ======================================================================
+2025-12-31 23:12:07,489 - INFO - 
+Total hospital entities: 95
+2025-12-31 23:12:07,489 - INFO -   Active in SNS: 7 (7.4%)
+2025-12-31 23:12:07,489 - INFO -   Removed from SNS: 1 (1.1%)
+2025-12-31 23:12:07,489 - INFO -   Excluded (PPP): 2 (2.1%)
+2025-12-31 23:12:07,490 - INFO - 
+Active hospitals mapping:
+2025-12-31 23:12:07,490 - INFO -   Mapped to ULS: 7/7 (100.0%)
+2025-12-31 23:12:07,490 - INFO -   High confidence: 7/7 (100.0%)
+2025-12-31 23:12:07,490 - INFO - 
+Hospitals per ULS (active only):
+2025-12-31 23:12:07,493 - INFO -   ULS Coimbra: 3 hospitals
+2025-12-31 23:12:07,493 - INFO -   ULS Entre Douro e Vouga: 2 hospitals
+2025-12-31 23:12:07,493 - INFO -   ULS Santo António: 2 hospitals
+2025-12-31 23:12:07,493 - INFO - 
+  ... and -7 more ULS
+2025-12-31 23:12:07,493 - INFO - 
+======================================================================
+2025-12-31 23:12:07,493 - INFO - MANUAL CORRECTIONS COMPLETE
+2025-12-31 23:12:07,493 - INFO - ======================================================================
+2025-12-31 23:12:07,493 - INFO - 
+Outputs:
+2025-12-31 23:12:07,493 - INFO -   1. Updated mapping: hospital_to_uls_mapping_corrected.csv
+2025-12-31 23:12:07,493 - INFO - 
+Next steps:
+2025-12-31 23:12:07,493 - INFO -   1. Use corrected mapping for quality metric aggregation
+2025-12-31 23:12:07,493 - INFO -   2. Recalculate PHFSI with complete 5-component index
+2025-12-31 23:12:07,493 - INFO -   3. Proceed with Granger causality analysis

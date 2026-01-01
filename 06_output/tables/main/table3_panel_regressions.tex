@@ -1,0 +1,34 @@
+\begin{table}[htbp]
+\centering
+\caption{Fixed Effects Panel Regression Results}
+\label{tab:panel_regressions}
+\begin{tabular}{lccc}
+\hline\hline
+ & (1) & (2) & (3) \\
+ & PHFSI & Payment Delays & PHFSI \\
+ & Determinants & & Governance \\
+\hline
+Subsidy Dependence & -0.547***\\ & (0.054) & 8925994.229\\ & (9180883.332) &  \\
+Log(Revenue) & -0.066\\ & (0.065) &  & 0.058\\ & (0.090) \\
+GDP per Capita &  &  &  \\
+COVID Period &  &  &  \\
+Past Bailout &  &  &  \\
+Debt Ratio & -4.336\\ & (3.280) & 130119085.663\\ & (230435665.981) &  \\
+University Hospital &  &  &  \\
+Large Hospital &  &  &  \\
+Overdue Ratio &  & 5822205.844\\ & (7510648.735) & -0.145*\\ & (0.072) \\
+\hline
+Observations & 69 & 69 & 69 \\
+R-squared & 0.805 & 0.364 & 0.373 \\
+Hospital FE & Yes & Yes & Yes \\
+Year FE & Yes & Yes & Yes \\
+Clustered SE & Yes & Yes & Yes \\
+\hline\hline
+\end{tabular}
+\begin{tablenotes}
+\small
+\item Notes: Two-way fixed effects panel regressions with hospital and year fixed effects. 
+Standard errors clustered at hospital level in parentheses. 
+*** p<0.01, ** p<0.05, * p<0.10.
+\end{tablenotes}
+\end{table}

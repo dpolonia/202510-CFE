@@ -1,0 +1,73 @@
+2025-12-31 23:30:24,574 - INFO - ======================================================================
+2025-12-31 23:30:24,574 - INFO - GRANGER CAUSALITY ANALYSIS PIPELINE
+2025-12-31 23:30:24,574 - INFO - ======================================================================
+
+2025-12-31 23:30:24,574 - INFO - Loading monthly panel dataset...
+2025-12-31 23:30:24,588 - INFO - Loaded 8867 hospital-months
+2025-12-31 23:30:24,589 - INFO - Columns: ['entidade', 'year', 'month', 'year_month', 'divida_total_fornecedores_externos', 'divida_vencida_fornecedores_externos', 'pagamentos_em_atraso', 'taxa_internamento', 'dias_internamento', 'taxa_mortalidade', 'mortalidade_avc_hemorragico_30_dias', 'mortalidade_avc_isquemico_30_dias', 'resultado_liquido', 'resultados_operacionais', 'covid_period', 'election_month', 'uls_integrated', 'month_1', 'month_2', 'month_3', 'month_4', 'month_5', 'month_6', 'month_7', 'month_8', 'month_9', 'month_10', 'month_11', 'month_12']
+2025-12-31 23:30:24,589 - INFO - 
+======================================================================
+2025-12-31 23:30:24,589 - INFO - SEQUENTIAL TRANSFER MECHANISM: POOLED GRANGER CAUSALITY
+2025-12-31 23:30:24,589 - INFO - ======================================================================
+2025-12-31 23:30:24,590 - INFO - 
+Entities with ≥36 months: 94
+2025-12-31 23:30:24,590 - INFO - 
+======================================================================
+2025-12-31 23:30:24,590 - INFO - TESTING: pagamentos_em_atraso → taxa_mortalidade
+2025-12-31 23:30:24,590 - INFO - ======================================================================
+2025-12-31 23:30:24,628 - WARNING -   No valid results for pagamentos_em_atraso → taxa_mortalidade
+2025-12-31 23:30:24,628 - INFO - 
+======================================================================
+2025-12-31 23:30:24,628 - INFO - TESTING: pagamentos_em_atraso → resultados_operacionais
+2025-12-31 23:30:24,628 - INFO - ======================================================================
+2025-12-31 23:30:24,646 - INFO - 
+Testing: pagamentos_em_atraso → resultados_operacionais
+2025-12-31 23:30:24,646 - INFO -   Stationarity tests:
+2025-12-31 23:30:24,648 - INFO -   resultados_operacionais: ADF p-value = 0.8917 (non-stationary)
+2025-12-31 23:30:24,650 - INFO -   pagamentos_em_atraso: ADF p-value = 0.0000 (stationary)
+2025-12-31 23:30:24,650 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:30:24,655 - INFO -   Optimal lag: 1 months, p-value: 0.3904
+2025-12-31 23:30:24,655 - INFO -   Conclusion: pagamentos_em_atraso DOES NOT Granger-cause resultados_operacionais
+2025-12-31 23:30:24,670 - INFO - 
+  SUMMARY: pagamentos_em_atraso → resultados_operacionais
+2025-12-31 23:30:24,670 - INFO -     Entities tested: 1
+2025-12-31 23:30:24,670 - INFO -     Significant (p < 0.05): 0 (0.0%)
+2025-12-31 23:30:24,670 - INFO -     Average min p-value: 0.3904
+2025-12-31 23:30:24,670 - INFO -     Conclusion: NOT SUPPORTED
+2025-12-31 23:30:24,670 - INFO - 
+======================================================================
+2025-12-31 23:30:24,671 - INFO - TESTING: taxa_mortalidade → pagamentos_em_atraso
+2025-12-31 23:30:24,671 - INFO - ======================================================================
+2025-12-31 23:30:24,703 - WARNING -   No valid results for taxa_mortalidade → pagamentos_em_atraso
+2025-12-31 23:30:24,704 - INFO - 
+======================================================================
+2025-12-31 23:30:24,704 - INFO - TESTING: resultados_operacionais → pagamentos_em_atraso
+2025-12-31 23:30:24,704 - INFO - ======================================================================
+2025-12-31 23:30:24,723 - INFO - 
+Testing: resultados_operacionais → pagamentos_em_atraso
+2025-12-31 23:30:24,724 - INFO -   Stationarity tests:
+2025-12-31 23:30:24,725 - INFO -   pagamentos_em_atraso: ADF p-value = 0.0000 (stationary)
+2025-12-31 23:30:24,727 - INFO -   resultados_operacionais: ADF p-value = 0.8917 (non-stationary)
+2025-12-31 23:30:24,727 - INFO -     Differenced resultados_operacionais
+2025-12-31 23:30:24,731 - INFO -   Optimal lag: 6 months, p-value: 0.7715
+2025-12-31 23:30:24,731 - INFO -   Conclusion: resultados_operacionais DOES NOT Granger-cause pagamentos_em_atraso
+2025-12-31 23:30:24,748 - INFO - 
+  SUMMARY: resultados_operacionais → pagamentos_em_atraso
+2025-12-31 23:30:24,748 - INFO -     Entities tested: 1
+2025-12-31 23:30:24,748 - INFO -     Significant (p < 0.05): 0 (0.0%)
+2025-12-31 23:30:24,748 - INFO -     Average min p-value: 0.7715
+2025-12-31 23:30:24,748 - INFO -     Conclusion: NOT SUPPORTED
+2025-12-31 23:30:24,748 - INFO - 
+======================================================================
+2025-12-31 23:30:24,748 - INFO - VAR MODEL ESTIMATION
+2025-12-31 23:30:24,748 - INFO - ======================================================================
+2025-12-31 23:30:24,750 - INFO - Using entity: Administração Central do Sistema de Saúde, I.P
+2025-12-31 23:30:24,750 - ERROR - Insufficient data for VAR estimation
+2025-12-31 23:30:24,751 - INFO - 
+Saving results...
+2025-12-31 23:30:24,751 - INFO - Results saved: /home/dpolonia/202512-CFE/06_output/results/granger_causality_results.txt
+2025-12-31 23:30:24,751 - INFO - LaTeX table saved: /home/dpolonia/202512-CFE/06_output/tables/appendix/tableA3_granger_causality.tex
+2025-12-31 23:30:24,751 - INFO - 
+======================================================================
+2025-12-31 23:30:24,751 - INFO - GRANGER CAUSALITY ANALYSIS COMPLETE
+2025-12-31 23:30:24,751 - INFO - ======================================================================
